@@ -1,0 +1,75 @@
+{
+  "id": 1344045473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.27579,-1.74632,30.27579,-1.74632",
+    "geom:latitude":-1.74632,
+    "geom:longitude":30.27579,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"53",
+    "gn:admin3_code":"5308.0",
+    "gn:admin4_code":"530805.0",
+    "gn:asciiname":"Mwambaro",
+    "gn:country_code":"RW",
+    "gn:dem":1854,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":202580,
+    "gn:latitude":-1.74632,
+    "gn:longitude":30.27579,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Mwambaro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Mwiviro",
+        "Mwambaro",
+        "Mwiviro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421204013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202580
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"4b96e68c2c4c6111f328b619422c2bcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421204013,
+            "locality_id":1344045473,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1344045473,
+    "wof:lastmodified":1537699108,
+    "wof:name":"Mwambaro",
+    "wof:parent_id":421204013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.27579,
+    -1.74632,
+    30.27579,
+    -1.74632
+],
+  "geometry": {"coordinates":[30.27579,-1.74632],"type":"Point"}
+}

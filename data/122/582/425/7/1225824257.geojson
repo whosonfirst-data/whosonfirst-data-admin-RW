@@ -1,0 +1,77 @@
+{
+  "id": 1225824257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5463,-1.6937,29.5463,-1.6937",
+    "geom:latitude":-1.6937,
+    "geom:longitude":29.5463,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"34",
+    "gn:admin3_code":"3409.0",
+    "gn:admin4_code":"340901.0",
+    "gn:asciiname":"Cyugi",
+    "gn:country_code":"RW",
+    "gn:dem":2292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":202341,
+    "gn:latitude":-1.6937,
+    "gn:longitude":29.5463,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Cyugi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chyugi",
+        "Shyogi",
+        "Colline Syogi",
+        "Cyugi",
+        "Syogi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421169419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202341
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"37c120951deb81dfb550a4772f3d0f39",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421169419,
+            "locality_id":1225824257,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1225824257,
+    "wof:lastmodified":1537699091,
+    "wof:name":"Cyugi",
+    "wof:parent_id":421169419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5463,
+    -1.6937,
+    29.5463,
+    -1.6937
+],
+  "geometry": {"coordinates":[29.5463,-1.6937],"type":"Point"}
+}

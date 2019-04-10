@@ -1,0 +1,74 @@
+{
+  "id": 1343634485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8375,-2.5941,29.8375,-2.5941",
+    "geom:latitude":-2.5941,
+    "geom:longitude":29.8375,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"22",
+    "gn:admin3_code":"2211.0",
+    "gn:admin4_code":"221104.0",
+    "gn:asciiname":"Gisagara",
+    "gn:country_code":"RW",
+    "gn:dem":1698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":202944,
+    "gn:latitude":-2.5941,
+    "gn:longitude":29.8375,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gisagara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Gisagara",
+        "Gisagara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202944
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"8ced64d15ae156e0a499552f1a6b1e47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561301,
+            "locality_id":1343634485,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1343634485,
+    "wof:lastmodified":1537699136,
+    "wof:name":"Gisagara",
+    "wof:parent_id":1108561301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8375,
+    -2.5941,
+    29.8375,
+    -2.5941
+],
+  "geometry": {"coordinates":[29.8375,-2.5941],"type":"Point"}
+}

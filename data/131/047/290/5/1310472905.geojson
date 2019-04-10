@@ -1,0 +1,70 @@
+{
+  "id": 1310472905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.35392,-1.61624,29.35392,-1.61624",
+    "geom:latitude":-1.61624,
+    "geom:longitude":29.35392,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"33.0",
+    "gn:admin3_code":"3302.0",
+    "gn:admin4_code":"330203.0",
+    "gn:asciiname":"Mubona",
+    "gn:country_code":"RW",
+    "gn:dem":2140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7605498,
+    "gn:latitude":-1.61624,
+    "gn:longitude":29.35392,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Mubona",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421187899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7605498
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"3638372d7c0690fe6b107d50d7167ce7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421187899,
+            "locality_id":1310472905,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1310472905,
+    "wof:lastmodified":1536963821,
+    "wof:name":"Mubona",
+    "wof:parent_id":421187899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.35392,
+    -1.61624,
+    29.35392,
+    -1.61624
+],
+  "geometry": {"coordinates":[29.35392,-1.61624],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209302593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4148,-1.8659,30.4148,-1.8659",
+    "geom:latitude":-1.8659,
+    "geom:longitude":30.4148,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"51.0",
+    "gn:admin3_code":"5103.0",
+    "gn:admin4_code":"510305.0",
+    "gn:asciiname":"Akabuga",
+    "gn:country_code":"RW",
+    "gn:dem":1533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7106718,
+    "gn:latitude":-1.8659,
+    "gn:longitude":30.4148,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Akabuga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7106718
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"44fae170243104fad6254c636cda213b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209302593
+        }
+    ],
+    "wof:id":1209302593,
+    "wof:lastmodified":1536291304,
+    "wof:name":"Akabuga",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4148,
+    -1.8659,
+    30.4148,
+    -1.8659
+],
+  "geometry": {"coordinates":[30.4148,-1.8659],"type":"Point"}
+}

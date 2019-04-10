@@ -1,0 +1,70 @@
+{
+  "id": 1343745025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6655,-2.2414,29.6655,-2.2414",
+    "geom:latitude":-2.2414,
+    "geom:longitude":29.6655,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"26.0",
+    "gn:admin3_code":"2601.0",
+    "gn:admin4_code":"260101.0",
+    "gn:asciiname":"Gikarabiro",
+    "gn:country_code":"RW",
+    "gn:dem":1809,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7660324,
+    "gn:latitude":-2.2414,
+    "gn:longitude":29.6655,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gikarabiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7660324
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"689741d6c41ad49892487c458efa1905",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561299,
+            "locality_id":1343745025,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1343745025,
+    "wof:lastmodified":1536832174,
+    "wof:name":"Gikarabiro",
+    "wof:parent_id":1108561299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6655,
+    -2.2414,
+    29.6655,
+    -2.2414
+],
+  "geometry": {"coordinates":[29.6655,-2.2414],"type":"Point"}
+}

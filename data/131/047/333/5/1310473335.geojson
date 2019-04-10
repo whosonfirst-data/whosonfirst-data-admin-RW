@@ -1,0 +1,70 @@
+{
+  "id": 1310473335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6831,-1.4861,29.6831,-1.4861",
+    "geom:latitude":-1.4861,
+    "geom:longitude":29.6831,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"4303.0",
+    "gn:admin4_code":"430304.0",
+    "gn:asciiname":"Karwasa",
+    "gn:country_code":"RW",
+    "gn:dem":1845,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7572243,
+    "gn:latitude":-1.4861,
+    "gn:longitude":29.6831,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Karwasa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421187897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7572243
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"6a6d2670df63e5bd656950a68e924cdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421187897,
+            "locality_id":1310473335,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1310473335,
+    "wof:lastmodified":1536963216,
+    "wof:name":"Karwasa",
+    "wof:parent_id":421187897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6831,
+    -1.4861,
+    29.6831,
+    -1.4861
+],
+  "geometry": {"coordinates":[29.6831,-1.4861],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209899063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4977,-2.4217,29.4977,-2.4217",
+    "geom:latitude":-2.4217,
+    "geom:longitude":29.4977,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"25",
+    "gn:admin3_code":"2513.0",
+    "gn:admin4_code":"251306.0",
+    "gn:asciiname":"Rubumbuli",
+    "gn:country_code":"RW",
+    "gn:dem":2142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7049585,
+    "gn:latitude":-2.4217,
+    "gn:longitude":29.4977,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rubumbuli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421192893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7049585
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"21d565dbc97c6cb84c6d56269934e63f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192893,
+            "locality_id":1209899063,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1209899063,
+    "wof:lastmodified":1536387278,
+    "wof:name":"Rubumbuli",
+    "wof:parent_id":421192893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4977,
+    -2.4217,
+    29.4977,
+    -2.4217
+],
+  "geometry": {"coordinates":[29.4977,-2.4217],"type":"Point"}
+}

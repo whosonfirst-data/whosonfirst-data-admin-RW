@@ -1,0 +1,70 @@
+{
+  "id": 1310078657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6107,-2.2111,29.6107,-2.2111",
+    "geom:latitude":-2.2111,
+    "geom:longitude":29.6107,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"26.0",
+    "gn:admin3_code":"2603.0",
+    "gn:admin4_code":"260303.0",
+    "gn:asciiname":"Muremera",
+    "gn:country_code":"RW",
+    "gn:dem":1685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7660263,
+    "gn:latitude":-2.2111,
+    "gn:longitude":29.6107,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Muremera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7660263
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"b85d834be4dc25a53b96d3e18daa6b1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561299,
+            "locality_id":1310078657,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1310078657,
+    "wof:lastmodified":1537033879,
+    "wof:name":"Muremera",
+    "wof:parent_id":1108561299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6107,
+    -2.2111,
+    29.6107,
+    -2.2111
+],
+  "geometry": {"coordinates":[29.6107,-2.2111],"type":"Point"}
+}

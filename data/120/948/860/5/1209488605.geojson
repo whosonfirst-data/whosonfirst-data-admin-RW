@@ -1,0 +1,64 @@
+{
+  "id": 1209488605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9177,-2.3515,29.9177,-2.3515",
+    "geom:latitude":-2.3515,
+    "geom:longitude":29.9177,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"21.0",
+    "gn:admin3_code":"2104.0",
+    "gn:admin4_code":"210401.0",
+    "gn:asciiname":"Muyebe",
+    "gn:country_code":"RW",
+    "gn:dem":1482,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7664727,
+    "gn:latitude":-2.3515,
+    "gn:longitude":29.9177,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Muyebe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7664727
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"1db123ebf3450ad26e5064523e53579a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209488605
+        }
+    ],
+    "wof:id":1209488605,
+    "wof:lastmodified":1536285558,
+    "wof:name":"Muyebe",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9177,
+    -2.3515,
+    29.9177,
+    -2.3515
+],
+  "geometry": {"coordinates":[29.9177,-2.3515],"type":"Point"}
+}

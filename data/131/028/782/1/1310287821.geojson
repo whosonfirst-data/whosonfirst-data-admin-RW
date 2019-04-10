@@ -1,0 +1,74 @@
+{
+  "id": 1310287821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7846,-2.6968,29.7846,-2.6968",
+    "geom:latitude":-2.6968,
+    "geom:longitude":29.7846,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"22",
+    "gn:admin3_code":"2203.0",
+    "gn:admin4_code":"220301.0",
+    "gn:asciiname":"Linganwe",
+    "gn:country_code":"RW",
+    "gn:dem":1671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":202743,
+    "gn:latitude":-2.6968,
+    "gn:longitude":29.7846,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Linganwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Linganwe",
+        "Linganwe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202743
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"46dd67cec45d8cf58749581405c825b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561301,
+            "locality_id":1310287821,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1310287821,
+    "wof:lastmodified":1537699120,
+    "wof:name":"Linganwe",
+    "wof:parent_id":1108561301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7846,
+    -2.6968,
+    29.7846,
+    -2.6968
+],
+  "geometry": {"coordinates":[29.7846,-2.6968],"type":"Point"}
+}

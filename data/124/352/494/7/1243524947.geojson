@@ -1,0 +1,73 @@
+{
+  "id": 1243524947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7199,-2.1703,29.7199,-2.1703",
+    "geom:latitude":-2.1703,
+    "geom:longitude":29.7199,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"26.0",
+    "gn:admin3_code":"2602.0",
+    "gn:admin4_code":"260201.0",
+    "gn:asciiname":"Kimegeli",
+    "gn:country_code":"RW",
+    "gn:dem":1822,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7660169,
+    "gn:latitude":-2.1703,
+    "gn:longitude":29.7199,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kimegeli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kimigeli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7660169
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"1b28d85df66172f81c451a91f1830461",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561299,
+            "locality_id":1243524947,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1243524947,
+    "wof:lastmodified":1537699159,
+    "wof:name":"Kimegeli",
+    "wof:parent_id":1108561299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7199,
+    -2.1703,
+    29.7199,
+    -2.1703
+],
+  "geometry": {"coordinates":[29.7199,-2.1703],"type":"Point"}
+}

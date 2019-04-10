@@ -1,0 +1,70 @@
+{
+  "id": 1277156017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2884,-2.1638,29.2884,-2.1638",
+    "geom:latitude":-2.1638,
+    "geom:longitude":29.2884,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"3103.0",
+    "gn:admin4_code":"310303.0",
+    "gn:asciiname":"Kagano",
+    "gn:country_code":"RW",
+    "gn:dem":1563,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7662604,
+    "gn:latitude":-2.1638,
+    "gn:longitude":29.2884,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kagano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421182175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7662604
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"406ea1bc92940a79cc6e78689b50d915",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421182175,
+            "locality_id":1277156017,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1277156017,
+    "wof:lastmodified":1536662112,
+    "wof:name":"Kagano",
+    "wof:parent_id":421182175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2884,
+    -2.1638,
+    29.2884,
+    -2.1638
+],
+  "geometry": {"coordinates":[29.2884,-2.1638],"type":"Point"}
+}

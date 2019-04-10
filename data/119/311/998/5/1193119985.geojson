@@ -1,0 +1,70 @@
+{
+  "id": 1193119985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.589,-2.243,29.589,-2.243",
+    "geom:latitude":-2.243,
+    "geom:longitude":29.589,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"26.0",
+    "gn:admin3_code":"2603.0",
+    "gn:admin4_code":"260301.0",
+    "gn:asciiname":"Musambagiro",
+    "gn:country_code":"RW",
+    "gn:dem":1655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7660328,
+    "gn:latitude":-2.243,
+    "gn:longitude":29.589,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Musambagiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7660328
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"f22f0d187561c0bc750ad9f6ab322569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561299,
+            "locality_id":1193119985,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1193119985,
+    "wof:lastmodified":1536364997,
+    "wof:name":"Musambagiro",
+    "wof:parent_id":1108561299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.589,
+    -2.243,
+    29.589,
+    -2.243
+],
+  "geometry": {"coordinates":[29.589,-2.243],"type":"Point"}
+}

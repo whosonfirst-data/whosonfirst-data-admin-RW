@@ -1,0 +1,75 @@
+{
+  "id": 421189741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.753723,-1.486935,29.753723,-1.486935",
+    "geom:latitude":-1.486935,
+    "geom:longitude":29.753723,
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Ryandinzi",
+    "qs:name_adm0":"Rwanda",
+    "qs:name_adm1":"Province du Nord",
+    "qs:photos":39,
+    "qs:photos_1k":8,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":39,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1116422,
+    "qs:woe_adm0":23424937,
+    "qs:woe_id":1410979,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421180243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1410979,
+        "qs:id":1116422
+    },
+    "wof:country":"RW",
+    "wof:created":1459009634,
+    "wof:geomhash":"bc34faea81442d8526715ea7541c39f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421180243,
+            "locality_id":421189741,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":421189741,
+    "wof:lastmodified":1500025169,
+    "wof:name":"Ryandinzi",
+    "wof:parent_id":421180243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.753723,
+    -1.486935,
+    29.753723,
+    -1.486935
+],
+  "geometry": {"coordinates":[29.753723,-1.486935],"type":"Point"}
+}

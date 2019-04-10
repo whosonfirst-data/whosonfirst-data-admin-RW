@@ -1,0 +1,75 @@
+{
+  "id": 1226118857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9415,-1.8592,29.9415,-1.8592",
+    "geom:latitude":-1.8592,
+    "geom:longitude":29.9415,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"41",
+    "gn:admin3_code":"4116.0",
+    "gn:admin4_code":"411604.0",
+    "gn:asciiname":"Gicuba",
+    "gn:country_code":"RW",
+    "gn:dem":1454,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":202913,
+    "gn:latitude":-1.8592,
+    "gn:longitude":29.9415,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gicuba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Gitsuba",
+        "Gitsuba",
+        "Gicuba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421203217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202913
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"ec3fd8f8bb5bdd328120fe168c39dfeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421203217,
+            "locality_id":1226118857,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1226118857,
+    "wof:lastmodified":1537699133,
+    "wof:name":"Gicuba",
+    "wof:parent_id":421203217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9415,
+    -1.8592,
+    29.9415,
+    -1.8592
+],
+  "geometry": {"coordinates":[29.9415,-1.8592],"type":"Point"}
+}

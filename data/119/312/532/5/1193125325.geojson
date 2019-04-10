@@ -1,0 +1,70 @@
+{
+  "id": 1193125325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6713,-2.2692,30.6713,-2.2692",
+    "geom:latitude":-2.2692,
+    "geom:longitude":30.6713,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"55",
+    "gn:admin3_code":"5505.0",
+    "gn:admin4_code":"550504.0",
+    "gn:asciiname":"Nyakarambi",
+    "gn:country_code":"RW",
+    "gn:dem":1577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":201642,
+    "gn:latitude":-2.2692,
+    "gn:longitude":30.6713,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nyakarambi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421175701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":201642
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"6072be49834c73370c8888fc30181352",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421175701,
+            "locality_id":1193125325,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1193125325,
+    "wof:lastmodified":1536381567,
+    "wof:name":"Nyakarambi",
+    "wof:parent_id":421175701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6713,
+    -2.2692,
+    30.6713,
+    -2.2692
+],
+  "geometry": {"coordinates":[30.6713,-2.2692],"type":"Point"}
+}

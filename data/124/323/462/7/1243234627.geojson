@@ -1,0 +1,74 @@
+{
+  "id": 1243234627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.35,-1.9,29.35,-1.9",
+    "geom:latitude":-1.9,
+    "geom:longitude":29.35,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"32",
+    "gn:admin3_code":"3212.0",
+    "gn:admin4_code":"321204.0",
+    "gn:asciiname":"Ngoma",
+    "gn:country_code":"RW",
+    "gn:dem":1905,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":202559,
+    "gn:latitude":-1.9,
+    "gn:longitude":29.35,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ngoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Ngoma",
+        "Ngoma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421190845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202559
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"87d60c3e04cd343f96a611289856f97a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421190845,
+            "locality_id":1243234627,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1243234627,
+    "wof:lastmodified":1537699106,
+    "wof:name":"Ngoma",
+    "wof:parent_id":421190845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.35,
+    -1.9,
+    29.35,
+    -1.9
+],
+  "geometry": {"coordinates":[29.35,-1.9],"type":"Point"}
+}

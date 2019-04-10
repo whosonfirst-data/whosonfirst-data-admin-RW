@@ -1,0 +1,70 @@
+{
+  "id": 1242665873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0304,-2.1314,30.0304,-2.1314",
+    "geom:latitude":-2.1314,
+    "geom:longitude":30.0304,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"57.0",
+    "gn:admin3_code":"5709.0",
+    "gn:admin4_code":"570901.0",
+    "gn:asciiname":"Cyingabo",
+    "gn:country_code":"RW",
+    "gn:dem":1408,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7656328,
+    "gn:latitude":-2.1314,
+    "gn:longitude":30.0304,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Cyingabo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421199681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7656328
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"77aa65fb0e8565baf2c24710cd66c4d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421199681,
+            "locality_id":1242665873,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1242665873,
+    "wof:lastmodified":1536937433,
+    "wof:name":"Cyingabo",
+    "wof:parent_id":421199681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0304,
+    -2.1314,
+    30.0304,
+    -2.1314
+],
+  "geometry": {"coordinates":[30.0304,-2.1314],"type":"Point"}
+}

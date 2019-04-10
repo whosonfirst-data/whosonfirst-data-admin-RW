@@ -1,0 +1,70 @@
+{
+  "id": 1293368441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0942,-2.2664,30.0942,-2.2664",
+    "geom:latitude":-2.2664,
+    "geom:longitude":30.0942,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"57.0",
+    "gn:admin3_code":"5708.0",
+    "gn:admin4_code":"570801.0",
+    "gn:asciiname":"Kirasaniro",
+    "gn:country_code":"RW",
+    "gn:dem":1415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7685454,
+    "gn:latitude":-2.2664,
+    "gn:longitude":30.0942,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kirasaniro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421199681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7685454
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"f0edc16d86077f6183c3b1d6a021564f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421199681,
+            "locality_id":1293368441,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1293368441,
+    "wof:lastmodified":1536958695,
+    "wof:name":"Kirasaniro",
+    "wof:parent_id":421199681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0942,
+    -2.2664,
+    30.0942,
+    -2.2664
+],
+  "geometry": {"coordinates":[30.0942,-2.2664],"type":"Point"}
+}

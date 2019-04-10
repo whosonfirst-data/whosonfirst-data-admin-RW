@@ -1,0 +1,74 @@
+{
+  "id": 1293857129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6407,-2.1139,29.6407,-2.1139",
+    "geom:latitude":-2.1139,
+    "geom:longitude":29.6407,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"27",
+    "gn:admin3_code":"2709.0",
+    "gn:admin4_code":"270903.0",
+    "gn:asciiname":"Cukiro",
+    "gn:country_code":"RW",
+    "gn:dem":1627,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":203021,
+    "gn:latitude":-2.1139,
+    "gn:longitude":29.6407,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Cukiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Cukiro",
+        "Cukiro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421192887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":203021
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"b6eea545123ed2de9d6f32c7db0d8d84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192887,
+            "locality_id":1293857129,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1293857129,
+    "wof:lastmodified":1537699141,
+    "wof:name":"Cukiro",
+    "wof:parent_id":421192887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6407,
+    -2.1139,
+    29.6407,
+    -2.1139
+],
+  "geometry": {"coordinates":[29.6407,-2.1139],"type":"Point"}
+}

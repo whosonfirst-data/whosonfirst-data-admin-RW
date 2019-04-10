@@ -1,0 +1,70 @@
+{
+  "id": 1327120699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7944,-1.5191,29.7944,-1.5191",
+    "geom:latitude":-1.5191,
+    "geom:longitude":29.7944,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"4407.0",
+    "gn:admin4_code":"440703.0",
+    "gn:asciiname":"Mubuga",
+    "gn:country_code":"RW",
+    "gn:dem":2024,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7321367,
+    "gn:latitude":-1.5191,
+    "gn:longitude":29.7944,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Mubuga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421180243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7321367
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"a6aeb3f890170917c3dfd943577b5e3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421180243,
+            "locality_id":1327120699,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1327120699,
+    "wof:lastmodified":1536631527,
+    "wof:name":"Mubuga",
+    "wof:parent_id":421180243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7944,
+    -1.5191,
+    29.7944,
+    -1.5191
+],
+  "geometry": {"coordinates":[29.7944,-1.5191],"type":"Point"}
+}

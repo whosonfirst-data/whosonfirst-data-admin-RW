@@ -1,0 +1,70 @@
+{
+  "id": 1343839145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6645,-2.0701,30.6645,-2.0701",
+    "geom:latitude":-2.0701,
+    "geom:longitude":30.6645,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"54.0",
+    "gn:admin3_code":"5402.0",
+    "gn:admin4_code":"540203.0",
+    "gn:asciiname":"Rubumba",
+    "gn:country_code":"RW",
+    "gn:dem":1502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7652605,
+    "gn:latitude":-2.0701,
+    "gn:longitude":30.6645,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rubumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421204217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7652605
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"d9e0db8324a8e80420218c3f28ba1f7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421204217,
+            "locality_id":1343839145,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1343839145,
+    "wof:lastmodified":1536697602,
+    "wof:name":"Rubumba",
+    "wof:parent_id":421204217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6645,
+    -2.0701,
+    30.6645,
+    -2.0701
+],
+  "geometry": {"coordinates":[30.6645,-2.0701],"type":"Point"}
+}

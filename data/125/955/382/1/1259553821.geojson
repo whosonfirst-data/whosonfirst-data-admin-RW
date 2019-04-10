@@ -1,0 +1,70 @@
+{
+  "id": 1259553821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7245,-2.0658,29.7245,-2.0658",
+    "geom:latitude":-2.0658,
+    "geom:longitude":29.7245,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"27.0",
+    "gn:admin3_code":"2705.0",
+    "gn:admin4_code":"270502.0",
+    "gn:asciiname":"Kumukenke",
+    "gn:country_code":"RW",
+    "gn:dem":1819,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7659887,
+    "gn:latitude":-2.0658,
+    "gn:longitude":29.7245,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kumukenke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421192887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7659887
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"575088a96e19f53456913d2fc36b396c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192887,
+            "locality_id":1259553821,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1259553821,
+    "wof:lastmodified":1536757842,
+    "wof:name":"Kumukenke",
+    "wof:parent_id":421192887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7245,
+    -2.0658,
+    29.7245,
+    -2.0658
+],
+  "geometry": {"coordinates":[29.7245,-2.0658],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1192989275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9607,-2.4018,28.9607,-2.4018",
+    "geom:latitude":-2.4018,
+    "geom:longitude":28.9607,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"36",
+    "gn:admin3_code":"3612.0",
+    "gn:admin4_code":"361205.0",
+    "gn:asciiname":"Kazungu",
+    "gn:country_code":"RW",
+    "gn:dem":1515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7032616,
+    "gn:latitude":-2.4018,
+    "gn:longitude":28.9607,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kazungu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421176723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7032616
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"ba8f4d924817fda8a61a03e97c5afe3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421176723,
+            "locality_id":1192989275,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1192989275,
+    "wof:lastmodified":1536382668,
+    "wof:name":"Kazungu",
+    "wof:parent_id":421176723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9607,
+    -2.4018,
+    28.9607,
+    -2.4018
+],
+  "geometry": {"coordinates":[28.9607,-2.4018],"type":"Point"}
+}

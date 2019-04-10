@@ -1,0 +1,70 @@
+{
+  "id": 1309988893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7272,-2.0517,29.7272,-2.0517",
+    "geom:latitude":-2.0517,
+    "geom:longitude":29.7272,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"27.0",
+    "gn:admin3_code":"2705.0",
+    "gn:admin4_code":"270502.0",
+    "gn:asciiname":"Gatare",
+    "gn:country_code":"RW",
+    "gn:dem":1855,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7659862,
+    "gn:latitude":-2.0517,
+    "gn:longitude":29.7272,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gatare",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421192887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7659862
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"8ec979cd54b9a91acb23f1473c74eb80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192887,
+            "locality_id":1309988893,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1309988893,
+    "wof:lastmodified":1536667292,
+    "wof:name":"Gatare",
+    "wof:parent_id":421192887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7272,
+    -2.0517,
+    29.7272,
+    -2.0517
+],
+  "geometry": {"coordinates":[29.7272,-2.0517],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1243142981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.36667,-1.61667,29.36667,-1.61667",
+    "geom:latitude":-1.61667,
+    "geom:longitude":29.36667,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"33",
+    "gn:admin3_code":"3307.0",
+    "gn:admin4_code":"330706.0",
+    "gn:asciiname":"Rwankuba",
+    "gn:cc2":"RW",
+    "gn:country_code":"RW",
+    "gn:dem":2208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":202369,
+    "gn:latitude":-1.61667,
+    "gn:longitude":29.36667,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rwankuba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Rwankuba",
+        "Rwankuba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421187899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202369
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"b15951a60da3be5b1b23c351ed35d683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421187899,
+            "locality_id":1243142981,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1243142981,
+    "wof:lastmodified":1537699093,
+    "wof:name":"Rwankuba",
+    "wof:parent_id":421187899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.36667000000001,
+    -1.61667,
+    29.36667000000001,
+    -1.61667
+],
+  "geometry": {"coordinates":[29.36667000000001,-1.61667],"type":"Point"}
+}

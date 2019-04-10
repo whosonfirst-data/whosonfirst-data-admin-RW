@@ -1,0 +1,64 @@
+{
+  "id": 1209187403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4295,-2.3514,29.4295,-2.3514",
+    "geom:latitude":-2.3514,
+    "geom:longitude":29.4295,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"25",
+    "gn:admin3_code":"2504.0",
+    "gn:admin4_code":"250404.0",
+    "gn:asciiname":"Gakoma",
+    "gn:country_code":"RW",
+    "gn:dem":2014,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7049509,
+    "gn:latitude":-2.3514,
+    "gn:longitude":29.4295,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gakoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7049509
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"7ca43ddc2bb8ce42719944e10ba4cbae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209187403
+        }
+    ],
+    "wof:id":1209187403,
+    "wof:lastmodified":1536295053,
+    "wof:name":"Gakoma",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4295,
+    -2.3514,
+    29.4295,
+    -2.3514
+],
+  "geometry": {"coordinates":[29.4295,-2.3514],"type":"Point"}
+}

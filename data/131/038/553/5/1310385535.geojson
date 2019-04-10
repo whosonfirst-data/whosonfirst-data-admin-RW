@@ -1,0 +1,70 @@
+{
+  "id": 1310385535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.192,-1.832,30.192,-1.832",
+    "geom:latitude":-1.832,
+    "geom:longitude":30.192,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"12.0",
+    "gn:admin3_code":"1215.0",
+    "gn:admin4_code":"121504.0",
+    "gn:asciiname":"Kandamira",
+    "gn:country_code":"RW",
+    "gn:dem":1577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7595392,
+    "gn:latitude":-1.832,
+    "gn:longitude":30.192,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kandamira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676807,
+        421202327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7595392
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"e62df2f41b86c51c681f63481c55855d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421202327,
+            "locality_id":1310385535,
+            "region_id":85676807
+        }
+    ],
+    "wof:id":1310385535,
+    "wof:lastmodified":1537086866,
+    "wof:name":"Kandamira",
+    "wof:parent_id":421202327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.192,
+    -1.832,
+    30.192,
+    -1.832
+],
+  "geometry": {"coordinates":[30.192,-1.832],"type":"Point"}
+}

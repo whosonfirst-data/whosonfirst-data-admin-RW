@@ -1,0 +1,67 @@
+{
+  "id": 1277056373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0323,-1.862,30.0323,-1.862",
+    "geom:latitude":-1.862,
+    "geom:longitude":30.0323,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Runyovi",
+    "gn:country_code":"RW",
+    "gn:dem":1546,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7595463,
+    "gn:latitude":-1.862,
+    "gn:longitude":30.0323,
+    "gn:modification_date":"2010-11-05",
+    "gn:name":"Runyovi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421203217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7595463
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"9b40181bf379893f8f54976440d13e93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421203217,
+            "locality_id":1277056373,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1277056373,
+    "wof:lastmodified":1536804303,
+    "wof:name":"Runyovi",
+    "wof:parent_id":421203217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0323,
+    -1.862,
+    30.0323,
+    -1.862
+],
+  "geometry": {"coordinates":[30.0323,-1.862],"type":"Point"}
+}

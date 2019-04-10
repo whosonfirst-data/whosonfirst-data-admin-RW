@@ -1,0 +1,70 @@
+{
+  "id": 1343935947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0024,-2.1661,30.0024,-2.1661",
+    "geom:latitude":-2.1661,
+    "geom:longitude":30.0024,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"57.0",
+    "gn:admin3_code":"5706.0",
+    "gn:admin4_code":"570604.0",
+    "gn:asciiname":"Kagunga",
+    "gn:country_code":"RW",
+    "gn:dem":1435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7656377,
+    "gn:latitude":-2.1661,
+    "gn:longitude":30.0024,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kagunga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421199681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7656377
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"0cec1b40b2995f18f413fde9861221bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421199681,
+            "locality_id":1343935947,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1343935947,
+    "wof:lastmodified":1537053150,
+    "wof:name":"Kagunga",
+    "wof:parent_id":421199681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0024,
+    -2.1661,
+    30.0024,
+    -2.1661
+],
+  "geometry": {"coordinates":[30.0024,-2.1661],"type":"Point"}
+}

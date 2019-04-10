@@ -1,0 +1,73 @@
+{
+  "id": 1209786163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7297,-2.0764,29.7297,-2.0764",
+    "geom:latitude":-2.0764,
+    "geom:longitude":29.7297,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"27.0",
+    "gn:admin3_code":"2708.0",
+    "gn:admin4_code":"270804.0",
+    "gn:asciiname":"Kinyenkanda",
+    "gn:country_code":"RW",
+    "gn:dem":1789,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7659911,
+    "gn:latitude":-2.0764,
+    "gn:longitude":29.7297,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kinyenkanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kinyenkande"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421192887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7659911
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"be6e2637254ee388f1409f045f547ea2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192887,
+            "locality_id":1209786163,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1209786163,
+    "wof:lastmodified":1537699159,
+    "wof:name":"Kinyenkanda",
+    "wof:parent_id":421192887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7297,
+    -2.0764,
+    29.7297,
+    -2.0764
+],
+  "geometry": {"coordinates":[29.7297,-2.0764],"type":"Point"}
+}

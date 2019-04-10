@@ -1,0 +1,70 @@
+{
+  "id": 1243441435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9989,-1.8503,29.9989,-1.8503",
+    "geom:latitude":-1.8503,
+    "geom:longitude":29.9989,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"12.0",
+    "gn:admin3_code":"1206.0",
+    "gn:admin4_code":"120604.0",
+    "gn:asciiname":"Kabahara",
+    "gn:country_code":"RW",
+    "gn:dem":1759,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7600088,
+    "gn:latitude":-1.8503,
+    "gn:longitude":29.9989,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kabahara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676807,
+        421202327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7600088
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"f72fdc0e4e2ae910a615df84f1c45257",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421202327,
+            "locality_id":1243441435,
+            "region_id":85676807
+        }
+    ],
+    "wof:id":1243441435,
+    "wof:lastmodified":1536812185,
+    "wof:name":"Kabahara",
+    "wof:parent_id":421202327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9989,
+    -1.8503,
+    29.9989,
+    -1.8503
+],
+  "geometry": {"coordinates":[29.9989,-1.8503],"type":"Point"}
+}

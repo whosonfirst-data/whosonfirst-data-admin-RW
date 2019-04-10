@@ -1,0 +1,70 @@
+{
+  "id": 1193110357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6747,-2.232,29.6747,-2.232",
+    "geom:latitude":-2.232,
+    "geom:longitude":29.6747,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"26",
+    "gn:admin3_code":"2605.0",
+    "gn:admin4_code":"260505.0",
+    "gn:asciiname":"Gatovu",
+    "gn:country_code":"RW",
+    "gn:dem":1678,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":202255,
+    "gn:latitude":-2.232,
+    "gn:longitude":29.6747,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gatovu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202255
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"75f97807d1e6eee3fad379d209b21553",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561299,
+            "locality_id":1193110357,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1193110357,
+    "wof:lastmodified":1536373965,
+    "wof:name":"Gatovu",
+    "wof:parent_id":1108561299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6747,
+    -2.232,
+    29.6747,
+    -2.232
+],
+  "geometry": {"coordinates":[29.6747,-2.232],"type":"Point"}
+}

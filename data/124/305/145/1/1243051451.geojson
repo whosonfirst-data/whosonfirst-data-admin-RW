@@ -1,0 +1,70 @@
+{
+  "id": 1243051451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5933,-1.6906,29.5933,-1.6906",
+    "geom:latitude":-1.6906,
+    "geom:longitude":29.5933,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"3412.0",
+    "gn:admin4_code":"341205.0",
+    "gn:asciiname":"Ntenda",
+    "gn:country_code":"RW",
+    "gn:dem":2097,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7320538,
+    "gn:latitude":-1.6906,
+    "gn:longitude":29.5933,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ntenda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421169419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7320538
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"047db89709d9d453347cf05c83017a1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421169419,
+            "locality_id":1243051451,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1243051451,
+    "wof:lastmodified":1536877138,
+    "wof:name":"Ntenda",
+    "wof:parent_id":421169419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5933,
+    -1.6906,
+    29.5933,
+    -1.6906
+],
+  "geometry": {"coordinates":[29.5933,-1.6906],"type":"Point"}
+}

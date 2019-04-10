@@ -1,0 +1,70 @@
+{
+  "id": 1259365817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6012,-2.4128,29.6012,-2.4128",
+    "geom:latitude":-2.4128,
+    "geom:longitude":29.6012,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"25",
+    "gn:admin3_code":"2502.0",
+    "gn:admin4_code":"250202.0",
+    "gn:asciiname":"Munyinya",
+    "gn:country_code":"RW",
+    "gn:dem":1908,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7063147,
+    "gn:latitude":-2.4128,
+    "gn:longitude":29.6012,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Munyinya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421192893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7063147
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"d3d631c6888071d3231d000dd1536d2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192893,
+            "locality_id":1259365817,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1259365817,
+    "wof:lastmodified":1537026522,
+    "wof:name":"Munyinya",
+    "wof:parent_id":421192893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6012,
+    -2.4128,
+    29.6012,
+    -2.4128
+],
+  "geometry": {"coordinates":[29.6012,-2.4128],"type":"Point"}
+}

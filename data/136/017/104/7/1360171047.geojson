@@ -1,0 +1,67 @@
+{
+  "id": 1360171047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7801,-1.3665,29.7801,-1.3665",
+    "geom:latitude":-1.3665,
+    "geom:longitude":29.7801,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kabaya",
+    "gn:country_code":"RW",
+    "gn:dem":1928,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8534909,
+    "gn:latitude":-1.3665,
+    "gn:longitude":29.7801,
+    "gn:modification_date":"2013-06-05",
+    "gn:name":"Kabaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632625,
+        85680075,
+        1092068877
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8534909
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"2ef4eaacf0d42b9488db3ecdddbf1084",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632625,
+            "county_id":1092068877,
+            "locality_id":1360171047,
+            "region_id":85680075
+        }
+    ],
+    "wof:id":1360171047,
+    "wof:lastmodified":1536820817,
+    "wof:name":"Kabaya",
+    "wof:parent_id":1092068877,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7801,
+    -1.3665,
+    29.7801,
+    -1.3665
+],
+  "geometry": {"coordinates":[29.7801,-1.3665],"type":"Point"}
+}

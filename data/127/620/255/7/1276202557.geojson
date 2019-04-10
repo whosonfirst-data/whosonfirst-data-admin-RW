@@ -1,0 +1,75 @@
+{
+  "id": 1276202557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7883,-1.5906,29.7883,-1.5906",
+    "geom:latitude":-1.5906,
+    "geom:longitude":29.7883,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"42",
+    "gn:admin3_code":"4207.0",
+    "gn:admin4_code":"420701.0",
+    "gn:asciiname":"Kamubuga II",
+    "gn:country_code":"RW",
+    "gn:dem":2170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":202861,
+    "gn:latitude":-1.5906,
+    "gn:longitude":29.7883,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kamubuga II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Kamubuga",
+        "Kamubuga",
+        "Kamubuga II"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421192889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202861
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"04d355241a4a72aa652aa48ce38d8cd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192889,
+            "locality_id":1276202557,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1276202557,
+    "wof:lastmodified":1537699130,
+    "wof:name":"Kamubuga II",
+    "wof:parent_id":421192889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7883,
+    -1.5906,
+    29.7883,
+    -1.5906
+],
+  "geometry": {"coordinates":[29.7883,-1.5906],"type":"Point"}
+}

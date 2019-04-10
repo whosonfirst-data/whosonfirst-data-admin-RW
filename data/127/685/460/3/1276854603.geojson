@@ -1,0 +1,70 @@
+{
+  "id": 1276854603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4506,-2.1054,29.4506,-2.1054",
+    "geom:latitude":-2.1054,
+    "geom:longitude":29.4506,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"3110.0",
+    "gn:admin4_code":"311004.0",
+    "gn:asciiname":"Simbi",
+    "gn:country_code":"RW",
+    "gn:dem":1996,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7662462,
+    "gn:latitude":-2.1054,
+    "gn:longitude":29.4506,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Simbi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421182175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7662462
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"07e36d7bdb86ebefcba1d2c87788d4a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421182175,
+            "locality_id":1276854603,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1276854603,
+    "wof:lastmodified":1537071881,
+    "wof:name":"Simbi",
+    "wof:parent_id":421182175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4506,
+    -2.1054,
+    29.4506,
+    -2.1054
+],
+  "geometry": {"coordinates":[29.4506,-2.1054],"type":"Point"}
+}

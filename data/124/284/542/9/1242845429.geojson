@@ -1,0 +1,70 @@
+{
+  "id": 1242845429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1386,-2.3195,29.1386,-2.3195",
+    "geom:latitude":-2.3195,
+    "geom:longitude":29.1386,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"37",
+    "gn:admin3_code":"3706.0",
+    "gn:admin4_code":"370601.0",
+    "gn:asciiname":"Kagarama",
+    "gn:country_code":"RW",
+    "gn:dem":1502,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7021338,
+    "gn:latitude":-2.3195,
+    "gn:longitude":29.1386,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kagarama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421192891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7021338
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"5cccbda8fb4db9fa592489c11113ccb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192891,
+            "locality_id":1242845429,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1242845429,
+    "wof:lastmodified":1536677971,
+    "wof:name":"Kagarama",
+    "wof:parent_id":421192891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1386,
+    -2.3195,
+    29.1386,
+    -2.3195
+],
+  "geometry": {"coordinates":[29.1386,-2.3195],"type":"Point"}
+}

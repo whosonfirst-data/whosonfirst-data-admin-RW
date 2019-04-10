@@ -1,0 +1,64 @@
+{
+  "id": 1209486353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.48889,-2.04389,29.48889,-2.04389",
+    "geom:latitude":-2.04389,
+    "geom:longitude":29.48889,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"32",
+    "gn:admin3_code":"3206.0",
+    "gn:admin4_code":"320602.0",
+    "gn:asciiname":"Ndaba",
+    "gn:country_code":"RW",
+    "gn:dem":2214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":384184,
+    "gn:latitude":-2.04389,
+    "gn:longitude":29.48889,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ndaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":384184
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"05c9c8b8b7f90f017e7e9cb81ebc8779",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209486353
+        }
+    ],
+    "wof:id":1209486353,
+    "wof:lastmodified":1536285624,
+    "wof:name":"Ndaba",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.48889,
+    -2.04389,
+    29.48889,
+    -2.04389
+],
+  "geometry": {"coordinates":[29.48889,-2.04389],"type":"Point"}
+}

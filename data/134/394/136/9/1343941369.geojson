@@ -1,0 +1,70 @@
+{
+  "id": 1343941369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5376,-2.1835,29.5376,-2.1835",
+    "geom:latitude":-2.1835,
+    "geom:longitude":29.5376,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"3106.0",
+    "gn:admin4_code":"310603.0",
+    "gn:asciiname":"Murondwe",
+    "gn:country_code":"RW",
+    "gn:dem":1746,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7660203,
+    "gn:latitude":-2.1835,
+    "gn:longitude":29.5376,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Murondwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421182175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7660203
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"409640f07ce2f2863b9286c31c4c99f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421182175,
+            "locality_id":1343941369,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1343941369,
+    "wof:lastmodified":1537045713,
+    "wof:name":"Murondwe",
+    "wof:parent_id":421182175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5376,
+    -2.1835,
+    29.5376,
+    -2.1835
+],
+  "geometry": {"coordinates":[29.5376,-2.1835],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1309779743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1059,-2.3086,29.1059,-2.3086",
+    "geom:latitude":-2.3086,
+    "geom:longitude":29.1059,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Byahi",
+    "gn:country_code":"RW",
+    "gn:dem":1461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7021306,
+    "gn:latitude":-2.3086,
+    "gn:longitude":29.1059,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Byahi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7021306
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"36be4152cd31c4596e071326129c0a0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1309779743,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309779743,
+    "wof:lastmodified":1536968464,
+    "wof:name":"Byahi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1059,
+    -2.3086,
+    29.1059,
+    -2.3086
+],
+  "geometry": {"coordinates":[29.1059,-2.3086],"type":"Point"}
+}

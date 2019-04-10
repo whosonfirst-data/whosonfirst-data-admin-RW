@@ -1,0 +1,70 @@
+{
+  "id": 1209798885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2537,-2.3399,29.2537,-2.3399",
+    "geom:latitude":-2.3399,
+    "geom:longitude":29.2537,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"37",
+    "gn:admin3_code":"3707.0",
+    "gn:admin4_code":"370705.0",
+    "gn:asciiname":"Kageyo",
+    "gn:country_code":"RW",
+    "gn:dem":2064,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7049496,
+    "gn:latitude":-2.3399,
+    "gn:longitude":29.2537,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kageyo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421192891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7049496
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"022214cee19d2f9deb2859a4cb30e416",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192891,
+            "locality_id":1209798885,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1209798885,
+    "wof:lastmodified":1536391623,
+    "wof:name":"Kageyo",
+    "wof:parent_id":421192891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2537,
+    -2.3399,
+    29.2537,
+    -2.3399
+],
+  "geometry": {"coordinates":[29.2537,-2.3399],"type":"Point"}
+}

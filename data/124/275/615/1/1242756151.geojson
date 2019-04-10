@@ -1,0 +1,70 @@
+{
+  "id": 1242756151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1335,-2.132,30.1335,-2.132",
+    "geom:latitude":-2.132,
+    "geom:longitude":30.1335,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"57",
+    "gn:admin3_code":"5710.0",
+    "gn:admin4_code":"571004.0",
+    "gn:asciiname":"Murama",
+    "gn:country_code":"RW",
+    "gn:dem":1490,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":382978,
+    "gn:latitude":-2.132,
+    "gn:longitude":30.1335,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Murama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421199681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":382978
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"10c82fabc074a3caa843bd9000853878",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421199681,
+            "locality_id":1242756151,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1242756151,
+    "wof:lastmodified":1536806323,
+    "wof:name":"Murama",
+    "wof:parent_id":421199681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1335,
+    -2.132,
+    30.1335,
+    -2.132
+],
+  "geometry": {"coordinates":[30.1335,-2.132],"type":"Point"}
+}

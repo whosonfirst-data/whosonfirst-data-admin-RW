@@ -1,0 +1,73 @@
+{
+  "id": 1327312775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.403,-2.0149,29.403,-2.0149",
+    "geom:latitude":-2.0149,
+    "geom:longitude":29.403,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"32.0",
+    "gn:admin3_code":"3210.0",
+    "gn:admin4_code":"321002.0",
+    "gn:asciiname":"Gafumba",
+    "gn:country_code":"RW",
+    "gn:dem":1698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7662260,
+    "gn:latitude":-2.0149,
+    "gn:longitude":29.403,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gafumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gatumba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421190845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7662260
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"fc3e0acade701bbedbe7a5c41580684d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421190845,
+            "locality_id":1327312775,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1327312775,
+    "wof:lastmodified":1537699159,
+    "wof:name":"Gafumba",
+    "wof:parent_id":421190845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.403,
+    -2.0149,
+    29.403,
+    -2.0149
+],
+  "geometry": {"coordinates":[29.403,-2.0149],"type":"Point"}
+}

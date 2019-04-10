@@ -1,0 +1,74 @@
+{
+  "id": 1226430515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3233,-1.2038,30.3233,-1.2038",
+    "geom:latitude":-1.2038,
+    "geom:longitude":30.3233,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"52",
+    "gn:admin3_code":"5212.0",
+    "gn:admin4_code":"521209.0",
+    "gn:asciiname":"Uwinkinko",
+    "gn:country_code":"RW",
+    "gn:dem":1366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":442117,
+    "gn:latitude":-1.2038,
+    "gn:longitude":30.3233,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Uwinkinko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Uwinkino",
+        "Uwinkinko"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421193621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":442117
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"fb02def8fd7aeda2a70746435e0e0339",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421193621,
+            "locality_id":1226430515,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1226430515,
+    "wof:lastmodified":1537699150,
+    "wof:name":"Uwinkinko",
+    "wof:parent_id":421193621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3233,
+    -1.2038,
+    30.3233,
+    -1.2038
+],
+  "geometry": {"coordinates":[30.3233,-1.2038],"type":"Point"}
+}

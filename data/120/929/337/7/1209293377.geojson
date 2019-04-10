@@ -1,0 +1,69 @@
+{
+  "id": 1209293377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.35,-1.7,29.35,-1.7",
+    "geom:latitude":-1.7,
+    "geom:longitude":29.35,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"33",
+    "gn:admin3_code":"3305.0",
+    "gn:admin4_code":"330503.0",
+    "gn:asciiname":"Rwankomo",
+    "gn:cc2":"RW",
+    "gn:country_code":"RW",
+    "gn:dem":1885,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":202370,
+    "gn:latitude":-1.7,
+    "gn:longitude":29.35,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rwankomo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Rwankomo",
+        "Rwankomo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202370
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"43fca30c60c635b34d496aae3f66d944",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209293377
+        }
+    ],
+    "wof:id":1209293377,
+    "wof:lastmodified":1537699093,
+    "wof:name":"Rwankomo",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.35,
+    -1.7,
+    29.35,
+    -1.7
+],
+  "geometry": {"coordinates":[29.35,-1.7],"type":"Point"}
+}

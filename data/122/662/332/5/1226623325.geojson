@@ -1,0 +1,76 @@
+{
+  "id": 1226623325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0757,-1.8441,30.0757,-1.8441",
+    "geom:latitude":-1.8441,
+    "geom:longitude":30.0757,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"1205.0",
+    "gn:admin4_code":"120505.0",
+    "gn:asciiname":"Ngiryi",
+    "gn:country_code":"RW",
+    "gn:dem":1628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":202561,
+    "gn:latitude":-1.8441,
+    "gn:longitude":30.0757,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ngiryi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Ngiryi",
+        "Ngyrgyi",
+        "Girgi",
+        "Ngiryi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676807,
+        421202327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202561
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"705b92a64bb21f9b4ce4b92ab18656e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421202327,
+            "locality_id":1226623325,
+            "region_id":85676807
+        }
+    ],
+    "wof:id":1226623325,
+    "wof:lastmodified":1537699107,
+    "wof:name":"Ngiryi",
+    "wof:parent_id":421202327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0757,
+    -1.8441,
+    30.0757,
+    -1.8441
+],
+  "geometry": {"coordinates":[30.0757,-1.8441],"type":"Point"}
+}

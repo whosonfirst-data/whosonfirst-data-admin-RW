@@ -1,0 +1,74 @@
+{
+  "id": 1360271801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5669,-1.5555,29.5669,-1.5555",
+    "geom:latitude":-1.5555,
+    "geom:longitude":29.5669,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"43",
+    "gn:admin3_code":"4301.0",
+    "gn:admin4_code":"430103.0",
+    "gn:asciiname":"Kigasa",
+    "gn:country_code":"RW",
+    "gn:dem":2236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":202803,
+    "gn:latitude":-1.5555,
+    "gn:longitude":29.5669,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kigasa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Kigasa",
+        "Kigasa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421187897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202803
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"9e2980d1c93320596e841a1a3b58090d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421187897,
+            "locality_id":1360271801,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1360271801,
+    "wof:lastmodified":1537699126,
+    "wof:name":"Kigasa",
+    "wof:parent_id":421187897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5669,
+    -1.5555,
+    29.5669,
+    -1.5555
+],
+  "geometry": {"coordinates":[29.5669,-1.5555],"type":"Point"}
+}

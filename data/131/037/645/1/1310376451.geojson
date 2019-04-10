@@ -1,0 +1,70 @@
+{
+  "id": 1310376451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2988,-1.7058,29.2988,-1.7058",
+    "geom:latitude":-1.7058,
+    "geom:longitude":29.2988,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"33.0",
+    "gn:admin3_code":"3312.0",
+    "gn:admin4_code":"331203.0",
+    "gn:asciiname":"Pfunda",
+    "gn:country_code":"RW",
+    "gn:dem":1695,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8305834,
+    "gn:latitude":-1.7058,
+    "gn:longitude":29.2988,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Pfunda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421187899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8305834
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"d5584a8440b7e502b5b66d7b6e7e2218",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421187899,
+            "locality_id":1310376451,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1310376451,
+    "wof:lastmodified":1536602644,
+    "wof:name":"Pfunda",
+    "wof:parent_id":421187899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2988,
+    -1.7058,
+    29.2988,
+    -1.7058
+],
+  "geometry": {"coordinates":[29.2988,-1.7058],"type":"Point"}
+}

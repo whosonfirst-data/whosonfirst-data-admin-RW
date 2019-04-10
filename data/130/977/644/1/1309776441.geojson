@@ -1,0 +1,70 @@
+{
+  "id": 1309776441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4946,-2.7374,29.4946,-2.7374",
+    "geom:latitude":-2.7374,
+    "geom:longitude":29.4946,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"23",
+    "gn:admin3_code":"2312.0",
+    "gn:admin4_code":"231201.0",
+    "gn:asciiname":"Gahotora",
+    "gn:country_code":"RW",
+    "gn:dem":2030,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7022065,
+    "gn:latitude":-2.7374,
+    "gn:longitude":29.4946,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gahotora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7022065
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"ac2ca28b6ba34f09be8d1f13525e0b4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561303,
+            "locality_id":1309776441,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1309776441,
+    "wof:lastmodified":1536973100,
+    "wof:name":"Gahotora",
+    "wof:parent_id":1108561303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4946,
+    -2.7374,
+    29.4946,
+    -2.7374
+],
+  "geometry": {"coordinates":[29.4946,-2.7374],"type":"Point"}
+}

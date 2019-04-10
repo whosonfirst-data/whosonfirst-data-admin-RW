@@ -1,0 +1,76 @@
+{
+  "id": 1343250263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2264,-1.2634,30.2264,-1.2634",
+    "geom:latitude":-1.2634,
+    "geom:longitude":30.2264,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"52",
+    "gn:admin3_code":"5214.0",
+    "gn:admin4_code":"521407.0",
+    "gn:asciiname":"Rubilizi",
+    "gn:country_code":"RW",
+    "gn:dem":1519,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":202742,
+    "gn:latitude":-1.2634,
+    "gn:longitude":30.2264,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rubilizi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Lubirizi",
+        "Lubilizi",
+        "Lubirizi",
+        "Rubilizi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421193621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202742
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"fe425e7e3f260b04f5084d2eac0a6def",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421193621,
+            "locality_id":1343250263,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1343250263,
+    "wof:lastmodified":1537699120,
+    "wof:name":"Rubilizi",
+    "wof:parent_id":421193621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2264,
+    -1.2634,
+    30.2264,
+    -1.2634
+],
+  "geometry": {"coordinates":[30.2264,-1.2634],"type":"Point"}
+}

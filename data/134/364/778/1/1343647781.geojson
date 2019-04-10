@@ -1,0 +1,74 @@
+{
+  "id": 1343647781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6389,-1.6389,29.6389,-1.6389",
+    "geom:latitude":-1.6389,
+    "geom:longitude":29.6389,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"42",
+    "gn:admin3_code":"4218.0",
+    "gn:admin4_code":"421805.0",
+    "gn:asciiname":"Gahanga",
+    "gn:country_code":"RW",
+    "gn:dem":1670,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":202999,
+    "gn:latitude":-1.6389,
+    "gn:longitude":29.6389,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gahanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Gahanga",
+        "Gahanga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421192889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202999
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"433d740f969d10f0af86ddab2ed13b2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192889,
+            "locality_id":1343647781,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1343647781,
+    "wof:lastmodified":1537699140,
+    "wof:name":"Gahanga",
+    "wof:parent_id":421192889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6389,
+    -1.6389,
+    29.6389,
+    -1.6389
+],
+  "geometry": {"coordinates":[29.6389,-1.6389],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1344235061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1126,-1.3845,30.1126,-1.3845",
+    "geom:latitude":-1.3845,
+    "geom:longitude":30.1126,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"52.0",
+    "gn:admin3_code":"5205.0",
+    "gn:admin4_code":"520504.0",
+    "gn:asciiname":"Muhindo",
+    "gn:country_code":"RW",
+    "gn:dem":1863,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7582444,
+    "gn:latitude":-1.3845,
+    "gn:longitude":30.1126,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Muhindo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421193621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7582444
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"8992ffcd35c778af3b05e88ec3ea632c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421193621,
+            "locality_id":1344235061,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1344235061,
+    "wof:lastmodified":1536621650,
+    "wof:name":"Muhindo",
+    "wof:parent_id":421193621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1126,
+    -1.3845,
+    30.1126,
+    -1.3845
+],
+  "geometry": {"coordinates":[30.1126,-1.3845],"type":"Point"}
+}

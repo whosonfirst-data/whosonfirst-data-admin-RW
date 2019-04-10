@@ -1,0 +1,70 @@
+{
+  "id": 1293672723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3018,-2.1742,29.3018,-2.1742",
+    "geom:latitude":-2.1742,
+    "geom:longitude":29.3018,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"3103.0",
+    "gn:admin4_code":"310302.0",
+    "gn:asciiname":"Kazirandimwe",
+    "gn:country_code":"RW",
+    "gn:dem":1793,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7662644,
+    "gn:latitude":-2.1742,
+    "gn:longitude":29.3018,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kazirandimwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421182175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7662644
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"8ef388868e2abe84c0452c2feca8a9bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421182175,
+            "locality_id":1293672723,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1293672723,
+    "wof:lastmodified":1537016560,
+    "wof:name":"Kazirandimwe",
+    "wof:parent_id":421182175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3018,
+    -2.1742,
+    29.3018,
+    -2.1742
+],
+  "geometry": {"coordinates":[29.3018,-2.1742],"type":"Point"}
+}

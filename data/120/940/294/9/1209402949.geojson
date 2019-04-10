@@ -1,0 +1,64 @@
+{
+  "id": 1209402949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3678,-1.8528,30.3678,-1.8528",
+    "geom:latitude":-1.8528,
+    "geom:longitude":30.3678,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"53",
+    "gn:admin3_code":"5306.0",
+    "gn:admin4_code":"530604.0",
+    "gn:asciiname":"Ntete",
+    "gn:country_code":"RW",
+    "gn:dem":1464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":201679,
+    "gn:latitude":-1.8528,
+    "gn:longitude":30.3678,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ntete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":201679
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"463dba246684c64625db9673f31dc4ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209402949
+        }
+    ],
+    "wof:id":1209402949,
+    "wof:lastmodified":1536288086,
+    "wof:name":"Ntete",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3678,
+    -1.8528,
+    30.3678,
+    -1.8528
+],
+  "geometry": {"coordinates":[30.3678,-1.8528],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226832605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.31583,-2.24998,29.31583,-2.24998",
+    "geom:latitude":-2.24998,
+    "geom:longitude":29.31583,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"3113.0",
+    "gn:admin4_code":"311303.0",
+    "gn:asciiname":"Mwumba",
+    "gn:country_code":"RW",
+    "gn:dem":2060,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7049361,
+    "gn:latitude":-2.24998,
+    "gn:longitude":29.31583,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Mwumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421182175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7049361
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"e7885b9d1b57e80bd7b5a1c26e9a5ac0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421182175,
+            "locality_id":1226832605,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1226832605,
+    "wof:lastmodified":1537084077,
+    "wof:name":"Mwumba",
+    "wof:parent_id":421182175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.31583,
+    -2.24998,
+    29.31583,
+    -2.24998
+],
+  "geometry": {"coordinates":[29.31583,-2.24998],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1226115545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8281,-2.709,29.8281,-2.709",
+    "geom:latitude":-2.709,
+    "geom:longitude":29.8281,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"22",
+    "gn:admin3_code":"2208.0",
+    "gn:admin4_code":"220803.0",
+    "gn:asciiname":"Kibu",
+    "gn:country_code":"RW",
+    "gn:dem":1511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":202069,
+    "gn:latitude":-2.709,
+    "gn:longitude":29.8281,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kibu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kivu",
+        "Kibu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202069
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"d28b7486ea03fac20075eefcaa4c10e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561301,
+            "locality_id":1226115545,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1226115545,
+    "wof:lastmodified":1537699087,
+    "wof:name":"Kibu",
+    "wof:parent_id":1108561301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8281,
+    -2.709,
+    29.8281,
+    -2.709
+],
+  "geometry": {"coordinates":[29.8281,-2.709],"type":"Point"}
+}

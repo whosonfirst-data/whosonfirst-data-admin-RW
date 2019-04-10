@@ -1,0 +1,74 @@
+{
+  "id": 1243525447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2885,-1.7513,29.2885,-1.7513",
+    "geom:latitude":-1.7513,
+    "geom:longitude":29.2885,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"33",
+    "gn:admin3_code":"3309.0",
+    "gn:admin4_code":"330901.0",
+    "gn:asciiname":"Muhingo",
+    "gn:country_code":"RW",
+    "gn:dem":1619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6997784,
+    "gn:latitude":-1.7513,
+    "gn:longitude":29.2885,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Muhingo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mubingo",
+        "Muhingo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421187899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6997784
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"a147e6a0e05cca900095af44469d0457",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421187899,
+            "locality_id":1243525447,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1243525447,
+    "wof:lastmodified":1537699150,
+    "wof:name":"Muhingo",
+    "wof:parent_id":421187899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2885,
+    -1.7513,
+    29.2885,
+    -1.7513
+],
+  "geometry": {"coordinates":[29.2885,-1.7513],"type":"Point"}
+}

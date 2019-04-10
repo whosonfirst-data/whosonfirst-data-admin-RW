@@ -1,0 +1,70 @@
+{
+  "id": 1259571215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8047,-2.2244,30.8047,-2.2244",
+    "geom:latitude":-2.2244,
+    "geom:longitude":30.8047,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"55.0",
+    "gn:admin3_code":"5506.0",
+    "gn:admin4_code":"550601.0",
+    "gn:asciiname":"Kamombo",
+    "gn:country_code":"RW",
+    "gn:dem":1367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7688714,
+    "gn:latitude":-2.2244,
+    "gn:longitude":30.8047,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kamombo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421175701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7688714
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"442fd4dbbcf15800d0872f66d1f5578e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421175701,
+            "locality_id":1259571215,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1259571215,
+    "wof:lastmodified":1536732816,
+    "wof:name":"Kamombo",
+    "wof:parent_id":421175701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8047,
+    -2.2244,
+    30.8047,
+    -2.2244
+],
+  "geometry": {"coordinates":[30.8047,-2.2244],"type":"Point"}
+}

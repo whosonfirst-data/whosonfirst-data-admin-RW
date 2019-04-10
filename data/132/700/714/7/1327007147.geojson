@@ -1,0 +1,70 @@
+{
+  "id": 1327007147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1832,-1.8465,30.1832,-1.8465",
+    "geom:latitude":-1.8465,
+    "geom:longitude":30.1832,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"12.0",
+    "gn:admin3_code":"1215.0",
+    "gn:admin4_code":"121504.0",
+    "gn:asciiname":"Munini",
+    "gn:country_code":"RW",
+    "gn:dem":1618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7595426,
+    "gn:latitude":-1.8465,
+    "gn:longitude":30.1832,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Munini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676807,
+        421202327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7595426
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"f926e2b9aa75ddb8b80870fa18c55d9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421202327,
+            "locality_id":1327007147,
+            "region_id":85676807
+        }
+    ],
+    "wof:id":1327007147,
+    "wof:lastmodified":1536797157,
+    "wof:name":"Munini",
+    "wof:parent_id":421202327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1832,
+    -1.8465,
+    30.1832,
+    -1.8465
+],
+  "geometry": {"coordinates":[30.1832,-1.8465],"type":"Point"}
+}

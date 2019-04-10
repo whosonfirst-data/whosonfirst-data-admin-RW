@@ -1,0 +1,70 @@
+{
+  "id": 1243046837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4268,-2.0718,29.4268,-2.0718",
+    "geom:latitude":-2.0718,
+    "geom:longitude":29.4268,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"3109.0",
+    "gn:admin4_code":"310901.0",
+    "gn:asciiname":"Kigarama",
+    "gn:country_code":"RW",
+    "gn:dem":1683,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7662383,
+    "gn:latitude":-2.0718,
+    "gn:longitude":29.4268,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kigarama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421182175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7662383
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"43cf85dd32ee3592e6823fae18cd1ebd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421182175,
+            "locality_id":1243046837,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1243046837,
+    "wof:lastmodified":1536884074,
+    "wof:name":"Kigarama",
+    "wof:parent_id":421182175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4268,
+    -2.0718,
+    29.4268,
+    -2.0718
+],
+  "geometry": {"coordinates":[29.4268,-2.0718],"type":"Point"}
+}

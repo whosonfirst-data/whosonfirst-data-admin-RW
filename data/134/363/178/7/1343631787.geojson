@@ -1,0 +1,70 @@
+{
+  "id": 1343631787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6454,-2.0691,29.6454,-2.0691",
+    "geom:latitude":-2.0691,
+    "geom:longitude":29.6454,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"27.0",
+    "gn:admin3_code":"2709.0",
+    "gn:admin4_code":"270902.0",
+    "gn:asciiname":"Mureherwa",
+    "gn:country_code":"RW",
+    "gn:dem":1593,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7659898,
+    "gn:latitude":-2.0691,
+    "gn:longitude":29.6454,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Mureherwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421192887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7659898
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"07e816dd5d42f13b4a9ffcf708a047d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192887,
+            "locality_id":1343631787,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1343631787,
+    "wof:lastmodified":1536995724,
+    "wof:name":"Mureherwa",
+    "wof:parent_id":421192887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6454,
+    -2.0691,
+    29.6454,
+    -2.0691
+],
+  "geometry": {"coordinates":[29.6454,-2.0691],"type":"Point"}
+}

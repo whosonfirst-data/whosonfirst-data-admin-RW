@@ -1,0 +1,70 @@
+{
+  "id": 1293756817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8057,-1.9633,29.8057,-1.9633",
+    "geom:latitude":-1.9633,
+    "geom:longitude":29.8057,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"28.0",
+    "gn:admin3_code":"2804.0",
+    "gn:admin4_code":"280403.0",
+    "gn:asciiname":"Gaseke",
+    "gn:country_code":"RW",
+    "gn:dem":1628,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7600428,
+    "gn:latitude":-1.9633,
+    "gn:longitude":29.8057,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gaseke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421190843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7600428
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"6f4cf8af40e33a49606837873b8551bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421190843,
+            "locality_id":1293756817,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1293756817,
+    "wof:lastmodified":1536895812,
+    "wof:name":"Gaseke",
+    "wof:parent_id":421190843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8057,
+    -1.9633,
+    29.8057,
+    -1.9633
+],
+  "geometry": {"coordinates":[29.8057,-1.9633],"type":"Point"}
+}

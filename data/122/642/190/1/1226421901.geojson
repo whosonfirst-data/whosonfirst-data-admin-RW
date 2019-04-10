@@ -1,0 +1,73 @@
+{
+  "id": 1226421901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.139,-1.5057,30.139,-1.5057",
+    "geom:latitude":-1.5057,
+    "geom:longitude":30.139,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"4517.0",
+    "gn:admin4_code":"451701.0",
+    "gn:asciiname":"Rubyiro",
+    "gn:country_code":"RW",
+    "gn:dem":1994,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7592847,
+    "gn:latitude":-1.5057,
+    "gn:longitude":30.139,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rubyiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rubyira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421175213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7592847
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"9edc2e9891d54901b231ee79c0ccc7a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421175213,
+            "locality_id":1226421901,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1226421901,
+    "wof:lastmodified":1537699157,
+    "wof:name":"Rubyiro",
+    "wof:parent_id":421175213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.139,
+    -1.5057,
+    30.139,
+    -1.5057
+],
+  "geometry": {"coordinates":[30.139,-1.5057],"type":"Point"}
+}

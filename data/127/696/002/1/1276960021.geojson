@@ -1,0 +1,70 @@
+{
+  "id": 1276960021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3201,-1.2459,30.3201,-1.2459",
+    "geom:latitude":-1.2459,
+    "geom:longitude":30.3201,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"52.0",
+    "gn:admin3_code":"5212.0",
+    "gn:admin4_code":"521201.0",
+    "gn:asciiname":"Cyenjojo",
+    "gn:country_code":"RW",
+    "gn:dem":1416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7570589,
+    "gn:latitude":-1.2459,
+    "gn:longitude":30.3201,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Cyenjojo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421193621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7570589
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"bb9a25f1139f5a5d3f2aefc48bcde5dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421193621,
+            "locality_id":1276960021,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1276960021,
+    "wof:lastmodified":1536934714,
+    "wof:name":"Cyenjojo",
+    "wof:parent_id":421193621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3201,
+    -1.2459,
+    30.3201,
+    -1.2459
+],
+  "geometry": {"coordinates":[30.3201,-1.2459],"type":"Point"}
+}

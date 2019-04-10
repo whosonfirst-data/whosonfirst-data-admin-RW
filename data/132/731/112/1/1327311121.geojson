@@ -1,0 +1,67 @@
+{
+  "id": 1327311121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2544,-1.859,30.2544,-1.859",
+    "geom:latitude":-1.859,
+    "geom:longitude":30.2544,
+    "gn:admin1_code":"12",
+    "gn:asciiname":"Kamatoro",
+    "gn:country_code":"RW",
+    "gn:dem":1517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7106714,
+    "gn:latitude":-1.859,
+    "gn:longitude":30.2544,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Kamatoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421187891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7106714
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"c7611e61909b3a54a8f94ff649d09a06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421187891,
+            "locality_id":1327311121,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1327311121,
+    "wof:lastmodified":1536854860,
+    "wof:name":"Kamatoro",
+    "wof:parent_id":421187891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2544,
+    -1.859,
+    30.2544,
+    -1.859
+],
+  "geometry": {"coordinates":[30.2544,-1.859],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209889831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5797,-2.1819,29.5797,-2.1819",
+    "geom:latitude":-2.1819,
+    "geom:longitude":29.5797,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"3106.0",
+    "gn:admin4_code":"310605.0",
+    "gn:asciiname":"Shyembe",
+    "gn:country_code":"RW",
+    "gn:dem":1662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7660204,
+    "gn:latitude":-2.1819,
+    "gn:longitude":29.5797,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Shyembe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421182175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7660204
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"2473878edf3763f1bb9523728b8a9090",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421182175,
+            "locality_id":1209889831,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1209889831,
+    "wof:lastmodified":1536391257,
+    "wof:name":"Shyembe",
+    "wof:parent_id":421182175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5797,
+    -2.1819,
+    29.5797,
+    -2.1819
+],
+  "geometry": {"coordinates":[29.5797,-2.1819],"type":"Point"}
+}

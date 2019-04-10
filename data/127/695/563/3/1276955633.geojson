@@ -1,0 +1,70 @@
+{
+  "id": 1276955633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1756,-1.8159,30.1756,-1.8159",
+    "geom:latitude":-1.8159,
+    "geom:longitude":30.1756,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"12.0",
+    "gn:admin3_code":"1215.0",
+    "gn:admin4_code":"121505.0",
+    "gn:asciiname":"Kibenga",
+    "gn:country_code":"RW",
+    "gn:dem":1652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7595360,
+    "gn:latitude":-1.8159,
+    "gn:longitude":30.1756,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kibenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676807,
+        421202327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7595360
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"61ca4ab72b0f18544619618f9455bf68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421202327,
+            "locality_id":1276955633,
+            "region_id":85676807
+        }
+    ],
+    "wof:id":1276955633,
+    "wof:lastmodified":1536940521,
+    "wof:name":"Kibenga",
+    "wof:parent_id":421202327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1756,
+    -1.8159,
+    30.1756,
+    -1.8159
+],
+  "geometry": {"coordinates":[30.1756,-1.8159],"type":"Point"}
+}

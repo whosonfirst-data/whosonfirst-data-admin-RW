@@ -1,0 +1,70 @@
+{
+  "id": 1260050811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5649,-2.0508,29.5649,-2.0508",
+    "geom:latitude":-2.0508,
+    "geom:longitude":29.5649,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"35.0",
+    "gn:admin3_code":"3512.0",
+    "gn:admin4_code":"351203.0",
+    "gn:asciiname":"Muganza",
+    "gn:country_code":"RW",
+    "gn:dem":1950,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7659855,
+    "gn:latitude":-2.0508,
+    "gn:longitude":29.5649,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Muganza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        1108561295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7659855
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"5d627ecf6588ba248dea3c3877838569",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561295,
+            "locality_id":1260050811,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1260050811,
+    "wof:lastmodified":1537033750,
+    "wof:name":"Muganza",
+    "wof:parent_id":1108561295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5649,
+    -2.0508,
+    29.5649,
+    -2.0508
+],
+  "geometry": {"coordinates":[29.5649,-2.0508],"type":"Point"}
+}

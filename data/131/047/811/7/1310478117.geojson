@@ -1,0 +1,74 @@
+{
+  "id": 1310478117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.86561,-1.3959,29.86561,-1.3959",
+    "geom:latitude":-1.3959,
+    "geom:longitude":29.86561,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"44",
+    "gn:admin3_code":"4402.0",
+    "gn:admin4_code":"440204.0",
+    "gn:asciiname":"Musama",
+    "gn:country_code":"RW",
+    "gn:dem":2192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":202626,
+    "gn:latitude":-1.3959,
+    "gn:longitude":29.86561,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Musama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Musama",
+        "Musama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421180243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202626
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"d1427410f8c8391073a45395df3918ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421180243,
+            "locality_id":1310478117,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1310478117,
+    "wof:lastmodified":1537699111,
+    "wof:name":"Musama",
+    "wof:parent_id":421180243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.86561,
+    -1.3959,
+    29.86561,
+    -1.3959
+],
+  "geometry": {"coordinates":[29.86561,-1.3959],"type":"Point"}
+}

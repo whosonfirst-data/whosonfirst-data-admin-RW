@@ -1,0 +1,64 @@
+{
+  "id": 1209285483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6156,-2.0104,29.6156,-2.0104",
+    "geom:latitude":-2.0104,
+    "geom:longitude":29.6156,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"35.0",
+    "gn:admin3_code":"3510.0",
+    "gn:admin4_code":"351002.0",
+    "gn:asciiname":"Butare",
+    "gn:country_code":"RW",
+    "gn:dem":1541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7659757,
+    "gn:latitude":-2.0104,
+    "gn:longitude":29.6156,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Butare",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7659757
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"8336fad77a6d61ec7451abd8442f53ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209285483
+        }
+    ],
+    "wof:id":1209285483,
+    "wof:lastmodified":1536291875,
+    "wof:name":"Butare",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6156,
+    -2.0104,
+    29.6156,
+    -2.0104
+],
+  "geometry": {"coordinates":[29.6156,-2.0104],"type":"Point"}
+}

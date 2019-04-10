@@ -1,0 +1,70 @@
+{
+  "id": 1343640469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3821,-1.8964,29.3821,-1.8964",
+    "geom:latitude":-1.8964,
+    "geom:longitude":29.3821,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"32",
+    "gn:admin3_code":"3207.0",
+    "gn:admin4_code":"320702.0",
+    "gn:asciiname":"Muhora",
+    "gn:country_code":"RW",
+    "gn:dem":1816,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6998020,
+    "gn:latitude":-1.8964,
+    "gn:longitude":29.3821,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Muhora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421190845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6998020
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"cc9f228aff8dc9e79c37f46407fd9d37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421190845,
+            "locality_id":1343640469,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1343640469,
+    "wof:lastmodified":1536983188,
+    "wof:name":"Muhora",
+    "wof:parent_id":421190845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3821,
+    -1.8964,
+    29.3821,
+    -1.8964
+],
+  "geometry": {"coordinates":[29.3821,-1.8964],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259453397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8793,-2.4986,29.8793,-2.4986",
+    "geom:latitude":-2.4986,
+    "geom:longitude":29.8793,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"22.0",
+    "gn:admin3_code":"2210.0",
+    "gn:admin4_code":"221001.0",
+    "gn:asciiname":"Rwatano",
+    "gn:country_code":"RW",
+    "gn:dem":1465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7664867,
+    "gn:latitude":-2.4986,
+    "gn:longitude":29.8793,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rwatano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7664867
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"2bcad81c04277f42d5f0669c1a1dc7d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561301,
+            "locality_id":1259453397,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1259453397,
+    "wof:lastmodified":1536902219,
+    "wof:name":"Rwatano",
+    "wof:parent_id":1108561301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8793,
+    -2.4986,
+    29.8793,
+    -2.4986
+],
+  "geometry": {"coordinates":[29.8793,-2.4986],"type":"Point"}
+}

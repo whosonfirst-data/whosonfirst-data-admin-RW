@@ -1,0 +1,70 @@
+{
+  "id": 1260266439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.602,-2.0496,29.602,-2.0496",
+    "geom:latitude":-2.0496,
+    "geom:longitude":29.602,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"35",
+    "gn:admin3_code":"3512.0",
+    "gn:admin4_code":"351203.0",
+    "gn:asciiname":"Kivumu",
+    "gn:country_code":"RW",
+    "gn:dem":1671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":384185,
+    "gn:latitude":-2.0496,
+    "gn:longitude":29.602,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kivumu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        1108561295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":384185
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"8e17960e90d2b0dee71b1567b12abc0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561295,
+            "locality_id":1260266439,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1260266439,
+    "wof:lastmodified":1536734929,
+    "wof:name":"Kivumu",
+    "wof:parent_id":1108561295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.602,
+    -2.0496,
+    29.602,
+    -2.0496
+],
+  "geometry": {"coordinates":[29.602,-2.0496],"type":"Point"}
+}

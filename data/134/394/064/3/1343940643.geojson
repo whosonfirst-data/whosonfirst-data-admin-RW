@@ -1,0 +1,70 @@
+{
+  "id": 1343940643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4457,-2.3327,29.4457,-2.3327",
+    "geom:latitude":-2.3327,
+    "geom:longitude":29.4457,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"25",
+    "gn:admin3_code":"2514.0",
+    "gn:admin4_code":"251403.0",
+    "gn:asciiname":"Gashwati",
+    "gn:country_code":"RW",
+    "gn:dem":2061,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7049480,
+    "gn:latitude":-2.3327,
+    "gn:longitude":29.4457,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gashwati",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421192893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7049480
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"3800f1beecbbfc70e808be70a4673ca4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192893,
+            "locality_id":1343940643,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1343940643,
+    "wof:lastmodified":1537046724,
+    "wof:name":"Gashwati",
+    "wof:parent_id":421192893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4457,
+    -2.3327,
+    29.4457,
+    -2.3327
+],
+  "geometry": {"coordinates":[29.4457,-2.3327],"type":"Point"}
+}

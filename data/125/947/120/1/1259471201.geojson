@@ -1,0 +1,70 @@
+{
+  "id": 1259471201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4574,-2.1638,30.4574,-2.1638",
+    "geom:latitude":-2.1638,
+    "geom:longitude":30.4574,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"56.0",
+    "gn:admin3_code":"5603.0",
+    "gn:admin4_code":"560301.0",
+    "gn:asciiname":"Mukaziba",
+    "gn:country_code":"RW",
+    "gn:dem":1525,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7654450,
+    "gn:latitude":-2.1638,
+    "gn:longitude":30.4574,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Mukaziba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        1108561297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7654450
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"eee8a7d8cf7c11613e93638e56f4df2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561297,
+            "locality_id":1259471201,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1259471201,
+    "wof:lastmodified":1536875536,
+    "wof:name":"Mukaziba",
+    "wof:parent_id":1108561297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4574,
+    -2.1638,
+    30.4574,
+    -2.1638
+],
+  "geometry": {"coordinates":[30.4574,-2.1638],"type":"Point"}
+}

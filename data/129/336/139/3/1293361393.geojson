@@ -1,0 +1,70 @@
+{
+  "id": 1293361393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2916,-2.1528,29.2916,-2.1528",
+    "geom:latitude":-2.1528,
+    "geom:longitude":29.2916,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"3103.0",
+    "gn:admin4_code":"310302.0",
+    "gn:asciiname":"Gishyita",
+    "gn:country_code":"RW",
+    "gn:dem":1650,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":202224,
+    "gn:latitude":-2.1528,
+    "gn:longitude":29.2916,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gishyita",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421182175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202224
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"ebea58a55a680c3d648eb2593193662d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421182175,
+            "locality_id":1293361393,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1293361393,
+    "wof:lastmodified":1536968638,
+    "wof:name":"Gishyita",
+    "wof:parent_id":421182175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2916,
+    -2.1528,
+    29.2916,
+    -2.1528
+],
+  "geometry": {"coordinates":[29.2916,-2.1528],"type":"Point"}
+}

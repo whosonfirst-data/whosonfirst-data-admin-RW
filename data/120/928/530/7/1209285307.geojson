@@ -1,0 +1,64 @@
+{
+  "id": 1209285307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0537,-2.4181,29.0537,-2.4181",
+    "geom:latitude":-2.4181,
+    "geom:longitude":29.0537,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"37",
+    "gn:admin3_code":"3701.0",
+    "gn:admin4_code":"370104.0",
+    "gn:asciiname":"Rundwe",
+    "gn:country_code":"RW",
+    "gn:dem":1511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7021568,
+    "gn:latitude":-2.4181,
+    "gn:longitude":29.0537,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rundwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7021568
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"832565f97c6be0399ecb030e82731a38",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209285307
+        }
+    ],
+    "wof:id":1209285307,
+    "wof:lastmodified":1536291880,
+    "wof:name":"Rundwe",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0537,
+    -2.4181,
+    29.0537,
+    -2.4181
+],
+  "geometry": {"coordinates":[29.0537,-2.4181],"type":"Point"}
+}

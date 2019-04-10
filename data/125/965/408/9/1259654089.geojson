@@ -1,0 +1,70 @@
+{
+  "id": 1259654089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4519,-2.7703,29.4519,-2.7703",
+    "geom:latitude":-2.7703,
+    "geom:longitude":29.4519,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"23",
+    "gn:admin3_code":"2312.0",
+    "gn:admin4_code":"231205.0",
+    "gn:asciiname":"Gakaranka",
+    "gn:country_code":"RW",
+    "gn:dem":2303,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7032443,
+    "gn:latitude":-2.7703,
+    "gn:longitude":29.4519,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gakaranka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7032443
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"28248f5f275b3567182d64015556ad52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561303,
+            "locality_id":1259654089,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1259654089,
+    "wof:lastmodified":1536610494,
+    "wof:name":"Gakaranka",
+    "wof:parent_id":1108561303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4519,
+    -2.7703,
+    29.4519,
+    -2.7703
+],
+  "geometry": {"coordinates":[29.4519,-2.7703],"type":"Point"}
+}

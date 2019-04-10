@@ -1,0 +1,70 @@
+{
+  "id": 1293369559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0191,-1.5525,30.0191,-1.5525",
+    "geom:latitude":-1.5525,
+    "geom:longitude":30.0191,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"4503.0",
+    "gn:admin4_code":"450304.0",
+    "gn:asciiname":"Ruhurura",
+    "gn:country_code":"RW",
+    "gn:dem":1972,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7592921,
+    "gn:latitude":-1.5525,
+    "gn:longitude":30.0191,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ruhurura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421175213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7592921
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"60b6440bb4e44304354b31a6d53fabea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421175213,
+            "locality_id":1293369559,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1293369559,
+    "wof:lastmodified":1536957118,
+    "wof:name":"Ruhurura",
+    "wof:parent_id":421175213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0191,
+    -1.5525,
+    30.0191,
+    -1.5525
+],
+  "geometry": {"coordinates":[30.0191,-1.5525],"type":"Point"}
+}

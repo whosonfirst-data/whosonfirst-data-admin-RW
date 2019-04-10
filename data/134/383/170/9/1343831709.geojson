@@ -1,0 +1,70 @@
+{
+  "id": 1343831709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9274,-2.4145,28.9274,-2.4145",
+    "geom:latitude":-2.4145,
+    "geom:longitude":28.9274,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"36",
+    "gn:admin3_code":"3612.0",
+    "gn:admin4_code":"361202.0",
+    "gn:asciiname":"Kamanyenga",
+    "gn:country_code":"RW",
+    "gn:dem":1574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7032637,
+    "gn:latitude":-2.4145,
+    "gn:longitude":28.9274,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kamanyenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421176723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7032637
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"f7d1e6fdafca81a5700b6f9917cda969",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421176723,
+            "locality_id":1343831709,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1343831709,
+    "wof:lastmodified":1536708471,
+    "wof:name":"Kamanyenga",
+    "wof:parent_id":421176723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9274,
+    -2.4145,
+    28.9274,
+    -2.4145
+],
+  "geometry": {"coordinates":[28.9274,-2.4145],"type":"Point"}
+}

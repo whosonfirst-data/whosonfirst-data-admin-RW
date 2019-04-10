@@ -1,0 +1,70 @@
+{
+  "id": 1276736395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4438,-2.1929,29.4438,-2.1929",
+    "geom:latitude":-2.1929,
+    "geom:longitude":29.4438,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"3108.0",
+    "gn:admin4_code":"310801.0",
+    "gn:asciiname":"Kazana",
+    "gn:country_code":"RW",
+    "gn:dem":2163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7662686,
+    "gn:latitude":-2.1929,
+    "gn:longitude":29.4438,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kazana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421182175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7662686
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"be8020d546667a38f9ec7efd2fc3e7e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421182175,
+            "locality_id":1276736395,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1276736395,
+    "wof:lastmodified":1536735924,
+    "wof:name":"Kazana",
+    "wof:parent_id":421182175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4438,
+    -2.1929,
+    29.4438,
+    -2.1929
+],
+  "geometry": {"coordinates":[29.4438,-2.1929],"type":"Point"}
+}

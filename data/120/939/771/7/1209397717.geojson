@@ -1,0 +1,64 @@
+{
+  "id": 1209397717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9109,-1.8796,29.9109,-1.8796",
+    "geom:latitude":-1.8796,
+    "geom:longitude":29.9109,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"28.0",
+    "gn:admin3_code":"2807.0",
+    "gn:admin4_code":"280702.0",
+    "gn:asciiname":"Gatagara",
+    "gn:country_code":"RW",
+    "gn:dem":1624,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7600157,
+    "gn:latitude":-1.8796,
+    "gn:longitude":29.9109,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gatagara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7600157
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"d9a7bbf786621e1a09116eebb3e1d2b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209397717
+        }
+    ],
+    "wof:id":1209397717,
+    "wof:lastmodified":1536288245,
+    "wof:name":"Gatagara",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9109,
+    -1.8796,
+    29.9109,
+    -1.8796
+],
+  "geometry": {"coordinates":[29.9109,-1.8796],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209187933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9377,-2.5717,28.9377,-2.5717",
+    "geom:latitude":-2.5717,
+    "geom:longitude":28.9377,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"36",
+    "gn:admin3_code":"3604.0",
+    "gn:admin4_code":"360406.0",
+    "gn:asciiname":"Karemereye",
+    "gn:country_code":"RW",
+    "gn:dem":1724,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7032909,
+    "gn:latitude":-2.5717,
+    "gn:longitude":28.9377,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Karemereye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7032909
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"386a70331733af2b3d8f517e90f5bd0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209187933
+        }
+    ],
+    "wof:id":1209187933,
+    "wof:lastmodified":1536295035,
+    "wof:name":"Karemereye",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9377,
+    -2.5717,
+    28.9377,
+    -2.5717
+],
+  "geometry": {"coordinates":[28.9377,-2.5717],"type":"Point"}
+}

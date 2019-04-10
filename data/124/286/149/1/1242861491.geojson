@@ -1,0 +1,70 @@
+{
+  "id": 1242861491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.22882,-1.92492,30.22882,-1.92492",
+    "geom:latitude":-1.92492,
+    "geom:longitude":30.22882,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"12.0",
+    "gn:admin3_code":"1214.0",
+    "gn:admin4_code":"121406.0",
+    "gn:asciiname":"Cyabatanzi",
+    "gn:country_code":"RW",
+    "gn:dem":1390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7595571,
+    "gn:latitude":-1.92492,
+    "gn:longitude":30.22882,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Cyabatanzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676807,
+        421202327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7595571
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"960e4edeab05637f4fe7f3965f4af6ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421202327,
+            "locality_id":1242861491,
+            "region_id":85676807
+        }
+    ],
+    "wof:id":1242861491,
+    "wof:lastmodified":1536654779,
+    "wof:name":"Cyabatanzi",
+    "wof:parent_id":421202327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.22882,
+    -1.92492,
+    30.22882,
+    -1.92492
+],
+  "geometry": {"coordinates":[30.22882,-1.92492],"type":"Point"}
+}

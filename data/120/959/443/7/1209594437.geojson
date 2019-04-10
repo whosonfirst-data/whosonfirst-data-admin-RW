@@ -1,0 +1,68 @@
+{
+  "id": 1209594437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0326,-2.5812,29.0326,-2.5812",
+    "geom:latitude":-2.5812,
+    "geom:longitude":29.0326,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"36",
+    "gn:admin3_code":"3615.0",
+    "gn:admin4_code":"361504.0",
+    "gn:asciiname":"Bunyereri",
+    "gn:country_code":"RW",
+    "gn:dem":1100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":203054,
+    "gn:latitude":-2.5812,
+    "gn:longitude":29.0326,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Bunyereri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Bunyereri",
+        "Bunyereri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":203054
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"9981e9b2dde4d806da18f8769881a3c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209594437
+        }
+    ],
+    "wof:id":1209594437,
+    "wof:lastmodified":1537699144,
+    "wof:name":"Bunyereri",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0326,
+    -2.5812,
+    29.0326,
+    -2.5812
+],
+  "geometry": {"coordinates":[29.0326,-2.5812],"type":"Point"}
+}

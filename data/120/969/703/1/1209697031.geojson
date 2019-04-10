@@ -1,0 +1,75 @@
+{
+  "id": 1209697031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.265,-1.5566,30.265,-1.5566",
+    "geom:latitude":-1.5566,
+    "geom:longitude":30.265,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"53",
+    "gn:admin3_code":"5310.0",
+    "gn:admin4_code":"531005.0",
+    "gn:asciiname":"Nyarubungo",
+    "gn:country_code":"RW",
+    "gn:dem":1513,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":202497,
+    "gn:latitude":-1.5566,
+    "gn:longitude":30.265,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nyarubungo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Nyarubungu",
+        "Nyarubungo",
+        "Nyarubungu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421204013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202497
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"d83db3237a0b48c213bb3c74b7af759d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421204013,
+            "locality_id":1209697031,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1209697031,
+    "wof:lastmodified":1537699102,
+    "wof:name":"Nyarubungo",
+    "wof:parent_id":421204013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.265,
+    -1.5566,
+    30.265,
+    -1.5566
+],
+  "geometry": {"coordinates":[30.265,-1.5566],"type":"Point"}
+}

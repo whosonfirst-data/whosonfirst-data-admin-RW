@@ -1,0 +1,74 @@
+{
+  "id": 1226515479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.46732,-2.7325,29.46732,-2.7325",
+    "geom:latitude":-2.7325,
+    "geom:longitude":29.46732,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"23",
+    "gn:admin3_code":"2312.0",
+    "gn:admin4_code":"231202.0",
+    "gn:asciiname":"Ruheru",
+    "gn:country_code":"RW",
+    "gn:dem":2056,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7022051,
+    "gn:latitude":-2.7325,
+    "gn:longitude":29.46732,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ruheru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ruhei",
+        "Ruheru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7022051
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"2931b5f2154739681a4cf3245ca624fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561303,
+            "locality_id":1226515479,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1226515479,
+    "wof:lastmodified":1537699152,
+    "wof:name":"Ruheru",
+    "wof:parent_id":1108561303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.46732,
+    -2.7325,
+    29.46732,
+    -2.7325
+],
+  "geometry": {"coordinates":[29.46732,-2.7325],"type":"Point"}
+}

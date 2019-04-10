@@ -1,0 +1,70 @@
+{
+  "id": 1293866805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9179,-2.4791,29.9179,-2.4791",
+    "geom:latitude":-2.4791,
+    "geom:longitude":29.9179,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"22",
+    "gn:admin3_code":"2206.0",
+    "gn:admin4_code":"220603.0",
+    "gn:asciiname":"Muyaga",
+    "gn:country_code":"RW",
+    "gn:dem":1489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":383962,
+    "gn:latitude":-2.4791,
+    "gn:longitude":29.9179,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Muyaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":383962
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"5b693d57a09ef1bd52e9be571fe22216",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561301,
+            "locality_id":1293866805,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1293866805,
+    "wof:lastmodified":1536737391,
+    "wof:name":"Muyaga",
+    "wof:parent_id":1108561301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9179,
+    -2.4791,
+    29.9179,
+    -2.4791
+],
+  "geometry": {"coordinates":[29.9179,-2.4791],"type":"Point"}
+}

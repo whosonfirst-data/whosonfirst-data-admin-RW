@@ -1,0 +1,75 @@
+{
+  "id": 1360073351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3528,-1.2081,30.3528,-1.2081",
+    "geom:latitude":-1.2081,
+    "geom:longitude":30.3528,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"52",
+    "gn:admin3_code":"5212.0",
+    "gn:admin4_code":"521202.0",
+    "gn:asciiname":"Gasinga",
+    "gn:country_code":"RW",
+    "gn:dem":1369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":202961,
+    "gn:latitude":-1.2081,
+    "gn:longitude":30.3528,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gasinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Gazinga",
+        "Gazinga",
+        "Gasinga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421193621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202961
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"1e081935a897d893e8f3b4c1a7dfdb5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421193621,
+            "locality_id":1360073351,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1360073351,
+    "wof:lastmodified":1537699137,
+    "wof:name":"Gasinga",
+    "wof:parent_id":421193621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3528,
+    -1.2081,
+    30.3528,
+    -1.2081
+],
+  "geometry": {"coordinates":[30.3528,-1.2081],"type":"Point"}
+}

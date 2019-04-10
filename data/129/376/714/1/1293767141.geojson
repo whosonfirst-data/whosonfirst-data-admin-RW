@@ -1,0 +1,75 @@
+{
+  "id": 1293767141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9082,-2.65473,28.9082,-2.65473",
+    "geom:latitude":-2.65473,
+    "geom:longitude":28.9082,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"36",
+    "gn:admin3_code":"3617.0",
+    "gn:admin4_code":"361704.0",
+    "gn:asciiname":"Nyenji",
+    "gn:country_code":"RW",
+    "gn:dem":1644,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":202482,
+    "gn:latitude":-2.65473,
+    "gn:longitude":28.9082,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nyenji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Nyenje",
+        "Nyenje",
+        "Nyenji"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421176723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202482
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"c35d393bd4413136bfd09b21ae2936f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421176723,
+            "locality_id":1293767141,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1293767141,
+    "wof:lastmodified":1537699101,
+    "wof:name":"Nyenji",
+    "wof:parent_id":421176723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9082,
+    -2.65473,
+    28.9082,
+    -2.65473
+],
+  "geometry": {"coordinates":[28.9082,-2.65473],"type":"Point"}
+}

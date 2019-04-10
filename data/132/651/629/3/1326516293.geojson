@@ -1,0 +1,73 @@
+{
+  "id": 1326516293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.68834,-1.49363,29.68834,-1.49363",
+    "geom:latitude":-1.49363,
+    "geom:longitude":29.68834,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"43",
+    "gn:admin3_code":"4303.0",
+    "gn:admin4_code":"430304.0",
+    "gn:asciiname":"Rubange",
+    "gn:country_code":"RW",
+    "gn:dem":1920,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":201558,
+    "gn:latitude":-1.49363,
+    "gn:longitude":29.68834,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rubange",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rubangi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421187897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":201558
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"b164ea2b053478e8489acc89409013e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421187897,
+            "locality_id":1326516293,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1326516293,
+    "wof:lastmodified":1537699078,
+    "wof:name":"Rubange",
+    "wof:parent_id":421187897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.68834,
+    -1.49363,
+    29.68834,
+    -1.49363
+],
+  "geometry": {"coordinates":[29.68834,-1.49363],"type":"Point"}
+}

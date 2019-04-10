@@ -1,0 +1,73 @@
+{
+  "id": 1327122517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4869,-2.3333,30.4869,-2.3333",
+    "geom:latitude":-2.3333,
+    "geom:longitude":30.4869,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"55",
+    "gn:admin3_code":"5501.0",
+    "gn:admin4_code":"550102.0",
+    "gn:asciiname":"Murangara",
+    "gn:country_code":"RW",
+    "gn:dem":1530,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":384556,
+    "gn:latitude":-2.3333,
+    "gn:longitude":30.4869,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Murangara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Murangera"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421175701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":384556
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"c151123e21b7d0978c7ee2c5a212ffc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421175701,
+            "locality_id":1327122517,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1327122517,
+    "wof:lastmodified":1537699149,
+    "wof:name":"Murangara",
+    "wof:parent_id":421175701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4869,
+    -2.3333,
+    30.4869,
+    -2.3333
+],
+  "geometry": {"coordinates":[30.4869,-2.3333],"type":"Point"}
+}

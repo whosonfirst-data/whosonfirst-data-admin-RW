@@ -1,0 +1,70 @@
+{
+  "id": 1226224955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.45295,-2.43408,29.45295,-2.43408",
+    "geom:latitude":-2.43408,
+    "geom:longitude":29.45295,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"25",
+    "gn:admin3_code":"2501.0",
+    "gn:admin4_code":"250102.0",
+    "gn:asciiname":"Gakangaga",
+    "gn:country_code":"RW",
+    "gn:dem":2246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7049589,
+    "gn:latitude":-2.43408,
+    "gn:longitude":29.45295,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gakangaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421192893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7049589
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"fca4a55fc4714b62ba9597af20d34307",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192893,
+            "locality_id":1226224955,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1226224955,
+    "wof:lastmodified":1536963481,
+    "wof:name":"Gakangaga",
+    "wof:parent_id":421192893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.45295,
+    -2.43408,
+    29.45295,
+    -2.43408
+],
+  "geometry": {"coordinates":[29.45295,-2.43408],"type":"Point"}
+}

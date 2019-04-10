@@ -1,0 +1,70 @@
+{
+  "id": 1226733253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2007,-2.4432,29.2007,-2.4432",
+    "geom:latitude":-2.4432,
+    "geom:longitude":29.2007,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"37",
+    "gn:admin3_code":"3713.0",
+    "gn:admin4_code":"371301.0",
+    "gn:asciiname":"Gahira",
+    "gn:country_code":"RW",
+    "gn:dem":1738,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7021612,
+    "gn:latitude":-2.4432,
+    "gn:longitude":29.2007,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gahira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421192891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7021612
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"017930f73fc1d23ac04b338219c18b36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192891,
+            "locality_id":1226733253,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1226733253,
+    "wof:lastmodified":1536733753,
+    "wof:name":"Gahira",
+    "wof:parent_id":421192891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2007,
+    -2.4432,
+    29.2007,
+    -2.4432
+],
+  "geometry": {"coordinates":[29.2007,-2.4432],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242563957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7152,-1.5619,29.7152,-1.5619",
+    "geom:latitude":-1.5619,
+    "geom:longitude":29.7152,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"4313.0",
+    "gn:admin4_code":"431305.0",
+    "gn:asciiname":"Kamisave",
+    "gn:country_code":"RW",
+    "gn:dem":1778,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7320086,
+    "gn:latitude":-1.5619,
+    "gn:longitude":29.7152,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kamisave",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421187897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7320086
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"0cf548de1d52ffaaba8f3c6532ead9c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421187897,
+            "locality_id":1242563957,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1242563957,
+    "wof:lastmodified":1537080201,
+    "wof:name":"Kamisave",
+    "wof:parent_id":421187897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7152,
+    -1.5619,
+    29.7152,
+    -1.5619
+],
+  "geometry": {"coordinates":[29.7152,-1.5619],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226430547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2425,-1.544,30.2425,-1.544",
+    "geom:latitude":-1.544,
+    "geom:longitude":30.2425,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"53",
+    "gn:admin3_code":"5310.0",
+    "gn:admin4_code":"531004.0",
+    "gn:asciiname":"Ngarama",
+    "gn:country_code":"RW",
+    "gn:dem":1483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":202987,
+    "gn:latitude":-1.544,
+    "gn:longitude":30.2425,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ngarama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Garama",
+        "Colline Garama",
+        "Ngarama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421204013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202987
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"0c3f12f259a075cfa48e3d108c7dbf7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421204013,
+            "locality_id":1226430547,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1226430547,
+    "wof:lastmodified":1537699139,
+    "wof:name":"Ngarama",
+    "wof:parent_id":421204013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2425,
+    -1.544,
+    30.2425,
+    -1.544
+],
+  "geometry": {"coordinates":[30.2425,-1.544],"type":"Point"}
+}

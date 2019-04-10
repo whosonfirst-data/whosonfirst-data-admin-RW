@@ -1,0 +1,75 @@
+{
+  "id": 1226316011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.599,-2.6559,29.599,-2.6559",
+    "geom:latitude":-2.6559,
+    "geom:longitude":29.599,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"23",
+    "gn:admin3_code":"2303.0",
+    "gn:admin4_code":"230304.0",
+    "gn:asciiname":"Mpanda",
+    "gn:country_code":"RW",
+    "gn:dem":1846,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7016310,
+    "gn:latitude":-2.6559,
+    "gn:longitude":29.599,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Mpanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mpamda",
+        "Mpamba",
+        "Mpanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7016310
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"905bef4d4c8d105e0d000f1639128b55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561303,
+            "locality_id":1226316011,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1226316011,
+    "wof:lastmodified":1537699151,
+    "wof:name":"Mpanda",
+    "wof:parent_id":1108561303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.599,
+    -2.6559,
+    29.599,
+    -2.6559
+],
+  "geometry": {"coordinates":[29.599,-2.6559],"type":"Point"}
+}

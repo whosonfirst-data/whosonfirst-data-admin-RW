@@ -1,0 +1,70 @@
+{
+  "id": 1327216699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7958,-2.1298,29.7958,-2.1298",
+    "geom:latitude":-2.1298,
+    "geom:longitude":29.7958,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"26.0",
+    "gn:admin3_code":"2606.0",
+    "gn:admin4_code":"260601.0",
+    "gn:asciiname":"Rwamiko",
+    "gn:country_code":"RW",
+    "gn:dem":1783,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7659126,
+    "gn:latitude":-2.1298,
+    "gn:longitude":29.7958,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rwamiko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7659126
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"1fa6b96c8819981e791edc4c8a2a866f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561299,
+            "locality_id":1327216699,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1327216699,
+    "wof:lastmodified":1536991511,
+    "wof:name":"Rwamiko",
+    "wof:parent_id":1108561299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7958,
+    -2.1298,
+    29.7958,
+    -2.1298
+],
+  "geometry": {"coordinates":[29.7958,-2.1298],"type":"Point"}
+}

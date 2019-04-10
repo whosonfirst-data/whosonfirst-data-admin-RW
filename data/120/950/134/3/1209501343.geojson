@@ -1,0 +1,64 @@
+{
+  "id": 1209501343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9486,-1.5771,29.9486,-1.5771",
+    "geom:latitude":-1.5771,
+    "geom:longitude":29.9486,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"4415.0",
+    "gn:admin4_code":"441504.0",
+    "gn:asciiname":"Rutoro",
+    "gn:country_code":"RW",
+    "gn:dem":2117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7321482,
+    "gn:latitude":-1.5771,
+    "gn:longitude":29.9486,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rutoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7321482
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"4887052b876ae4fcfed5bb4d0a6d77e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209501343
+        }
+    ],
+    "wof:id":1209501343,
+    "wof:lastmodified":1536285173,
+    "wof:name":"Rutoro",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9486,
+    -1.5771,
+    29.9486,
+    -1.5771
+],
+  "geometry": {"coordinates":[29.9486,-1.5771],"type":"Point"}
+}

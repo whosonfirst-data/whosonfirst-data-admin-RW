@@ -1,0 +1,70 @@
+{
+  "id": 1276196709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.545,-2.0523,29.545,-2.0523",
+    "geom:latitude":-2.0523,
+    "geom:longitude":29.545,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"35.0",
+    "gn:admin3_code":"3512.0",
+    "gn:admin4_code":"351204.0",
+    "gn:asciiname":"Kamuliza",
+    "gn:country_code":"RW",
+    "gn:dem":2115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7659854,
+    "gn:latitude":-2.0523,
+    "gn:longitude":29.545,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kamuliza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        1108561295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7659854
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"34732b669c5d47b4500de68dc5ba1d2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561295,
+            "locality_id":1276196709,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1276196709,
+    "wof:lastmodified":1536962001,
+    "wof:name":"Kamuliza",
+    "wof:parent_id":1108561295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.545,
+    -2.0523,
+    29.545,
+    -2.0523
+],
+  "geometry": {"coordinates":[29.545,-2.0523],"type":"Point"}
+}

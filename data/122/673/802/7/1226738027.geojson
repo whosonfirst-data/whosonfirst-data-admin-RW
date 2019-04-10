@@ -1,0 +1,70 @@
+{
+  "id": 1226738027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6328,-2.0101,30.6328,-2.0101",
+    "geom:latitude":-2.0101,
+    "geom:longitude":30.6328,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"54.0",
+    "gn:admin3_code":"5405.0",
+    "gn:admin4_code":"540503.0",
+    "gn:asciiname":"Bukumbya",
+    "gn:country_code":"RW",
+    "gn:dem":1614,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7652540,
+    "gn:latitude":-2.0101,
+    "gn:longitude":30.6328,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Bukumbya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421204217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7652540
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"ba87d896a1dc2538cee78f87c4ec9260",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421204217,
+            "locality_id":1226738027,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1226738027,
+    "wof:lastmodified":1536727054,
+    "wof:name":"Bukumbya",
+    "wof:parent_id":421204217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6328,
+    -2.0101,
+    30.6328,
+    -2.0101
+],
+  "geometry": {"coordinates":[30.6328,-2.0101],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1260366411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0462,-1.4742,30.0462,-1.4742",
+    "geom:latitude":-1.4742,
+    "geom:longitude":30.0462,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"45",
+    "gn:admin3_code":"4507.0",
+    "gn:admin4_code":"450703.0",
+    "gn:asciiname":"Butozo",
+    "gn:country_code":"RW",
+    "gn:dem":1987,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":203031,
+    "gn:latitude":-1.4742,
+    "gn:longitude":30.0462,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Butozo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Butozo",
+        "Butozo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421175213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":203031
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"65988c836e8c1d1acf2a8cc9b8140adf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421175213,
+            "locality_id":1260366411,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1260366411,
+    "wof:lastmodified":1537699142,
+    "wof:name":"Butozo",
+    "wof:parent_id":421175213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0462,
+    -1.4742,
+    30.0462,
+    -1.4742
+],
+  "geometry": {"coordinates":[30.0462,-1.4742],"type":"Point"}
+}

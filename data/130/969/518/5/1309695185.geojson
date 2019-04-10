@@ -1,0 +1,70 @@
+{
+  "id": 1309695185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5572,-2.62,29.5572,-2.62",
+    "geom:latitude":-2.62,
+    "geom:longitude":29.5572,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"23",
+    "gn:admin3_code":"2305.0",
+    "gn:admin4_code":"230503.0",
+    "gn:asciiname":"Uwababanda",
+    "gn:country_code":"RW",
+    "gn:dem":1879,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7016381,
+    "gn:latitude":-2.62,
+    "gn:longitude":29.5572,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Uwababanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7016381
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"f0f99d69f13888a55fa96778b7388817",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561303,
+            "locality_id":1309695185,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1309695185,
+    "wof:lastmodified":1537087453,
+    "wof:name":"Uwababanda",
+    "wof:parent_id":1108561303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5572,
+    -2.62,
+    29.5572,
+    -2.62
+],
+  "geometry": {"coordinates":[29.5572,-2.62],"type":"Point"}
+}

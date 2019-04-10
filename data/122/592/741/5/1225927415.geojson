@@ -1,0 +1,70 @@
+{
+  "id": 1225927415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5887,-2.0186,29.5887,-2.0186",
+    "geom:latitude":-2.0186,
+    "geom:longitude":29.5887,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"35.0",
+    "gn:admin3_code":"3510.0",
+    "gn:admin4_code":"351002.0",
+    "gn:asciiname":"Mpanga",
+    "gn:country_code":"RW",
+    "gn:dem":1736,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7659770,
+    "gn:latitude":-2.0186,
+    "gn:longitude":29.5887,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Mpanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        1108561295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7659770
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"120c672e1165f13bf4f520ee780b7df3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561295,
+            "locality_id":1225927415,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1225927415,
+    "wof:lastmodified":1536895751,
+    "wof:name":"Mpanga",
+    "wof:parent_id":1108561295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5887,
+    -2.0186,
+    29.5887,
+    -2.0186
+],
+  "geometry": {"coordinates":[29.5887,-2.0186],"type":"Point"}
+}

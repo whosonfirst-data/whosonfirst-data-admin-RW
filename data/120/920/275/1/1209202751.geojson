@@ -1,0 +1,64 @@
+{
+  "id": 1209202751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1379,-2.4261,30.1379,-2.4261",
+    "geom:latitude":-2.4261,
+    "geom:longitude":30.1379,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"57.0",
+    "gn:admin3_code":"5703.0",
+    "gn:admin4_code":"570301.0",
+    "gn:asciiname":"Kanyonyera",
+    "gn:country_code":"RW",
+    "gn:dem":1421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7685567,
+    "gn:latitude":-2.4261,
+    "gn:longitude":30.1379,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kanyonyera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7685567
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"3b3b077bb6d0be8e901c547ffe35ad85",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209202751
+        }
+    ],
+    "wof:id":1209202751,
+    "wof:lastmodified":1536294554,
+    "wof:name":"Kanyonyera",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1379,
+    -2.4261,
+    30.1379,
+    -2.4261
+],
+  "geometry": {"coordinates":[30.1379,-2.4261],"type":"Point"}
+}

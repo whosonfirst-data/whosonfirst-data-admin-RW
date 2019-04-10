@@ -1,0 +1,70 @@
+{
+  "id": 1209896285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1024,-2.0159,30.1024,-2.0159",
+    "geom:latitude":-2.0159,
+    "geom:longitude":30.1024,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"1301.0",
+    "gn:admin4_code":"130101.0",
+    "gn:asciiname":"Karushaka",
+    "gn:country_code":"RW",
+    "gn:dem":1533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7656198,
+    "gn:latitude":-2.0159,
+    "gn:longitude":30.1024,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Karushaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676807,
+        421182309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7656198
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"9e7b44727a049a547ab9376ec993b168",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421182309,
+            "locality_id":1209896285,
+            "region_id":85676807
+        }
+    ],
+    "wof:id":1209896285,
+    "wof:lastmodified":1536388466,
+    "wof:name":"Karushaka",
+    "wof:parent_id":421182309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1024,
+    -2.0159,
+    30.1024,
+    -2.0159
+],
+  "geometry": {"coordinates":[30.1024,-2.0159],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1242959657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.681,-1.5758,29.681,-1.5758",
+    "geom:latitude":-1.5758,
+    "geom:longitude":29.681,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"4203.0",
+    "gn:admin4_code":"420303.0",
+    "gn:asciiname":"Rwobe",
+    "gn:country_code":"RW",
+    "gn:dem":1775,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7320136,
+    "gn:latitude":-1.5758,
+    "gn:longitude":29.681,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rwobe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421192889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7320136
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"c7eeba7171643aca3d49a2d6f9a77d1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192889,
+            "locality_id":1242959657,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1242959657,
+    "wof:lastmodified":1537009732,
+    "wof:name":"Rwobe",
+    "wof:parent_id":421192889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.681,
+    -1.5758,
+    29.681,
+    -1.5758
+],
+  "geometry": {"coordinates":[29.681,-1.5758],"type":"Point"}
+}

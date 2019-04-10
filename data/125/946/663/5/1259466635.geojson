@@ -1,0 +1,70 @@
+{
+  "id": 1259466635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3588,-1.8893,29.3588,-1.8893",
+    "geom:latitude":-1.8893,
+    "geom:longitude":29.3588,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"32",
+    "gn:admin3_code":"3212.0",
+    "gn:admin4_code":"321204.0",
+    "gn:asciiname":"Nyakarera",
+    "gn:country_code":"RW",
+    "gn:dem":1840,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6998005,
+    "gn:latitude":-1.8893,
+    "gn:longitude":29.3588,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nyakarera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421190845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6998005
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"ac6b5e8b461fcbae115050db85599602",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421190845,
+            "locality_id":1259466635,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1259466635,
+    "wof:lastmodified":1536882337,
+    "wof:name":"Nyakarera",
+    "wof:parent_id":421190845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3588,
+    -1.8893,
+    29.3588,
+    -1.8893
+],
+  "geometry": {"coordinates":[29.3588,-1.8893],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310278213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4394,-2.3781,29.4394,-2.3781",
+    "geom:latitude":-2.3781,
+    "geom:longitude":29.4394,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"25",
+    "gn:admin3_code":"2513.0",
+    "gn:admin4_code":"251303.0",
+    "gn:asciiname":"Rusekera",
+    "gn:country_code":"RW",
+    "gn:dem":1998,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7049540,
+    "gn:latitude":-2.3781,
+    "gn:longitude":29.4394,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rusekera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421192893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7049540
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"3608f9416f9ba6a0611b0c2cb2eb37af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192893,
+            "locality_id":1310278213,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1310278213,
+    "wof:lastmodified":1536747132,
+    "wof:name":"Rusekera",
+    "wof:parent_id":421192893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4394,
+    -2.3781,
+    29.4394,
+    -2.3781
+],
+  "geometry": {"coordinates":[29.4394,-2.3781],"type":"Point"}
+}

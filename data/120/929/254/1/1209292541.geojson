@@ -1,0 +1,64 @@
+{
+  "id": 1209292541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5105,-2.1833,30.5105,-2.1833",
+    "geom:latitude":-2.1833,
+    "geom:longitude":30.5105,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"56.0",
+    "gn:admin3_code":"5604.0",
+    "gn:admin4_code":"560403.0",
+    "gn:asciiname":"Rwintare",
+    "gn:country_code":"RW",
+    "gn:dem":1577,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7652783,
+    "gn:latitude":-2.1833,
+    "gn:longitude":30.5105,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rwintare",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7652783
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"3a3b36c3d015da76cf00c790aa61a171",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209292541
+        }
+    ],
+    "wof:id":1209292541,
+    "wof:lastmodified":1536291643,
+    "wof:name":"Rwintare",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5105,
+    -2.1833,
+    30.5105,
+    -2.1833
+],
+  "geometry": {"coordinates":[30.5105,-2.1833],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310472775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.42,-2.0922,29.42,-2.0922",
+    "geom:latitude":-2.0922,
+    "geom:longitude":29.42,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"3101.0",
+    "gn:admin4_code":"310104.0",
+    "gn:asciiname":"Muvumbu",
+    "gn:country_code":"RW",
+    "gn:dem":1894,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7662427,
+    "gn:latitude":-2.0922,
+    "gn:longitude":29.42,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Muvumbu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421182175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7662427
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"767ed60a9fbba255c0d4c36b9570d260",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421182175,
+            "locality_id":1310472775,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1310472775,
+    "wof:lastmodified":1536963999,
+    "wof:name":"Muvumbu",
+    "wof:parent_id":421182175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.42,
+    -2.0922,
+    29.42,
+    -2.0922
+],
+  "geometry": {"coordinates":[29.42,-2.0922],"type":"Point"}
+}

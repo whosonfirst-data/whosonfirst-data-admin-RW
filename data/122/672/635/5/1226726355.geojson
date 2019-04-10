@@ -1,0 +1,74 @@
+{
+  "id": 1226726355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7768,-1.6431,29.7768,-1.6431",
+    "geom:latitude":-1.6431,
+    "geom:longitude":29.7768,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"42",
+    "gn:admin3_code":"4204.0",
+    "gn:admin4_code":"420404.0",
+    "gn:asciiname":"Murambi",
+    "gn:country_code":"RW",
+    "gn:dem":1732,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":202642,
+    "gn:latitude":-1.6431,
+    "gn:longitude":29.7768,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Murambi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Murambi",
+        "Murambi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421192889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202642
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"229d78e774f70b5a840577c440452927",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192889,
+            "locality_id":1226726355,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1226726355,
+    "wof:lastmodified":1537699112,
+    "wof:name":"Murambi",
+    "wof:parent_id":421192889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7768,
+    -1.6431,
+    29.7768,
+    -1.6431
+],
+  "geometry": {"coordinates":[29.7768,-1.6431],"type":"Point"}
+}

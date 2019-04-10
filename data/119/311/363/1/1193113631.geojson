@@ -1,0 +1,74 @@
+{
+  "id": 1193113631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7342,-1.585,29.7342,-1.585",
+    "geom:latitude":-1.585,
+    "geom:longitude":29.7342,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"42",
+    "gn:admin3_code":"4209.0",
+    "gn:admin4_code":"420902.0",
+    "gn:asciiname":"Jomba",
+    "gn:country_code":"RW",
+    "gn:dem":1781,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":202894,
+    "gn:latitude":-1.585,
+    "gn:longitude":29.7342,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Jomba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Jomba",
+        "Jomba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421192889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202894
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"e707367cf5b954f14e9a72187f1431d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192889,
+            "locality_id":1193113631,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1193113631,
+    "wof:lastmodified":1537699132,
+    "wof:name":"Jomba",
+    "wof:parent_id":421192889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7342,
+    -1.585,
+    29.7342,
+    -1.585
+],
+  "geometry": {"coordinates":[29.7342,-1.585],"type":"Point"}
+}

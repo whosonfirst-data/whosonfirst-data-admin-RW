@@ -1,0 +1,70 @@
+{
+  "id": 1260253335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9161,-2.4791,28.9161,-2.4791",
+    "geom:latitude":-2.4791,
+    "geom:longitude":28.9161,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"36",
+    "gn:admin3_code":"3609.0",
+    "gn:admin4_code":"360902.0",
+    "gn:asciiname":"Burunga",
+    "gn:country_code":"RW",
+    "gn:dem":1679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7032740,
+    "gn:latitude":-2.4791,
+    "gn:longitude":28.9161,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Burunga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421176723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7032740
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"2292e2efe9fb29d14a2a23d1b347d387",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421176723,
+            "locality_id":1260253335,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1260253335,
+    "wof:lastmodified":1536752730,
+    "wof:name":"Burunga",
+    "wof:parent_id":421176723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9161,
+    -2.4791,
+    28.9161,
+    -2.4791
+],
+  "geometry": {"coordinates":[28.9161,-2.4791],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209297859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9663,-2.5165,28.9663,-2.5165",
+    "geom:latitude":-2.5165,
+    "geom:longitude":28.9663,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"36",
+    "gn:admin3_code":"3614.0",
+    "gn:admin4_code":"361404.0",
+    "gn:asciiname":"Ryamuhirwa",
+    "gn:country_code":"RW",
+    "gn:dem":1989,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7032817,
+    "gn:latitude":-2.5165,
+    "gn:longitude":28.9663,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ryamuhirwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7032817
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"e3db971f388f3198ab112a47a378471d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209297859
+        }
+    ],
+    "wof:id":1209297859,
+    "wof:lastmodified":1536291460,
+    "wof:name":"Ryamuhirwa",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9663,
+    -2.5165,
+    28.9663,
+    -2.5165
+],
+  "geometry": {"coordinates":[28.9663,-2.5165],"type":"Point"}
+}

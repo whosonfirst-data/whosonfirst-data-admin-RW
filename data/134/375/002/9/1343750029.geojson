@@ -1,0 +1,70 @@
+{
+  "id": 1343750029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4156,-1.7684,30.4156,-1.7684",
+    "geom:latitude":-1.7684,
+    "geom:longitude":30.4156,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"53.0",
+    "gn:admin3_code":"5307.0",
+    "gn:admin4_code":"530704.0",
+    "gn:asciiname":"Umulinga",
+    "gn:country_code":"RW",
+    "gn:dem":1630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7106579,
+    "gn:latitude":-1.7684,
+    "gn:longitude":30.4156,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Umulinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421204013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7106579
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"1d64a69875f99dca1bec57f7b17b1dd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421204013,
+            "locality_id":1343750029,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1343750029,
+    "wof:lastmodified":1536825030,
+    "wof:name":"Umulinga",
+    "wof:parent_id":421204013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4156,
+    -1.7684,
+    30.4156,
+    -1.7684
+],
+  "geometry": {"coordinates":[30.4156,-1.7684],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226418877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7606,-1.6249,29.7606,-1.6249",
+    "geom:latitude":-1.6249,
+    "geom:longitude":29.7606,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"4209.0",
+    "gn:admin4_code":"420904.0",
+    "gn:asciiname":"Kintarure",
+    "gn:country_code":"RW",
+    "gn:dem":2015,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7321586,
+    "gn:latitude":-1.6249,
+    "gn:longitude":29.7606,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kintarure",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421192889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7321586
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"6fd9ef88ea6cf7c2cd591d8586c4c638",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192889,
+            "locality_id":1226418877,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1226418877,
+    "wof:lastmodified":1536684226,
+    "wof:name":"Kintarure",
+    "wof:parent_id":421192889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7606,
+    -1.6249,
+    29.7606,
+    -1.6249
+],
+  "geometry": {"coordinates":[29.7606,-1.6249],"type":"Point"}
+}

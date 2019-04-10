@@ -1,0 +1,74 @@
+{
+  "id": 1276957473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3,-1.9,29.3,-1.9",
+    "geom:latitude":-1.9,
+    "geom:longitude":29.3,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"32",
+    "gn:admin3_code":"3201.0",
+    "gn:admin4_code":"320103.0",
+    "gn:asciiname":"Buhoro",
+    "gn:country_code":"RW",
+    "gn:dem":1634,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":203070,
+    "gn:latitude":-1.9,
+    "gn:longitude":29.3,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Buhoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Buhoro",
+        "Buhoro"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421190845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":203070
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"0e4d3c2f520e8088ba20a8270f2dcba5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421190845,
+            "locality_id":1276957473,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1276957473,
+    "wof:lastmodified":1537699145,
+    "wof:name":"Buhoro",
+    "wof:parent_id":421190845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3,
+    -1.9,
+    29.3,
+    -1.9
+],
+  "geometry": {"coordinates":[29.3,-1.9],"type":"Point"}
+}

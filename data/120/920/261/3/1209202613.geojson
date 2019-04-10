@@ -1,0 +1,64 @@
+{
+  "id": 1209202613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3888,-1.74941,30.3888,-1.74941",
+    "geom:latitude":-1.74941,
+    "geom:longitude":30.3888,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"53.0",
+    "gn:admin3_code":"5307.0",
+    "gn:admin4_code":"530703.0",
+    "gn:asciiname":"Kinunga",
+    "gn:country_code":"RW",
+    "gn:dem":1465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7106542,
+    "gn:latitude":-1.74941,
+    "gn:longitude":30.3888,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kinunga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7106542
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"80d34f59ccd6ab36cb21ab9462c42a1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209202613
+        }
+    ],
+    "wof:id":1209202613,
+    "wof:lastmodified":1536294558,
+    "wof:name":"Kinunga",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3888,
+    -1.74941,
+    30.3888,
+    -1.74941
+],
+  "geometry": {"coordinates":[30.3888,-1.74941],"type":"Point"}
+}

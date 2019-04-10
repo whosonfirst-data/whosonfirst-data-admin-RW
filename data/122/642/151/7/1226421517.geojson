@@ -1,0 +1,70 @@
+{
+  "id": 1226421517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5033,-1.6216,29.5033,-1.6216",
+    "geom:latitude":-1.6216,
+    "geom:longitude":29.5033,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"3405.0",
+    "gn:admin4_code":"340502.0",
+    "gn:asciiname":"Kinyanja",
+    "gn:country_code":"RW",
+    "gn:dem":2381,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7320299,
+    "gn:latitude":-1.6216,
+    "gn:longitude":29.5033,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kinyanja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421169419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7320299
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"18490a3aa596bf29c654e02241181206",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421169419,
+            "locality_id":1226421517,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1226421517,
+    "wof:lastmodified":1536680410,
+    "wof:name":"Kinyanja",
+    "wof:parent_id":421169419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5033,
+    -1.6216,
+    29.5033,
+    -1.6216
+],
+  "geometry": {"coordinates":[29.5033,-1.6216],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326813913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3252,-1.7311,29.3252,-1.7311",
+    "geom:latitude":-1.7311,
+    "geom:longitude":29.3252,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"33.0",
+    "gn:admin3_code":"3310.0",
+    "gn:admin4_code":"331003.0",
+    "gn:asciiname":"Kanyahene",
+    "gn:country_code":"RW",
+    "gn:dem":1987,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7605756,
+    "gn:latitude":-1.7311,
+    "gn:longitude":29.3252,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kanyahene",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421187899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7605756
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"0d1f4a34057c48e64dabde27a3428c42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421187899,
+            "locality_id":1326813913,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1326813913,
+    "wof:lastmodified":1537072091,
+    "wof:name":"Kanyahene",
+    "wof:parent_id":421187899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3252,
+    -1.7311,
+    29.3252,
+    -1.7311
+],
+  "geometry": {"coordinates":[29.3252,-1.7311],"type":"Point"}
+}

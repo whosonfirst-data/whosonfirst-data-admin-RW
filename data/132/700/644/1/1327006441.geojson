@@ -1,0 +1,75 @@
+{
+  "id": 1327006441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.05,-1.68333,30.05,-1.68333",
+    "geom:latitude":-1.68333,
+    "geom:longitude":30.05,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"41",
+    "gn:admin3_code":"4104.0",
+    "gn:admin4_code":"410404.0",
+    "gn:asciiname":"Bulenga",
+    "gn:cc2":"RW",
+    "gn:country_code":"RW",
+    "gn:dem":2024,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":203060,
+    "gn:latitude":-1.68333,
+    "gn:longitude":30.05,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Bulenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Bulenga",
+        "Bulenga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421203217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":203060
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"8be389c1a5b5a5a8b3bde1482674b5d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421203217,
+            "locality_id":1327006441,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1327006441,
+    "wof:lastmodified":1537699144,
+    "wof:name":"Bulenga",
+    "wof:parent_id":421203217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.05,
+    -1.68333,
+    30.05,
+    -1.68333
+],
+  "geometry": {"coordinates":[30.05,-1.68333],"type":"Point"}
+}

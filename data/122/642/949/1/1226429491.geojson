@@ -1,0 +1,70 @@
+{
+  "id": 1226429491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0236,-1.9679,30.0236,-1.9679",
+    "geom:latitude":-1.9679,
+    "geom:longitude":30.0236,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"1103.0",
+    "gn:admin4_code":"110301.0",
+    "gn:asciiname":"Gakomeye",
+    "gn:country_code":"RW",
+    "gn:dem":1494,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7595659,
+    "gn:latitude":-1.9679,
+    "gn:longitude":30.0236,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gakomeye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676807,
+        421204011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7595659
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"2ff342ad6bcc07bb6517b1d9a2233924",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421204011,
+            "locality_id":1226429491,
+            "region_id":85676807
+        }
+    ],
+    "wof:id":1226429491,
+    "wof:lastmodified":1536668921,
+    "wof:name":"Gakomeye",
+    "wof:parent_id":421204011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0236,
+    -1.9679,
+    30.0236,
+    -1.9679
+],
+  "geometry": {"coordinates":[30.0236,-1.9679],"type":"Point"}
+}

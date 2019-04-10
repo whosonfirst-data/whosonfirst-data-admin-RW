@@ -1,0 +1,70 @@
+{
+  "id": 1225932083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6859,-2.1565,30.6859,-2.1565",
+    "geom:latitude":-2.1565,
+    "geom:longitude":30.6859,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"55.0",
+    "gn:admin3_code":"5510.0",
+    "gn:admin4_code":"551003.0",
+    "gn:asciiname":"Nyamikoni",
+    "gn:country_code":"RW",
+    "gn:dem":1735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7652738,
+    "gn:latitude":-2.1565,
+    "gn:longitude":30.6859,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nyamikoni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421175701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7652738
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"863ccc4046a27ebc3d98d6ad28d579f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421175701,
+            "locality_id":1225932083,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1225932083,
+    "wof:lastmodified":1536888748,
+    "wof:name":"Nyamikoni",
+    "wof:parent_id":421175701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6859,
+    -2.1565,
+    30.6859,
+    -2.1565
+],
+  "geometry": {"coordinates":[30.6859,-2.1565],"type":"Point"}
+}

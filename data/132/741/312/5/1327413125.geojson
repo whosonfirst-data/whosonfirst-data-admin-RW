@@ -1,0 +1,70 @@
+{
+  "id": 1327413125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0864,-1.6527,30.0864,-1.6527",
+    "geom:latitude":-1.6527,
+    "geom:longitude":30.0864,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"4506.0",
+    "gn:admin4_code":"450603.0",
+    "gn:asciiname":"Gatobotobo",
+    "gn:country_code":"RW",
+    "gn:dem":2002,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7593102,
+    "gn:latitude":-1.6527,
+    "gn:longitude":30.0864,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gatobotobo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421175213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7593102
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"feddb152c50b58a73b4d0481c3c21ad0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421175213,
+            "locality_id":1327413125,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1327413125,
+    "wof:lastmodified":1536708955,
+    "wof:name":"Gatobotobo",
+    "wof:parent_id":421175213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0864,
+    -1.6527,
+    30.0864,
+    -1.6527
+],
+  "geometry": {"coordinates":[30.0864,-1.6527],"type":"Point"}
+}

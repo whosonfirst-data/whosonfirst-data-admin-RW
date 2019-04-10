@@ -1,0 +1,73 @@
+{
+  "id": 1260360535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2769,-1.6857,29.2769,-1.6857",
+    "geom:latitude":-1.6857,
+    "geom:longitude":29.2769,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"33.0",
+    "gn:admin3_code":"3312.0",
+    "gn:admin4_code":"331202.0",
+    "gn:asciiname":"Rucyamu",
+    "gn:country_code":"RW",
+    "gn:dem":1607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7605654,
+    "gn:latitude":-1.6857,
+    "gn:longitude":29.2769,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rucyamu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rucyamo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421187899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7605654
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"01b75428324d86d830ef617344c51162",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421187899,
+            "locality_id":1260360535,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1260360535,
+    "wof:lastmodified":1537699158,
+    "wof:name":"Rucyamu",
+    "wof:parent_id":421187899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2769,
+    -1.6857,
+    29.2769,
+    -1.6857
+],
+  "geometry": {"coordinates":[29.2769,-1.6857],"type":"Point"}
+}

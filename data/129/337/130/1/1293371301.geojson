@@ -1,0 +1,74 @@
+{
+  "id": 1293371301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.305,-1.7636,30.305,-1.7636",
+    "geom:latitude":-1.7636,
+    "geom:longitude":30.305,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"53",
+    "gn:admin3_code":"5308.0",
+    "gn:admin4_code":"530802.0",
+    "gn:asciiname":"Bibare",
+    "gn:country_code":"RW",
+    "gn:dem":1806,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":382973,
+    "gn:latitude":-1.7636,
+    "gn:longitude":30.305,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Bibare",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bibale",
+        "Bibare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421204013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":382973
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"03cd5517f5c71fae28d995c540ca79d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421204013,
+            "locality_id":1293371301,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1293371301,
+    "wof:lastmodified":1537699148,
+    "wof:name":"Bibare",
+    "wof:parent_id":421204013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.305,
+    -1.7636,
+    30.305,
+    -1.7636
+],
+  "geometry": {"coordinates":[30.305,-1.7636],"type":"Point"}
+}

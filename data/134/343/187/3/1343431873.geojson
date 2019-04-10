@@ -1,0 +1,70 @@
+{
+  "id": 1343431873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.516,-1.7026,29.516,-1.7026",
+    "geom:latitude":-1.7026,
+    "geom:longitude":29.516,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"3408.0",
+    "gn:admin4_code":"340803.0",
+    "gn:asciiname":"Gihira",
+    "gn:country_code":"RW",
+    "gn:dem":2372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7320580,
+    "gn:latitude":-1.7026,
+    "gn:longitude":29.516,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gihira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421169419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7320580
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"38708fe9334b574bdd5281504c53d6a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421169419,
+            "locality_id":1343431873,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1343431873,
+    "wof:lastmodified":1536788074,
+    "wof:name":"Gihira",
+    "wof:parent_id":421169419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.516,
+    -1.7026,
+    29.516,
+    -1.7026
+],
+  "geometry": {"coordinates":[29.516,-1.7026],"type":"Point"}
+}

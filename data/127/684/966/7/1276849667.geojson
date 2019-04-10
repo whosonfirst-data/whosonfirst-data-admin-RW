@@ -1,0 +1,70 @@
+{
+  "id": 1276849667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.98602,-2.41432,28.98602,-2.41432",
+    "geom:latitude":-2.41432,
+    "geom:longitude":28.98602,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"37",
+    "gn:admin3_code":"3702.0",
+    "gn:admin4_code":"370201.0",
+    "gn:asciiname":"Kubagiramenyo",
+    "gn:country_code":"RW",
+    "gn:dem":1572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7032624,
+    "gn:latitude":-2.41432,
+    "gn:longitude":28.98602,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kubagiramenyo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421192891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7032624
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"3f97e5cb318f56571a1afab3899db5f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192891,
+            "locality_id":1276849667,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1276849667,
+    "wof:lastmodified":1537078465,
+    "wof:name":"Kubagiramenyo",
+    "wof:parent_id":421192891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.98602,
+    -2.41432,
+    28.98602,
+    -2.41432
+],
+  "geometry": {"coordinates":[28.98602,-2.41432],"type":"Point"}
+}

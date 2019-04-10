@@ -1,0 +1,75 @@
+{
+  "id": 1310485107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.31667,-1.73333,29.31667,-1.73333",
+    "geom:latitude":-1.73333,
+    "geom:longitude":29.31667,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"33",
+    "gn:admin3_code":"3310.0",
+    "gn:admin4_code":"331003.0",
+    "gn:asciiname":"Kangwandi",
+    "gn:cc2":"RW",
+    "gn:country_code":"RW",
+    "gn:dem":1894,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":202857,
+    "gn:latitude":-1.73333,
+    "gn:longitude":29.31667,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kangwandi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Kangwandi",
+        "Kangwandi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421187899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202857
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"3df3a54efbf8aaee5bcbe0119ba3d9fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421187899,
+            "locality_id":1310485107,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1310485107,
+    "wof:lastmodified":1537699129,
+    "wof:name":"Kangwandi",
+    "wof:parent_id":421187899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.31667,
+    -1.73333,
+    29.31667,
+    -1.73333
+],
+  "geometry": {"coordinates":[29.31667,-1.73333],"type":"Point"}
+}

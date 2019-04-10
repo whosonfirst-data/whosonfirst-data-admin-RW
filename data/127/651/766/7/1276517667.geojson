@@ -1,0 +1,70 @@
+{
+  "id": 1276517667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6854,-1.8461,29.6854,-1.8461",
+    "geom:latitude":-1.8461,
+    "geom:longitude":29.6854,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"27",
+    "gn:admin3_code":"2703.0",
+    "gn:admin4_code":"270302.0",
+    "gn:asciiname":"Kibangu",
+    "gn:country_code":"RW",
+    "gn:dem":1653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":202085,
+    "gn:latitude":-1.8461,
+    "gn:longitude":29.6854,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kibangu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421192887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202085
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"91e30d06827e7d3f66ff6f22520e4f1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192887,
+            "locality_id":1276517667,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1276517667,
+    "wof:lastmodified":1537027978,
+    "wof:name":"Kibangu",
+    "wof:parent_id":421192887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6854,
+    -1.8461,
+    29.6854,
+    -1.8461
+],
+  "geometry": {"coordinates":[29.6854,-1.8461],"type":"Point"}
+}

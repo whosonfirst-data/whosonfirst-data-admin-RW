@@ -1,0 +1,70 @@
+{
+  "id": 1343239257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0237,-2.0465,30.0237,-2.0465",
+    "geom:latitude":-2.0465,
+    "geom:longitude":30.0237,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"1105.0",
+    "gn:admin4_code":"110507.0",
+    "gn:asciiname":"Mageregere",
+    "gn:country_code":"RW",
+    "gn:dem":1588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7656239,
+    "gn:latitude":-2.0465,
+    "gn:longitude":30.0237,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Mageregere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676807,
+        421204011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7656239
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"dbb23b75226f69af810f876a7c5e92ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421204011,
+            "locality_id":1343239257,
+            "region_id":85676807
+        }
+    ],
+    "wof:id":1343239257,
+    "wof:lastmodified":1537062832,
+    "wof:name":"Mageregere",
+    "wof:parent_id":421204011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0237,
+    -2.0465,
+    30.0237,
+    -2.0465
+],
+  "geometry": {"coordinates":[30.0237,-2.0465],"type":"Point"}
+}

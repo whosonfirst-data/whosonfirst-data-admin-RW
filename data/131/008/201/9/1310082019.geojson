@@ -1,0 +1,74 @@
+{
+  "id": 1310082019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.89142,-1.5648,29.89142,-1.5648",
+    "geom:latitude":-1.5648,
+    "geom:longitude":29.89142,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"44",
+    "gn:admin3_code":"4415.0",
+    "gn:admin4_code":"441501.0",
+    "gn:asciiname":"Rubona",
+    "gn:country_code":"RW",
+    "gn:dem":2292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":202464,
+    "gn:latitude":-1.5648,
+    "gn:longitude":29.89142,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rubona",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Rubona",
+        "Rubona"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421180243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202464
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"d2fbba9395e50deae42d812ef136007b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421180243,
+            "locality_id":1310082019,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1310082019,
+    "wof:lastmodified":1537699100,
+    "wof:name":"Rubona",
+    "wof:parent_id":421180243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.89142,
+    -1.5648,
+    29.89142,
+    -1.5648
+],
+  "geometry": {"coordinates":[29.89142,-1.5648],"type":"Point"}
+}

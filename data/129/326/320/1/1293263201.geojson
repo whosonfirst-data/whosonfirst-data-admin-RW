@@ -1,0 +1,70 @@
+{
+  "id": 1293263201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3564,-2.019,29.3564,-2.019",
+    "geom:latitude":-2.019,
+    "geom:longitude":29.3564,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"32.0",
+    "gn:admin3_code":"3210.0",
+    "gn:admin4_code":"321005.0",
+    "gn:asciiname":"Nyamahuru",
+    "gn:country_code":"RW",
+    "gn:dem":1579,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7662270,
+    "gn:latitude":-2.019,
+    "gn:longitude":29.3564,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nyamahuru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421190845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7662270
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"cde6dc46ecaf3d6f19c1bd4a95d8b571",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421190845,
+            "locality_id":1293263201,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1293263201,
+    "wof:lastmodified":1536610860,
+    "wof:name":"Nyamahuru",
+    "wof:parent_id":421190845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3564,
+    -2.019,
+    29.3564,
+    -2.019
+],
+  "geometry": {"coordinates":[29.3564,-2.019],"type":"Point"}
+}

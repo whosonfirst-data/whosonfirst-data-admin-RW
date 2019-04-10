@@ -1,0 +1,70 @@
+{
+  "id": 1344235193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2143,-1.4788,30.2143,-1.4788",
+    "geom:latitude":-1.4788,
+    "geom:longitude":30.2143,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"52.0",
+    "gn:admin3_code":"5207.0",
+    "gn:admin4_code":"520702.0",
+    "gn:asciiname":"Nyarwina",
+    "gn:country_code":"RW",
+    "gn:dem":1460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7582567,
+    "gn:latitude":-1.4788,
+    "gn:longitude":30.2143,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nyarwina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421193621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7582567
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"b20ef9361d5e2cfa11b7c572b597a12d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421193621,
+            "locality_id":1344235193,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1344235193,
+    "wof:lastmodified":1536621455,
+    "wof:name":"Nyarwina",
+    "wof:parent_id":421193621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2143,
+    -1.4788,
+    30.2143,
+    -1.4788
+],
+  "geometry": {"coordinates":[30.2143,-1.4788],"type":"Point"}
+}

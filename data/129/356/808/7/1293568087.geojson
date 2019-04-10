@@ -1,0 +1,70 @@
+{
+  "id": 1293568087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4464,-2.0211,29.4464,-2.0211",
+    "geom:latitude":-2.0211,
+    "geom:longitude":29.4464,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"32.0",
+    "gn:admin3_code":"3206.0",
+    "gn:admin4_code":"320604.0",
+    "gn:asciiname":"Gako",
+    "gn:country_code":"RW",
+    "gn:dem":2114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7662273,
+    "gn:latitude":-2.0211,
+    "gn:longitude":29.4464,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gako",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421190845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7662273
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"ce0af68dd59c342934a6417268196444",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421190845,
+            "locality_id":1293568087,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1293568087,
+    "wof:lastmodified":1536670912,
+    "wof:name":"Gako",
+    "wof:parent_id":421190845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4464,
+    -2.0211,
+    29.4464,
+    -2.0211
+],
+  "geometry": {"coordinates":[29.4464,-2.0211],"type":"Point"}
+}

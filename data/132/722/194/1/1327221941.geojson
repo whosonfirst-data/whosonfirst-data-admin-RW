@@ -1,0 +1,71 @@
+{
+  "id": 1327221941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7131,-2.2775,30.7131,-2.2775",
+    "geom:latitude":-2.2775,
+    "geom:longitude":30.7131,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"55.0",
+    "gn:admin3_code":"5504.0",
+    "gn:admin4_code":"550404.0",
+    "gn:asciiname":"Nyarubuye",
+    "gn:country_code":"RW",
+    "gn:dem":1727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7686488,
+    "gn:latitude":-2.2775,
+    "gn:longitude":30.7131,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nyarubuye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421175701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7686488,
+        "wk:page":"Nyarubuye"
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"6e263e6f4f842695d43a886204d2bc35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421175701,
+            "locality_id":1327221941,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1327221941,
+    "wof:lastmodified":1537573245,
+    "wof:name":"Nyarubuye",
+    "wof:parent_id":421175701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7131,
+    -2.2775,
+    30.7131,
+    -2.2775
+],
+  "geometry": {"coordinates":[30.7131,-2.2775],"type":"Point"}
+}

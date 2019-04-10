@@ -1,0 +1,70 @@
+{
+  "id": 1260252745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.696,-2.0406,29.696,-2.0406",
+    "geom:latitude":-2.0406,
+    "geom:longitude":29.696,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"27.0",
+    "gn:admin3_code":"2705.0",
+    "gn:admin4_code":"270501.0",
+    "gn:asciiname":"Ngoma",
+    "gn:country_code":"RW",
+    "gn:dem":1637,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8535428,
+    "gn:latitude":-2.0406,
+    "gn:longitude":29.696,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ngoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421192887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8535428
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"28e626dc66b7b9def6a745a741e15f17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192887,
+            "locality_id":1260252745,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1260252745,
+    "wof:lastmodified":1536753610,
+    "wof:name":"Ngoma",
+    "wof:parent_id":421192887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.696,
+    -2.0406,
+    29.696,
+    -2.0406
+],
+  "geometry": {"coordinates":[29.696,-2.0406],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1344239809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.66881,-1.99986,29.66881,-1.99986",
+    "geom:latitude":-1.99986,
+    "geom:longitude":29.66881,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"27.0",
+    "gn:admin3_code":"2706.0",
+    "gn:admin4_code":"270602.0",
+    "gn:asciiname":"Rukendu",
+    "gn:country_code":"RW",
+    "gn:dem":1727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8306454,
+    "gn:latitude":-1.99986,
+    "gn:longitude":29.66881,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rukendu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421192887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8306454
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"7a0bfb071776a055e1cd112ad3ed6930",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192887,
+            "locality_id":1344239809,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1344239809,
+    "wof:lastmodified":1536614472,
+    "wof:name":"Rukendu",
+    "wof:parent_id":421192887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.66881,
+    -1.99986,
+    29.66881,
+    -1.99986
+],
+  "geometry": {"coordinates":[29.66881,-1.99986],"type":"Point"}
+}

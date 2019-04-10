@@ -1,0 +1,70 @@
+{
+  "id": 1293369055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3638,-1.9198,29.3638,-1.9198",
+    "geom:latitude":-1.9198,
+    "geom:longitude":29.3638,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"32",
+    "gn:admin3_code":"3208.0",
+    "gn:admin4_code":"320802.0",
+    "gn:asciiname":"Kanombe",
+    "gn:country_code":"RW",
+    "gn:dem":1679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6998079,
+    "gn:latitude":-1.9198,
+    "gn:longitude":29.3638,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kanombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421190845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6998079
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"e76d504e2183be7cd06d3ce142dec4ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421190845,
+            "locality_id":1293369055,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1293369055,
+    "wof:lastmodified":1536957807,
+    "wof:name":"Kanombe",
+    "wof:parent_id":421190845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3638,
+    -1.9198,
+    29.3638,
+    -1.9198
+],
+  "geometry": {"coordinates":[29.3638,-1.9198],"type":"Point"}
+}

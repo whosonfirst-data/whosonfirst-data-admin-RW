@@ -1,0 +1,74 @@
+{
+  "id": 1309976479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5784,-2.3573,29.5784,-2.3573",
+    "geom:latitude":-2.3573,
+    "geom:longitude":29.5784,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"25",
+    "gn:admin3_code":"2510.0",
+    "gn:admin4_code":"251001.0",
+    "gn:asciiname":"Mbazi",
+    "gn:country_code":"RW",
+    "gn:dem":1706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":201881,
+    "gn:latitude":-2.3573,
+    "gn:longitude":29.5784,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Mbazi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mont Mbazi",
+        "Mbazi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421192893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":201881
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"8111ca77ad2e11a0a003e1a0fea4c28b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192893,
+            "locality_id":1309976479,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1309976479,
+    "wof:lastmodified":1537699083,
+    "wof:name":"Mbazi",
+    "wof:parent_id":421192893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5784,
+    -2.3573,
+    29.5784,
+    -2.3573
+],
+  "geometry": {"coordinates":[29.5784,-2.3573],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1327120667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.723,-1.4711,29.723,-1.4711",
+    "geom:latitude":-1.4711,
+    "geom:longitude":29.723,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"4409.0",
+    "gn:admin4_code":"440903.0",
+    "gn:asciiname":"Mbonabose",
+    "gn:country_code":"RW",
+    "gn:dem":1812,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7572210,
+    "gn:latitude":-1.4711,
+    "gn:longitude":29.723,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Mbonabose",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421180243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7572210
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"ec0596849ab79f70f100c8e6076b0223",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421180243,
+            "locality_id":1327120667,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1327120667,
+    "wof:lastmodified":1536631577,
+    "wof:name":"Mbonabose",
+    "wof:parent_id":421180243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.72300000000001,
+    -1.4711,
+    29.72300000000001,
+    -1.4711
+],
+  "geometry": {"coordinates":[29.72300000000001,-1.4711],"type":"Point"}
+}

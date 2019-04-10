@@ -1,0 +1,70 @@
+{
+  "id": 1343544035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5583,-2.5641,29.5583,-2.5641",
+    "geom:latitude":-2.5641,
+    "geom:longitude":29.5583,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"23",
+    "gn:admin3_code":"2305.0",
+    "gn:admin4_code":"230502.0",
+    "gn:asciiname":"Runono",
+    "gn:country_code":"RW",
+    "gn:dem":1974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7016569,
+    "gn:latitude":-2.5641,
+    "gn:longitude":29.5583,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Runono",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7016569
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"d41c1e16882be5364263cad45033914e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561303,
+            "locality_id":1343544035,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1343544035,
+    "wof:lastmodified":1536623689,
+    "wof:name":"Runono",
+    "wof:parent_id":1108561303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5583,
+    -2.5641,
+    29.5583,
+    -2.5641
+],
+  "geometry": {"coordinates":[29.5583,-2.5641],"type":"Point"}
+}

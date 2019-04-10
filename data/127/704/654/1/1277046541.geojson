@@ -1,0 +1,70 @@
+{
+  "id": 1277046541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9859,-2.6453,28.9859,-2.6453",
+    "geom:latitude":-2.6453,
+    "geom:longitude":28.9859,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"36",
+    "gn:admin3_code":"3618.0",
+    "gn:admin4_code":"361805.0",
+    "gn:asciiname":"Nyashenge",
+    "gn:country_code":"RW",
+    "gn:dem":1373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7032996,
+    "gn:latitude":-2.6453,
+    "gn:longitude":28.9859,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nyashenge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421176723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7032996
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"08555acd7b1723b2ef4e36f9992586af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421176723,
+            "locality_id":1277046541,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1277046541,
+    "wof:lastmodified":1536816987,
+    "wof:name":"Nyashenge",
+    "wof:parent_id":421176723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9859,
+    -2.6453,
+    28.9859,
+    -2.6453
+],
+  "geometry": {"coordinates":[28.9859,-2.6453],"type":"Point"}
+}

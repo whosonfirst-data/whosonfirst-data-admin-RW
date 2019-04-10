@@ -1,0 +1,70 @@
+{
+  "id": 1327008167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.6356,-2.1551,30.6356,-2.1551",
+    "geom:latitude":-2.1551,
+    "geom:longitude":30.6356,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"56.0",
+    "gn:admin3_code":"5610.0",
+    "gn:admin4_code":"561004.0",
+    "gn:asciiname":"Bweranka",
+    "gn:country_code":"RW",
+    "gn:dem":1615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7652731,
+    "gn:latitude":-2.1551,
+    "gn:longitude":30.6356,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Bweranka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        1108561297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7652731
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"6dc5ef9225c0a2ff43d72c8812befd87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561297,
+            "locality_id":1327008167,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1327008167,
+    "wof:lastmodified":1536795747,
+    "wof:name":"Bweranka",
+    "wof:parent_id":1108561297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.6356,
+    -2.1551,
+    30.6356,
+    -2.1551
+],
+  "geometry": {"coordinates":[30.6356,-2.1551],"type":"Point"}
+}

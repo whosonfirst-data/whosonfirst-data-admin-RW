@@ -1,0 +1,70 @@
+{
+  "id": 1327207071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.61935,-2.15295,29.61935,-2.15295",
+    "geom:latitude":-2.15295,
+    "geom:longitude":29.61935,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"26",
+    "gn:admin3_code":"2605.0",
+    "gn:admin4_code":"260502.0",
+    "gn:asciiname":"Muremure",
+    "gn:country_code":"RW",
+    "gn:dem":1727,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":384207,
+    "gn:latitude":-2.15295,
+    "gn:longitude":29.61935,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Muremure",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":384207
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"68e8f40adf6b4ca19c202a5f17862bc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561299,
+            "locality_id":1327207071,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1327207071,
+    "wof:lastmodified":1537005564,
+    "wof:name":"Muremure",
+    "wof:parent_id":1108561299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.61935,
+    -2.15295,
+    29.61935,
+    -2.15295
+],
+  "geometry": {"coordinates":[29.61935,-2.15295],"type":"Point"}
+}

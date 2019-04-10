@@ -1,0 +1,75 @@
+{
+  "id": 1343347923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0634,-1.4338,30.0634,-1.4338",
+    "geom:latitude":-1.4338,
+    "geom:longitude":30.0634,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"45",
+    "gn:admin3_code":"4507.0",
+    "gn:admin4_code":"450705.0",
+    "gn:asciiname":"Kamushuli",
+    "gn:country_code":"RW",
+    "gn:dem":2167,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":202860,
+    "gn:latitude":-1.4338,
+    "gn:longitude":30.0634,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kamushuli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Kamushuri",
+        "Kamushuli",
+        "Kamushuri"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421175213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202860
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"064837c7f4e20ea899181b168d623539",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421175213,
+            "locality_id":1343347923,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1343347923,
+    "wof:lastmodified":1537699130,
+    "wof:name":"Kamushuli",
+    "wof:parent_id":421175213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0634,
+    -1.4338,
+    30.0634,
+    -1.4338
+],
+  "geometry": {"coordinates":[30.0634,-1.4338],"type":"Point"}
+}

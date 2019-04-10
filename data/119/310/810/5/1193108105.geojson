@@ -1,0 +1,70 @@
+{
+  "id": 1193108105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3117,-1.7067,29.3117,-1.7067",
+    "geom:latitude":-1.7067,
+    "geom:longitude":29.3117,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"33.0",
+    "gn:admin3_code":"3310.0",
+    "gn:admin4_code":"331007.0",
+    "gn:asciiname":"Keya",
+    "gn:country_code":"RW",
+    "gn:dem":1690,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7605705,
+    "gn:latitude":-1.7067,
+    "gn:longitude":29.3117,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Keya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421187899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7605705
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"6fa6dc01fd4d988943a444c7a1393ba9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421187899,
+            "locality_id":1193108105,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1193108105,
+    "wof:lastmodified":1536376265,
+    "wof:name":"Keya",
+    "wof:parent_id":421187899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3117,
+    -1.7067,
+    29.3117,
+    -1.7067
+],
+  "geometry": {"coordinates":[29.3117,-1.7067],"type":"Point"}
+}

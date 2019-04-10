@@ -1,0 +1,70 @@
+{
+  "id": 1226820019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6246,-1.7477,29.6246,-1.7477",
+    "geom:latitude":-1.7477,
+    "geom:longitude":29.6246,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"35.0",
+    "gn:admin3_code":"3507.0",
+    "gn:admin4_code":"350702.0",
+    "gn:asciiname":"Rusatira",
+    "gn:country_code":"RW",
+    "gn:dem":1615,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7320695,
+    "gn:latitude":-1.7477,
+    "gn:longitude":29.6246,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rusatira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        1108561295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7320695
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"21abfe5ba5e43895ab96003293e3414d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561295,
+            "locality_id":1226820019,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1226820019,
+    "wof:lastmodified":1536605702,
+    "wof:name":"Rusatira",
+    "wof:parent_id":1108561295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6246,
+    -1.7477,
+    29.6246,
+    -1.7477
+],
+  "geometry": {"coordinates":[29.6246,-1.7477],"type":"Point"}
+}

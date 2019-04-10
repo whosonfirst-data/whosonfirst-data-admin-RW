@@ -1,0 +1,70 @@
+{
+  "id": 1226221205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2709,-2.186,29.2709,-2.186",
+    "geom:latitude":-2.186,
+    "geom:longitude":29.2709,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"37.0",
+    "gn:admin3_code":"3704.0",
+    "gn:admin4_code":"370404.0",
+    "gn:asciiname":"Gituruka",
+    "gn:country_code":"RW",
+    "gn:dem":1612,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7662675,
+    "gn:latitude":-2.186,
+    "gn:longitude":29.2709,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gituruka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421192891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7662675
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"c5236651b524b064a974dc887f30a74a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192891,
+            "locality_id":1226221205,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1226221205,
+    "wof:lastmodified":1536968791,
+    "wof:name":"Gituruka",
+    "wof:parent_id":421192891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2709,
+    -2.186,
+    29.2709,
+    -2.186
+],
+  "geometry": {"coordinates":[29.2709,-2.186],"type":"Point"}
+}

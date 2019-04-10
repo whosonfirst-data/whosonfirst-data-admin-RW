@@ -1,0 +1,63 @@
+{
+  "id": 1277150623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.096,-2.3372,29.096,-2.3372",
+    "geom:latitude":-2.3372,
+    "geom:longitude":29.096,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Gasayo",
+    "gn:country_code":"RW",
+    "gn:dem":1468,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7021390,
+    "gn:latitude":-2.3372,
+    "gn:longitude":29.096,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Gasayo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7021390
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"601bfbd89e43f7f27fce31e52b9fce7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1277150623,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1277150623,
+    "wof:lastmodified":1536669863,
+    "wof:name":"Gasayo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.096,
+    -2.3372,
+    29.096,
+    -2.3372
+],
+  "geometry": {"coordinates":[29.096,-2.3372],"type":"Point"}
+}

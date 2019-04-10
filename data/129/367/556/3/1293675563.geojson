@@ -1,0 +1,74 @@
+{
+  "id": 1293675563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6821,-1.6906,29.6821,-1.6906",
+    "geom:latitude":-1.6906,
+    "geom:longitude":29.6821,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"42",
+    "gn:admin3_code":"4215.0",
+    "gn:admin4_code":"421503.0",
+    "gn:asciiname":"Butambwe",
+    "gn:country_code":"RW",
+    "gn:dem":1671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":203037,
+    "gn:latitude":-1.6906,
+    "gn:longitude":29.6821,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Butambwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Butambwe",
+        "Butambwe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421192889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":203037
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"9b8bfd0145a3ef7bdac3a48dcc607273",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192889,
+            "locality_id":1293675563,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1293675563,
+    "wof:lastmodified":1537699142,
+    "wof:name":"Butambwe",
+    "wof:parent_id":421192889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6821,
+    -1.6906,
+    29.6821,
+    -1.6906
+],
+  "geometry": {"coordinates":[29.6821,-1.6906],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209585997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6964,-1.8536,29.6964,-1.8536",
+    "geom:latitude":-1.8536,
+    "geom:longitude":29.6964,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"27",
+    "gn:admin3_code":"2703.0",
+    "gn:admin4_code":"270302.0",
+    "gn:asciiname":"Gafunzo",
+    "gn:country_code":"RW",
+    "gn:dem":1635,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":202305,
+    "gn:latitude":-1.8536,
+    "gn:longitude":29.6964,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gafunzo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202305
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"a65caa31cc48477fd5b5c65f77ed543f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209585997
+        }
+    ],
+    "wof:id":1209585997,
+    "wof:lastmodified":1536282634,
+    "wof:name":"Gafunzo",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6964,
+    -1.8536,
+    29.6964,
+    -1.8536
+],
+  "geometry": {"coordinates":[29.6964,-1.8536],"type":"Point"}
+}

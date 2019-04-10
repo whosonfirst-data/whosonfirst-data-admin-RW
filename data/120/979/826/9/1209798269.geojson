@@ -1,0 +1,71 @@
+{
+  "id": 1209798269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.833,-2.6004,29.833,-2.6004",
+    "geom:latitude":-2.6004,
+    "geom:longitude":29.833,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"22",
+    "gn:admin3_code":"2211.0",
+    "gn:admin4_code":"221104.0",
+    "gn:asciiname":"Ndora",
+    "gn:country_code":"RW",
+    "gn:dem":1691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":201719,
+    "gn:latitude":-2.6004,
+    "gn:longitude":29.833,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ndora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":201719,
+        "wk:page":"Ndora"
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"20bf23bfc367be5d36b1aaa1439ab7f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561301,
+            "locality_id":1209798269,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1209798269,
+    "wof:lastmodified":1537573238,
+    "wof:name":"Ndora",
+    "wof:parent_id":1108561301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.833,
+    -2.6004,
+    29.833,
+    -2.6004
+],
+  "geometry": {"coordinates":[29.833,-2.6004],"type":"Point"}
+}

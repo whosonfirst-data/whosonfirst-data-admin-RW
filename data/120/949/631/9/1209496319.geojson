@@ -1,0 +1,64 @@
+{
+  "id": 1209496319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4661,-2.1322,30.4661,-2.1322",
+    "geom:latitude":-2.1322,
+    "geom:longitude":30.4661,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"56.0",
+    "gn:admin3_code":"5603.0",
+    "gn:admin4_code":"560301.0",
+    "gn:asciiname":"Nyimbyi",
+    "gn:country_code":"RW",
+    "gn:dem":1428,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7654405,
+    "gn:latitude":-2.1322,
+    "gn:longitude":30.4661,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nyimbyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7654405
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"871c9b117c1adb7b0c3c2dc2d6fd239c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209496319
+        }
+    ],
+    "wof:id":1209496319,
+    "wof:lastmodified":1536285324,
+    "wof:name":"Nyimbyi",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4661,
+    -2.1322,
+    30.4661,
+    -2.1322
+],
+  "geometry": {"coordinates":[30.4661,-2.1322],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1260360485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1603,-2.3207,29.1603,-2.3207",
+    "geom:latitude":-2.3207,
+    "geom:longitude":29.1603,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"37",
+    "gn:admin3_code":"3706.0",
+    "gn:admin4_code":"370602.0",
+    "gn:asciiname":"Rubonal",
+    "gn:country_code":"RW",
+    "gn:dem":1605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7021340,
+    "gn:latitude":-2.3207,
+    "gn:longitude":29.1603,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rubonal",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rubona",
+        "Rubonal"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421192891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7021340
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"85ec575de89add5ce20eb39a01df38fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192891,
+            "locality_id":1260360485,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1260360485,
+    "wof:lastmodified":1537699152,
+    "wof:name":"Rubonal",
+    "wof:parent_id":421192891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1603,
+    -2.3207,
+    29.1603,
+    -2.3207
+],
+  "geometry": {"coordinates":[29.1603,-2.3207],"type":"Point"}
+}

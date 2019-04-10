@@ -1,0 +1,70 @@
+{
+  "id": 1344128269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8071,-1.3728,29.8071,-1.3728",
+    "geom:latitude":-1.3728,
+    "geom:longitude":29.8071,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"4410.0",
+    "gn:admin4_code":"441001.0",
+    "gn:asciiname":"Nyarwishwa",
+    "gn:country_code":"RW",
+    "gn:dem":1939,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7582206,
+    "gn:latitude":-1.3728,
+    "gn:longitude":29.8071,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nyarwishwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421180243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7582206
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"f95092099140cf9bbacbb3162ae2c780",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421180243,
+            "locality_id":1344128269,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1344128269,
+    "wof:lastmodified":1536778345,
+    "wof:name":"Nyarwishwa",
+    "wof:parent_id":421180243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8071,
+    -1.3728,
+    29.8071,
+    -1.3728
+],
+  "geometry": {"coordinates":[29.8071,-1.3728],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243528261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.401,-2.2824,29.401,-2.2824",
+    "geom:latitude":-2.2824,
+    "geom:longitude":29.401,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Kadasomwa",
+    "gn:country_code":"RW",
+    "gn:dem":2220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7049412,
+    "gn:latitude":-2.2824,
+    "gn:longitude":29.401,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Kadasomwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421192893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7049412
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"74efb5501b9e655be1db92e47658312a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192893,
+            "locality_id":1243528261,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1243528261,
+    "wof:lastmodified":1536687723,
+    "wof:name":"Kadasomwa",
+    "wof:parent_id":421192893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.401,
+    -2.2824,
+    29.401,
+    -2.2824
+],
+  "geometry": {"coordinates":[29.401,-2.2824],"type":"Point"}
+}

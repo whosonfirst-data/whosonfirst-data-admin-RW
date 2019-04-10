@@ -1,0 +1,70 @@
+{
+  "id": 1226023801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2808,-1.6768,29.2808,-1.6768",
+    "geom:latitude":-1.6768,
+    "geom:longitude":29.2808,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"33.0",
+    "gn:admin3_code":"3311.0",
+    "gn:admin4_code":"331106.0",
+    "gn:asciiname":"Kiroji",
+    "gn:country_code":"RW",
+    "gn:dem":1698,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7605631,
+    "gn:latitude":-1.6768,
+    "gn:longitude":29.2808,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kiroji",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421187899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7605631
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"840d09fcc4f556f56f70dc6031ee6c27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421187899,
+            "locality_id":1226023801,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1226023801,
+    "wof:lastmodified":1536756968,
+    "wof:name":"Kiroji",
+    "wof:parent_id":421187899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2808,
+    -1.6768,
+    29.2808,
+    -1.6768
+],
+  "geometry": {"coordinates":[29.2808,-1.6768],"type":"Point"}
+}

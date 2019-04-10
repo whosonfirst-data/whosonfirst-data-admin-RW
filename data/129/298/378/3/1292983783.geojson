@@ -1,0 +1,70 @@
+{
+  "id": 1292983783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5854,-2.506,29.5854,-2.506",
+    "geom:latitude":-2.506,
+    "geom:longitude":29.5854,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"25",
+    "gn:admin3_code":"2506.0",
+    "gn:admin4_code":"250604.0",
+    "gn:asciiname":"Nyarubaka",
+    "gn:country_code":"RW",
+    "gn:dem":1665,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7016833,
+    "gn:latitude":-2.506,
+    "gn:longitude":29.5854,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nyarubaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421192893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7016833
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"cd3549912d5c4b362a443b05bf07f48a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192893,
+            "locality_id":1292983783,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1292983783,
+    "wof:lastmodified":1537015464,
+    "wof:name":"Nyarubaka",
+    "wof:parent_id":421192893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5854,
+    -2.506,
+    29.5854,
+    -2.506
+],
+  "geometry": {"coordinates":[29.5854,-2.506],"type":"Point"}
+}

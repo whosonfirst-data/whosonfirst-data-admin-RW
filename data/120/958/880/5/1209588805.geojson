@@ -1,0 +1,68 @@
+{
+  "id": 1209588805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.74484,-2.55661,29.74484,-2.55661",
+    "geom:latitude":-2.55661,
+    "geom:longitude":29.74484,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"24",
+    "gn:admin3_code":"2407.0",
+    "gn:admin4_code":"240701.0",
+    "gn:asciiname":"Mbazi",
+    "gn:country_code":"RW",
+    "gn:dem":1753,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":202713,
+    "gn:latitude":-2.55661,
+    "gn:longitude":29.74484,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Mbazi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Mbazi",
+        "Mbazi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202713
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"7dc773cb44b46ef164de4448c5dd6519",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209588805
+        }
+    ],
+    "wof:id":1209588805,
+    "wof:lastmodified":1537699118,
+    "wof:name":"Mbazi",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.74484,
+    -2.55661,
+    29.74484,
+    -2.55661
+],
+  "geometry": {"coordinates":[29.74484,-2.55661],"type":"Point"}
+}

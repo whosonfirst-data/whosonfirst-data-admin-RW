@@ -1,0 +1,70 @@
+{
+  "id": 1293367417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9982,-1.931,29.9982,-1.931",
+    "geom:latitude":-1.931,
+    "geom:longitude":29.9982,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"1102.0",
+    "gn:admin4_code":"110202.0",
+    "gn:asciiname":"Bwiza",
+    "gn:country_code":"RW",
+    "gn:dem":1395,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7600318,
+    "gn:latitude":-1.931,
+    "gn:longitude":29.9982,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Bwiza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676807,
+        421204011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7600318
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"def29d5073f8ed44cb178b5d0b81f681",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421204011,
+            "locality_id":1293367417,
+            "region_id":85676807
+        }
+    ],
+    "wof:id":1293367417,
+    "wof:lastmodified":1536960148,
+    "wof:name":"Bwiza",
+    "wof:parent_id":421204011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9982,
+    -1.931,
+    29.9982,
+    -1.931
+],
+  "geometry": {"coordinates":[29.9982,-1.931],"type":"Point"}
+}

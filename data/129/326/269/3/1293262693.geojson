@@ -1,0 +1,70 @@
+{
+  "id": 1293262693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5773,-2.2597,29.5773,-2.2597",
+    "geom:latitude":-2.2597,
+    "geom:longitude":29.5773,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"25",
+    "gn:admin3_code":"2512.0",
+    "gn:admin4_code":"251205.0",
+    "gn:asciiname":"Rwina",
+    "gn:country_code":"RW",
+    "gn:dem":1752,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7062784,
+    "gn:latitude":-2.2597,
+    "gn:longitude":29.5773,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rwina",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421192893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7062784
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"9db9ad03f9e74b294d568bdd19830f52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192893,
+            "locality_id":1293262693,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1293262693,
+    "wof:lastmodified":1536611657,
+    "wof:name":"Rwina",
+    "wof:parent_id":421192893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5773,
+    -2.2597,
+    29.5773,
+    -2.2597
+],
+  "geometry": {"coordinates":[29.5773,-2.2597],"type":"Point"}
+}

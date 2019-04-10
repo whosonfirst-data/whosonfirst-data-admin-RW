@@ -1,0 +1,74 @@
+{
+  "id": 1293459983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6509,-2.33032,29.6509,-2.33032",
+    "geom:latitude":-2.33032,
+    "geom:longitude":29.6509,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"2103.0",
+    "gn:admin4_code":"210304.0",
+    "gn:asciiname":"Cyabakamyi",
+    "gn:country_code":"RW",
+    "gn:dem":1689,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":203020,
+    "gn:latitude":-2.33032,
+    "gn:longitude":29.6509,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Cyabakamyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Cyabakamyi",
+        "Cyabakamyi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421190841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":203020
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"62679eec28daea28eac9347d12c0936c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421190841,
+            "locality_id":1293459983,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1293459983,
+    "wof:lastmodified":1537699141,
+    "wof:name":"Cyabakamyi",
+    "wof:parent_id":421190841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6509,
+    -2.33032,
+    29.6509,
+    -2.33032
+],
+  "geometry": {"coordinates":[29.6509,-2.33032],"type":"Point"}
+}

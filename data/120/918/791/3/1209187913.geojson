@@ -1,0 +1,64 @@
+{
+  "id": 1209187913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.53923,-2.14349,29.53923,-2.14349",
+    "geom:latitude":-2.14349,
+    "geom:longitude":29.53923,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"3107.0",
+    "gn:admin4_code":"310706.0",
+    "gn:asciiname":"Nyabinombe",
+    "gn:country_code":"RW",
+    "gn:dem":1652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7660106,
+    "gn:latitude":-2.14349,
+    "gn:longitude":29.53923,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nyabinombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7660106
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"0d9176eef797666a25184f3ecdf31f85",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209187913
+        }
+    ],
+    "wof:id":1209187913,
+    "wof:lastmodified":1536295036,
+    "wof:name":"Nyabinombe",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.53923,
+    -2.1434900000000003,
+    29.53923,
+    -2.1434900000000003
+],
+  "geometry": {"coordinates":[29.53923,-2.14349],"type":"Point"}
+}

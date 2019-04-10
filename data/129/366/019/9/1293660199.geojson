@@ -1,0 +1,70 @@
+{
+  "id": 1293660199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.37952,-1.71791,29.37952,-1.71791",
+    "geom:latitude":-1.71791,
+    "geom:longitude":29.37952,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"33.0",
+    "gn:admin3_code":"3305.0",
+    "gn:admin4_code":"330506.0",
+    "gn:asciiname":"Rusongati",
+    "gn:country_code":"RW",
+    "gn:dem":2131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7605714,
+    "gn:latitude":-1.71791,
+    "gn:longitude":29.37952,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rusongati",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421187899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7605714
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"0fbac69f91e7d04069120c16f5070221",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421187899,
+            "locality_id":1293660199,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1293660199,
+    "wof:lastmodified":1537033908,
+    "wof:name":"Rusongati",
+    "wof:parent_id":421187899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.37952,
+    -1.71791,
+    29.37952,
+    -1.71791
+],
+  "geometry": {"coordinates":[29.37952,-1.71791],"type":"Point"}
+}

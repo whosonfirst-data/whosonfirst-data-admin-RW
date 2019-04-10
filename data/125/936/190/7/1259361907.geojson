@@ -1,0 +1,70 @@
+{
+  "id": 1259361907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9085,-2.6241,28.9085,-2.6241",
+    "geom:latitude":-2.6241,
+    "geom:longitude":28.9085,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"36",
+    "gn:admin3_code":"3617.0",
+    "gn:admin4_code":"361706.0",
+    "gn:asciiname":"Kagenge",
+    "gn:country_code":"RW",
+    "gn:dem":1558,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7032976,
+    "gn:latitude":-2.6241,
+    "gn:longitude":28.9085,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kagenge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421176723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7032976
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"1347ba7c8d56b70a02f9c80751a238fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421176723,
+            "locality_id":1259361907,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1259361907,
+    "wof:lastmodified":1537031972,
+    "wof:name":"Kagenge",
+    "wof:parent_id":421176723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9085,
+    -2.6241,
+    28.9085,
+    -2.6241
+],
+  "geometry": {"coordinates":[28.9085,-2.6241],"type":"Point"}
+}

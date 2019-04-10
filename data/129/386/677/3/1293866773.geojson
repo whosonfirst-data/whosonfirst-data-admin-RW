@@ -1,0 +1,75 @@
+{
+  "id": 1293866773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.618,-2.6353,29.618,-2.6353",
+    "geom:latitude":-2.6353,
+    "geom:longitude":29.618,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"23",
+    "gn:admin3_code":"2303.0",
+    "gn:admin4_code":"230304.0",
+    "gn:asciiname":"Gasave",
+    "gn:country_code":"RW",
+    "gn:dem":1710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":202099,
+    "gn:latitude":-2.6353,
+    "gn:longitude":29.618,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gasave",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kasawi",
+        "Kasave",
+        "Gasave"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202099
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"6567aec8489b0110477d3ac2a992890a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561303,
+            "locality_id":1293866773,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1293866773,
+    "wof:lastmodified":1537699087,
+    "wof:name":"Gasave",
+    "wof:parent_id":1108561303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.618,
+    -2.6353,
+    29.618,
+    -2.6353
+],
+  "geometry": {"coordinates":[29.618,-2.6353],"type":"Point"}
+}

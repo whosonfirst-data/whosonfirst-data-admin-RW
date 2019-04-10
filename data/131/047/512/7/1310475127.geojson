@@ -1,0 +1,70 @@
+{
+  "id": 1310475127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8071,-2.4642,29.8071,-2.4642",
+    "geom:latitude":-2.4642,
+    "geom:longitude":29.8071,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"24.0",
+    "gn:admin3_code":"2411.0",
+    "gn:admin4_code":"241104.0",
+    "gn:asciiname":"Kamabuye",
+    "gn:country_code":"RW",
+    "gn:dem":1524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7664821,
+    "gn:latitude":-2.4642,
+    "gn:longitude":29.8071,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kamabuye",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421204219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7664821
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"466122570154472fa409a27d7d06507e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421204219,
+            "locality_id":1310475127,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1310475127,
+    "wof:lastmodified":1536960689,
+    "wof:name":"Kamabuye",
+    "wof:parent_id":421204219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8071,
+    -2.4642,
+    29.8071,
+    -2.4642
+],
+  "geometry": {"coordinates":[29.8071,-2.4642],"type":"Point"}
+}

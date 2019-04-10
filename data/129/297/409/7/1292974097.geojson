@@ -1,0 +1,70 @@
+{
+  "id": 1292974097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.80576,-1.93652,29.80576,-1.93652",
+    "geom:latitude":-1.93652,
+    "geom:longitude":29.80576,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"28.0",
+    "gn:admin3_code":"2804.0",
+    "gn:admin4_code":"280404.0",
+    "gn:asciiname":"Inyuma ya Giko",
+    "gn:country_code":"RW",
+    "gn:dem":1736,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7600351,
+    "gn:latitude":-1.93652,
+    "gn:longitude":29.80576,
+    "gn:modification_date":"2017-07-16",
+    "gn:name":"Inyuma ya Giko",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421190843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7600351
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"20e1ab77e5054f1f5a42d4326aabf4ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421190843,
+            "locality_id":1292974097,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1292974097,
+    "wof:lastmodified":1537028975,
+    "wof:name":"Inyuma ya Giko",
+    "wof:parent_id":421190843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.80576,
+    -1.93652,
+    29.80576,
+    -1.93652
+],
+  "geometry": {"coordinates":[29.80576,-1.93652],"type":"Point"}
+}

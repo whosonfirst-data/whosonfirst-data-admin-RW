@@ -1,0 +1,64 @@
+{
+  "id": 1209589333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8788,-2.5271,28.8788,-2.5271",
+    "geom:latitude":-2.5271,
+    "geom:longitude":28.8788,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"36",
+    "gn:admin3_code":"3611.0",
+    "gn:admin4_code":"361101.0",
+    "gn:asciiname":"Kamarebe",
+    "gn:country_code":"RW",
+    "gn:dem":1659,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7032842,
+    "gn:latitude":-2.5271,
+    "gn:longitude":28.8788,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kamarebe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7032842
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"3d8872e44fc86140efa999f6dc6c8c4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209589333
+        }
+    ],
+    "wof:id":1209589333,
+    "wof:lastmodified":1536282530,
+    "wof:name":"Kamarebe",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8788,
+    -2.5271,
+    28.8788,
+    -2.5271
+],
+  "geometry": {"coordinates":[28.8788,-2.5271],"type":"Point"}
+}

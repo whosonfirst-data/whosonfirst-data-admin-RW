@@ -1,0 +1,74 @@
+{
+  "id": 1293460003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8043,-2.3656,29.8043,-2.3656",
+    "geom:latitude":-2.3656,
+    "geom:longitude":29.8043,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"2107.0",
+    "gn:admin4_code":"210704.0",
+    "gn:asciiname":"Gatonde",
+    "gn:country_code":"RW",
+    "gn:dem":1643,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":202965,
+    "gn:latitude":-2.3656,
+    "gn:longitude":29.8043,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gatonde",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Gatonde",
+        "Gatonde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421190841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202965
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"6a8005fe9edd92b52a3711b6012fa22b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421190841,
+            "locality_id":1293460003,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1293460003,
+    "wof:lastmodified":1537699137,
+    "wof:name":"Gatonde",
+    "wof:parent_id":421190841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8043,
+    -2.3656,
+    29.8043,
+    -2.3656
+],
+  "geometry": {"coordinates":[29.8043,-2.3656],"type":"Point"}
+}

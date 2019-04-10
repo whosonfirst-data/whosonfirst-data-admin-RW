@@ -1,0 +1,70 @@
+{
+  "id": 1209893285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0553,-1.9075,30.0553,-1.9075",
+    "geom:latitude":-1.9075,
+    "geom:longitude":30.0553,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"12.0",
+    "gn:admin3_code":"1204.0",
+    "gn:admin4_code":"120402.0",
+    "gn:asciiname":"Ntora",
+    "gn:country_code":"RW",
+    "gn:dem":1469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7595554,
+    "gn:latitude":-1.9075,
+    "gn:longitude":30.0553,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ntora",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676807,
+        421202327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7595554
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"62090f4f5eb34d526da2a24094835805",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421202327,
+            "locality_id":1209893285,
+            "region_id":85676807
+        }
+    ],
+    "wof:id":1209893285,
+    "wof:lastmodified":1536389759,
+    "wof:name":"Ntora",
+    "wof:parent_id":421202327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0553,
+    -1.9075,
+    30.0553,
+    -1.9075
+],
+  "geometry": {"coordinates":[30.0553,-1.9075],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1259556875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7894,-2.6056,29.7894,-2.6056",
+    "geom:latitude":-2.6056,
+    "geom:longitude":29.7894,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"22.0",
+    "gn:admin3_code":"2204.0",
+    "gn:admin4_code":"220401.0",
+    "gn:asciiname":"Rwuya",
+    "gn:country_code":"RW",
+    "gn:dem":1710,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7663764,
+    "gn:latitude":-2.6056,
+    "gn:longitude":29.7894,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rwuya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7663764
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"65b050a7a027bd5192c5b2fc92ed6495",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561301,
+            "locality_id":1259556875,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1259556875,
+    "wof:lastmodified":1536753259,
+    "wof:name":"Rwuya",
+    "wof:parent_id":1108561301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7894,
+    -2.6056,
+    29.7894,
+    -2.6056
+],
+  "geometry": {"coordinates":[29.7894,-2.6056],"type":"Point"}
+}

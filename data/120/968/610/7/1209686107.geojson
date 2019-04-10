@@ -1,0 +1,64 @@
+{
+  "id": 1209686107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.65916,-2.40781,29.65916,-2.40781",
+    "geom:latitude":-2.40781,
+    "geom:longitude":29.65916,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"2109.0",
+    "gn:admin4_code":"210904.0",
+    "gn:asciiname":"Kirambi",
+    "gn:country_code":"RW",
+    "gn:dem":1619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":384039,
+    "gn:latitude":-2.40781,
+    "gn:longitude":29.65916,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kirambi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":384039
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"4e8656570eda71b9d00aa909dce9518b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209686107
+        }
+    ],
+    "wof:id":1209686107,
+    "wof:lastmodified":1536279405,
+    "wof:name":"Kirambi",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.65916,
+    -2.40781,
+    29.65916,
+    -2.40781
+],
+  "geometry": {"coordinates":[29.65916,-2.40781],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209895561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6068,-1.6063,29.6068,-1.6063",
+    "geom:latitude":-1.6063,
+    "geom:longitude":29.6068,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Mukirangwe",
+    "gn:country_code":"RW",
+    "gn:dem":2164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7320250,
+    "gn:latitude":-1.6063,
+    "gn:longitude":29.6068,
+    "gn:modification_date":"2010-08-06",
+    "gn:name":"Mukirangwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421169419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7320250
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"d48af752467e81d16afe2fbd20dc27c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421169419,
+            "locality_id":1209895561,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1209895561,
+    "wof:lastmodified":1536388782,
+    "wof:name":"Mukirangwe",
+    "wof:parent_id":421169419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6068,
+    -1.6063,
+    29.6068,
+    -1.6063
+],
+  "geometry": {"coordinates":[29.6068,-1.6063],"type":"Point"}
+}

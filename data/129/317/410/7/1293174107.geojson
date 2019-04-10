@@ -1,0 +1,67 @@
+{
+  "id": 1293174107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5986,-2.1556,29.5986,-2.1556",
+    "geom:latitude":-2.1556,
+    "geom:longitude":29.5986,
+    "gn:admin1_code":"15",
+    "gn:asciiname":"Kugali",
+    "gn:country_code":"RW",
+    "gn:dem":1582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7660126,
+    "gn:latitude":-2.1556,
+    "gn:longitude":29.5986,
+    "gn:modification_date":"2011-02-08",
+    "gn:name":"Kugali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421182175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7660126
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"53ef796bf5c45729feaab2c6a3c733ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421182175,
+            "locality_id":1293174107,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1293174107,
+    "wof:lastmodified":1536741784,
+    "wof:name":"Kugali",
+    "wof:parent_id":421182175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5986,
+    -2.1556,
+    29.5986,
+    -2.1556
+],
+  "geometry": {"coordinates":[29.5986,-2.1556],"type":"Point"}
+}

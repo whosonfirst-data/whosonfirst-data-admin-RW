@@ -1,0 +1,64 @@
+{
+  "id": 1209695259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8862,-1.6352,29.8862,-1.6352",
+    "geom:latitude":-1.6352,
+    "geom:longitude":29.8862,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"4101.0",
+    "gn:admin4_code":"410103.0",
+    "gn:asciiname":"Muvumo",
+    "gn:country_code":"RW",
+    "gn:dem":1948,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7321621,
+    "gn:latitude":-1.6352,
+    "gn:longitude":29.8862,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Muvumo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7321621
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"fff5548cb8d928f30d7c73dcb4c4f49a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209695259
+        }
+    ],
+    "wof:id":1209695259,
+    "wof:lastmodified":1536279098,
+    "wof:name":"Muvumo",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8862,
+    -1.6352,
+    29.8862,
+    -1.6352
+],
+  "geometry": {"coordinates":[29.8862,-1.6352],"type":"Point"}
+}

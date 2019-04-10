@@ -1,0 +1,70 @@
+{
+  "id": 1260259089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8827,-1.7179,29.8827,-1.7179",
+    "geom:latitude":-1.7179,
+    "geom:longitude":29.8827,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"4214.0",
+    "gn:admin4_code":"421402.0",
+    "gn:asciiname":"Muyongwe",
+    "gn:country_code":"RW",
+    "gn:dem":1693,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7321810,
+    "gn:latitude":-1.7179,
+    "gn:longitude":29.8827,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Muyongwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421192889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7321810
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"ebc8c256d486fad544d9a43e7bb6c2e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192889,
+            "locality_id":1260259089,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1260259089,
+    "wof:lastmodified":1536744610,
+    "wof:name":"Muyongwe",
+    "wof:parent_id":421192889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8827,
+    -1.7179,
+    29.8827,
+    -1.7179
+],
+  "geometry": {"coordinates":[29.8827,-1.7179],"type":"Point"}
+}

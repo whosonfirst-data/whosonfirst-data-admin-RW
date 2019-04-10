@@ -1,0 +1,70 @@
+{
+  "id": 1277155235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8505,-2.1283,30.8505,-2.1283",
+    "geom:latitude":-2.1283,
+    "geom:longitude":30.8505,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"55.0",
+    "gn:admin3_code":"5507.0",
+    "gn:admin4_code":"550705.0",
+    "gn:asciiname":"Nyabubare",
+    "gn:country_code":"RW",
+    "gn:dem":1337,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7688682,
+    "gn:latitude":-2.1283,
+    "gn:longitude":30.8505,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nyabubare",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421175701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7688682
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"883b37cec091023804256f181e181614",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421175701,
+            "locality_id":1277155235,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1277155235,
+    "wof:lastmodified":1536663241,
+    "wof:name":"Nyabubare",
+    "wof:parent_id":421175701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8505,
+    -2.1283,
+    30.8505,
+    -2.1283
+],
+  "geometry": {"coordinates":[30.8505,-2.1283],"type":"Point"}
+}

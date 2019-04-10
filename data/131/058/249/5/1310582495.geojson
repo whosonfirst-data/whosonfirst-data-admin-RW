@@ -1,0 +1,74 @@
+{
+  "id": 1310582495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1699,-1.4272,30.1699,-1.4272",
+    "geom:latitude":-1.4272,
+    "geom:longitude":30.1699,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"52",
+    "gn:admin3_code":"5201.0",
+    "gn:admin4_code":"520101.0",
+    "gn:asciiname":"Nyangara",
+    "gn:country_code":"RW",
+    "gn:dem":1542,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":201867,
+    "gn:latitude":-1.4272,
+    "gn:longitude":30.1699,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nyangara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mont Nyangara",
+        "Nyangara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421193621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":201867
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"b08491c527c5ad014555d2ae098307c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421193621,
+            "locality_id":1310582495,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1310582495,
+    "wof:lastmodified":1537699082,
+    "wof:name":"Nyangara",
+    "wof:parent_id":421193621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1699,
+    -1.4272,
+    30.1699,
+    -1.4272
+],
+  "geometry": {"coordinates":[30.1699,-1.4272],"type":"Point"}
+}

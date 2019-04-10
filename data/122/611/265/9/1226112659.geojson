@@ -1,0 +1,71 @@
+{
+  "id": 1226112659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4167,-2.3946,29.4167,-2.3946",
+    "geom:latitude":-2.3946,
+    "geom:longitude":29.4167,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"25",
+    "gn:admin3_code":"2504.0",
+    "gn:admin4_code":"250403.0",
+    "gn:asciiname":"Gatare",
+    "gn:country_code":"RW",
+    "gn:dem":2283,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7049555,
+    "gn:latitude":-2.3946,
+    "gn:longitude":29.4167,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gatare",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421192893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7049555,
+        "wk:page":"Gatare%2C_Rwanda"
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"c6a60b2fc5db2f4587aa3a3965927a93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192893,
+            "locality_id":1226112659,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1226112659,
+    "wof:lastmodified":1537573244,
+    "wof:name":"Gatare",
+    "wof:parent_id":421192893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4167,
+    -2.3946,
+    29.4167,
+    -2.3946
+],
+  "geometry": {"coordinates":[29.4167,-2.3946],"type":"Point"}
+}

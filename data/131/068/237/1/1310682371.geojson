@@ -1,0 +1,70 @@
+{
+  "id": 1310682371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2316,-1.6474,30.2316,-1.6474",
+    "geom:latitude":-1.6474,
+    "geom:longitude":30.2316,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"53.0",
+    "gn:admin3_code":"5305.0",
+    "gn:admin4_code":"530503.0",
+    "gn:asciiname":"Kintu",
+    "gn:country_code":"RW",
+    "gn:dem":1569,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7593090,
+    "gn:latitude":-1.6474,
+    "gn:longitude":30.2316,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kintu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421204013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7593090
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"72602d0f31a5a7bcb851cf0d3df39625",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421204013,
+            "locality_id":1310682371,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1310682371,
+    "wof:lastmodified":1536661806,
+    "wof:name":"Kintu",
+    "wof:parent_id":421204013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2316,
+    -1.6474,
+    30.2316,
+    -1.6474
+],
+  "geometry": {"coordinates":[30.2316,-1.6474],"type":"Point"}
+}

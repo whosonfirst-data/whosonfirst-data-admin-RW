@@ -1,0 +1,70 @@
+{
+  "id": 1343440379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7096,-1.3622,29.7096,-1.3622",
+    "geom:latitude":-1.3622,
+    "geom:longitude":29.7096,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"4403.0",
+    "gn:admin4_code":"440306.0",
+    "gn:asciiname":"Nyakabaya",
+    "gn:country_code":"RW",
+    "gn:dem":2309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7572005,
+    "gn:latitude":-1.3622,
+    "gn:longitude":29.7096,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nyakabaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421180243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7572005
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"2a0f327b2cba524380552f657a01fd09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421180243,
+            "locality_id":1343440379,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1343440379,
+    "wof:lastmodified":1536775891,
+    "wof:name":"Nyakabaya",
+    "wof:parent_id":421180243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7096,
+    -1.3622,
+    29.7096,
+    -1.3622
+],
+  "geometry": {"coordinates":[29.7096,-1.3622],"type":"Point"}
+}

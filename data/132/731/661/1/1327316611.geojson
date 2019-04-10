@@ -1,0 +1,70 @@
+{
+  "id": 1327316611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6426,-2.4004,29.6426,-2.4004",
+    "geom:latitude":-2.4004,
+    "geom:longitude":29.6426,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"2109.0",
+    "gn:admin4_code":"210904.0",
+    "gn:asciiname":"Rwimbazi",
+    "gn:country_code":"RW",
+    "gn:dem":1737,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7063118,
+    "gn:latitude":-2.4004,
+    "gn:longitude":29.6426,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rwimbazi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421190841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7063118
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"542fa45f80e63453d48063d460606a17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421190841,
+            "locality_id":1327316611,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1327316611,
+    "wof:lastmodified":1536846990,
+    "wof:name":"Rwimbazi",
+    "wof:parent_id":421190841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6426,
+    -2.4004,
+    29.6426,
+    -2.4004
+],
+  "geometry": {"coordinates":[29.6426,-2.4004],"type":"Point"}
+}

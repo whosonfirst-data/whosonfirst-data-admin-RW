@@ -1,0 +1,70 @@
+{
+  "id": 1242748409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.918,-1.9872,29.918,-1.9872",
+    "geom:latitude":-1.9872,
+    "geom:longitude":29.918,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"28.0",
+    "gn:admin3_code":"2801.0",
+    "gn:admin4_code":"280101.0",
+    "gn:asciiname":"Gihinga",
+    "gn:country_code":"RW",
+    "gn:dem":1703,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7600497,
+    "gn:latitude":-1.9872,
+    "gn:longitude":29.918,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gihinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421190843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7600497
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"f31e8238adaebd2f658788b68df9c8c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421190843,
+            "locality_id":1242748409,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1242748409,
+    "wof:lastmodified":1536816958,
+    "wof:name":"Gihinga",
+    "wof:parent_id":421190843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.91800000000001,
+    -1.9872,
+    29.91800000000001,
+    -1.9872
+],
+  "geometry": {"coordinates":[29.91800000000001,-1.9872],"type":"Point"}
+}

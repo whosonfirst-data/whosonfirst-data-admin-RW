@@ -1,0 +1,70 @@
+{
+  "id": 1209798451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5385,-2.2484,29.5385,-2.2484",
+    "geom:latitude":-2.2484,
+    "geom:longitude":29.5385,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"25.0",
+    "gn:admin3_code":"2511.0",
+    "gn:admin4_code":"251102.0",
+    "gn:asciiname":"Kaduha",
+    "gn:country_code":"RW",
+    "gn:dem":1747,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8535435,
+    "gn:latitude":-2.2484,
+    "gn:longitude":29.5385,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kaduha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421192893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8535435
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"4a6bc47f9829989c18d24c7e5f72eb3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192893,
+            "locality_id":1209798451,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1209798451,
+    "wof:lastmodified":1536391815,
+    "wof:name":"Kaduha",
+    "wof:parent_id":421192893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5385,
+    -2.2484,
+    29.5385,
+    -2.2484
+],
+  "geometry": {"coordinates":[29.5385,-2.2484],"type":"Point"}
+}

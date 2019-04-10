@@ -1,0 +1,70 @@
+{
+  "id": 1276854721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3741,-2.0071,29.3741,-2.0071",
+    "geom:latitude":-2.0071,
+    "geom:longitude":29.3741,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"32.0",
+    "gn:admin3_code":"3210.0",
+    "gn:admin4_code":"321005.0",
+    "gn:asciiname":"Sure",
+    "gn:country_code":"RW",
+    "gn:dem":1633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7661929,
+    "gn:latitude":-2.0071,
+    "gn:longitude":29.3741,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Sure",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421190845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7661929
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"a2949c08f381566ba875f43703686925",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421190845,
+            "locality_id":1276854721,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1276854721,
+    "wof:lastmodified":1537071729,
+    "wof:name":"Sure",
+    "wof:parent_id":421190845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3741,
+    -2.0071,
+    29.3741,
+    -2.0071
+],
+  "geometry": {"coordinates":[29.3741,-2.0071],"type":"Point"}
+}

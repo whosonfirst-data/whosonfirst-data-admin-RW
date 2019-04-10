@@ -1,0 +1,70 @@
+{
+  "id": 1360273589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.23555,-1.60435,30.23555,-1.60435",
+    "geom:latitude":-1.60435,
+    "geom:longitude":30.23555,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"53.0",
+    "gn:admin3_code":"5302.0",
+    "gn:admin4_code":"530201.0",
+    "gn:asciiname":"Nyarukoni",
+    "gn:country_code":"RW",
+    "gn:dem":1631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7593022,
+    "gn:latitude":-1.60435,
+    "gn:longitude":30.23555,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nyarukoni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421204013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7593022
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"845c9f809a58c218673e2c23d9003038",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421204013,
+            "locality_id":1360273589,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1360273589,
+    "wof:lastmodified":1536673686,
+    "wof:name":"Nyarukoni",
+    "wof:parent_id":421204013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.23555,
+    -1.60435,
+    30.23555,
+    -1.60435
+],
+  "geometry": {"coordinates":[30.23555,-1.60435],"type":"Point"}
+}

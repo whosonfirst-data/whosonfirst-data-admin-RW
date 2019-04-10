@@ -1,0 +1,70 @@
+{
+  "id": 1242748905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.491,-1.5853,29.491,-1.5853",
+    "geom:latitude":-1.5853,
+    "geom:longitude":29.491,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"3402.0",
+    "gn:admin4_code":"340202.0",
+    "gn:asciiname":"Gasizi",
+    "gn:country_code":"RW",
+    "gn:dem":2532,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7605435,
+    "gn:latitude":-1.5853,
+    "gn:longitude":29.491,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gasizi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421169419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7605435
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"b06725fe18f648a4d6efdc0a98e31fcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421169419,
+            "locality_id":1242748905,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1242748905,
+    "wof:lastmodified":1536816265,
+    "wof:name":"Gasizi",
+    "wof:parent_id":421169419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.491,
+    -1.5853,
+    29.491,
+    -1.5853
+],
+  "geometry": {"coordinates":[29.491,-1.5853],"type":"Point"}
+}

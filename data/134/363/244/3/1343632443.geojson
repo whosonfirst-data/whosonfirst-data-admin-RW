@@ -1,0 +1,70 @@
+{
+  "id": 1343632443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.388,-1.9844,29.388,-1.9844",
+    "geom:latitude":-1.9844,
+    "geom:longitude":29.388,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"32",
+    "gn:admin3_code":"3210.0",
+    "gn:admin4_code":"321001.0",
+    "gn:asciiname":"Bumba",
+    "gn:country_code":"RW",
+    "gn:dem":1932,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6998191,
+    "gn:latitude":-1.9844,
+    "gn:longitude":29.388,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Bumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421190845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6998191
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"2dc3f38a4a5c6e24735a036cb8845a9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421190845,
+            "locality_id":1343632443,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1343632443,
+    "wof:lastmodified":1536994768,
+    "wof:name":"Bumba",
+    "wof:parent_id":421190845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.388,
+    -1.9844,
+    29.388,
+    -1.9844
+],
+  "geometry": {"coordinates":[29.388,-1.9844],"type":"Point"}
+}

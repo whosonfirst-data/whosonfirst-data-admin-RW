@@ -1,0 +1,64 @@
+{
+  "id": 1209094457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.65696,-2.26525,30.65696,-2.26525",
+    "geom:latitude":-2.26525,
+    "geom:longitude":30.65696,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"55",
+    "gn:admin3_code":"5505.0",
+    "gn:admin4_code":"550502.0",
+    "gn:asciiname":"Kirehe",
+    "gn:country_code":"RW",
+    "gn:dem":1570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":202026,
+    "gn:latitude":-2.26525,
+    "gn:longitude":30.65696,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kirehe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202026
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"f4b543ed9178e7e434b5ad6ff46de0c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209094457
+        }
+    ],
+    "wof:id":1209094457,
+    "wof:lastmodified":1536297932,
+    "wof:name":"Kirehe",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.65696,
+    -2.26525,
+    30.65696,
+    -2.26525
+],
+  "geometry": {"coordinates":[30.65696,-2.26525],"type":"Point"}
+}

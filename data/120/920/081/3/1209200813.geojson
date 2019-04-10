@@ -1,0 +1,64 @@
+{
+  "id": 1209200813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8876,-1.6848,29.8876,-1.6848",
+    "geom:latitude":-1.6848,
+    "geom:longitude":29.8876,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"4103.0",
+    "gn:admin4_code":"410305.0",
+    "gn:asciiname":"Bubiro",
+    "gn:country_code":"RW",
+    "gn:dem":2149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7321738,
+    "gn:latitude":-1.6848,
+    "gn:longitude":29.8876,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Bubiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7321738
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"56351ed20ef75d2beec674ad22089ddc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209200813
+        }
+    ],
+    "wof:id":1209200813,
+    "wof:lastmodified":1536294617,
+    "wof:name":"Bubiro",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8876,
+    -1.6848,
+    29.8876,
+    -1.6848
+],
+  "geometry": {"coordinates":[29.8876,-1.6848],"type":"Point"}
+}

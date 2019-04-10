@@ -1,0 +1,70 @@
+{
+  "id": 1259860615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.36847,-1.70856,30.36847,-1.70856",
+    "geom:latitude":-1.70856,
+    "geom:longitude":30.36847,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"53",
+    "gn:admin3_code":"5313.0",
+    "gn:admin4_code":"531306.0",
+    "gn:asciiname":"Gikoma",
+    "gn:country_code":"RW",
+    "gn:dem":1512,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":384379,
+    "gn:latitude":-1.70856,
+    "gn:longitude":30.36847,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gikoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421204013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":384379
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"0b9e6863198fc245cdd429f3089bdc03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421204013,
+            "locality_id":1259860615,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1259860615,
+    "wof:lastmodified":1536811617,
+    "wof:name":"Gikoma",
+    "wof:parent_id":421204013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.36847,
+    -1.70856,
+    30.36847,
+    -1.70856
+],
+  "geometry": {"coordinates":[30.36847,-1.70856],"type":"Point"}
+}

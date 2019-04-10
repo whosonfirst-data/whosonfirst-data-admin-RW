@@ -1,0 +1,70 @@
+{
+  "id": 1259556865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7622,-2.0444,29.7622,-2.0444",
+    "geom:latitude":-2.0444,
+    "geom:longitude":29.7622,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"27.0",
+    "gn:admin3_code":"2701.0",
+    "gn:admin4_code":"270104.0",
+    "gn:asciiname":"Gatenzi",
+    "gn:country_code":"RW",
+    "gn:dem":1820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7658893,
+    "gn:latitude":-2.0444,
+    "gn:longitude":29.7622,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gatenzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421192887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7658893
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"0eb729fbc9dda0d78a70d942b8b12fb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192887,
+            "locality_id":1259556865,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1259556865,
+    "wof:lastmodified":1536753272,
+    "wof:name":"Gatenzi",
+    "wof:parent_id":421192887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7622,
+    -2.0444,
+    29.7622,
+    -2.0444
+],
+  "geometry": {"coordinates":[29.7622,-2.0444],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1259566203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7353,-1.8949,29.7353,-1.8949",
+    "geom:latitude":-1.8949,
+    "geom:longitude":29.7353,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"27",
+    "gn:admin3_code":"2704.0",
+    "gn:admin4_code":"270403.0",
+    "gn:asciiname":"Nyanza",
+    "gn:country_code":"RW",
+    "gn:dem":1765,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":202121,
+    "gn:latitude":-1.8949,
+    "gn:longitude":29.7353,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nyanza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kanyanza",
+        "Nyanza"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421192887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202121
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"1ed72e4ec1809bfaedcccdeb45db1869",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192887,
+            "locality_id":1259566203,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1259566203,
+    "wof:lastmodified":1537699088,
+    "wof:name":"Nyanza",
+    "wof:parent_id":421192887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7353,
+    -1.8949,
+    29.7353,
+    -1.8949
+],
+  "geometry": {"coordinates":[29.7353,-1.8949],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1326613019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5804,-2.397,29.5804,-2.397",
+    "geom:latitude":-2.397,
+    "geom:longitude":29.5804,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"25",
+    "gn:admin3_code":"2510.0",
+    "gn:admin4_code":"251003.0",
+    "gn:asciiname":"Karambo",
+    "gn:country_code":"RW",
+    "gn:dem":1641,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7063111,
+    "gn:latitude":-2.397,
+    "gn:longitude":29.5804,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Karambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421192893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7063111
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"2e08e0af3a9cb4394b85fef21768adaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192893,
+            "locality_id":1326613019,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1326613019,
+    "wof:lastmodified":1536866289,
+    "wof:name":"Karambo",
+    "wof:parent_id":421192893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5804,
+    -2.397,
+    29.5804,
+    -2.397
+],
+  "geometry": {"coordinates":[29.5804,-2.397],"type":"Point"}
+}

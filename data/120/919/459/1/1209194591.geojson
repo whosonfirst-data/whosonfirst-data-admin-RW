@@ -1,0 +1,64 @@
+{
+  "id": 1209194591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1392,-1.8778,30.1392,-1.8778",
+    "geom:latitude":-1.8778,
+    "geom:longitude":30.1392,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"12.0",
+    "gn:admin3_code":"1201.0",
+    "gn:admin4_code":"120103.0",
+    "gn:asciiname":"Mukarambo",
+    "gn:country_code":"RW",
+    "gn:dem":1609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7595495,
+    "gn:latitude":-1.8778,
+    "gn:longitude":30.1392,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Mukarambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7595495
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"e6ff2db907eb88a23f5fec0a32e11162",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209194591
+        }
+    ],
+    "wof:id":1209194591,
+    "wof:lastmodified":1536294816,
+    "wof:name":"Mukarambo",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1392,
+    -1.8778,
+    30.1392,
+    -1.8778
+],
+  "geometry": {"coordinates":[30.1392,-1.8778],"type":"Point"}
+}

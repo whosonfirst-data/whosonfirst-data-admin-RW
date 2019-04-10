@@ -1,0 +1,70 @@
+{
+  "id": 1192996481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2288,-2.1194,30.2288,-2.1194",
+    "geom:latitude":-2.1194,
+    "geom:longitude":30.2288,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"57.0",
+    "gn:admin3_code":"5702.0",
+    "gn:admin4_code":"570203.0",
+    "gn:asciiname":"Kirabo",
+    "gn:country_code":"RW",
+    "gn:dem":1446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7656318,
+    "gn:latitude":-2.1194,
+    "gn:longitude":30.2288,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kirabo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421199681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7656318
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"f9f0cebe3476d8f5fd066831f7b83ce2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421199681,
+            "locality_id":1192996481,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1192996481,
+    "wof:lastmodified":1536375294,
+    "wof:name":"Kirabo",
+    "wof:parent_id":421199681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2288,
+    -2.1194,
+    30.2288,
+    -2.1194
+],
+  "geometry": {"coordinates":[30.2288,-2.1194],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1242949523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.81641,-1.64809,29.81641,-1.64809",
+    "geom:latitude":-1.64809,
+    "geom:longitude":29.81641,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"42",
+    "gn:admin3_code":"4208.0",
+    "gn:admin4_code":"420801.0",
+    "gn:asciiname":"Kinyoma",
+    "gn:country_code":"RW",
+    "gn:dem":1738,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":202775,
+    "gn:latitude":-1.64809,
+    "gn:longitude":29.81641,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kinyoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Kinyoma",
+        "Kinyoma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421192889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202775
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"2523b72c0e5d0b2c47bdd4e9fffd4aee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192889,
+            "locality_id":1242949523,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1242949523,
+    "wof:lastmodified":1537699123,
+    "wof:name":"Kinyoma",
+    "wof:parent_id":421192889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.81641,
+    -1.64809,
+    29.81641,
+    -1.64809
+],
+  "geometry": {"coordinates":[29.81641,-1.64809],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226129465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0239,-2.0109,30.0239,-2.0109",
+    "geom:latitude":-2.0109,
+    "geom:longitude":30.0239,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"1103.0",
+    "gn:admin4_code":"110305.0",
+    "gn:asciiname":"Vuganyana",
+    "gn:country_code":"RW",
+    "gn:dem":1464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7656187,
+    "gn:latitude":-2.0109,
+    "gn:longitude":30.0239,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Vuganyana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676807,
+        421204011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7656187
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"8a4d17530ccc1f5eaa423277e7e9d324",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421204011,
+            "locality_id":1226129465,
+            "region_id":85676807
+        }
+    ],
+    "wof:id":1226129465,
+    "wof:lastmodified":1536601169,
+    "wof:name":"Vuganyana",
+    "wof:parent_id":421204011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0239,
+    -2.0109,
+    30.0239,
+    -2.0109
+],
+  "geometry": {"coordinates":[30.0239,-2.0109],"type":"Point"}
+}

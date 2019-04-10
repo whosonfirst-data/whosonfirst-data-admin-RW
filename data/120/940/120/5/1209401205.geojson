@@ -1,0 +1,67 @@
+{
+  "id": 1209401205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.00244,-1.47461,30.00244,-1.47461",
+    "geom:latitude":-1.47461,
+    "geom:longitude":30.00244,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"45",
+    "gn:admin3_code":"4515.0",
+    "gn:admin4_code":"451501.0",
+    "gn:asciiname":"Rubaya",
+    "gn:country_code":"RW",
+    "gn:dem":2164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":382893,
+    "gn:latitude":-1.47461,
+    "gn:longitude":30.00244,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rubaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Murubaya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":382893
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"a646617103f5665bfd186e28d16ec48d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209401205
+        }
+    ],
+    "wof:id":1209401205,
+    "wof:lastmodified":1537699148,
+    "wof:name":"Rubaya",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.00244,
+    -1.47461,
+    30.00244,
+    -1.47461
+],
+  "geometry": {"coordinates":[30.00244,-1.47461],"type":"Point"}
+}

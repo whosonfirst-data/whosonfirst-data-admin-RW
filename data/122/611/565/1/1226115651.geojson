@@ -1,0 +1,70 @@
+{
+  "id": 1226115651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.574,-2.7157,29.574,-2.7157",
+    "geom:latitude":-2.7157,
+    "geom:longitude":29.574,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"23",
+    "gn:admin3_code":"2302.0",
+    "gn:admin4_code":"230201.0",
+    "gn:asciiname":"Gatyazo",
+    "gn:country_code":"RW",
+    "gn:dem":1882,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7016177,
+    "gn:latitude":-2.7157,
+    "gn:longitude":29.574,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gatyazo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7016177
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"3ee279b173000b3a800041130e9d0475",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561303,
+            "locality_id":1226115651,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1226115651,
+    "wof:lastmodified":1536622260,
+    "wof:name":"Gatyazo",
+    "wof:parent_id":1108561303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.574,
+    -2.7157,
+    29.574,
+    -2.7157
+],
+  "geometry": {"coordinates":[29.574,-2.7157],"type":"Point"}
+}

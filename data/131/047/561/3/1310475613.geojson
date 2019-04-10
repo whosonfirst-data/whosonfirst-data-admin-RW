@@ -1,0 +1,70 @@
+{
+  "id": 1310475613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3645,-1.556,29.3645,-1.556",
+    "geom:latitude":-1.556,
+    "geom:longitude":29.3645,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"33.0",
+    "gn:admin3_code":"3301.0",
+    "gn:admin4_code":"330105.0",
+    "gn:asciiname":"Bihe",
+    "gn:country_code":"RW",
+    "gn:dem":2222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":8535029,
+    "gn:latitude":-1.556,
+    "gn:longitude":29.3645,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Bihe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421187899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8535029
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"918349a8dc3d6f960b2bea1c8ed5ec0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421187899,
+            "locality_id":1310475613,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1310475613,
+    "wof:lastmodified":1536960014,
+    "wof:name":"Bihe",
+    "wof:parent_id":421187899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3645,
+    -1.556,
+    29.3645,
+    -1.556
+],
+  "geometry": {"coordinates":[29.3645,-1.556],"type":"Point"}
+}

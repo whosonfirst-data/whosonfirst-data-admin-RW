@@ -1,0 +1,70 @@
+{
+  "id": 1226729919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0854,-1.863,30.0854,-1.863",
+    "geom:latitude":-1.863,
+    "geom:longitude":30.0854,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"1205.0",
+    "gn:admin4_code":"120505.0",
+    "gn:asciiname":"Nyacyonga",
+    "gn:country_code":"RW",
+    "gn:dem":1430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":442733,
+    "gn:latitude":-1.863,
+    "gn:longitude":30.0854,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nyacyonga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676807,
+        421202327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":442733
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"b9d02676b07d1d0111f5433eb41b3e05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421202327,
+            "locality_id":1226729919,
+            "region_id":85676807
+        }
+    ],
+    "wof:id":1226729919,
+    "wof:lastmodified":1536738284,
+    "wof:name":"Nyacyonga",
+    "wof:parent_id":421202327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0854,
+    -1.863,
+    30.0854,
+    -1.863
+],
+  "geometry": {"coordinates":[30.0854,-1.863],"type":"Point"}
+}

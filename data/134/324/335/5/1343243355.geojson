@@ -1,0 +1,71 @@
+{
+  "id": 1343243355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.14494,-2.20419,30.14494,-2.20419",
+    "geom:latitude":-2.20419,
+    "geom:longitude":30.14494,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"57.0",
+    "gn:admin3_code":"5705.0",
+    "gn:admin4_code":"570502.0",
+    "gn:asciiname":"Nyamata",
+    "gn:country_code":"RW",
+    "gn:dem":1475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7656357,
+    "gn:latitude":-2.20419,
+    "gn:longitude":30.14494,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nyamata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421199681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7656357,
+        "wk:page":"Nyamata"
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"abac878bdc646342fb484f4c2d8d0a7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421199681,
+            "locality_id":1343243355,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1343243355,
+    "wof:lastmodified":1537573245,
+    "wof:name":"Nyamata",
+    "wof:parent_id":421199681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.14494,
+    -2.20419,
+    30.14494,
+    -2.20419
+],
+  "geometry": {"coordinates":[30.14494,-2.20419],"type":"Point"}
+}

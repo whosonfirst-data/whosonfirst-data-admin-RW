@@ -1,0 +1,74 @@
+{
+  "id": 1327307115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7867,-2.3312,29.7867,-2.3312",
+    "geom:latitude":-2.3312,
+    "geom:longitude":29.7867,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"2105.0",
+    "gn:admin4_code":"210504.0",
+    "gn:asciiname":"Mutende",
+    "gn:country_code":"RW",
+    "gn:dem":1618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":202604,
+    "gn:latitude":-2.3312,
+    "gn:longitude":29.7867,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Mutende",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Mutende",
+        "Mutende"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421190841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202604
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"5d16d7cb5683cc9d4935156074443f79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421190841,
+            "locality_id":1327307115,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1327307115,
+    "wof:lastmodified":1537699110,
+    "wof:name":"Mutende",
+    "wof:parent_id":421190841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7867,
+    -2.3312,
+    29.7867,
+    -2.3312
+],
+  "geometry": {"coordinates":[29.7867,-2.3312],"type":"Point"}
+}

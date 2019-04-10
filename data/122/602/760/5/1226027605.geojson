@@ -1,0 +1,70 @@
+{
+  "id": 1226027605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.524,-2.8087,29.524,-2.8087",
+    "geom:latitude":-2.8087,
+    "geom:longitude":29.524,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"23.0",
+    "gn:admin3_code":"2301.0",
+    "gn:admin4_code":"230101.0",
+    "gn:asciiname":"Ryanyirarwevu",
+    "gn:country_code":"RW",
+    "gn:dem":2071,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7107195,
+    "gn:latitude":-2.8087,
+    "gn:longitude":29.524,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ryanyirarwevu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7107195
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"976fac8b716d7871b55f0f3b3343ff8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561303,
+            "locality_id":1226027605,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1226027605,
+    "wof:lastmodified":1536751248,
+    "wof:name":"Ryanyirarwevu",
+    "wof:parent_id":1108561303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.524,
+    -2.8087,
+    29.524,
+    -2.8087
+],
+  "geometry": {"coordinates":[29.524,-2.8087],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209899013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7299,-2.3786,29.7299,-2.3786",
+    "geom:latitude":-2.3786,
+    "geom:longitude":29.7299,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"2101.0",
+    "gn:admin4_code":"210105.0",
+    "gn:asciiname":"Gisando",
+    "gn:country_code":"RW",
+    "gn:dem":1683,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7063057,
+    "gn:latitude":-2.3786,
+    "gn:longitude":29.7299,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gisando",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421190841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7063057
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"73ec40e79be0935aa4a787088b0aa8c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421190841,
+            "locality_id":1209899013,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1209899013,
+    "wof:lastmodified":1536387300,
+    "wof:name":"Gisando",
+    "wof:parent_id":421190841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7299,
+    -2.3786,
+    29.7299,
+    -2.3786
+],
+  "geometry": {"coordinates":[29.7299,-2.3786],"type":"Point"}
+}

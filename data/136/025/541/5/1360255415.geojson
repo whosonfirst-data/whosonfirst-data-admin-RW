@@ -1,0 +1,70 @@
+{
+  "id": 1360255415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5153,-2.7118,29.5153,-2.7118",
+    "geom:latitude":-2.7118,
+    "geom:longitude":29.5153,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"23",
+    "gn:admin3_code":"2307.0",
+    "gn:admin4_code":"230704.0",
+    "gn:asciiname":"Ihurulizo",
+    "gn:country_code":"RW",
+    "gn:dem":1918,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7017220,
+    "gn:latitude":-2.7118,
+    "gn:longitude":29.5153,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ihurulizo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7017220
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"c215fe4abbcd8a40795b46c677541c19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561303,
+            "locality_id":1360255415,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1360255415,
+    "wof:lastmodified":1536700282,
+    "wof:name":"Ihurulizo",
+    "wof:parent_id":1108561303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5153,
+    -2.7118,
+    29.5153,
+    -2.7118
+],
+  "geometry": {"coordinates":[29.5153,-2.7118],"type":"Point"}
+}

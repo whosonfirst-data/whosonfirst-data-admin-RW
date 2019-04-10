@@ -1,0 +1,74 @@
+{
+  "id": 1343535049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2109,-2.2848,29.2109,-2.2848",
+    "geom:latitude":-2.2848,
+    "geom:longitude":29.2109,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"37",
+    "gn:admin3_code":"3709.0",
+    "gn:admin4_code":"370901.0",
+    "gn:asciiname":"Mutongo",
+    "gn:country_code":"RW",
+    "gn:dem":1489,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":202599,
+    "gn:latitude":-2.2848,
+    "gn:longitude":29.2109,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Mutongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Mutongo",
+        "Mutongo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421192891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202599
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"3da529536e0d1c2bc02cac32785944c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192891,
+            "locality_id":1343535049,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1343535049,
+    "wof:lastmodified":1537699109,
+    "wof:name":"Mutongo",
+    "wof:parent_id":421192891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2109,
+    -2.2848,
+    29.2109,
+    -2.2848
+],
+  "geometry": {"coordinates":[29.2109,-2.2848],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1243334521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6385,-1.7443,29.6385,-1.7443",
+    "geom:latitude":-1.7443,
+    "geom:longitude":29.6385,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"35.0",
+    "gn:admin3_code":"3507.0",
+    "gn:admin4_code":"350701.0",
+    "gn:asciiname":"Matare",
+    "gn:country_code":"RW",
+    "gn:dem":1956,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7320689,
+    "gn:latitude":-1.7443,
+    "gn:longitude":29.6385,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Matare",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mataie"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        1108561295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7320689
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"9d77f2093fbf1403f6a8e983d8ba2bdd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561295,
+            "locality_id":1243334521,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1243334521,
+    "wof:lastmodified":1537699157,
+    "wof:name":"Matare",
+    "wof:parent_id":1108561295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6385,
+    -1.7443,
+    29.6385,
+    -1.7443
+],
+  "geometry": {"coordinates":[29.6385,-1.7443],"type":"Point"}
+}

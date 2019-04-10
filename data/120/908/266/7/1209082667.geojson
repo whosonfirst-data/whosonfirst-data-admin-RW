@@ -1,0 +1,68 @@
+{
+  "id": 1209082667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9382,-1.6231,29.9382,-1.6231",
+    "geom:latitude":-1.6231,
+    "geom:longitude":29.9382,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"41",
+    "gn:admin3_code":"4106.0",
+    "gn:admin4_code":"410601.0",
+    "gn:asciiname":"Gitandi",
+    "gn:country_code":"RW",
+    "gn:dem":1855,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":202930,
+    "gn:latitude":-1.6231,
+    "gn:longitude":29.9382,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gitandi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Gitandi",
+        "Gitandi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202930
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"d04387db4abe2c449e1afa91f49a63d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209082667
+        }
+    ],
+    "wof:id":1209082667,
+    "wof:lastmodified":1537699135,
+    "wof:name":"Gitandi",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9382,
+    -1.6231,
+    29.9382,
+    -1.6231
+],
+  "geometry": {"coordinates":[29.9382,-1.6231],"type":"Point"}
+}

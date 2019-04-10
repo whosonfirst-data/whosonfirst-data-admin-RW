@@ -1,0 +1,70 @@
+{
+  "id": 1293865031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5513,-2.3279,30.5513,-2.3279",
+    "geom:latitude":-2.3279,
+    "geom:longitude":30.5513,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"55.0",
+    "gn:admin3_code":"5501.0",
+    "gn:admin4_code":"550104.0",
+    "gn:asciiname":"Nyombe",
+    "gn:country_code":"RW",
+    "gn:dem":1470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7686544,
+    "gn:latitude":-2.3279,
+    "gn:longitude":30.5513,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nyombe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421175701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7686544
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"4862ea77ee10469380c4af8de3da3a77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421175701,
+            "locality_id":1293865031,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1293865031,
+    "wof:lastmodified":1536739842,
+    "wof:name":"Nyombe",
+    "wof:parent_id":421175701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5513,
+    -2.3279,
+    30.5513,
+    -2.3279
+],
+  "geometry": {"coordinates":[30.5513,-2.3279],"type":"Point"}
+}

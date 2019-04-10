@@ -1,0 +1,70 @@
+{
+  "id": 1293665593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5831,-1.4865,29.5831,-1.4865",
+    "geom:latitude":-1.4865,
+    "geom:longitude":29.5831,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"4310.0",
+    "gn:admin4_code":"431005.0",
+    "gn:asciiname":"Rwunga",
+    "gn:country_code":"RW",
+    "gn:dem":2039,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7572239,
+    "gn:latitude":-1.4865,
+    "gn:longitude":29.5831,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rwunga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421187897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7572239
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"87d564f3099022ab5100c18fb8aea5da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421187897,
+            "locality_id":1293665593,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1293665593,
+    "wof:lastmodified":1537026398,
+    "wof:name":"Rwunga",
+    "wof:parent_id":421187897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5831,
+    -1.4865,
+    29.5831,
+    -1.4865
+],
+  "geometry": {"coordinates":[29.5831,-1.4865],"type":"Point"}
+}

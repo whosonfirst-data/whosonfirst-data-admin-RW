@@ -1,0 +1,70 @@
+{
+  "id": 1326709723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6438,-1.6632,29.6438,-1.6632",
+    "geom:latitude":-1.6632,
+    "geom:longitude":29.6438,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"4212.0",
+    "gn:admin4_code":"421202.0",
+    "gn:asciiname":"Mutanda",
+    "gn:country_code":"RW",
+    "gn:dem":1605,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7320448,
+    "gn:latitude":-1.6632,
+    "gn:longitude":29.6438,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Mutanda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421192889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7320448
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"306997a88c97e1105e5283127be69255",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192889,
+            "locality_id":1326709723,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1326709723,
+    "wof:lastmodified":1536728629,
+    "wof:name":"Mutanda",
+    "wof:parent_id":421192889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6438,
+    -1.6632,
+    29.6438,
+    -1.6632
+],
+  "geometry": {"coordinates":[29.6438,-1.6632],"type":"Point"}
+}

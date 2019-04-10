@@ -1,0 +1,70 @@
+{
+  "id": 1327320089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6959,-1.6152,29.6959,-1.6152",
+    "geom:latitude":-1.6152,
+    "geom:longitude":29.6959,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"4201.0",
+    "gn:admin4_code":"420106.0",
+    "gn:asciiname":"Kamonyi",
+    "gn:country_code":"RW",
+    "gn:dem":1734,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7320273,
+    "gn:latitude":-1.6152,
+    "gn:longitude":29.6959,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kamonyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421192889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7320273
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"e8214c8111918912f26890f71066f34b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192889,
+            "locality_id":1327320089,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1327320089,
+    "wof:lastmodified":1536842036,
+    "wof:name":"Kamonyi",
+    "wof:parent_id":421192889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6959,
+    -1.6152,
+    29.6959,
+    -1.6152
+],
+  "geometry": {"coordinates":[29.6959,-1.6152],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243533431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.304,-2.138,29.304,-2.138",
+    "geom:latitude":-2.138,
+    "geom:longitude":29.304,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"3103.0",
+    "gn:admin4_code":"310305.0",
+    "gn:asciiname":"Musenyi",
+    "gn:country_code":"RW",
+    "gn:dem":1598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7662527,
+    "gn:latitude":-2.138,
+    "gn:longitude":29.304,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Musenyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421182175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7662527
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"c8bdb624615109ab1c28e467e3b4801f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421182175,
+            "locality_id":1243533431,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1243533431,
+    "wof:lastmodified":1536680174,
+    "wof:name":"Musenyi",
+    "wof:parent_id":421182175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.304,
+    -2.138,
+    29.304,
+    -2.138
+],
+  "geometry": {"coordinates":[29.304,-2.138],"type":"Point"}
+}

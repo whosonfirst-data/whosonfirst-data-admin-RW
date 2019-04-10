@@ -1,0 +1,74 @@
+{
+  "id": 1326717499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.084,-1.97886,30.084,-1.97886",
+    "geom:latitude":-1.97886,
+    "geom:longitude":30.084,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"13",
+    "gn:admin3_code":"1302.0",
+    "gn:admin4_code":"130202.0",
+    "gn:asciiname":"Gikondo",
+    "gn:country_code":"RW",
+    "gn:dem":1450,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":202948,
+    "gn:latitude":-1.97886,
+    "gn:longitude":30.084,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gikondo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Gikondo",
+        "Gikondo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676807,
+        421182309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202948
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"a21c9dfb385663bab70dc35a4f3351c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421182309,
+            "locality_id":1326717499,
+            "region_id":85676807
+        }
+    ],
+    "wof:id":1326717499,
+    "wof:lastmodified":1537699136,
+    "wof:name":"Gikondo",
+    "wof:parent_id":421182309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.084,
+    -1.97886,
+    30.084,
+    -1.97886
+],
+  "geometry": {"coordinates":[30.084,-1.97886],"type":"Point"}
+}

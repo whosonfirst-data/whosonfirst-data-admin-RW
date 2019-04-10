@@ -1,0 +1,70 @@
+{
+  "id": 1226027585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.734,-2.441,29.734,-2.441",
+    "geom:latitude":-2.441,
+    "geom:longitude":29.734,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"24",
+    "gn:admin3_code":"2412.0",
+    "gn:admin4_code":"241207.0",
+    "gn:asciiname":"Kiboga",
+    "gn:country_code":"RW",
+    "gn:dem":1626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7063222,
+    "gn:latitude":-2.441,
+    "gn:longitude":29.734,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kiboga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421204219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7063222
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"0d0abff860c5575d2935d13ce5a6bc87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421204219,
+            "locality_id":1226027585,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1226027585,
+    "wof:lastmodified":1536751278,
+    "wof:name":"Kiboga",
+    "wof:parent_id":421204219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.734,
+    -2.441,
+    29.734,
+    -2.441
+],
+  "geometry": {"coordinates":[29.734,-2.441],"type":"Point"}
+}

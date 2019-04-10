@@ -1,0 +1,75 @@
+{
+  "id": 1276965643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0575,-1.6203,30.0575,-1.6203",
+    "geom:latitude":-1.6203,
+    "geom:longitude":30.0575,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"45",
+    "gn:admin3_code":"4503.0",
+    "gn:admin4_code":"450309.0",
+    "gn:asciiname":"Nyande",
+    "gn:country_code":"RW",
+    "gn:dem":1961,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":202503,
+    "gn:latitude":-1.6203,
+    "gn:longitude":30.0575,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nyande",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Nyanda",
+        "Nyande",
+        "Nyanda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421175213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202503
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"cf41736ab9316ca129602cfab2b41d03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421175213,
+            "locality_id":1276965643,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1276965643,
+    "wof:lastmodified":1537699102,
+    "wof:name":"Nyande",
+    "wof:parent_id":421175213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0575,
+    -1.6203,
+    30.0575,
+    -1.6203
+],
+  "geometry": {"coordinates":[30.0575,-1.6203],"type":"Point"}
+}

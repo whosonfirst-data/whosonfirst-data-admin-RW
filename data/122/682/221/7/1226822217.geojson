@@ -1,0 +1,70 @@
+{
+  "id": 1226822217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9463,-2.0561,29.9463,-2.0561",
+    "geom:latitude":-2.0561,
+    "geom:longitude":29.9463,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"28.0",
+    "gn:admin3_code":"2810.0",
+    "gn:admin4_code":"281004.0",
+    "gn:asciiname":"Musave",
+    "gn:country_code":"RW",
+    "gn:dem":1510,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8306437,
+    "gn:latitude":-2.0561,
+    "gn:longitude":29.9463,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Musave",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421190843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8306437
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"4d5a8c9014f17f63f5b031a4b2d5015c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421190843,
+            "locality_id":1226822217,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1226822217,
+    "wof:lastmodified":1536602354,
+    "wof:name":"Musave",
+    "wof:parent_id":421190843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9463,
+    -2.0561,
+    29.9463,
+    -2.0561
+],
+  "geometry": {"coordinates":[29.9463,-2.0561],"type":"Point"}
+}

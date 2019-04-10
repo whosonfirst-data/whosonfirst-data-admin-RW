@@ -1,0 +1,70 @@
+{
+  "id": 1309989589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3202,-1.6895,29.3202,-1.6895",
+    "geom:latitude":-1.6895,
+    "geom:longitude":29.3202,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"33.0",
+    "gn:admin3_code":"3312.0",
+    "gn:admin4_code":"331204.0",
+    "gn:asciiname":"Kizi",
+    "gn:country_code":"RW",
+    "gn:dem":1790,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7605662,
+    "gn:latitude":-1.6895,
+    "gn:longitude":29.3202,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kizi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421187899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7605662
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"1aac51927526d94ba35ef435fd905f47",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421187899,
+            "locality_id":1309989589,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1309989589,
+    "wof:lastmodified":1536666271,
+    "wof:name":"Kizi",
+    "wof:parent_id":421187899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3202,
+    -1.6895,
+    29.3202,
+    -1.6895
+],
+  "geometry": {"coordinates":[29.3202,-1.6895],"type":"Point"}
+}

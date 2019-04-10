@@ -1,0 +1,64 @@
+{
+  "id": 1209185189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3379,-1.699,29.3379,-1.699",
+    "geom:latitude":-1.699,
+    "geom:longitude":29.3379,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"33.0",
+    "gn:admin3_code":"3310.0",
+    "gn:admin4_code":"331006.0",
+    "gn:asciiname":"Kilibata",
+    "gn:country_code":"RW",
+    "gn:dem":1838,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7605693,
+    "gn:latitude":-1.699,
+    "gn:longitude":29.3379,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kilibata",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7605693
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"a24708e45da4ee49d8cbca0705e20598",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209185189
+        }
+    ],
+    "wof:id":1209185189,
+    "wof:lastmodified":1536295125,
+    "wof:name":"Kilibata",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3379,
+    -1.699,
+    29.3379,
+    -1.699
+],
+  "geometry": {"coordinates":[29.3379,-1.699],"type":"Point"}
+}

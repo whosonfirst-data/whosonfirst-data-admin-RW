@@ -1,0 +1,70 @@
+{
+  "id": 1293275117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7722,-2.2343,29.7722,-2.2343",
+    "geom:latitude":-2.2343,
+    "geom:longitude":29.7722,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"26.0",
+    "gn:admin3_code":"2609.0",
+    "gn:admin4_code":"260906.0",
+    "gn:asciiname":"Masara",
+    "gn:country_code":"RW",
+    "gn:dem":1729,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7659373,
+    "gn:latitude":-2.2343,
+    "gn:longitude":29.7722,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Masara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7659373
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"4d21f6eb62fafebd0ff346bad0288157",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561299,
+            "locality_id":1293275117,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1293275117,
+    "wof:lastmodified":1537090027,
+    "wof:name":"Masara",
+    "wof:parent_id":1108561299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7722,
+    -2.2343,
+    29.7722,
+    -2.2343
+],
+  "geometry": {"coordinates":[29.7722,-2.2343],"type":"Point"}
+}

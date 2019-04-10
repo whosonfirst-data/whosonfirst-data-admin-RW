@@ -1,0 +1,64 @@
+{
+  "id": 1209077029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3663,-2.0768,29.3663,-2.0768",
+    "geom:latitude":-2.0768,
+    "geom:longitude":29.3663,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"3101.0",
+    "gn:admin4_code":"310103.0",
+    "gn:asciiname":"Josi",
+    "gn:country_code":"RW",
+    "gn:dem":1465,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7662376,
+    "gn:latitude":-2.0768,
+    "gn:longitude":29.3663,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Josi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7662376
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"c3b404be83341e244ac70093a153bed7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209077029
+        }
+    ],
+    "wof:id":1209077029,
+    "wof:lastmodified":1536298461,
+    "wof:name":"Josi",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3663,
+    -2.0768,
+    29.3663,
+    -2.0768
+],
+  "geometry": {"coordinates":[29.3663,-2.0768],"type":"Point"}
+}

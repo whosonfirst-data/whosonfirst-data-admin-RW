@@ -1,0 +1,74 @@
+{
+  "id": 1193115457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2,-1.43333,30.2,-1.43333",
+    "geom:latitude":-1.43333,
+    "geom:longitude":30.2,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"52",
+    "gn:admin3_code":"5208.0",
+    "gn:admin4_code":"520804.0",
+    "gn:asciiname":"Kinyambo",
+    "gn:country_code":"RW",
+    "gn:dem":1487,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":202779,
+    "gn:latitude":-1.43333,
+    "gn:longitude":30.2,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kinyambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Kinyambo",
+        "Kinyambo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421193621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202779
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"39c306614d4e6c64c80631ebfcb8a4a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421193621,
+            "locality_id":1193115457,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1193115457,
+    "wof:lastmodified":1537699124,
+    "wof:name":"Kinyambo",
+    "wof:parent_id":421193621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2,
+    -1.43333,
+    30.2,
+    -1.43333
+],
+  "geometry": {"coordinates":[30.2,-1.43333],"type":"Point"}
+}

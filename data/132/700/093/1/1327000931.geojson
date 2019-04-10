@@ -1,0 +1,70 @@
+{
+  "id": 1327000931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4635,-2.1183,29.4635,-2.1183",
+    "geom:latitude":-2.1183,
+    "geom:longitude":29.4635,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"3110.0",
+    "gn:admin4_code":"311002.0",
+    "gn:asciiname":"Rwili",
+    "gn:country_code":"RW",
+    "gn:dem":2046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7662484,
+    "gn:latitude":-2.1183,
+    "gn:longitude":29.4635,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rwili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421182175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7662484
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"5ce5c9e1624330c23b9b03f9f1120a98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421182175,
+            "locality_id":1327000931,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1327000931,
+    "wof:lastmodified":1536805810,
+    "wof:name":"Rwili",
+    "wof:parent_id":421182175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4635,
+    -2.1183,
+    29.4635,
+    -2.1183
+],
+  "geometry": {"coordinates":[29.4635,-2.1183],"type":"Point"}
+}

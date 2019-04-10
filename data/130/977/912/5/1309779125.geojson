@@ -1,0 +1,73 @@
+{
+  "id": 1309779125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8056,-2.3556,29.8056,-2.3556",
+    "geom:latitude":-2.3556,
+    "geom:longitude":29.8056,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"21.0",
+    "gn:admin3_code":"2107.0",
+    "gn:admin4_code":"210704.0",
+    "gn:asciiname":"Nyamuli",
+    "gn:country_code":"RW",
+    "gn:dem":1629,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7664734,
+    "gn:latitude":-2.3556,
+    "gn:longitude":29.8056,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nyamuli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nyamuir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421190841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7664734
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"e6d5c6c32b05ffcdbfa882597f5b7ac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421190841,
+            "locality_id":1309779125,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1309779125,
+    "wof:lastmodified":1537699160,
+    "wof:name":"Nyamuli",
+    "wof:parent_id":421190841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8056,
+    -2.3556,
+    29.8056,
+    -2.3556
+],
+  "geometry": {"coordinates":[29.8056,-2.3556],"type":"Point"}
+}

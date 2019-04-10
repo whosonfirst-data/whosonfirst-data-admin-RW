@@ -1,0 +1,73 @@
+{
+  "id": 1343928139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8436,-2.0163,29.8436,-2.0163",
+    "geom:latitude":-2.0163,
+    "geom:longitude":29.8436,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"28",
+    "gn:admin3_code":"2806.0",
+    "gn:admin4_code":"280603.0",
+    "gn:asciiname":"Kamayanja",
+    "gn:country_code":"RW",
+    "gn:dem":1611,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":202138,
+    "gn:latitude":-2.0163,
+    "gn:longitude":29.8436,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kamayanja",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kamayahja"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421190843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202138
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"119d1b73553998269ca893a9f8800d43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421190843,
+            "locality_id":1343928139,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1343928139,
+    "wof:lastmodified":1537699088,
+    "wof:name":"Kamayanja",
+    "wof:parent_id":421190843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8436,
+    -2.0163,
+    29.8436,
+    -2.0163
+],
+  "geometry": {"coordinates":[29.8436,-2.0163],"type":"Point"}
+}

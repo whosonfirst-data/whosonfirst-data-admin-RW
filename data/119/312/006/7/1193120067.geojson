@@ -1,0 +1,70 @@
+{
+  "id": 1193120067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4506,-2.4704,29.4506,-2.4704",
+    "geom:latitude":-2.4704,
+    "geom:longitude":29.4506,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"25",
+    "gn:admin3_code":"2517.0",
+    "gn:admin4_code":"251703.0",
+    "gn:asciiname":"Kibyagira",
+    "gn:country_code":"RW",
+    "gn:dem":2202,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7049624,
+    "gn:latitude":-2.4704,
+    "gn:longitude":29.4506,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kibyagira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421192893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7049624
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"7df1bdfaea26b113f14a3453f069fbfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192893,
+            "locality_id":1193120067,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1193120067,
+    "wof:lastmodified":1536364942,
+    "wof:name":"Kibyagira",
+    "wof:parent_id":421192893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4506,
+    -2.4704,
+    29.4506,
+    -2.4704
+],
+  "geometry": {"coordinates":[29.4506,-2.4704],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209502225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1398,-2.009,30.1398,-2.009",
+    "geom:latitude":-2.009,
+    "geom:longitude":30.1398,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"1305.0",
+    "gn:admin4_code":"130501.0",
+    "gn:asciiname":"Nyarugugu",
+    "gn:country_code":"RW",
+    "gn:dem":1423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7656185,
+    "gn:latitude":-2.009,
+    "gn:longitude":30.1398,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nyarugugu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7656185
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"dbdbdb11ffc9a8340e0764d0b486ac00",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209502225
+        }
+    ],
+    "wof:id":1209502225,
+    "wof:lastmodified":1536285146,
+    "wof:name":"Nyarugugu",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1398,
+    -2.009,
+    30.1398,
+    -2.009
+],
+  "geometry": {"coordinates":[30.1398,-2.009],"type":"Point"}
+}

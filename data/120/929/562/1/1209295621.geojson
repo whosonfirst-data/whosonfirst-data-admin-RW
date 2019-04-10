@@ -1,0 +1,64 @@
+{
+  "id": 1209295621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.134,-1.4582,30.134,-1.4582",
+    "geom:latitude":-1.4582,
+    "geom:longitude":30.134,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"52.0",
+    "gn:admin3_code":"5205.0",
+    "gn:admin4_code":"520505.0",
+    "gn:asciiname":"Gishoro",
+    "gn:country_code":"RW",
+    "gn:dem":1828,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7582537,
+    "gn:latitude":-1.4582,
+    "gn:longitude":30.134,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gishoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7582537
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"c8aadec445944c7aad241b201b06a7d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209295621
+        }
+    ],
+    "wof:id":1209295621,
+    "wof:lastmodified":1536291538,
+    "wof:name":"Gishoro",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.134,
+    -1.4582,
+    30.134,
+    -1.4582
+],
+  "geometry": {"coordinates":[30.134,-1.4582],"type":"Point"}
+}

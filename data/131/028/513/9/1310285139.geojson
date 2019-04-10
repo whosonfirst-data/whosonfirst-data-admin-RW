@@ -1,0 +1,75 @@
+{
+  "id": 1310285139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.112,-1.8555,30.112,-1.8555",
+    "geom:latitude":-1.8555,
+    "geom:longitude":30.112,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"1212.0",
+    "gn:admin4_code":"121205.0",
+    "gn:asciiname":"Nduba",
+    "gn:country_code":"RW",
+    "gn:dem":1717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":202570,
+    "gn:latitude":-1.8555,
+    "gn:longitude":30.112,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nduba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Nduba",
+        "Nduba",
+        "Nguba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676807,
+        421202327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202570
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"1ed499313568bf503ce0b8d7a4c80ebc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421202327,
+            "locality_id":1310285139,
+            "region_id":85676807
+        }
+    ],
+    "wof:id":1310285139,
+    "wof:lastmodified":1537699107,
+    "wof:name":"Nduba",
+    "wof:parent_id":421202327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.112,
+    -1.8555,
+    30.112,
+    -1.8555
+],
+  "geometry": {"coordinates":[30.112,-1.8555],"type":"Point"}
+}

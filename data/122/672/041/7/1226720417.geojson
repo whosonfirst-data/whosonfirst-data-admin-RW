@@ -1,0 +1,70 @@
+{
+  "id": 1226720417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9084,-2.4894,29.9084,-2.4894",
+    "geom:latitude":-2.4894,
+    "geom:longitude":29.9084,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"22.0",
+    "gn:admin3_code":"2206.0",
+    "gn:admin4_code":"220605.0",
+    "gn:asciiname":"Muzenga",
+    "gn:country_code":"RW",
+    "gn:dem":1464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7664853,
+    "gn:latitude":-2.4894,
+    "gn:longitude":29.9084,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Muzenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7664853
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"d5625391ecee197e45d4df41b3df22d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561301,
+            "locality_id":1226720417,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1226720417,
+    "wof:lastmodified":1536752069,
+    "wof:name":"Muzenga",
+    "wof:parent_id":1108561301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9084,
+    -2.4894,
+    29.9084,
+    -2.4894
+],
+  "geometry": {"coordinates":[29.9084,-2.4894],"type":"Point"}
+}

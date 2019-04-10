@@ -1,0 +1,70 @@
+{
+  "id": 1226720333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8903,-2.4367,29.8903,-2.4367",
+    "geom:latitude":-2.4367,
+    "geom:longitude":29.8903,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"21.0",
+    "gn:admin3_code":"2108.0",
+    "gn:admin4_code":"210801.0",
+    "gn:asciiname":"Rugarama",
+    "gn:country_code":"RW",
+    "gn:dem":1453,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7664793,
+    "gn:latitude":-2.4367,
+    "gn:longitude":29.8903,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rugarama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421190841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7664793
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"6642cdf0b111fca8f44fc6d4959e26a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421190841,
+            "locality_id":1226720333,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1226720333,
+    "wof:lastmodified":1536752199,
+    "wof:name":"Rugarama",
+    "wof:parent_id":421190841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8903,
+    -2.4367,
+    29.8903,
+    -2.4367
+],
+  "geometry": {"coordinates":[29.8903,-2.4367],"type":"Point"}
+}

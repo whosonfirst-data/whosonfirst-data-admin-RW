@@ -1,0 +1,70 @@
+{
+  "id": 1259465961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7593,-1.9709,29.7593,-1.9709",
+    "geom:latitude":-1.9709,
+    "geom:longitude":29.7593,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"27.0",
+    "gn:admin3_code":"2702.0",
+    "gn:admin4_code":"270208.0",
+    "gn:asciiname":"Shori",
+    "gn:country_code":"RW",
+    "gn:dem":1692,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7600447,
+    "gn:latitude":-1.9709,
+    "gn:longitude":29.7593,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Shori",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421192887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7600447
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"1073cda2273cd19f51a4600596cb25b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192887,
+            "locality_id":1259465961,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1259465961,
+    "wof:lastmodified":1536883368,
+    "wof:name":"Shori",
+    "wof:parent_id":421192887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7593,
+    -1.9709,
+    29.7593,
+    -1.9709
+],
+  "geometry": {"coordinates":[29.7593,-1.9709],"type":"Point"}
+}

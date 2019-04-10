@@ -1,0 +1,70 @@
+{
+  "id": 1226421893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.00048,-1.77771,30.00048,-1.77771",
+    "geom:latitude":-1.77771,
+    "geom:longitude":30.00048,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"41",
+    "gn:admin3_code":"4105.0",
+    "gn:admin4_code":"410502.0",
+    "gn:asciiname":"Remera",
+    "gn:country_code":"RW",
+    "gn:dem":2117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":382874,
+    "gn:latitude":-1.77771,
+    "gn:longitude":30.00048,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Remera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421203217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":382874
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"a2419bb3052bbfa32fde0c1685eb01cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421203217,
+            "locality_id":1226421893,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1226421893,
+    "wof:lastmodified":1536679859,
+    "wof:name":"Remera",
+    "wof:parent_id":421203217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.00048,
+    -1.77771,
+    30.00048,
+    -1.77771
+],
+  "geometry": {"coordinates":[30.00048,-1.77771],"type":"Point"}
+}

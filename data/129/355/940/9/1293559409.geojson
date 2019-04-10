@@ -1,0 +1,70 @@
+{
+  "id": 1293559409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8272,-2.5741,29.8272,-2.5741",
+    "geom:latitude":-2.5741,
+    "geom:longitude":29.8272,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"22.0",
+    "gn:admin3_code":"2211.0",
+    "gn:admin4_code":"221102.0",
+    "gn:asciiname":"Buhurambuga",
+    "gn:country_code":"RW",
+    "gn:dem":1497,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7663717,
+    "gn:latitude":-2.5741,
+    "gn:longitude":29.8272,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Buhurambuga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7663717
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"306e5bea37801284322a55843d2a7c07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561301,
+            "locality_id":1293559409,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1293559409,
+    "wof:lastmodified":1536683490,
+    "wof:name":"Buhurambuga",
+    "wof:parent_id":1108561301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8272,
+    -2.5741,
+    29.8272,
+    -2.5741
+],
+  "geometry": {"coordinates":[29.8272,-2.5741],"type":"Point"}
+}

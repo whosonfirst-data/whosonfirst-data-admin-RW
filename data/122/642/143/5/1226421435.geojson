@@ -1,0 +1,70 @@
+{
+  "id": 1226421435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6206,-1.6545,29.6206,-1.6545",
+    "geom:latitude":-1.6545,
+    "geom:longitude":29.6206,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"3410.0",
+    "gn:admin4_code":"341003.0",
+    "gn:asciiname":"Rugando",
+    "gn:country_code":"RW",
+    "gn:dem":1720,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7320417,
+    "gn:latitude":-1.6545,
+    "gn:longitude":29.6206,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rugando",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421169419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7320417
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"ee3e0f84de1ec4767203d1a3f8c15162",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421169419,
+            "locality_id":1226421435,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1226421435,
+    "wof:lastmodified":1536680521,
+    "wof:name":"Rugando",
+    "wof:parent_id":421169419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6206,
+    -1.6545,
+    29.6206,
+    -1.6545
+],
+  "geometry": {"coordinates":[29.6206,-1.6545],"type":"Point"}
+}

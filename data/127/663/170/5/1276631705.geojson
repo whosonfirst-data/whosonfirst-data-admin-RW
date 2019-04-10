@@ -1,0 +1,70 @@
+{
+  "id": 1276631705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2202,-1.6937,30.2202,-1.6937",
+    "geom:latitude":-1.6937,
+    "geom:longitude":30.2202,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"45",
+    "gn:admin3_code":"4511.0",
+    "gn:admin4_code":"451105.0",
+    "gn:asciiname":"Karundi",
+    "gn:country_code":"RW",
+    "gn:dem":1861,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":442742,
+    "gn:latitude":-1.6937,
+    "gn:longitude":30.2202,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Karundi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421175213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":442742
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"82720882499c4b7566f34305f3a8f40a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421175213,
+            "locality_id":1276631705,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1276631705,
+    "wof:lastmodified":1536875364,
+    "wof:name":"Karundi",
+    "wof:parent_id":421175213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2202,
+    -1.6937,
+    30.2202,
+    -1.6937
+],
+  "geometry": {"coordinates":[30.2202,-1.6937],"type":"Point"}
+}

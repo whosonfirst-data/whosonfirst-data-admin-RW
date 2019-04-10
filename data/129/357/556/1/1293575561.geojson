@@ -1,0 +1,70 @@
+{
+  "id": 1293575561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.639,-1.6415,29.639,-1.6415",
+    "geom:latitude":-1.6415,
+    "geom:longitude":29.639,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"4218.0",
+    "gn:admin4_code":"421805.0",
+    "gn:asciiname":"Bwanamo",
+    "gn:country_code":"RW",
+    "gn:dem":1625,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7320364,
+    "gn:latitude":-1.6415,
+    "gn:longitude":29.639,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Bwanamo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421192889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7320364
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"efea1311cf1faa769a6cd736115bcf1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192889,
+            "locality_id":1293575561,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1293575561,
+    "wof:lastmodified":1536660216,
+    "wof:name":"Bwanamo",
+    "wof:parent_id":421192889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.639,
+    -1.6415,
+    29.639,
+    -1.6415
+],
+  "geometry": {"coordinates":[29.639,-1.6415],"type":"Point"}
+}

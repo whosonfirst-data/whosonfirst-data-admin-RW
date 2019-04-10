@@ -1,0 +1,74 @@
+{
+  "id": 1310188605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9359,-2.5178,28.9359,-2.5178",
+    "geom:latitude":-2.5178,
+    "geom:longitude":28.9359,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"36",
+    "gn:admin3_code":"3611.0",
+    "gn:admin4_code":"361103.0",
+    "gn:asciiname":"Nyakanyinya",
+    "gn:country_code":"RW",
+    "gn:dem":1811,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":202521,
+    "gn:latitude":-2.5178,
+    "gn:longitude":28.9359,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nyakanyinya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Nyakanyinya",
+        "Nyakanyinya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421176723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202521
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"96c9706f3f838a24e9137f0df1ee2809",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421176723,
+            "locality_id":1310188605,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1310188605,
+    "wof:lastmodified":1537699104,
+    "wof:name":"Nyakanyinya",
+    "wof:parent_id":421176723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9359,
+    -2.5178,
+    28.9359,
+    -2.5178
+],
+  "geometry": {"coordinates":[28.9359,-2.5178],"type":"Point"}
+}

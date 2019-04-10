@@ -1,0 +1,70 @@
+{
+  "id": 1293667991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3845,-1.865,29.3845,-1.865",
+    "geom:latitude":-1.865,
+    "geom:longitude":29.3845,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"32",
+    "gn:admin3_code":"3212.0",
+    "gn:admin4_code":"321205.0",
+    "gn:asciiname":"Gasovu",
+    "gn:country_code":"RW",
+    "gn:dem":2185,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6997955,
+    "gn:latitude":-1.865,
+    "gn:longitude":29.3845,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gasovu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421190845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6997955
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"65749693f0c13d57b317773d97c9b415",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421190845,
+            "locality_id":1293667991,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1293667991,
+    "wof:lastmodified":1537023083,
+    "wof:name":"Gasovu",
+    "wof:parent_id":421190845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3845,
+    -1.865,
+    29.3845,
+    -1.865
+],
+  "geometry": {"coordinates":[29.3845,-1.865],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 1209503065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3,-1.33333,30.3,-1.33333",
+    "geom:latitude":-1.33333,
+    "geom:longitude":30.3,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"52",
+    "gn:admin3_code":"5210.0",
+    "gn:admin4_code":"521007.0",
+    "gn:asciiname":"Rwegenya",
+    "gn:country_code":"RW",
+    "gn:dem":1373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":202365,
+    "gn:latitude":-1.33333,
+    "gn:longitude":30.3,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rwegenya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Rwegenya",
+        "Rwegenya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202365
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"c90fd47400bacdafe3ae95fb0b168c7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209503065
+        }
+    ],
+    "wof:id":1209503065,
+    "wof:lastmodified":1537699092,
+    "wof:name":"Rwegenya",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3,
+    -1.33333,
+    30.3,
+    -1.33333
+],
+  "geometry": {"coordinates":[30.3,-1.33333],"type":"Point"}
+}

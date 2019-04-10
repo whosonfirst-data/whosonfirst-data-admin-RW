@@ -1,0 +1,70 @@
+{
+  "id": 1225927365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3872,-2.1498,29.3872,-2.1498",
+    "geom:latitude":-2.1498,
+    "geom:longitude":29.3872,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"3104.0",
+    "gn:admin4_code":"310404.0",
+    "gn:asciiname":"Burega",
+    "gn:country_code":"RW",
+    "gn:dem":2200,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7662567,
+    "gn:latitude":-2.1498,
+    "gn:longitude":29.3872,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Burega",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421182175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7662567
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"f6f493de588af279fbc0c1717077e787",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421182175,
+            "locality_id":1225927365,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1225927365,
+    "wof:lastmodified":1536895828,
+    "wof:name":"Burega",
+    "wof:parent_id":421182175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3872,
+    -2.1498,
+    29.3872,
+    -2.1498
+],
+  "geometry": {"coordinates":[29.3872,-2.1498],"type":"Point"}
+}

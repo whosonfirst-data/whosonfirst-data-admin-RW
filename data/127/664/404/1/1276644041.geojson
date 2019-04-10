@@ -1,0 +1,70 @@
+{
+  "id": 1276644041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5174,-2.3736,30.5174,-2.3736",
+    "geom:latitude":-2.3736,
+    "geom:longitude":30.5174,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"55",
+    "gn:admin3_code":"5501.0",
+    "gn:admin4_code":"550103.0",
+    "gn:asciiname":"Mugogo",
+    "gn:country_code":"RW",
+    "gn:dem":1517,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":384554,
+    "gn:latitude":-2.3736,
+    "gn:longitude":30.5174,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Mugogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421175701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":384554
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"357b632df78ca3324786f4c803a75941",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421175701,
+            "locality_id":1276644041,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1276644041,
+    "wof:lastmodified":1536858209,
+    "wof:name":"Mugogo",
+    "wof:parent_id":421175701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5174,
+    -2.3736,
+    30.5174,
+    -2.3736
+],
+  "geometry": {"coordinates":[30.5174,-2.3736],"type":"Point"}
+}

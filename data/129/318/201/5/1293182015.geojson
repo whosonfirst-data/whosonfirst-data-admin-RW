@@ -1,0 +1,73 @@
+{
+  "id": 1293182015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3908,-2.2224,30.3908,-2.2224",
+    "geom:latitude":-2.2224,
+    "geom:longitude":30.3908,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"56",
+    "gn:admin3_code":"5613.0",
+    "gn:admin4_code":"561304.0",
+    "gn:asciiname":"Mabuga I",
+    "gn:country_code":"RW",
+    "gn:dem":1402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":201953,
+    "gn:latitude":-2.2224,
+    "gn:longitude":30.3908,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Mabuga I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mabuga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        1108561297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":201953
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"96d082b0a4462a8f25c96c2f286fc7f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561297,
+            "locality_id":1293182015,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1293182015,
+    "wof:lastmodified":1537699086,
+    "wof:name":"Mabuga I",
+    "wof:parent_id":1108561297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3908,
+    -2.2224,
+    30.3908,
+    -2.2224
+],
+  "geometry": {"coordinates":[30.3908,-2.2224],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209184537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7717,-2.2635,29.7717,-2.2635",
+    "geom:latitude":-2.2635,
+    "geom:longitude":29.7717,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"26.0",
+    "gn:admin3_code":"2609.0",
+    "gn:admin4_code":"260907.0",
+    "gn:asciiname":"Kinogi",
+    "gn:country_code":"RW",
+    "gn:dem":1712,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7664596,
+    "gn:latitude":-2.2635,
+    "gn:longitude":29.7717,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kinogi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7664596
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"1a62c2487fb833ecc7db0d84b8a8d6cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209184537
+        }
+    ],
+    "wof:id":1209184537,
+    "wof:lastmodified":1536295145,
+    "wof:name":"Kinogi",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7717,
+    -2.2635,
+    29.7717,
+    -2.2635
+],
+  "geometry": {"coordinates":[29.7717,-2.2635],"type":"Point"}
+}

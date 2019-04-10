@@ -1,0 +1,70 @@
+{
+  "id": 1293271509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0974,-1.777,30.0974,-1.777",
+    "geom:latitude":-1.777,
+    "geom:longitude":30.0974,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"4113.0",
+    "gn:admin4_code":"411303.0",
+    "gn:asciiname":"Mubanga",
+    "gn:country_code":"RW",
+    "gn:dem":1598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7595250,
+    "gn:latitude":-1.777,
+    "gn:longitude":30.0974,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Mubanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421203217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7595250
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"5ea3593de6701cdb35b83fc512b506a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421203217,
+            "locality_id":1293271509,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1293271509,
+    "wof:lastmodified":1537095208,
+    "wof:name":"Mubanga",
+    "wof:parent_id":421203217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0974,
+    -1.777,
+    30.0974,
+    -1.777
+],
+  "geometry": {"coordinates":[30.0974,-1.777],"type":"Point"}
+}

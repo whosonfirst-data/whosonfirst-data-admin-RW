@@ -1,0 +1,64 @@
+{
+  "id": 1209076989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5386,-1.7105,29.5386,-1.7105",
+    "geom:latitude":-1.7105,
+    "geom:longitude":29.5386,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"3408.0",
+    "gn:admin4_code":"340803.0",
+    "gn:asciiname":"Gitebe",
+    "gn:country_code":"RW",
+    "gn:dem":2269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7320594,
+    "gn:latitude":-1.7105,
+    "gn:longitude":29.5386,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gitebe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7320594
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"ea25e129c8e31ff1d69fd25fd8947235",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209076989
+        }
+    ],
+    "wof:id":1209076989,
+    "wof:lastmodified":1536298462,
+    "wof:name":"Gitebe",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5386,
+    -1.7105,
+    29.5386,
+    -1.7105
+],
+  "geometry": {"coordinates":[29.5386,-1.7105],"type":"Point"}
+}

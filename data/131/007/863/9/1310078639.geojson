@@ -1,0 +1,70 @@
+{
+  "id": 1310078639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8276,-1.8796,29.8276,-1.8796",
+    "geom:latitude":-1.8796,
+    "geom:longitude":29.8276,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"28.0",
+    "gn:admin3_code":"2803.0",
+    "gn:admin4_code":"280302.0",
+    "gn:asciiname":"Cubi-Gitwa",
+    "gn:country_code":"RW",
+    "gn:dem":1702,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7600155,
+    "gn:latitude":-1.8796,
+    "gn:longitude":29.8276,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Cubi-Gitwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421190843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7600155
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"0356b94c04863176cedb8eaed5a3fdf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421190843,
+            "locality_id":1310078639,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1310078639,
+    "wof:lastmodified":1537033903,
+    "wof:name":"Cubi-Gitwa",
+    "wof:parent_id":421190843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8276,
+    -1.8796,
+    29.8276,
+    -1.8796
+],
+  "geometry": {"coordinates":[29.8276,-1.8796],"type":"Point"}
+}

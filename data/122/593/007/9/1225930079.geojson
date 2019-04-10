@@ -1,0 +1,74 @@
+{
+  "id": 1225930079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.88333,-1.7,29.88333,-1.7",
+    "geom:latitude":-1.7,
+    "geom:longitude":29.88333,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"42",
+    "gn:admin3_code":"4214.0",
+    "gn:admin4_code":"421403.0",
+    "gn:asciiname":"Kirambo",
+    "gn:country_code":"RW",
+    "gn:dem":1820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":202770,
+    "gn:latitude":-1.7,
+    "gn:longitude":29.88333,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kirambo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Kirambo",
+        "Kirambo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421192889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202770
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"60c17bcda8d3b92c0af3393e085ebb5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192889,
+            "locality_id":1225930079,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1225930079,
+    "wof:lastmodified":1537699123,
+    "wof:name":"Kirambo",
+    "wof:parent_id":421192889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.88333,
+    -1.7,
+    29.88333,
+    -1.7
+],
+  "geometry": {"coordinates":[29.88333,-1.7],"type":"Point"}
+}

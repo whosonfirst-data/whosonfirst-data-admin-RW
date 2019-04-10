@@ -1,0 +1,70 @@
+{
+  "id": 1243151473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5981,-1.5777,29.5981,-1.5777",
+    "geom:latitude":-1.5777,
+    "geom:longitude":29.5981,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"4311.0",
+    "gn:admin4_code":"431104.0",
+    "gn:asciiname":"Gisoro",
+    "gn:country_code":"RW",
+    "gn:dem":2175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7320133,
+    "gn:latitude":-1.5777,
+    "gn:longitude":29.5981,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gisoro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421187897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7320133
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"8711dbdcf324173dbe4e63183ad7a424",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421187897,
+            "locality_id":1243151473,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1243151473,
+    "wof:lastmodified":1536734092,
+    "wof:name":"Gisoro",
+    "wof:parent_id":421187897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5981,
+    -1.5777,
+    29.5981,
+    -1.5777
+],
+  "geometry": {"coordinates":[29.5981,-1.5777],"type":"Point"}
+}

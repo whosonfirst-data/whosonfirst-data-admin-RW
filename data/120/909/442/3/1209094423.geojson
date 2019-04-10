@@ -1,0 +1,64 @@
+{
+  "id": 1209094423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5128,-2.0998,30.5128,-2.0998",
+    "geom:latitude":-2.0998,
+    "geom:longitude":30.5128,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"56.0",
+    "gn:admin3_code":"5612.0",
+    "gn:admin4_code":"561205.0",
+    "gn:asciiname":"Gitaraga",
+    "gn:country_code":"RW",
+    "gn:dem":1457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7652643,
+    "gn:latitude":-2.0998,
+    "gn:longitude":30.5128,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gitaraga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7652643
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"fe73e745e5cdd1d685eb0998d16c069f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209094423
+        }
+    ],
+    "wof:id":1209094423,
+    "wof:lastmodified":1536297933,
+    "wof:name":"Gitaraga",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5128,
+    -2.0998,
+    30.5128,
+    -2.0998
+],
+  "geometry": {"coordinates":[30.5128,-2.0998],"type":"Point"}
+}

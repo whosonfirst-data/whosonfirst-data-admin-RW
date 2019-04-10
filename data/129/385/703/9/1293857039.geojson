@@ -1,0 +1,75 @@
+{
+  "id": 1293857039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8402,-2.3248,29.8402,-2.3248",
+    "geom:latitude":-2.3248,
+    "geom:longitude":29.8402,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"2107.0",
+    "gn:admin4_code":"210701.0",
+    "gn:asciiname":"Kinyoni",
+    "gn:country_code":"RW",
+    "gn:dem":1626,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":202774,
+    "gn:latitude":-2.3248,
+    "gn:longitude":29.8402,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kinyoni",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Kinyoni",
+        "Kinyoni",
+        "Kiniyoni"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421190841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202774
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"ee8fb39d4bba7b6077e44c549b3d0d93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421190841,
+            "locality_id":1293857039,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1293857039,
+    "wof:lastmodified":1537699123,
+    "wof:name":"Kinyoni",
+    "wof:parent_id":421190841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8402,
+    -2.3248,
+    29.8402,
+    -2.3248
+],
+  "geometry": {"coordinates":[29.8402,-2.3248],"type":"Point"}
+}

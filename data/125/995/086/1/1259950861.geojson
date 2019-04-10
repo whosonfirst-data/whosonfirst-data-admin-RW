@@ -1,0 +1,74 @@
+{
+  "id": 1259950861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9571,-2.4817,28.9571,-2.4817",
+    "geom:latitude":-2.4817,
+    "geom:longitude":28.9571,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"36",
+    "gn:admin3_code":"3605.0",
+    "gn:admin4_code":"360505.0",
+    "gn:asciiname":"Shagasha",
+    "gn:country_code":"RW",
+    "gn:dem":1874,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7032750,
+    "gn:latitude":-2.4817,
+    "gn:longitude":28.9571,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Shagasha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Stade Shagasha",
+        "Shagasha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421176723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7032750
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"a265c0cb011f2e8d1eb278ef4bbd0b28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421176723,
+            "locality_id":1259950861,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1259950861,
+    "wof:lastmodified":1537699152,
+    "wof:name":"Shagasha",
+    "wof:parent_id":421176723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9571,
+    -2.4817,
+    28.9571,
+    -2.4817
+],
+  "geometry": {"coordinates":[28.9571,-2.4817],"type":"Point"}
+}

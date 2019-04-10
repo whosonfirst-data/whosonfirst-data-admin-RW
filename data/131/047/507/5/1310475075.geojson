@@ -1,0 +1,70 @@
+{
+  "id": 1310475075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5044,-2.8096,29.5044,-2.8096",
+    "geom:latitude":-2.8096,
+    "geom:longitude":29.5044,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"23.0",
+    "gn:admin3_code":"2301.0",
+    "gn:admin4_code":"230101.0",
+    "gn:asciiname":"Masiga",
+    "gn:country_code":"RW",
+    "gn:dem":2123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7107196,
+    "gn:latitude":-2.8096,
+    "gn:longitude":29.5044,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Masiga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7107196
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"a5f8be541e15c0cb2290847748c6f460",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561303,
+            "locality_id":1310475075,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1310475075,
+    "wof:lastmodified":1536960755,
+    "wof:name":"Masiga",
+    "wof:parent_id":1108561303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5044,
+    -2.8096,
+    29.5044,
+    -2.8096
+],
+  "geometry": {"coordinates":[29.5044,-2.8096],"type":"Point"}
+}

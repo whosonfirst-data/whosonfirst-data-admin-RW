@@ -1,0 +1,70 @@
+{
+  "id": 1193254761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9873,-1.6552,29.9873,-1.6552",
+    "geom:latitude":-1.6552,
+    "geom:longitude":29.9873,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"4107.0",
+    "gn:admin4_code":"410702.0",
+    "gn:asciiname":"Kinihira",
+    "gn:country_code":"RW",
+    "gn:dem":1958,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7321670,
+    "gn:latitude":-1.6552,
+    "gn:longitude":29.9873,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kinihira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421203217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7321670
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"36fd82c2ca17f11273681dec3d429b07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421203217,
+            "locality_id":1193254761,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1193254761,
+    "wof:lastmodified":1536365127,
+    "wof:name":"Kinihira",
+    "wof:parent_id":421203217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9873,
+    -1.6552,
+    29.9873,
+    -1.6552
+],
+  "geometry": {"coordinates":[29.9873,-1.6552],"type":"Point"}
+}

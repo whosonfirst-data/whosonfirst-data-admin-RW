@@ -1,0 +1,64 @@
+{
+  "id": 1209397767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6036,-2.4837,29.6036,-2.4837",
+    "geom:latitude":-2.4837,
+    "geom:longitude":29.6036,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"24",
+    "gn:admin3_code":"2404.0",
+    "gn:admin4_code":"240408.0",
+    "gn:asciiname":"Kabicuki",
+    "gn:country_code":"RW",
+    "gn:dem":1761,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7063325,
+    "gn:latitude":-2.4837,
+    "gn:longitude":29.6036,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kabicuki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7063325
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"1966e251a27469f9584300ad28c2e508",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209397767
+        }
+    ],
+    "wof:id":1209397767,
+    "wof:lastmodified":1536288243,
+    "wof:name":"Kabicuki",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6036,
+    -2.4837,
+    29.6036,
+    -2.4837
+],
+  "geometry": {"coordinates":[29.6036,-2.4837],"type":"Point"}
+}

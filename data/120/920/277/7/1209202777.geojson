@@ -1,0 +1,64 @@
+{
+  "id": 1209202777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0024,-2.2784,30.0024,-2.2784",
+    "geom:latitude":-2.2784,
+    "geom:longitude":30.0024,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"57.0",
+    "gn:admin3_code":"5715.0",
+    "gn:admin4_code":"571505.0",
+    "gn:asciiname":"Kamweru",
+    "gn:country_code":"RW",
+    "gn:dem":1515,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7685463,
+    "gn:latitude":-2.2784,
+    "gn:longitude":30.0024,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kamweru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7685463
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"8a183f77a54eff1e310b269475cdf8bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209202777
+        }
+    ],
+    "wof:id":1209202777,
+    "wof:lastmodified":1536294553,
+    "wof:name":"Kamweru",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0024,
+    -2.2784,
+    30.0024,
+    -2.2784
+],
+  "geometry": {"coordinates":[30.0024,-2.2784],"type":"Point"}
+}

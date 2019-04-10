@@ -1,0 +1,70 @@
+{
+  "id": 1226822237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6227,-2.6228,29.6227,-2.6228",
+    "geom:latitude":-2.6228,
+    "geom:longitude":29.6227,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"24",
+    "gn:admin3_code":"2403.0",
+    "gn:admin4_code":"240301.0",
+    "gn:asciiname":"Nyamapfunda",
+    "gn:country_code":"RW",
+    "gn:dem":1763,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7016375,
+    "gn:latitude":-2.6228,
+    "gn:longitude":29.6227,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nyamapfunda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421204219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7016375
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"8291365a46f4e86ed112ee8ba51c1eef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421204219,
+            "locality_id":1226822237,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1226822237,
+    "wof:lastmodified":1536602325,
+    "wof:name":"Nyamapfunda",
+    "wof:parent_id":421204219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6227,
+    -2.6228,
+    29.6227,
+    -2.6228
+],
+  "geometry": {"coordinates":[29.6227,-2.6228],"type":"Point"}
+}

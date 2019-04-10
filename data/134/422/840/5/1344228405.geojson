@@ -1,0 +1,67 @@
+{
+  "id": 1344228405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7989,-1.8431,29.7989,-1.8431",
+    "geom:latitude":-1.8431,
+    "geom:longitude":29.7989,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Karango",
+    "gn:country_code":"RW",
+    "gn:dem":1377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7600059,
+    "gn:latitude":-1.8431,
+    "gn:longitude":29.7989,
+    "gn:modification_date":"2010-11-05",
+    "gn:name":"Karango",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421192887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7600059
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"1ffdc541a40fc03fdd1cf071c2e7a533",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192887,
+            "locality_id":1344228405,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1344228405,
+    "wof:lastmodified":1536631850,
+    "wof:name":"Karango",
+    "wof:parent_id":421192887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7989,
+    -1.8431,
+    29.7989,
+    -1.8431
+],
+  "geometry": {"coordinates":[29.7989,-1.8431],"type":"Point"}
+}

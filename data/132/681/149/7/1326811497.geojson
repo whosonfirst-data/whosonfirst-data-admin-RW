@@ -1,0 +1,70 @@
+{
+  "id": 1326811497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2078,-1.2892,30.2078,-1.2892",
+    "geom:latitude":-1.2892,
+    "geom:longitude":30.2078,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"52.0",
+    "gn:admin3_code":"5214.0",
+    "gn:admin4_code":"521407.0",
+    "gn:asciiname":"Mutete",
+    "gn:country_code":"RW",
+    "gn:dem":1477,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7582415,
+    "gn:latitude":-1.2892,
+    "gn:longitude":30.2078,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Mutete",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421193621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7582415
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"8fc6e638633aa3af56de608f3585276f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421193621,
+            "locality_id":1326811497,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1326811497,
+    "wof:lastmodified":1537075591,
+    "wof:name":"Mutete",
+    "wof:parent_id":421193621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2078,
+    -1.2892,
+    30.2078,
+    -1.2892
+],
+  "geometry": {"coordinates":[30.2078,-1.2892],"type":"Point"}
+}

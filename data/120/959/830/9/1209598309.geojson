@@ -1,0 +1,64 @@
+{
+  "id": 1209598309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7249,-2.2888,29.7249,-2.2888",
+    "geom:latitude":-2.2888,
+    "geom:longitude":29.7249,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"2106.0",
+    "gn:admin4_code":"210604.0",
+    "gn:asciiname":"Kabaya",
+    "gn:country_code":"RW",
+    "gn:dem":1791,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7062848,
+    "gn:latitude":-2.2888,
+    "gn:longitude":29.7249,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kabaya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7062848
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"0a013510ef6e9798161f8c16322e0862",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209598309
+        }
+    ],
+    "wof:id":1209598309,
+    "wof:lastmodified":1536282251,
+    "wof:name":"Kabaya",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7249,
+    -2.2888,
+    29.7249,
+    -2.2888
+],
+  "geometry": {"coordinates":[29.7249,-2.2888],"type":"Point"}
+}

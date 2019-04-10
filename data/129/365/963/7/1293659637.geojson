@@ -1,0 +1,70 @@
+{
+  "id": 1293659637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7028,-2.7964,29.7028,-2.7964",
+    "geom:latitude":-2.7964,
+    "geom:longitude":29.7028,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"22.0",
+    "gn:admin3_code":"2212.0",
+    "gn:admin4_code":"221202.0",
+    "gn:asciiname":"Sare",
+    "gn:country_code":"RW",
+    "gn:dem":1556,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7107157,
+    "gn:latitude":-2.7964,
+    "gn:longitude":29.7028,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Sare",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7107157
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"3e810590488ee15140ff8f1dbc4934cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561301,
+            "locality_id":1293659637,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1293659637,
+    "wof:lastmodified":1537034669,
+    "wof:name":"Sare",
+    "wof:parent_id":1108561301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7028,
+    -2.7964,
+    29.7028,
+    -2.7964
+],
+  "geometry": {"coordinates":[29.7028,-2.7964],"type":"Point"}
+}

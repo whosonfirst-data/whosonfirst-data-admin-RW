@@ -1,0 +1,70 @@
+{
+  "id": 1209786835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3435,-1.5778,29.3435,-1.5778",
+    "geom:latitude":-1.5778,
+    "geom:longitude":29.3435,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"33.0",
+    "gn:admin3_code":"3302.0",
+    "gn:admin4_code":"330201.0",
+    "gn:asciiname":"Rubikiro",
+    "gn:country_code":"RW",
+    "gn:dem":2104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7605422,
+    "gn:latitude":-1.5778,
+    "gn:longitude":29.3435,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rubikiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421187899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7605422
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"668dd71525bec5f0b3d469210e6f9782",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421187899,
+            "locality_id":1209786835,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1209786835,
+    "wof:lastmodified":1536396802,
+    "wof:name":"Rubikiro",
+    "wof:parent_id":421187899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3435,
+    -1.5778,
+    29.3435,
+    -1.5778
+],
+  "geometry": {"coordinates":[29.3435,-1.5778],"type":"Point"}
+}

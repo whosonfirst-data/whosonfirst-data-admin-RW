@@ -1,0 +1,61 @@
+{
+  "id": 1209501339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9799,-1.8875,29.9799,-1.8875",
+    "geom:latitude":-1.8875,
+    "geom:longitude":29.9799,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Nyarurama",
+    "gn:country_code":"RW",
+    "gn:dem":1653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7600185,
+    "gn:latitude":-1.8875,
+    "gn:longitude":29.9799,
+    "gn:modification_date":"2010-11-05",
+    "gn:name":"Nyarurama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7600185
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"8fa5821d5f5bcffe519850180047c02f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209501339
+        }
+    ],
+    "wof:id":1209501339,
+    "wof:lastmodified":1536285173,
+    "wof:name":"Nyarurama",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9799,
+    -1.8875,
+    29.9799,
+    -1.8875
+],
+  "geometry": {"coordinates":[29.9799,-1.8875],"type":"Point"}
+}

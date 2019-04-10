@@ -1,0 +1,68 @@
+{
+  "id": 1209287661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6144,-2.7452,29.6144,-2.7452",
+    "geom:latitude":-2.7452,
+    "geom:longitude":29.6144,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"23",
+    "gn:admin3_code":"2311.0",
+    "gn:admin4_code":"231104.0",
+    "gn:asciiname":"Nyakizu",
+    "gn:country_code":"RW",
+    "gn:dem":1794,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":201870,
+    "gn:latitude":-2.7452,
+    "gn:longitude":29.6144,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nyakizu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mont Nyakisu",
+        "Nyakizu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":201870
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"2a1199c04a30960ab12d465ae4345223",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209287661
+        }
+    ],
+    "wof:id":1209287661,
+    "wof:lastmodified":1537699083,
+    "wof:name":"Nyakizu",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6144,
+    -2.7452,
+    29.6144,
+    -2.7452
+],
+  "geometry": {"coordinates":[29.6144,-2.7452],"type":"Point"}
+}

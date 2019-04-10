@@ -1,0 +1,76 @@
+{
+  "id": 1309782337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6573,-1.6386,29.6573,-1.6386",
+    "geom:latitude":-1.6386,
+    "geom:longitude":29.6573,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"42",
+    "gn:admin3_code":"4218.0",
+    "gn:admin4_code":"421802.0",
+    "gn:asciiname":"Rusasa I",
+    "gn:country_code":"RW",
+    "gn:dem":1728,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":201960,
+    "gn:latitude":-1.6386,
+    "gn:longitude":29.6573,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rusasa I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rusasa",
+        "Lusaza",
+        "Rusasa I",
+        "Lusasa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421192889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":201960
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"42fe5e4c395e02aa1e831d7c878ec448",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192889,
+            "locality_id":1309782337,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1309782337,
+    "wof:lastmodified":1537699086,
+    "wof:name":"Rusasa I",
+    "wof:parent_id":421192889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6573,
+    -1.6386,
+    29.6573,
+    -1.6386
+],
+  "geometry": {"coordinates":[29.6573,-1.6386],"type":"Point"}
+}

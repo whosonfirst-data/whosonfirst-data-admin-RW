@@ -1,0 +1,70 @@
+{
+  "id": 1293460051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7505,-2.16,29.7505,-2.16",
+    "geom:latitude":-2.16,
+    "geom:longitude":29.7505,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"26.0",
+    "gn:admin3_code":"2602.0",
+    "gn:admin4_code":"260202.0",
+    "gn:asciiname":"Rusororo",
+    "gn:country_code":"RW",
+    "gn:dem":1846,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7659199,
+    "gn:latitude":-2.16,
+    "gn:longitude":29.7505,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rusororo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7659199
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"1119de9d5b7b35bf1ab36051d9609e3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561299,
+            "locality_id":1293460051,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1293460051,
+    "wof:lastmodified":1536825853,
+    "wof:name":"Rusororo",
+    "wof:parent_id":1108561299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7505,
+    -2.16,
+    29.7505,
+    -2.16
+],
+  "geometry": {"coordinates":[29.7505,-2.16],"type":"Point"}
+}

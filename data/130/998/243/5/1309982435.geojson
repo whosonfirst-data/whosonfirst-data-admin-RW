@@ -1,0 +1,70 @@
+{
+  "id": 1309982435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.75008,-1.34905,29.75008,-1.34905",
+    "geom:latitude":-1.34905,
+    "geom:longitude":29.75008,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"44.0",
+    "gn:admin3_code":"4408.0",
+    "gn:admin4_code":"440802.0",
+    "gn:asciiname":"Cyanika I",
+    "gn:country_code":"RW",
+    "gn:dem":1957,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7571994,
+    "gn:latitude":-1.34905,
+    "gn:longitude":29.75008,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Cyanika I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421180243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7571994
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"7a8e58d06292bfa4376f1093cd4884f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421180243,
+            "locality_id":1309982435,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1309982435,
+    "wof:lastmodified":1536676624,
+    "wof:name":"Cyanika I",
+    "wof:parent_id":421180243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.75008,
+    -1.34905,
+    29.75008,
+    -1.34905
+],
+  "geometry": {"coordinates":[29.75008,-1.34905],"type":"Point"}
+}

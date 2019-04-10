@@ -1,0 +1,70 @@
+{
+  "id": 1259753545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6351,-2.1254,29.6351,-2.1254",
+    "geom:latitude":-2.1254,
+    "geom:longitude":29.6351,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"26.0",
+    "gn:admin3_code":"2607.0",
+    "gn:admin4_code":"260707.0",
+    "gn:asciiname":"Musange",
+    "gn:country_code":"RW",
+    "gn:dem":1672,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7660035,
+    "gn:latitude":-2.1254,
+    "gn:longitude":29.6351,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Musange",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7660035
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"1a9337ea8958f7f3701716375076f6a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561299,
+            "locality_id":1259753545,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1259753545,
+    "wof:lastmodified":1536966117,
+    "wof:name":"Musange",
+    "wof:parent_id":1108561299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6351,
+    -2.1254,
+    29.6351,
+    -2.1254
+],
+  "geometry": {"coordinates":[29.6351,-2.1254],"type":"Point"}
+}

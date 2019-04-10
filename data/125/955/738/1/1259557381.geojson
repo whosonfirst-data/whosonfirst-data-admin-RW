@@ -1,0 +1,70 @@
+{
+  "id": 1259557381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3958,-1.9114,29.3958,-1.9114",
+    "geom:latitude":-1.9114,
+    "geom:longitude":29.3958,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"32",
+    "gn:admin3_code":"3207.0",
+    "gn:admin4_code":"320704.0",
+    "gn:asciiname":"Nganzo",
+    "gn:country_code":"RW",
+    "gn:dem":1989,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6998054,
+    "gn:latitude":-1.9114,
+    "gn:longitude":29.3958,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nganzo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421190845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6998054
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"aada5b421cee1b6cbcbe1f75bb5efa09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421190845,
+            "locality_id":1259557381,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1259557381,
+    "wof:lastmodified":1536752500,
+    "wof:name":"Nganzo",
+    "wof:parent_id":421190845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3958,
+    -1.9114,
+    29.3958,
+    -1.9114
+],
+  "geometry": {"coordinates":[29.3958,-1.9114],"type":"Point"}
+}

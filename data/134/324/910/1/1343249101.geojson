@@ -1,0 +1,70 @@
+{
+  "id": 1343249101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0825,-1.8481,30.0825,-1.8481",
+    "geom:latitude":-1.8481,
+    "geom:longitude":30.0825,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"12.0",
+    "gn:admin3_code":"1205.0",
+    "gn:admin4_code":"120505.0",
+    "gn:asciiname":"Agasharu",
+    "gn:country_code":"RW",
+    "gn:dem":1619,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7595428,
+    "gn:latitude":-1.8481,
+    "gn:longitude":30.0825,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Agasharu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676807,
+        421202327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7595428
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"43ca0620ca228c9915ce0e9016b520f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421202327,
+            "locality_id":1343249101,
+            "region_id":85676807
+        }
+    ],
+    "wof:id":1343249101,
+    "wof:lastmodified":1537049282,
+    "wof:name":"Agasharu",
+    "wof:parent_id":421202327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0825,
+    -1.8481,
+    30.0825,
+    -1.8481
+],
+  "geometry": {"coordinates":[30.0825,-1.8481],"type":"Point"}
+}

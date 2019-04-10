@@ -1,0 +1,67 @@
+{
+  "id": 1259855917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6156,-1.6102,29.6156,-1.6102",
+    "geom:latitude":-1.6102,
+    "geom:longitude":29.6156,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Kabogo",
+    "gn:country_code":"RW",
+    "gn:dem":2049,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7320262,
+    "gn:latitude":-1.6102,
+    "gn:longitude":29.6156,
+    "gn:modification_date":"2010-08-06",
+    "gn:name":"Kabogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421169419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7320262
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"cc160ff8c977694e40044cb79e3935fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421169419,
+            "locality_id":1259855917,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1259855917,
+    "wof:lastmodified":1536818063,
+    "wof:name":"Kabogo",
+    "wof:parent_id":421169419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6156,
+    -1.6102,
+    29.6156,
+    -1.6102
+],
+  "geometry": {"coordinates":[29.6156,-1.6102],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276418801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5627,-2.0147,30.5627,-2.0147",
+    "geom:latitude":-2.0147,
+    "geom:longitude":30.5627,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"54.0",
+    "gn:admin3_code":"5403.0",
+    "gn:admin4_code":"540301.0",
+    "gn:asciiname":"Rugazi I",
+    "gn:country_code":"RW",
+    "gn:dem":1639,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7652544,
+    "gn:latitude":-2.0147,
+    "gn:longitude":30.5627,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rugazi I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421204217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7652544
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"d8267c51817bdf1d80bffbf0212b020e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421204217,
+            "locality_id":1276418801,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1276418801,
+    "wof:lastmodified":1536664206,
+    "wof:name":"Rugazi I",
+    "wof:parent_id":421204217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5627,
+    -2.0147,
+    30.5627,
+    -2.0147
+],
+  "geometry": {"coordinates":[30.5627,-2.0147],"type":"Point"}
+}

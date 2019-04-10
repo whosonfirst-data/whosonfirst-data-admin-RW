@@ -1,0 +1,70 @@
+{
+  "id": 1243347011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4889,-1.6934,29.4889,-1.6934",
+    "geom:latitude":-1.6934,
+    "geom:longitude":29.4889,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"3409.0",
+    "gn:admin4_code":"340903.0",
+    "gn:asciiname":"Bugonde",
+    "gn:country_code":"RW",
+    "gn:dem":2603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7605669,
+    "gn:latitude":-1.6934,
+    "gn:longitude":29.4889,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Bugonde",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421169419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7605669
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"0c258c0c370ba606b139490ebfc51374",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421169419,
+            "locality_id":1243347011,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1243347011,
+    "wof:lastmodified":1536949254,
+    "wof:name":"Bugonde",
+    "wof:parent_id":421169419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4889,
+    -1.6934,
+    29.4889,
+    -1.6934
+],
+  "geometry": {"coordinates":[29.4889,-1.6934],"type":"Point"}
+}

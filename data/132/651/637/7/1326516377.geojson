@@ -1,0 +1,70 @@
+{
+  "id": 1326516377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0168,-1.6086,30.0168,-1.6086",
+    "geom:latitude":-1.6086,
+    "geom:longitude":30.0168,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"4514.0",
+    "gn:admin4_code":"451406.0",
+    "gn:asciiname":"Mwendo",
+    "gn:country_code":"RW",
+    "gn:dem":2170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7593018,
+    "gn:latitude":-1.6086,
+    "gn:longitude":30.0168,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Mwendo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421175213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7593018
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"9f43265ec136f4de1ca29af2bfcab5b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421175213,
+            "locality_id":1326516377,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1326516377,
+    "wof:lastmodified":1537006218,
+    "wof:name":"Mwendo",
+    "wof:parent_id":421175213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0168,
+    -1.6086,
+    30.0168,
+    -1.6086
+],
+  "geometry": {"coordinates":[30.0168,-1.6086],"type":"Point"}
+}

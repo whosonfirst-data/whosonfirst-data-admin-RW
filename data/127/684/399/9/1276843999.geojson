@@ -1,0 +1,70 @@
+{
+  "id": 1276843999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5729,-1.6053,29.5729,-1.6053",
+    "geom:latitude":-1.6053,
+    "geom:longitude":29.5729,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"3406.0",
+    "gn:admin4_code":"340603.0",
+    "gn:asciiname":"Nyanshundura",
+    "gn:country_code":"RW",
+    "gn:dem":2364,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7320247,
+    "gn:latitude":-1.6053,
+    "gn:longitude":29.5729,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nyanshundura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421169419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7320247
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"45a847ad876f7c7d49279c9e861a1400",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421169419,
+            "locality_id":1276843999,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1276843999,
+    "wof:lastmodified":1537086027,
+    "wof:name":"Nyanshundura",
+    "wof:parent_id":421169419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5729,
+    -1.6053,
+    29.5729,
+    -1.6053
+],
+  "geometry": {"coordinates":[29.5729,-1.6053],"type":"Point"}
+}

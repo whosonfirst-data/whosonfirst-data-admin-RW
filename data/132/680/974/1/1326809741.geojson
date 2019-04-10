@@ -1,0 +1,70 @@
+{
+  "id": 1326809741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.68167,-1.4075,29.68167,-1.4075",
+    "geom:latitude":-1.4075,
+    "geom:longitude":29.68167,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"44",
+    "gn:admin3_code":"4405.0",
+    "gn:admin4_code":"440504.0",
+    "gn:asciiname":"Nyamigogo",
+    "gn:country_code":"RW",
+    "gn:dem":2745,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":382888,
+    "gn:latitude":-1.4075,
+    "gn:longitude":29.68167,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nyamigogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421180243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":382888
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"45dcc8003a40e5ec379068ebb9b69f4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421180243,
+            "locality_id":1326809741,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1326809741,
+    "wof:lastmodified":1537078107,
+    "wof:name":"Nyamigogo",
+    "wof:parent_id":421180243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.68167,
+    -1.4075,
+    29.68167,
+    -1.4075
+],
+  "geometry": {"coordinates":[29.68167,-1.4075],"type":"Point"}
+}

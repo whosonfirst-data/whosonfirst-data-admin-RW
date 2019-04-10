@@ -1,0 +1,75 @@
+{
+  "id": 1193113599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6858,-1.628,29.6858,-1.628",
+    "geom:latitude":-1.628,
+    "geom:longitude":29.6858,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"42",
+    "gn:admin3_code":"4201.0",
+    "gn:admin4_code":"420101.0",
+    "gn:asciiname":"Cyibumba",
+    "gn:country_code":"RW",
+    "gn:dem":1744,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":203014,
+    "gn:latitude":-1.628,
+    "gn:longitude":29.6858,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Cyibumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Cyibumba",
+        "Cyibumba",
+        "Kibumba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421192889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":203014
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"1d247da0eea5035e5c822a01aa28ec8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192889,
+            "locality_id":1193113599,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1193113599,
+    "wof:lastmodified":1537699141,
+    "wof:name":"Cyibumba",
+    "wof:parent_id":421192889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6858,
+    -1.628,
+    29.6858,
+    -1.628
+],
+  "geometry": {"coordinates":[29.6858,-1.628],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1343340941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.95,-1.7,29.95,-1.7",
+    "geom:latitude":-1.7,
+    "geom:longitude":29.95,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"41",
+    "gn:admin3_code":"4117.0",
+    "gn:admin4_code":"411703.0",
+    "gn:asciiname":"Buzigi",
+    "gn:country_code":"RW",
+    "gn:dem":1942,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":201907,
+    "gn:latitude":-1.7,
+    "gn:longitude":29.95,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Buzigi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mont Buzigi",
+        "Buzigi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421203217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":201907
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"7dfad31efced47f1df25ce08820114b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421203217,
+            "locality_id":1343340941,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1343340941,
+    "wof:lastmodified":1537699085,
+    "wof:name":"Buzigi",
+    "wof:parent_id":421203217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.95,
+    -1.7,
+    29.95,
+    -1.7
+],
+  "geometry": {"coordinates":[29.95,-1.7],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343245025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7708,-2.3464,29.7708,-2.3464",
+    "geom:latitude":-2.3464,
+    "geom:longitude":29.7708,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"21.0",
+    "gn:admin3_code":"2101.0",
+    "gn:admin4_code":"210102.0",
+    "gn:asciiname":"Grenarwa",
+    "gn:country_code":"RW",
+    "gn:dem":1792,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7664510,
+    "gn:latitude":-2.3464,
+    "gn:longitude":29.7708,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Grenarwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421190841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7664510
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"2f258aa2872355108bd27f73306e9684",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421190841,
+            "locality_id":1343245025,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1343245025,
+    "wof:lastmodified":1537054891,
+    "wof:name":"Grenarwa",
+    "wof:parent_id":421190841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7708,
+    -2.3464,
+    29.7708,
+    -2.3464
+],
+  "geometry": {"coordinates":[29.7708,-2.3464],"type":"Point"}
+}

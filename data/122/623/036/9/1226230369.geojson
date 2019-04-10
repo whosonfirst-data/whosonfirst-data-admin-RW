@@ -1,0 +1,75 @@
+{
+  "id": 1226230369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4816,-1.8406,30.4816,-1.8406",
+    "geom:latitude":-1.8406,
+    "geom:longitude":30.4816,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"54",
+    "gn:admin3_code":"5401.0",
+    "gn:admin4_code":"540104.0",
+    "gn:asciiname":"Gahini",
+    "gn:country_code":"RW",
+    "gn:dem":1536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":202300,
+    "gn:latitude":-1.8406,
+    "gn:longitude":30.4816,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gahini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gahine",
+        "Gahini"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421204217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202300,
+        "wk:page":"Gahini"
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"89ecc3978b6831853253e6d18e8b5de0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421204217,
+            "locality_id":1226230369,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1226230369,
+    "wof:lastmodified":1537699090,
+    "wof:name":"Gahini",
+    "wof:parent_id":421204217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4816,
+    -1.8406,
+    30.4816,
+    -1.8406
+],
+  "geometry": {"coordinates":[30.4816,-1.8406],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209596635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5568,-2.1009,30.5568,-2.1009",
+    "geom:latitude":-2.1009,
+    "geom:longitude":30.5568,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"56.0",
+    "gn:admin3_code":"5609.0",
+    "gn:admin4_code":"560902.0",
+    "gn:asciiname":"Kabare I",
+    "gn:country_code":"RW",
+    "gn:dem":1647,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7652648,
+    "gn:latitude":-2.1009,
+    "gn:longitude":30.5568,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kabare I",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7652648
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"b1ec28d90b36cc385866aa70335a426a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209596635
+        }
+    ],
+    "wof:id":1209596635,
+    "wof:lastmodified":1536282303,
+    "wof:name":"Kabare I",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5568,
+    -2.1009,
+    30.5568,
+    -2.1009
+],
+  "geometry": {"coordinates":[30.5568,-2.1009],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1276743413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0986,-1.9018,30.0986,-1.9018",
+    "geom:latitude":-1.9018,
+    "geom:longitude":30.0986,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"12.0",
+    "gn:admin3_code":"1210.0",
+    "gn:admin4_code":"121004.0",
+    "gn:asciiname":"Kanyinya",
+    "gn:country_code":"RW",
+    "gn:dem":1446,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7595541,
+    "gn:latitude":-1.9018,
+    "gn:longitude":30.0986,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kanyinya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676807,
+        421202327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7595541
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"dc06a9a9bbe07606cf6c0a4501c73937",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421202327,
+            "locality_id":1276743413,
+            "region_id":85676807
+        }
+    ],
+    "wof:id":1276743413,
+    "wof:lastmodified":1536726824,
+    "wof:name":"Kanyinya",
+    "wof:parent_id":421202327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0986,
+    -1.9018,
+    30.0986,
+    -1.9018
+],
+  "geometry": {"coordinates":[30.0986,-1.9018],"type":"Point"}
+}

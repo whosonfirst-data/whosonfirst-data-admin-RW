@@ -1,0 +1,70 @@
+{
+  "id": 1360266349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1221,-1.4437,30.1221,-1.4437",
+    "geom:latitude":-1.4437,
+    "geom:longitude":30.1221,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"52.0",
+    "gn:admin3_code":"5205.0",
+    "gn:admin4_code":"520503.0",
+    "gn:asciiname":"Rutoma",
+    "gn:country_code":"RW",
+    "gn:dem":1622,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7582511,
+    "gn:latitude":-1.4437,
+    "gn:longitude":30.1221,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rutoma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421193621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7582511
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"747442d8a767d49169c474f53aa18344",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421193621,
+            "locality_id":1360266349,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1360266349,
+    "wof:lastmodified":1536684167,
+    "wof:name":"Rutoma",
+    "wof:parent_id":421193621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1221,
+    -1.4437,
+    30.1221,
+    -1.4437
+],
+  "geometry": {"coordinates":[30.1221,-1.4437],"type":"Point"}
+}

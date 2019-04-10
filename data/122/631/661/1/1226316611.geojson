@@ -1,0 +1,70 @@
+{
+  "id": 1226316611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2534,-1.6795,29.2534,-1.6795",
+    "geom:latitude":-1.6795,
+    "geom:longitude":29.2534,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"33.0",
+    "gn:admin3_code":"3304.0",
+    "gn:admin4_code":"330404.0",
+    "gn:asciiname":"Kabuga",
+    "gn:country_code":"RW",
+    "gn:dem":1541,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7605635,
+    "gn:latitude":-1.6795,
+    "gn:longitude":29.2534,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kabuga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421187899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7605635
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"137575596dfe499edc955ba5db6dfc23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421187899,
+            "locality_id":1226316611,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1226316611,
+    "wof:lastmodified":1536830594,
+    "wof:name":"Kabuga",
+    "wof:parent_id":421187899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2534,
+    -1.6795,
+    29.2534,
+    -1.6795
+],
+  "geometry": {"coordinates":[29.2534,-1.6795],"type":"Point"}
+}

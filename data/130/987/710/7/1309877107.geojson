@@ -1,0 +1,70 @@
+{
+  "id": 1309877107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.905,-1.7376,29.905,-1.7376",
+    "geom:latitude":-1.7376,
+    "geom:longitude":29.905,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"4103.0",
+    "gn:admin4_code":"410301.0",
+    "gn:asciiname":"Kaniga",
+    "gn:country_code":"RW",
+    "gn:dem":2097,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7321864,
+    "gn:latitude":-1.7376,
+    "gn:longitude":29.905,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kaniga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421203217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7321864
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"74f6973e2221d69089e8d77f4aca91c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421203217,
+            "locality_id":1309877107,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1309877107,
+    "wof:lastmodified":1536827497,
+    "wof:name":"Kaniga",
+    "wof:parent_id":421203217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.905,
+    -1.7376,
+    29.905,
+    -1.7376
+],
+  "geometry": {"coordinates":[29.905,-1.7376],"type":"Point"}
+}

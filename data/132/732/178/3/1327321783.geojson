@@ -1,0 +1,70 @@
+{
+  "id": 1327321783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1176,-2.1221,30.1176,-2.1221",
+    "geom:latitude":-2.1221,
+    "geom:longitude":30.1176,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"57.0",
+    "gn:admin3_code":"5710.0",
+    "gn:admin4_code":"571004.0",
+    "gn:asciiname":"Rutobotobo",
+    "gn:country_code":"RW",
+    "gn:dem":1415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7656317,
+    "gn:latitude":-2.1221,
+    "gn:longitude":30.1176,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rutobotobo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421199681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7656317
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"3a4e027e72e66154d59054d40ba52079",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421199681,
+            "locality_id":1327321783,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1327321783,
+    "wof:lastmodified":1536839590,
+    "wof:name":"Rutobotobo",
+    "wof:parent_id":421199681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1176,
+    -2.1221,
+    30.1176,
+    -2.1221
+],
+  "geometry": {"coordinates":[30.1176,-2.1221],"type":"Point"}
+}

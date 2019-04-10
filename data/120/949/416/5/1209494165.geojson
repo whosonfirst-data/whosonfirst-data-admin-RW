@@ -1,0 +1,64 @@
+{
+  "id": 1209494165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9316,-2.4483,28.9316,-2.4483",
+    "geom:latitude":-2.4483,
+    "geom:longitude":28.9316,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"36",
+    "gn:admin3_code":"3606.0",
+    "gn:admin4_code":"360606.0",
+    "gn:asciiname":"Gasharu",
+    "gn:country_code":"RW",
+    "gn:dem":1631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7032698,
+    "gn:latitude":-2.4483,
+    "gn:longitude":28.9316,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gasharu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7032698
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"5555b1e68582134456e89c7a075110b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209494165
+        }
+    ],
+    "wof:id":1209494165,
+    "wof:lastmodified":1536285390,
+    "wof:name":"Gasharu",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9316,
+    -2.4483,
+    28.9316,
+    -2.4483
+],
+  "geometry": {"coordinates":[28.9316,-2.4483],"type":"Point"}
+}

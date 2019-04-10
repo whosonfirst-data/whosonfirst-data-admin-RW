@@ -1,0 +1,70 @@
+{
+  "id": 1277156067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4151,-2.0756,29.4151,-2.0756",
+    "geom:latitude":-2.0756,
+    "geom:longitude":29.4151,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"3109.0",
+    "gn:admin4_code":"310908.0",
+    "gn:asciiname":"Nyagahanga",
+    "gn:country_code":"RW",
+    "gn:dem":1656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7662389,
+    "gn:latitude":-2.0756,
+    "gn:longitude":29.4151,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nyagahanga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421182175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7662389
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"50a46beb2edd3c6cc4cd5b8449a5d67b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421182175,
+            "locality_id":1277156067,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1277156067,
+    "wof:lastmodified":1536662038,
+    "wof:name":"Nyagahanga",
+    "wof:parent_id":421182175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4151,
+    -2.0756,
+    29.4151,
+    -2.0756
+],
+  "geometry": {"coordinates":[29.4151,-2.0756],"type":"Point"}
+}

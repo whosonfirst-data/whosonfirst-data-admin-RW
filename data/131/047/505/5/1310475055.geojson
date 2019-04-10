@@ -1,0 +1,70 @@
+{
+  "id": 1310475055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6281,-2.6919,29.6281,-2.6919",
+    "geom:latitude":-2.6919,
+    "geom:longitude":29.6281,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"23",
+    "gn:admin3_code":"2314.0",
+    "gn:admin4_code":"231401.0",
+    "gn:asciiname":"Bunge",
+    "gn:country_code":"RW",
+    "gn:dem":1782,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7016224,
+    "gn:latitude":-2.6919,
+    "gn:longitude":29.6281,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Bunge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7016224
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"9bff1301cfd48dc84e381b1dcd557437",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561303,
+            "locality_id":1310475055,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1310475055,
+    "wof:lastmodified":1536960783,
+    "wof:name":"Bunge",
+    "wof:parent_id":1108561303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6281,
+    -2.6919,
+    29.6281,
+    -2.6919
+],
+  "geometry": {"coordinates":[29.6281,-2.6919],"type":"Point"}
+}

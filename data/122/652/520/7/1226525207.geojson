@@ -1,0 +1,70 @@
+{
+  "id": 1226525207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5828,-2.6838,29.5828,-2.6838",
+    "geom:latitude":-2.6838,
+    "geom:longitude":29.5828,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"23",
+    "gn:admin3_code":"2303.0",
+    "gn:admin4_code":"230305.0",
+    "gn:asciiname":"Uwagahilima",
+    "gn:country_code":"RW",
+    "gn:dem":1807,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7016247,
+    "gn:latitude":-2.6838,
+    "gn:longitude":29.5828,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Uwagahilima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7016247
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"9d671771ccff2ff2a269c41264badf73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561303,
+            "locality_id":1226525207,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1226525207,
+    "wof:lastmodified":1537026502,
+    "wof:name":"Uwagahilima",
+    "wof:parent_id":1108561303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5828,
+    -2.6838,
+    29.5828,
+    -2.6838
+],
+  "geometry": {"coordinates":[29.5828,-2.6838],"type":"Point"}
+}

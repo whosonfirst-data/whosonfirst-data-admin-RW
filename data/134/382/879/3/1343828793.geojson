@@ -1,0 +1,70 @@
+{
+  "id": 1343828793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4865,-2.1895,29.4865,-2.1895",
+    "geom:latitude":-2.1895,
+    "geom:longitude":29.4865,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"3111.0",
+    "gn:admin4_code":"311103.0",
+    "gn:asciiname":"Bizitiro",
+    "gn:country_code":"RW",
+    "gn:dem":2098,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7662687,
+    "gn:latitude":-2.1895,
+    "gn:longitude":29.4865,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Bizitiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421182175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7662687
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"f2bb0ab272df2a862f217d9b70e54e1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421182175,
+            "locality_id":1343828793,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1343828793,
+    "wof:lastmodified":1536712702,
+    "wof:name":"Bizitiro",
+    "wof:parent_id":421182175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4865,
+    -2.1895,
+    29.4865,
+    -2.1895
+],
+  "geometry": {"coordinates":[29.4865,-2.1895],"type":"Point"}
+}

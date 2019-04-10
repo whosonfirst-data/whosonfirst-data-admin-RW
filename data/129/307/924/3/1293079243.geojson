@@ -1,0 +1,70 @@
+{
+  "id": 1293079243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3387,-1.7326,30.3387,-1.7326",
+    "geom:latitude":-1.7326,
+    "geom:longitude":30.3387,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"53",
+    "gn:admin3_code":"5312.0",
+    "gn:admin4_code":"531206.0",
+    "gn:asciiname":"Rwarenga",
+    "gn:country_code":"RW",
+    "gn:dem":1707,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":442748,
+    "gn:latitude":-1.7326,
+    "gn:longitude":30.3387,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rwarenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421204013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":442748
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"3d007ec98fa8b9cd3c28ee9292ea7026",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421204013,
+            "locality_id":1293079243,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1293079243,
+    "wof:lastmodified":1536877901,
+    "wof:name":"Rwarenga",
+    "wof:parent_id":421204013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3387,
+    -1.7326,
+    30.3387,
+    -1.7326
+],
+  "geometry": {"coordinates":[30.3387,-1.7326],"type":"Point"}
+}

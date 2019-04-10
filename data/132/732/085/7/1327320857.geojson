@@ -1,0 +1,70 @@
+{
+  "id": 1327320857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0218,-2.007,30.0218,-2.007",
+    "geom:latitude":-2.007,
+    "geom:longitude":30.0218,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"11.0",
+    "gn:admin3_code":"1103.0",
+    "gn:admin4_code":"110305.0",
+    "gn:asciiname":"Rweza",
+    "gn:country_code":"RW",
+    "gn:dem":1371,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7656176,
+    "gn:latitude":-2.007,
+    "gn:longitude":30.0218,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rweza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676807,
+        421204011
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7656176
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"a8a8c243799a7c2d359f5d262d6b568a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421204011,
+            "locality_id":1327320857,
+            "region_id":85676807
+        }
+    ],
+    "wof:id":1327320857,
+    "wof:lastmodified":1536840918,
+    "wof:name":"Rweza",
+    "wof:parent_id":421204011,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0218,
+    -2.007,
+    30.0218,
+    -2.007
+],
+  "geometry": {"coordinates":[30.0218,-2.007],"type":"Point"}
+}

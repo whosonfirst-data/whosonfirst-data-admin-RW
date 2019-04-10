@@ -1,0 +1,70 @@
+{
+  "id": 1259553783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6154,-2.4486,29.6154,-2.4486",
+    "geom:latitude":-2.4486,
+    "geom:longitude":29.6154,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"25",
+    "gn:admin3_code":"2502.0",
+    "gn:admin4_code":"250204.0",
+    "gn:asciiname":"Gikomero",
+    "gn:country_code":"RW",
+    "gn:dem":1800,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7063240,
+    "gn:latitude":-2.4486,
+    "gn:longitude":29.6154,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gikomero",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421192893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7063240
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"c8534ae4d51b6ccbf78965a6d94cfa54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192893,
+            "locality_id":1259553783,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1259553783,
+    "wof:lastmodified":1536757899,
+    "wof:name":"Gikomero",
+    "wof:parent_id":421192893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6154,
+    -2.4486,
+    29.6154,
+    -2.4486
+],
+  "geometry": {"coordinates":[29.6154,-2.4486],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276752041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.13333,-2.4,30.13333,-2.4",
+    "geom:latitude":-2.4,
+    "geom:longitude":30.13333,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"57",
+    "gn:admin3_code":"5703.0",
+    "gn:admin4_code":"570302.0",
+    "gn:asciiname":"Kukana",
+    "gn:country_code":"RW",
+    "gn:dem":1391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":202752,
+    "gn:latitude":-2.4,
+    "gn:longitude":30.13333,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kukana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Kukana",
+        "Kukana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421199681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202752
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"59083c04e526ffbbcc7f72fbf22f8dde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421199681,
+            "locality_id":1276752041,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1276752041,
+    "wof:lastmodified":1537699121,
+    "wof:name":"Kukana",
+    "wof:parent_id":421199681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.13333,
+    -2.4,
+    30.13333,
+    -2.4
+],
+  "geometry": {"coordinates":[30.13333,-2.4],"type":"Point"}
+}

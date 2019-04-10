@@ -1,0 +1,74 @@
+{
+  "id": 1259559949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1578,-1.6359,30.1578,-1.6359",
+    "geom:latitude":-1.6359,
+    "geom:longitude":30.1578,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"45",
+    "gn:admin3_code":"4519.0",
+    "gn:admin4_code":"451905.0",
+    "gn:asciiname":"Nyakabungo",
+    "gn:country_code":"RW",
+    "gn:dem":1779,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":202523,
+    "gn:latitude":-1.6359,
+    "gn:longitude":30.1578,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nyakabungo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Nyakabungo",
+        "Nyakabungo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421175213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202523
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"cc3aa5e49c28cf587002dee885ad4655",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421175213,
+            "locality_id":1259559949,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1259559949,
+    "wof:lastmodified":1537699104,
+    "wof:name":"Nyakabungo",
+    "wof:parent_id":421175213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1578,
+    -1.6359,
+    30.1578,
+    -1.6359
+],
+  "geometry": {"coordinates":[30.1578,-1.6359],"type":"Point"}
+}

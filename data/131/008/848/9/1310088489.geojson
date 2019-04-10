@@ -1,0 +1,70 @@
+{
+  "id": 1310088489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6419,-2.7823,29.6419,-2.7823",
+    "geom:latitude":-2.7823,
+    "geom:longitude":29.6419,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"23.0",
+    "gn:admin3_code":"2311.0",
+    "gn:admin4_code":"231102.0",
+    "gn:asciiname":"Nkomero",
+    "gn:country_code":"RW",
+    "gn:dem":1721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7107129,
+    "gn:latitude":-2.7823,
+    "gn:longitude":29.6419,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nkomero",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7107129
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"59f0d7b6d9eb39b28a49ed53d645ac91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561303,
+            "locality_id":1310088489,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1310088489,
+    "wof:lastmodified":1537020198,
+    "wof:name":"Nkomero",
+    "wof:parent_id":1108561303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6419,
+    -2.7823,
+    29.6419,
+    -2.7823
+],
+  "geometry": {"coordinates":[29.6419,-2.7823],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1225828073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.73333,-2.01667,29.73333,-2.01667",
+    "geom:latitude":-2.01667,
+    "geom:longitude":29.73333,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"27",
+    "gn:admin3_code":"2705.0",
+    "gn:admin4_code":"270504.0",
+    "gn:asciiname":"Kuruhira",
+    "gn:country_code":"RW",
+    "gn:dem":1901,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":201985,
+    "gn:latitude":-2.01667,
+    "gn:longitude":29.73333,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kuruhira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421192887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":201985
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"fa99b78433de2454627e6d3fcea781a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192887,
+            "locality_id":1225828073,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1225828073,
+    "wof:lastmodified":1537037569,
+    "wof:name":"Kuruhira",
+    "wof:parent_id":421192887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.73333,
+    -2.01667,
+    29.73333,
+    -2.01667
+],
+  "geometry": {"coordinates":[29.73333,-2.01667],"type":"Point"}
+}

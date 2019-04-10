@@ -1,0 +1,70 @@
+{
+  "id": 1243153207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7702,-2.218,30.7702,-2.218",
+    "geom:latitude":-2.218,
+    "geom:longitude":30.7702,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"55.0",
+    "gn:admin3_code":"5512.0",
+    "gn:admin4_code":"551202.0",
+    "gn:asciiname":"Rusarabaga",
+    "gn:country_code":"RW",
+    "gn:dem":1606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7688711,
+    "gn:latitude":-2.218,
+    "gn:longitude":30.7702,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rusarabaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421175701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7688711
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"4a3634e755b9f65da6d3aa9cf44f5716",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421175701,
+            "locality_id":1243153207,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1243153207,
+    "wof:lastmodified":1536731668,
+    "wof:name":"Rusarabaga",
+    "wof:parent_id":421175701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7702,
+    -2.218,
+    30.7702,
+    -2.218
+],
+  "geometry": {"coordinates":[30.7702,-2.218],"type":"Point"}
+}

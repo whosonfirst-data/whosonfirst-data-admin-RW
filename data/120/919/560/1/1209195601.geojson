@@ -1,0 +1,64 @@
+{
+  "id": 1209195601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3214,-2.1358,30.3214,-2.1358",
+    "geom:latitude":-2.1358,
+    "geom:longitude":30.3214,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"56.0",
+    "gn:admin3_code":"5611.0",
+    "gn:admin4_code":"561102.0",
+    "gn:asciiname":"Rukongi",
+    "gn:country_code":"RW",
+    "gn:dem":1396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7654409,
+    "gn:latitude":-2.1358,
+    "gn:longitude":30.3214,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rukongi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7654409
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"abfefbc5163b495a6b204398ce4bea7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209195601
+        }
+    ],
+    "wof:id":1209195601,
+    "wof:lastmodified":1536294782,
+    "wof:name":"Rukongi",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3214,
+    -2.1358,
+    30.3214,
+    -2.1358
+],
+  "geometry": {"coordinates":[30.3214,-2.1358],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310484445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6186,-2.7544,29.6186,-2.7544",
+    "geom:latitude":-2.7544,
+    "geom:longitude":29.6186,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"23.0",
+    "gn:admin3_code":"2311.0",
+    "gn:admin4_code":"231104.0",
+    "gn:asciiname":"Muliza",
+    "gn:country_code":"RW",
+    "gn:dem":1856,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7107049,
+    "gn:latitude":-2.7544,
+    "gn:longitude":29.6186,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Muliza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7107049
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"93ef2464decd7d69eb862c3a56643dd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561303,
+            "locality_id":1310484445,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1310484445,
+    "wof:lastmodified":1536947674,
+    "wof:name":"Muliza",
+    "wof:parent_id":1108561303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6186,
+    -2.7544,
+    29.6186,
+    -2.7544
+],
+  "geometry": {"coordinates":[29.6186,-2.7544],"type":"Point"}
+}

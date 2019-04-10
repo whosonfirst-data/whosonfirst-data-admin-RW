@@ -1,0 +1,76 @@
+{
+  "id": 1343232375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7513,-2.097,29.7513,-2.097",
+    "geom:latitude":-2.097,
+    "geom:longitude":29.7513,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"27",
+    "gn:admin3_code":"2708.0",
+    "gn:admin4_code":"270801.0",
+    "gn:asciiname":"Kabgayi",
+    "gn:country_code":"RW",
+    "gn:dem":1820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":202174,
+    "gn:latitude":-2.097,
+    "gn:longitude":29.7513,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kabgayi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kabgaye",
+        "Kabgaie",
+        "Kabgayi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421192887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202174,
+        "wk:page":"Kabgayi"
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"0e9e8eb6a29e755f9fb34aff3169065d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192887,
+            "locality_id":1343232375,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1343232375,
+    "wof:lastmodified":1537699089,
+    "wof:name":"Kabgayi",
+    "wof:parent_id":421192887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7513,
+    -2.097,
+    29.7513,
+    -2.097
+],
+  "geometry": {"coordinates":[29.7513,-2.097],"type":"Point"}
+}

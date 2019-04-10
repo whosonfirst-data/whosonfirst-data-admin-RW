@@ -1,0 +1,70 @@
+{
+  "id": 1259761359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0758,-2.3208,30.0758,-2.3208",
+    "geom:latitude":-2.3208,
+    "geom:longitude":30.0758,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"57.0",
+    "gn:admin3_code":"5713.0",
+    "gn:admin4_code":"571304.0",
+    "gn:asciiname":"Kindama",
+    "gn:country_code":"RW",
+    "gn:dem":1504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7685503,
+    "gn:latitude":-2.3208,
+    "gn:longitude":30.0758,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kindama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421199681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7685503
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"36b4f3b479796789e9caa57546d5d93b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421199681,
+            "locality_id":1259761359,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1259761359,
+    "wof:lastmodified":1536955116,
+    "wof:name":"Kindama",
+    "wof:parent_id":421199681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0758,
+    -2.3208,
+    30.0758,
+    -2.3208
+],
+  "geometry": {"coordinates":[30.0758,-2.3208],"type":"Point"}
+}

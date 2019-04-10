@@ -1,0 +1,70 @@
+{
+  "id": 1309691129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.54701,-2.00437,29.54701,-2.00437",
+    "geom:latitude":-2.00437,
+    "geom:longitude":29.54701,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"35.0",
+    "gn:admin3_code":"3510.0",
+    "gn:admin4_code":"351004.0",
+    "gn:asciiname":"Rusiga",
+    "gn:country_code":"RW",
+    "gn:dem":2214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7659739,
+    "gn:latitude":-2.00437,
+    "gn:longitude":29.54701,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rusiga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        1108561295
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7659739
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"a1bd38b9accfa3f00dc59d5c814ab364",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561295,
+            "locality_id":1309691129,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1309691129,
+    "wof:lastmodified":1537093250,
+    "wof:name":"Rusiga",
+    "wof:parent_id":1108561295,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.54701,
+    -2.00437,
+    29.54701,
+    -2.00437
+],
+  "geometry": {"coordinates":[29.54701,-2.00437],"type":"Point"}
+}

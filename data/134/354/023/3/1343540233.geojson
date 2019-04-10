@@ -1,0 +1,70 @@
+{
+  "id": 1343540233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.96125,-2.43449,28.96125,-2.43449",
+    "geom:latitude":-2.43449,
+    "geom:longitude":28.96125,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"36",
+    "gn:admin3_code":"3605.0",
+    "gn:admin4_code":"360502.0",
+    "gn:asciiname":"Ntura",
+    "gn:country_code":"RW",
+    "gn:dem":1677,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7032671,
+    "gn:latitude":-2.43449,
+    "gn:longitude":28.96125,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ntura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421176723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7032671
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"7c30daf71376f118e4449d577e5e3b2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421176723,
+            "locality_id":1343540233,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1343540233,
+    "wof:lastmodified":1536629463,
+    "wof:name":"Ntura",
+    "wof:parent_id":421176723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.96125,
+    -2.43449,
+    28.96125,
+    -2.43449
+],
+  "geometry": {"coordinates":[28.96125,-2.43449],"type":"Point"}
+}

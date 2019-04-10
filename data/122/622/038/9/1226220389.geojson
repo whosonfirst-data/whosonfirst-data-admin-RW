@@ -1,0 +1,75 @@
+{
+  "id": 1226220389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3728,-1.1336,30.3728,-1.1336",
+    "geom:latitude":-1.1336,
+    "geom:longitude":30.3728,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"52",
+    "gn:admin3_code":"5209.0",
+    "gn:admin4_code":"520901.0",
+    "gn:asciiname":"Musheli",
+    "gn:country_code":"RW",
+    "gn:dem":1372,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":202614,
+    "gn:latitude":-1.1336,
+    "gn:longitude":30.3728,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Musheli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Musheri",
+        "Musheri",
+        "Musheli"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421193621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202614
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"9a635c45028f3c25cecf77dd0c60912b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421193621,
+            "locality_id":1226220389,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1226220389,
+    "wof:lastmodified":1537699111,
+    "wof:name":"Musheli",
+    "wof:parent_id":421193621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3728,
+    -1.1336,
+    30.3728,
+    -1.1336
+],
+  "geometry": {"coordinates":[30.3728,-1.1336],"type":"Point"}
+}

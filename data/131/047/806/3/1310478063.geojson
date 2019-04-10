@@ -1,0 +1,70 @@
+{
+  "id": 1310478063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7942,-1.5934,29.7942,-1.5934",
+    "geom:latitude":-1.5934,
+    "geom:longitude":29.7942,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"4207.0",
+    "gn:admin4_code":"420701.0",
+    "gn:asciiname":"Gikingi",
+    "gn:country_code":"RW",
+    "gn:dem":2273,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7321514,
+    "gn:latitude":-1.5934,
+    "gn:longitude":29.7942,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gikingi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421192889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7321514
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"92d44194b8c2e777bef2288e7ec813f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192889,
+            "locality_id":1310478063,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1310478063,
+    "wof:lastmodified":1536956564,
+    "wof:name":"Gikingi",
+    "wof:parent_id":421192889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7942,
+    -1.5934,
+    29.7942,
+    -1.5934
+],
+  "geometry": {"coordinates":[29.7942,-1.5934],"type":"Point"}
+}

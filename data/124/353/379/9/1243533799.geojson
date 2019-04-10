@@ -1,0 +1,74 @@
+{
+  "id": 1243533799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.95,-1.88333,29.95,-1.88333",
+    "geom:latitude":-1.88333,
+    "geom:longitude":29.95,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"41",
+    "gn:admin3_code":"4116.0",
+    "gn:admin4_code":"411602.0",
+    "gn:asciiname":"Rimwe",
+    "gn:country_code":"RW",
+    "gn:dem":1390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":202469,
+    "gn:latitude":-1.88333,
+    "gn:longitude":29.95,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rimwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Rimwe",
+        "Rimwe"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421203217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202469
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"96db3d8477e93849bdf0b1da2ebda039",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421203217,
+            "locality_id":1243533799,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1243533799,
+    "wof:lastmodified":1537699100,
+    "wof:name":"Rimwe",
+    "wof:parent_id":421203217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.95,
+    -1.88333,
+    29.95,
+    -1.88333
+],
+  "geometry": {"coordinates":[29.95,-1.88333],"type":"Point"}
+}

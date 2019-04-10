@@ -1,0 +1,74 @@
+{
+  "id": 1310489861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5895,-2.1931,30.5895,-2.1931",
+    "geom:latitude":-2.1931,
+    "geom:longitude":30.5895,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"56",
+    "gn:admin3_code":"5610.0",
+    "gn:admin4_code":"561001.0",
+    "gn:asciiname":"Rukira",
+    "gn:country_code":"RW",
+    "gn:dem":1608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":201510,
+    "gn:latitude":-2.1931,
+    "gn:longitude":30.5895,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rukira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lukira",
+        "Rukira"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        1108561297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":201510
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"68e5cef114cf132d776c71dad0197467",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561297,
+            "locality_id":1310489861,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1310489861,
+    "wof:lastmodified":1537699078,
+    "wof:name":"Rukira",
+    "wof:parent_id":1108561297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5895,
+    -2.1931,
+    30.5895,
+    -2.1931
+],
+  "geometry": {"coordinates":[30.5895,-2.1931],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1209904215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2983,-1.2128,30.2983,-1.2128",
+    "geom:latitude":-1.2128,
+    "geom:longitude":30.2983,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"52",
+    "gn:admin3_code":"5212.0",
+    "gn:admin4_code":"521209.0",
+    "gn:asciiname":"Rwempasha",
+    "gn:country_code":"RW",
+    "gn:dem":1438,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":442809,
+    "gn:latitude":-1.2128,
+    "gn:longitude":30.2983,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rwempasha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rwemhasha",
+        "Rwempasha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421193621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":442809
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"8b6788b1c489c9b42c16bad68cd3cf10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421193621,
+            "locality_id":1209904215,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1209904215,
+    "wof:lastmodified":1537699150,
+    "wof:name":"Rwempasha",
+    "wof:parent_id":421193621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2983,
+    -1.2128,
+    30.2983,
+    -1.2128
+],
+  "geometry": {"coordinates":[30.2983,-1.2128],"type":"Point"}
+}

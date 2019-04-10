@@ -1,0 +1,70 @@
+{
+  "id": 1226723819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3279,-1.753,29.3279,-1.753",
+    "geom:latitude":-1.753,
+    "geom:longitude":29.3279,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"32",
+    "gn:admin3_code":"3211.0",
+    "gn:admin4_code":"321105.0",
+    "gn:asciiname":"Rwangambuto",
+    "gn:country_code":"RW",
+    "gn:dem":1920,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6997793,
+    "gn:latitude":-1.753,
+    "gn:longitude":29.3279,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rwangambuto",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421190845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6997793
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"305a2273fb30d643ca25da0592167661",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421190845,
+            "locality_id":1226723819,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1226723819,
+    "wof:lastmodified":1536746971,
+    "wof:name":"Rwangambuto",
+    "wof:parent_id":421190845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3279,
+    -1.753,
+    29.3279,
+    -1.753
+],
+  "geometry": {"coordinates":[29.3279,-1.753],"type":"Point"}
+}

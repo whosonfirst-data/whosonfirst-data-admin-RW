@@ -1,0 +1,70 @@
+{
+  "id": 1209697109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4804,-1.702,30.4804,-1.702",
+    "geom:latitude":-1.702,
+    "geom:longitude":30.4804,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"54.0",
+    "gn:admin3_code":"5406.0",
+    "gn:admin4_code":"540602.0",
+    "gn:asciiname":"Ngumeri II",
+    "gn:country_code":"RW",
+    "gn:dem":1386,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7592371,
+    "gn:latitude":-1.702,
+    "gn:longitude":30.4804,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ngumeri II",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421204217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7592371
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"28ec81d4fabf4dc9d7a4e778d0e20fd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421204217,
+            "locality_id":1209697109,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1209697109,
+    "wof:lastmodified":1536396649,
+    "wof:name":"Ngumeri II",
+    "wof:parent_id":421204217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4804,
+    -1.702,
+    30.4804,
+    -1.702
+],
+  "geometry": {"coordinates":[30.4804,-1.702],"type":"Point"}
+}

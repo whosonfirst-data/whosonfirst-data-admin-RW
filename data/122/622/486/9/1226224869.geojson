@@ -1,0 +1,74 @@
+{
+  "id": 1226224869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7667,-2.2804,29.7667,-2.2804",
+    "geom:latitude":-2.2804,
+    "geom:longitude":29.7667,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"2106.0",
+    "gn:admin4_code":"210605.0",
+    "gn:asciiname":"Mwanabili",
+    "gn:country_code":"RW",
+    "gn:dem":1706,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":202590,
+    "gn:latitude":-2.2804,
+    "gn:longitude":29.7667,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Mwanabili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Mwanabili",
+        "Mwanabili"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421190841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202590
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"e0562f4b336a8d2b74e22c9524c49b78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421190841,
+            "locality_id":1226224869,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1226224869,
+    "wof:lastmodified":1537699109,
+    "wof:name":"Mwanabili",
+    "wof:parent_id":421190841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7667,
+    -2.2804,
+    29.7667,
+    -2.2804
+],
+  "geometry": {"coordinates":[29.7667,-2.2804],"type":"Point"}
+}

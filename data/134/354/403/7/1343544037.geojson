@@ -1,0 +1,74 @@
+{
+  "id": 1343544037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8524,-2.706,29.8524,-2.706",
+    "geom:latitude":-2.706,
+    "geom:longitude":29.8524,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"22",
+    "gn:admin3_code":"2208.0",
+    "gn:admin4_code":"220803.0",
+    "gn:asciiname":"Linda",
+    "gn:country_code":"RW",
+    "gn:dem":1636,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":202744,
+    "gn:latitude":-2.706,
+    "gn:longitude":29.8524,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Linda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Linda",
+        "Linda"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202744
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"45de0aa7f797c3245b871452a8b926b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561301,
+            "locality_id":1343544037,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1343544037,
+    "wof:lastmodified":1537699121,
+    "wof:name":"Linda",
+    "wof:parent_id":1108561301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8524,
+    -2.706,
+    29.8524,
+    -2.706
+],
+  "geometry": {"coordinates":[29.8524,-2.706],"type":"Point"}
+}

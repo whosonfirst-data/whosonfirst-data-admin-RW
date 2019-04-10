@@ -1,0 +1,70 @@
+{
+  "id": 1260150969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6418,-2.3172,29.6418,-2.3172",
+    "geom:latitude":-2.3172,
+    "geom:longitude":29.6418,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"2103.0",
+    "gn:admin4_code":"210304.0",
+    "gn:asciiname":"Ruvuzo",
+    "gn:country_code":"RW",
+    "gn:dem":1598,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7062908,
+    "gn:latitude":-2.3172,
+    "gn:longitude":29.6418,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ruvuzo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421190841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7062908
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"73a5b9b26ac4207b1ce7480c0e57ba9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421190841,
+            "locality_id":1260150969,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1260150969,
+    "wof:lastmodified":1536892232,
+    "wof:name":"Ruvuzo",
+    "wof:parent_id":421190841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6418,
+    -2.3172,
+    29.6418,
+    -2.3172
+],
+  "geometry": {"coordinates":[29.6418,-2.3172],"type":"Point"}
+}

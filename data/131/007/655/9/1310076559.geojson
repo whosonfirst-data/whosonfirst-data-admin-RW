@@ -1,0 +1,70 @@
+{
+  "id": 1310076559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.56455,-2.06921,29.56455,-2.06921",
+    "geom:latitude":-2.06921,
+    "geom:longitude":29.56455,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"3110.0",
+    "gn:admin4_code":"311007.0",
+    "gn:asciiname":"Cyambambuzi",
+    "gn:country_code":"RW",
+    "gn:dem":1910,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7659901,
+    "gn:latitude":-2.06921,
+    "gn:longitude":29.56455,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Cyambambuzi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421182175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7659901
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"a13e195e023d2afc798d53e42de5868b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421182175,
+            "locality_id":1310076559,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1310076559,
+    "wof:lastmodified":1537036770,
+    "wof:name":"Cyambambuzi",
+    "wof:parent_id":421182175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.56455,
+    -2.06921,
+    29.56455,
+    -2.06921
+],
+  "geometry": {"coordinates":[29.56455,-2.06921],"type":"Point"}
+}

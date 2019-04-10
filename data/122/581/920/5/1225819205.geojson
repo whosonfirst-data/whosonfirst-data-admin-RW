@@ -1,0 +1,70 @@
+{
+  "id": 1225819205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.52432,-2.01345,29.52432,-2.01345",
+    "geom:latitude":-2.01345,
+    "geom:longitude":29.52432,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"32.0",
+    "gn:admin3_code":"3206.0",
+    "gn:admin4_code":"320606.0",
+    "gn:asciiname":"Kagombwa",
+    "gn:country_code":"RW",
+    "gn:dem":2319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7659756,
+    "gn:latitude":-2.01345,
+    "gn:longitude":29.52432,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kagombwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421190845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7659756
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"fdd720a87c84dc1b456985f3132cf74e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421190845,
+            "locality_id":1225819205,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1225819205,
+    "wof:lastmodified":1537049940,
+    "wof:name":"Kagombwa",
+    "wof:parent_id":421190845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.52432,
+    -2.01345,
+    29.52432,
+    -2.01345
+],
+  "geometry": {"coordinates":[29.52432,-2.01345],"type":"Point"}
+}

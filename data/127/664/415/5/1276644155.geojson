@@ -1,0 +1,70 @@
+{
+  "id": 1276644155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2303,-1.2896,30.2303,-1.2896",
+    "geom:latitude":-1.2896,
+    "geom:longitude":30.2303,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"52.0",
+    "gn:admin3_code":"5214.0",
+    "gn:admin4_code":"521407.0",
+    "gn:asciiname":"Nyabitenderi",
+    "gn:country_code":"RW",
+    "gn:dem":1486,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7582413,
+    "gn:latitude":-1.2896,
+    "gn:longitude":30.2303,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nyabitenderi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421193621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7582413
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"b764a9e76353d5f5ddb07d873e8a6fcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421193621,
+            "locality_id":1276644155,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1276644155,
+    "wof:lastmodified":1536858067,
+    "wof:name":"Nyabitenderi",
+    "wof:parent_id":421193621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2303,
+    -1.2896,
+    30.2303,
+    -1.2896
+],
+  "geometry": {"coordinates":[30.2303,-1.2896],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293672139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8564,-2.6487,29.8564,-2.6487",
+    "geom:latitude":-2.6487,
+    "geom:longitude":29.8564,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"22.0",
+    "gn:admin3_code":"2207.0",
+    "gn:admin4_code":"220703.0",
+    "gn:asciiname":"Gakurwe",
+    "gn:country_code":"RW",
+    "gn:dem":1787,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7663812,
+    "gn:latitude":-2.6487,
+    "gn:longitude":29.8564,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gakurwe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7663812
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"7e6ba780d28367f9d13aab630e37f95f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561301,
+            "locality_id":1293672139,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1293672139,
+    "wof:lastmodified":1537017405,
+    "wof:name":"Gakurwe",
+    "wof:parent_id":1108561301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8564,
+    -2.6487,
+    29.8564,
+    -2.6487
+],
+  "geometry": {"coordinates":[29.8564,-2.6487],"type":"Point"}
+}

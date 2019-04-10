@@ -1,0 +1,70 @@
+{
+  "id": 1310684071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7853,-2.3275,29.7853,-2.3275",
+    "geom:latitude":-2.3275,
+    "geom:longitude":29.7853,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"21.0",
+    "gn:admin3_code":"2105.0",
+    "gn:admin4_code":"210504.0",
+    "gn:asciiname":"Rwambika",
+    "gn:country_code":"RW",
+    "gn:dem":1658,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7664703,
+    "gn:latitude":-2.3275,
+    "gn:longitude":29.7853,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rwambika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421190841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7664703
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"7997922b9b3033ef2022a0aa25d8a379",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421190841,
+            "locality_id":1310684071,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1310684071,
+    "wof:lastmodified":1536659397,
+    "wof:name":"Rwambika",
+    "wof:parent_id":421190841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7853,
+    -2.3275,
+    29.7853,
+    -2.3275
+],
+  "geometry": {"coordinates":[29.7853,-2.3275],"type":"Point"}
+}

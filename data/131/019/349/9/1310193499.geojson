@@ -1,0 +1,70 @@
+{
+  "id": 1310193499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1728,-1.361,30.1728,-1.361",
+    "geom:latitude":-1.361,
+    "geom:longitude":30.1728,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"52.0",
+    "gn:admin3_code":"5202.0",
+    "gn:admin4_code":"520206.0",
+    "gn:asciiname":"Kanyami",
+    "gn:country_code":"RW",
+    "gn:dem":1511,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7582433,
+    "gn:latitude":-1.361,
+    "gn:longitude":30.1728,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kanyami",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421193621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7582433
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"4ed4f65d987b4966194cc0bd73d37b3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421193621,
+            "locality_id":1310193499,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1310193499,
+    "wof:lastmodified":1536868439,
+    "wof:name":"Kanyami",
+    "wof:parent_id":421193621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1728,
+    -1.361,
+    30.1728,
+    -1.361
+],
+  "geometry": {"coordinates":[30.1728,-1.361],"type":"Point"}
+}

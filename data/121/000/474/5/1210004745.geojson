@@ -1,0 +1,70 @@
+{
+  "id": 1210004745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3746,-2.0683,30.3746,-2.0683",
+    "geom:latitude":-2.0683,
+    "geom:longitude":30.3746,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"51.0",
+    "gn:admin3_code":"5114.0",
+    "gn:admin4_code":"511401.0",
+    "gn:asciiname":"Bidudu",
+    "gn:country_code":"RW",
+    "gn:dem":1396,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7654323,
+    "gn:latitude":-2.0683,
+    "gn:longitude":30.3746,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Bidudu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421187891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7654323
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"5066e39470161fcb5095a7d31f067aa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421187891,
+            "locality_id":1210004745,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1210004745,
+    "wof:lastmodified":1536374911,
+    "wof:name":"Bidudu",
+    "wof:parent_id":421187891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3746,
+    -2.0683,
+    30.3746,
+    -2.0683
+],
+  "geometry": {"coordinates":[30.3746,-2.0683],"type":"Point"}
+}

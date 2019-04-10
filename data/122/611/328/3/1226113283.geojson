@@ -1,0 +1,67 @@
+{
+  "id": 1226113283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8983,-2.6511,28.8983,-2.6511",
+    "geom:latitude":-2.6511,
+    "geom:longitude":28.8983,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Rugunga",
+    "gn:country_code":"RW",
+    "gn:dem":1326,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7032997,
+    "gn:latitude":-2.6511,
+    "gn:longitude":28.8983,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Rugunga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632643,
+        85670003,
+        1091680001
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7032997
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"09b549c158273dfdc08dfa4cfa856786",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091680001,
+            "locality_id":1226113283,
+            "region_id":85670003
+        }
+    ],
+    "wof:id":1226113283,
+    "wof:lastmodified":1536625871,
+    "wof:name":"Rugunga",
+    "wof:parent_id":1091680001,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8983,
+    -2.6511,
+    28.8983,
+    -2.6511
+],
+  "geometry": {"coordinates":[28.8983,-2.6511],"type":"Point"}
+}

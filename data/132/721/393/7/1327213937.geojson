@@ -1,0 +1,70 @@
+{
+  "id": 1327213937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2242,-2.0014,30.2242,-2.0014",
+    "geom:latitude":-2.0014,
+    "geom:longitude":30.2242,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"1308.0",
+    "gn:admin4_code":"130803.0",
+    "gn:asciiname":"Gihubuke",
+    "gn:country_code":"RW",
+    "gn:dem":1460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7656172,
+    "gn:latitude":-2.0014,
+    "gn:longitude":30.2242,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gihubuke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676807,
+        421182309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7656172
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"dfb0db157413940e562bb6681fb784e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421182309,
+            "locality_id":1327213937,
+            "region_id":85676807
+        }
+    ],
+    "wof:id":1327213937,
+    "wof:lastmodified":1536995539,
+    "wof:name":"Gihubuke",
+    "wof:parent_id":421182309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2242,
+    -2.0014,
+    30.2242,
+    -2.0014
+],
+  "geometry": {"coordinates":[30.2242,-2.0014],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1209403117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.516,-2.1151,30.516,-2.1151",
+    "geom:latitude":-2.1151,
+    "geom:longitude":30.516,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"56.0",
+    "gn:admin3_code":"5612.0",
+    "gn:admin4_code":"561203.0",
+    "gn:asciiname":"Kamugundu",
+    "gn:country_code":"RW",
+    "gn:dem":1380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7652669,
+    "gn:latitude":-2.1151,
+    "gn:longitude":30.516,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kamugundu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kamugungu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7652669
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"b311456cd6dc7ca22e1022c3eedddc20",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209403117
+        }
+    ],
+    "wof:id":1209403117,
+    "wof:lastmodified":1537699158,
+    "wof:name":"Kamugundu",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.516,
+    -2.1151,
+    30.516,
+    -2.1151
+],
+  "geometry": {"coordinates":[30.516,-2.1151],"type":"Point"}
+}

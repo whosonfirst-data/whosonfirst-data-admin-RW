@@ -1,0 +1,74 @@
+{
+  "id": 1293263635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.84268,-1.73357,29.84268,-1.73357",
+    "geom:latitude":-1.73357,
+    "geom:longitude":29.84268,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"42",
+    "gn:admin3_code":"4219.0",
+    "gn:admin4_code":"421901.0",
+    "gn:asciiname":"Bulimba",
+    "gn:country_code":"RW",
+    "gn:dem":1820,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":203058,
+    "gn:latitude":-1.73357,
+    "gn:longitude":29.84268,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Bulimba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Bulimba",
+        "Bulimba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421192889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":203058
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"4300364f4e893ddcd0266571771b72c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192889,
+            "locality_id":1293263635,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1293263635,
+    "wof:lastmodified":1537699144,
+    "wof:name":"Bulimba",
+    "wof:parent_id":421192889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.84268,
+    -1.73357,
+    29.84268,
+    -1.73357
+],
+  "geometry": {"coordinates":[29.84268,-1.73357],"type":"Point"}
+}

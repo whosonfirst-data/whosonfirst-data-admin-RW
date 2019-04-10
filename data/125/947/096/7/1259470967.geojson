@@ -1,0 +1,73 @@
+{
+  "id": 1259470967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2173,-1.6437,30.2173,-1.6437",
+    "geom:latitude":-1.6437,
+    "geom:longitude":30.2173,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"53.0",
+    "gn:admin3_code":"5302.0",
+    "gn:admin4_code":"530205.0",
+    "gn:asciiname":"Rusenge",
+    "gn:country_code":"RW",
+    "gn:dem":1633,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7593083,
+    "gn:latitude":-1.6437,
+    "gn:longitude":30.2173,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rusenge",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rusengo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421204013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7593083
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"550c2113cec3ec42f6b97f29f06cfe61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421204013,
+            "locality_id":1259470967,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1259470967,
+    "wof:lastmodified":1537699157,
+    "wof:name":"Rusenge",
+    "wof:parent_id":421204013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2173,
+    -1.6437,
+    30.2173,
+    -1.6437
+],
+  "geometry": {"coordinates":[30.2173,-1.6437],"type":"Point"}
+}

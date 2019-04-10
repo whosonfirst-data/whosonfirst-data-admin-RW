@@ -1,0 +1,70 @@
+{
+  "id": 1260374165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5071,-2.1494,29.5071,-2.1494",
+    "geom:latitude":-2.1494,
+    "geom:longitude":29.5071,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"3102.0",
+    "gn:admin4_code":"310201.0",
+    "gn:asciiname":"Kabilizi",
+    "gn:country_code":"RW",
+    "gn:dem":1775,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":384175,
+    "gn:latitude":-2.1494,
+    "gn:longitude":29.5071,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kabilizi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421182175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":384175
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"35774becfe2e1d222c174719dc66f0c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421182175,
+            "locality_id":1260374165,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1260374165,
+    "wof:lastmodified":1537084236,
+    "wof:name":"Kabilizi",
+    "wof:parent_id":421182175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5071,
+    -2.1494,
+    29.5071,
+    -2.1494
+],
+  "geometry": {"coordinates":[29.5071,-2.1494],"type":"Point"}
+}

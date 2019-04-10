@@ -1,0 +1,70 @@
+{
+  "id": 1276413495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4641,-2.6119,29.4641,-2.6119",
+    "geom:latitude":-2.6119,
+    "geom:longitude":29.4641,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"23",
+    "gn:admin3_code":"2304.0",
+    "gn:admin4_code":"230405.0",
+    "gn:asciiname":"Rugerero",
+    "gn:country_code":"RW",
+    "gn:dem":2134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7021892,
+    "gn:latitude":-2.6119,
+    "gn:longitude":29.4641,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rugerero",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7021892
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"e8b6fd5ca6b64a813daf436d79e1c077",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561303,
+            "locality_id":1276413495,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1276413495,
+    "wof:lastmodified":1536671275,
+    "wof:name":"Rugerero",
+    "wof:parent_id":1108561303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4641,
+    -2.6119,
+    29.4641,
+    -2.6119
+],
+  "geometry": {"coordinates":[29.4641,-2.6119],"type":"Point"}
+}

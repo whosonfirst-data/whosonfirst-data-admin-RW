@@ -1,0 +1,70 @@
+{
+  "id": 1193251567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6542,-2.0349,29.6542,-2.0349",
+    "geom:latitude":-2.0349,
+    "geom:longitude":29.6542,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"27",
+    "gn:admin3_code":"2706.0",
+    "gn:admin4_code":"270606.0",
+    "gn:asciiname":"Muhororo",
+    "gn:country_code":"RW",
+    "gn:dem":1671,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":201820,
+    "gn:latitude":-2.0349,
+    "gn:longitude":29.6542,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Muhororo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421192887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":201820
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"9c7874e630e99e21a5ca2ab60f1a167a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192887,
+            "locality_id":1193251567,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1193251567,
+    "wof:lastmodified":1536367352,
+    "wof:name":"Muhororo",
+    "wof:parent_id":421192887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6542,
+    -2.0349,
+    29.6542,
+    -2.0349
+],
+  "geometry": {"coordinates":[29.6542,-2.0349],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1277160913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0166,-2.5271,29.0166,-2.5271",
+    "geom:latitude":-2.5271,
+    "geom:longitude":29.0166,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"37",
+    "gn:admin3_code":"3708.0",
+    "gn:admin4_code":"370805.0",
+    "gn:asciiname":"Ruhinga",
+    "gn:country_code":"RW",
+    "gn:dem":1561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7020149,
+    "gn:latitude":-2.5271,
+    "gn:longitude":29.0166,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ruhinga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421192891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7020149
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"76ffe9579441f105e8f2ead33f9317a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192891,
+            "locality_id":1277160913,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1277160913,
+    "wof:lastmodified":1536655025,
+    "wof:name":"Ruhinga",
+    "wof:parent_id":421192891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0166,
+    -2.5271,
+    29.0166,
+    -2.5271
+],
+  "geometry": {"coordinates":[29.0166,-2.5271],"type":"Point"}
+}

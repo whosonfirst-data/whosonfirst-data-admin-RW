@@ -1,0 +1,70 @@
+{
+  "id": 1226619341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6663,-2.4322,29.6663,-2.4322",
+    "geom:latitude":-2.4322,
+    "geom:longitude":29.6663,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"24",
+    "gn:admin3_code":"2412.0",
+    "gn:admin4_code":"241202.0",
+    "gn:asciiname":"Nyabinyenga",
+    "gn:country_code":"RW",
+    "gn:dem":1719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7063194,
+    "gn:latitude":-2.4322,
+    "gn:longitude":29.6663,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nyabinyenga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421204219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7063194
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"f453404b7aaaedc7ffc55d8bc3f8c589",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421204219,
+            "locality_id":1226619341,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1226619341,
+    "wof:lastmodified":1536897437,
+    "wof:name":"Nyabinyenga",
+    "wof:parent_id":421204219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6663,
+    -2.4322,
+    29.6663,
+    -2.4322
+],
+  "geometry": {"coordinates":[29.6663,-2.4322],"type":"Point"}
+}

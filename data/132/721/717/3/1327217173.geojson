@@ -1,0 +1,70 @@
+{
+  "id": 1327217173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.393,-2.2537,29.393,-2.2537",
+    "geom:latitude":-2.2537,
+    "geom:longitude":29.393,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"31",
+    "gn:admin3_code":"3108.0",
+    "gn:admin4_code":"310807.0",
+    "gn:asciiname":"Rwufi",
+    "gn:country_code":"RW",
+    "gn:dem":2002,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":384059,
+    "gn:latitude":-2.2537,
+    "gn:longitude":29.393,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rwufi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421182175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":384059
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"2da228053f3954e271bd51c2d009ceeb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421182175,
+            "locality_id":1327217173,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1327217173,
+    "wof:lastmodified":1536990819,
+    "wof:name":"Rwufi",
+    "wof:parent_id":421182175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.393,
+    -2.2537,
+    29.393,
+    -2.2537
+],
+  "geometry": {"coordinates":[29.393,-2.2537],"type":"Point"}
+}

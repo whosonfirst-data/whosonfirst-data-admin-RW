@@ -1,0 +1,74 @@
+{
+  "id": 1327215093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3322,-1.9218,30.3322,-1.9218",
+    "geom:latitude":-1.9218,
+    "geom:longitude":30.3322,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"51.0",
+    "gn:admin3_code":"5109.0",
+    "gn:admin4_code":"510904.0",
+    "gn:asciiname":"Bitsibo Yose",
+    "gn:country_code":"RW",
+    "gn:dem":1653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7106835,
+    "gn:latitude":-1.9218,
+    "gn:longitude":30.3322,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Bitsibo Yose",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bitsibo",
+        "Bitsibo Yose"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421187891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7106835
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"71e71d159e01e2a173a446d56210d91b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421187891,
+            "locality_id":1327215093,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1327215093,
+    "wof:lastmodified":1537699154,
+    "wof:name":"Bitsibo Yose",
+    "wof:parent_id":421187891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3322,
+    -1.9218,
+    30.3322,
+    -1.9218
+],
+  "geometry": {"coordinates":[30.3322,-1.9218],"type":"Point"}
+}

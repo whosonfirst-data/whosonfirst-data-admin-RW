@@ -1,0 +1,70 @@
+{
+  "id": 1293262613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.688,-2.6614,29.688,-2.6614",
+    "geom:latitude":-2.6614,
+    "geom:longitude":29.688,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"24",
+    "gn:admin3_code":"2401.0",
+    "gn:admin4_code":"240102.0",
+    "gn:asciiname":"Nyumba",
+    "gn:country_code":"RW",
+    "gn:dem":1721,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":201577,
+    "gn:latitude":-2.6614,
+    "gn:longitude":29.688,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nyumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421204219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":201577
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"eda5b2ed9002758bf01e07e1afdc50c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421204219,
+            "locality_id":1293262613,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1293262613,
+    "wof:lastmodified":1536611776,
+    "wof:name":"Nyumba",
+    "wof:parent_id":421204219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.688,
+    -2.6614,
+    29.688,
+    -2.6614
+],
+  "geometry": {"coordinates":[29.688,-2.6614],"type":"Point"}
+}

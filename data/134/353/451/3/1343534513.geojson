@@ -1,0 +1,70 @@
+{
+  "id": 1343534513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.436,-2.6925,29.436,-2.6925",
+    "geom:latitude":-2.6925,
+    "geom:longitude":29.436,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"23",
+    "gn:admin3_code":"2310.0",
+    "gn:admin4_code":"231004.0",
+    "gn:asciiname":"Rwerere",
+    "gn:country_code":"RW",
+    "gn:dem":2135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7021998,
+    "gn:latitude":-2.6925,
+    "gn:longitude":29.436,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rwerere",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7021998
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"f24899fee8064ee640a2d3c0328b4300",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561303,
+            "locality_id":1343534513,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1343534513,
+    "wof:lastmodified":1536638406,
+    "wof:name":"Rwerere",
+    "wof:parent_id":1108561303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.436,
+    -2.6925,
+    29.436,
+    -2.6925
+],
+  "geometry": {"coordinates":[29.436,-2.6925],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293854853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4604,-2.1577,29.4604,-2.1577",
+    "geom:latitude":-2.1577,
+    "geom:longitude":29.4604,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"3104.0",
+    "gn:admin4_code":"310408.0",
+    "gn:asciiname":"Gitaba",
+    "gn:country_code":"RW",
+    "gn:dem":2279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7662582,
+    "gn:latitude":-2.1577,
+    "gn:longitude":29.4604,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gitaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gitaha"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421182175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7662582
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"409009dd08062d178d547e6aecd77c71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421182175,
+            "locality_id":1293854853,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1293854853,
+    "wof:lastmodified":1537699159,
+    "wof:name":"Gitaba",
+    "wof:parent_id":421182175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4604,
+    -2.1577,
+    29.4604,
+    -2.1577
+],
+  "geometry": {"coordinates":[29.4604,-2.1577],"type":"Point"}
+}

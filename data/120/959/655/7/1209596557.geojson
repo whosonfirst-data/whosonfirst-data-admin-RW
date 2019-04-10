@@ -1,0 +1,68 @@
+{
+  "id": 1209596557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4881,-1.815,30.4881,-1.815",
+    "geom:latitude":-1.815,
+    "geom:longitude":30.4881,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"54",
+    "gn:admin3_code":"5410.0",
+    "gn:admin4_code":"541002.0",
+    "gn:asciiname":"Rukara",
+    "gn:country_code":"RW",
+    "gn:dem":1582,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":201967,
+    "gn:latitude":-1.815,
+    "gn:longitude":30.4881,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rukara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lukala",
+        "Rukara"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":201967
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"04ef2647d0ce398ff52799bfe1bf4127",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209596557
+        }
+    ],
+    "wof:id":1209596557,
+    "wof:lastmodified":1537699086,
+    "wof:name":"Rukara",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4881,
+    -1.815,
+    30.4881,
+    -1.815
+],
+  "geometry": {"coordinates":[30.4881,-1.815],"type":"Point"}
+}

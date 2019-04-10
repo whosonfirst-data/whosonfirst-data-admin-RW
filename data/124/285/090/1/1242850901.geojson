@@ -1,0 +1,75 @@
+{
+  "id": 1242850901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9,-1.48333,29.9,-1.48333",
+    "geom:latitude":-1.48333,
+    "geom:longitude":29.9,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"44",
+    "gn:admin3_code":"4411.0",
+    "gn:admin4_code":"441101.0",
+    "gn:asciiname":"Hakasiru",
+    "gn:cc2":"RW",
+    "gn:country_code":"RW",
+    "gn:dem":2053,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":202903,
+    "gn:latitude":-1.48333,
+    "gn:longitude":29.9,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Hakasiru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Hakasiru",
+        "Hakasiru"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421180243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202903
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"919ae181f9f5518ef96f865ecda9b847",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421180243,
+            "locality_id":1242850901,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1242850901,
+    "wof:lastmodified":1537699132,
+    "wof:name":"Hakasiru",
+    "wof:parent_id":421180243,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9,
+    -1.48333,
+    29.9,
+    -1.48333
+],
+  "geometry": {"coordinates":[29.9,-1.48333],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226412775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7465,-2.7816,29.7465,-2.7816",
+    "geom:latitude":-2.7816,
+    "geom:longitude":29.7465,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"22.0",
+    "gn:admin3_code":"2212.0",
+    "gn:admin4_code":"221204.0",
+    "gn:asciiname":"Ruhororo",
+    "gn:country_code":"RW",
+    "gn:dem":1608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7107138,
+    "gn:latitude":-2.7816,
+    "gn:longitude":29.7465,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ruhororo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7107138
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"02968bcb26aefd0af46835930aa44596",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561301,
+            "locality_id":1226412775,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1226412775,
+    "wof:lastmodified":1536693328,
+    "wof:name":"Ruhororo",
+    "wof:parent_id":1108561301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7465,
+    -2.7816,
+    29.7465,
+    -2.7816
+],
+  "geometry": {"coordinates":[29.7465,-2.7816],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1310682293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.7517,-2.221,30.7517,-2.221",
+    "geom:latitude":-2.221,
+    "geom:longitude":30.7517,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"55.0",
+    "gn:admin3_code":"5512.0",
+    "gn:admin4_code":"551202.0",
+    "gn:asciiname":"Rwagitura",
+    "gn:country_code":"RW",
+    "gn:dem":1561,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7688712,
+    "gn:latitude":-2.221,
+    "gn:longitude":30.7517,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rwagitura",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421175701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7688712
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"67de9fa0bc834a7ca272a0256ac7b534",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421175701,
+            "locality_id":1310682293,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1310682293,
+    "wof:lastmodified":1536661915,
+    "wof:name":"Rwagitura",
+    "wof:parent_id":421175701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.7517,
+    -2.221,
+    30.7517,
+    -2.221
+],
+  "geometry": {"coordinates":[30.7517,-2.221],"type":"Point"}
+}

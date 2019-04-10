@@ -1,0 +1,70 @@
+{
+  "id": 1193261261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9209,-1.9151,29.9209,-1.9151",
+    "geom:latitude":-1.9151,
+    "geom:longitude":29.9209,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"28.0",
+    "gn:admin3_code":"2811.0",
+    "gn:admin4_code":"281105.0",
+    "gn:asciiname":"Nyarusave",
+    "gn:country_code":"RW",
+    "gn:dem":1750,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7600263,
+    "gn:latitude":-1.9151,
+    "gn:longitude":29.9209,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nyarusave",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421190843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7600263
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"accdff2dd8cb043c716b0785f0b4b904",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421190843,
+            "locality_id":1193261261,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1193261261,
+    "wof:lastmodified":1536380624,
+    "wof:name":"Nyarusave",
+    "wof:parent_id":421190843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9209,
+    -1.9151,
+    29.9209,
+    -1.9151
+],
+  "geometry": {"coordinates":[29.9209,-1.9151],"type":"Point"}
+}

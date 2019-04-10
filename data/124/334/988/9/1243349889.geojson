@@ -1,0 +1,75 @@
+{
+  "id": 1243349889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7922,-1.6821,29.7922,-1.6821",
+    "geom:latitude":-1.6821,
+    "geom:longitude":29.7922,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"42",
+    "gn:admin3_code":"4204.0",
+    "gn:admin4_code":"420402.0",
+    "gn:asciiname":"Ruhangali",
+    "gn:country_code":"RW",
+    "gn:dem":1630,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":202435,
+    "gn:latitude":-1.6821,
+    "gn:longitude":29.7922,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ruhangali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Ruhangari",
+        "Ruhangari",
+        "Ruhangali"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421192889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202435
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"9592ff5ed8c5936489117cc4fe563ad8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192889,
+            "locality_id":1243349889,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1243349889,
+    "wof:lastmodified":1537699098,
+    "wof:name":"Ruhangali",
+    "wof:parent_id":421192889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7922,
+    -1.6821,
+    29.7922,
+    -1.6821
+],
+  "geometry": {"coordinates":[29.7922,-1.6821],"type":"Point"}
+}

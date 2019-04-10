@@ -1,0 +1,64 @@
+{
+  "id": 1209388161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5834,-2.5462,29.5834,-2.5462",
+    "geom:latitude":-2.5462,
+    "geom:longitude":29.5834,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"25",
+    "gn:admin3_code":"2506.0",
+    "gn:admin4_code":"250605.0",
+    "gn:asciiname":"Nyarusange",
+    "gn:country_code":"RW",
+    "gn:dem":1903,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7016636,
+    "gn:latitude":-2.5462,
+    "gn:longitude":29.5834,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nyarusange",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7016636
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"f972c8caa6d7ea16d11be1a689e1f062",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209388161
+        }
+    ],
+    "wof:id":1209388161,
+    "wof:lastmodified":1536288553,
+    "wof:name":"Nyarusange",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5834,
+    -2.5462,
+    29.5834,
+    -2.5462
+],
+  "geometry": {"coordinates":[29.5834,-2.5462],"type":"Point"}
+}

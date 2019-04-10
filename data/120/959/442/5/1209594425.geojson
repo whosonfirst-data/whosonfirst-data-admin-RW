@@ -1,0 +1,64 @@
+{
+  "id": 1209594425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.9663,-2.5603,28.9663,-2.5603",
+    "geom:latitude":-2.5603,
+    "geom:longitude":28.9663,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"36",
+    "gn:admin3_code":"3614.0",
+    "gn:admin4_code":"361401.0",
+    "gn:asciiname":"Kanzuki",
+    "gn:country_code":"RW",
+    "gn:dem":1872,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7032899,
+    "gn:latitude":-2.5603,
+    "gn:longitude":28.9663,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kanzuki",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7032899
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"031d7a24e6edf1198bd1b36c3a36c458",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209594425
+        }
+    ],
+    "wof:id":1209594425,
+    "wof:lastmodified":1536282371,
+    "wof:name":"Kanzuki",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.9663,
+    -2.5603,
+    28.9663,
+    -2.5603
+],
+  "geometry": {"coordinates":[28.9663,-2.5603],"type":"Point"}
+}

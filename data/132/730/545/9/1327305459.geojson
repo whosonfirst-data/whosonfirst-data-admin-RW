@@ -1,0 +1,70 @@
+{
+  "id": 1327305459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7528,-1.6961,29.7528,-1.6961",
+    "geom:latitude":-1.6961,
+    "geom:longitude":29.7528,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"4204.0",
+    "gn:admin4_code":"420403.0",
+    "gn:asciiname":"Mbogo",
+    "gn:country_code":"RW",
+    "gn:dem":2062,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7321763,
+    "gn:latitude":-1.6961,
+    "gn:longitude":29.7528,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Mbogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421192889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7321763
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"fd12c9ea28cf87bbbfb906b2a2fd945a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192889,
+            "locality_id":1327305459,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1327305459,
+    "wof:lastmodified":1536862845,
+    "wof:name":"Mbogo",
+    "wof:parent_id":421192889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7528,
+    -1.6961,
+    29.7528,
+    -1.6961
+],
+  "geometry": {"coordinates":[29.7528,-1.6961],"type":"Point"}
+}

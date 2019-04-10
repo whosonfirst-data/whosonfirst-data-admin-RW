@@ -1,0 +1,74 @@
+{
+  "id": 1276843979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.01667,-2.66667,29.01667,-2.66667",
+    "geom:latitude":-2.66667,
+    "geom:longitude":29.01667,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"36",
+    "gn:admin3_code":"3610.0",
+    "gn:admin4_code":"361001.0",
+    "gn:asciiname":"Rwumba",
+    "gn:country_code":"RW",
+    "gn:dem":974,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":202359,
+    "gn:latitude":-2.66667,
+    "gn:longitude":29.01667,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rwumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Rwumba",
+        "Rwumba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421176723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202359
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"877944ff2f442f6e634e6106ddea7486",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421176723,
+            "locality_id":1276843979,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1276843979,
+    "wof:lastmodified":1537699092,
+    "wof:name":"Rwumba",
+    "wof:parent_id":421176723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.01667,
+    -2.66667,
+    29.01667,
+    -2.66667
+],
+  "geometry": {"coordinates":[29.01667,-2.66667],"type":"Point"}
+}

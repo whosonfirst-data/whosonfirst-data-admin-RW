@@ -1,0 +1,73 @@
+{
+  "id": 1276948627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5208,-2.1322,29.5208,-2.1322",
+    "geom:latitude":-2.1322,
+    "geom:longitude":29.5208,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"3102.0",
+    "gn:admin4_code":"310202.0",
+    "gn:asciiname":"Rasamiro",
+    "gn:country_code":"RW",
+    "gn:dem":1812,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7660056,
+    "gn:latitude":-2.1322,
+    "gn:longitude":29.5208,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rasamiro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rasamire"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421182175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7660056
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"000d2045edf619984e37892dc5a8891d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421182175,
+            "locality_id":1276948627,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1276948627,
+    "wof:lastmodified":1537699159,
+    "wof:name":"Rasamiro",
+    "wof:parent_id":421182175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5208,
+    -2.1322,
+    29.5208,
+    -2.1322
+],
+  "geometry": {"coordinates":[29.5208,-2.1322],"type":"Point"}
+}

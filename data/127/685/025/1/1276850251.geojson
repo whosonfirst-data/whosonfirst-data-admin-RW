@@ -1,0 +1,74 @@
+{
+  "id": 1276850251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7989,-1.6341,29.7989,-1.6341",
+    "geom:latitude":-1.6341,
+    "geom:longitude":29.7989,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"42",
+    "gn:admin3_code":"4216.0",
+    "gn:admin4_code":"421603.0",
+    "gn:asciiname":"Gisozi",
+    "gn:country_code":"RW",
+    "gn:dem":1815,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":202934,
+    "gn:latitude":-1.6341,
+    "gn:longitude":29.7989,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gisozi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Gisozi",
+        "Gisozi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421192889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202934
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"f889400b8d2e75235c1a17d709bb54a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192889,
+            "locality_id":1276850251,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1276850251,
+    "wof:lastmodified":1537699135,
+    "wof:name":"Gisozi",
+    "wof:parent_id":421192889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7989,
+    -1.6341,
+    29.7989,
+    -1.6341
+],
+  "geometry": {"coordinates":[29.7989,-1.6341],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1226221177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2832,-1.728,29.2832,-1.728",
+    "geom:latitude":-1.728,
+    "geom:longitude":29.2832,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"33.0",
+    "gn:admin3_code":"3309.0",
+    "gn:admin4_code":"330905.0",
+    "gn:asciiname":"Bwitereke",
+    "gn:country_code":"RW",
+    "gn:dem":1599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7605749,
+    "gn:latitude":-1.728,
+    "gn:longitude":29.2832,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Bwitereke",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421187899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7605749
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"bc8c7888971126849c285049751b31bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421187899,
+            "locality_id":1226221177,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1226221177,
+    "wof:lastmodified":1536968831,
+    "wof:name":"Bwitereke",
+    "wof:parent_id":421187899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2832,
+    -1.728,
+    29.2832,
+    -1.728
+],
+  "geometry": {"coordinates":[29.2832,-1.728],"type":"Point"}
+}

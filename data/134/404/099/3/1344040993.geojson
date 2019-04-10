@@ -1,0 +1,70 @@
+{
+  "id": 1344040993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4127,-1.6531,29.4127,-1.6531",
+    "geom:latitude":-1.6531,
+    "geom:longitude":29.4127,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"3401.0",
+    "gn:admin4_code":"340101.0",
+    "gn:asciiname":"Musonga",
+    "gn:country_code":"RW",
+    "gn:dem":2550,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7605575,
+    "gn:latitude":-1.6531,
+    "gn:longitude":29.4127,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Musonga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421169419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7605575
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"b33e9f2fa6f9683a4d1897bad8f43ef4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421169419,
+            "locality_id":1344040993,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1344040993,
+    "wof:lastmodified":1536903903,
+    "wof:name":"Musonga",
+    "wof:parent_id":421169419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4127,
+    -1.6531,
+    29.4127,
+    -1.6531
+],
+  "geometry": {"coordinates":[29.4127,-1.6531],"type":"Point"}
+}

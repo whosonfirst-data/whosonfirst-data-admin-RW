@@ -1,0 +1,64 @@
+{
+  "id": 1209293921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9962,-1.5783,29.9962,-1.5783",
+    "geom:latitude":-1.5783,
+    "geom:longitude":29.9962,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"45",
+    "gn:admin3_code":"4514.0",
+    "gn:admin4_code":"451407.0",
+    "gn:asciiname":"Yaramba",
+    "gn:country_code":"RW",
+    "gn:dem":2151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":384396,
+    "gn:latitude":-1.5783,
+    "gn:longitude":29.9962,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Yaramba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":384396
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"1b7eb2d6454b195c346250671b3c7cbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209293921
+        }
+    ],
+    "wof:id":1209293921,
+    "wof:lastmodified":1536291597,
+    "wof:name":"Yaramba",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9962,
+    -1.5783,
+    29.9962,
+    -1.5783
+],
+  "geometry": {"coordinates":[29.9962,-1.5783],"type":"Point"}
+}

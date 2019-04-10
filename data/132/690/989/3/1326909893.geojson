@@ -1,0 +1,74 @@
+{
+  "id": 1326909893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7448,-1.5963,29.7448,-1.5963",
+    "geom:latitude":-1.5963,
+    "geom:longitude":29.7448,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"42",
+    "gn:admin3_code":"4209.0",
+    "gn:admin4_code":"420902.0",
+    "gn:asciiname":"Bushoka",
+    "gn:country_code":"RW",
+    "gn:dem":1939,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":203042,
+    "gn:latitude":-1.5963,
+    "gn:longitude":29.7448,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Bushoka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Bushoka",
+        "Bushoka"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421192889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":203042
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"d85903413d542cb930186b595e1fdc61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192889,
+            "locality_id":1326909893,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1326909893,
+    "wof:lastmodified":1537699143,
+    "wof:name":"Bushoka",
+    "wof:parent_id":421192889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7448,
+    -1.5963,
+    29.7448,
+    -1.5963
+],
+  "geometry": {"coordinates":[29.7448,-1.5963],"type":"Point"}
+}

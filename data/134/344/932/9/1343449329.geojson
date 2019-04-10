@@ -1,0 +1,70 @@
+{
+  "id": 1343449329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4011,-2.0927,30.4011,-2.0927",
+    "geom:latitude":-2.0927,
+    "geom:longitude":30.4011,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"56.0",
+    "gn:admin3_code":"5606.0",
+    "gn:admin4_code":"560602.0",
+    "gn:asciiname":"Cyinyo",
+    "gn:country_code":"RW",
+    "gn:dem":1390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7654348,
+    "gn:latitude":-2.0927,
+    "gn:longitude":30.4011,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Cyinyo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        1108561297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7654348
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"b5ed4ce7ae6f24840d0b843655b7de52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561297,
+            "locality_id":1343449329,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1343449329,
+    "wof:lastmodified":1536762609,
+    "wof:name":"Cyinyo",
+    "wof:parent_id":1108561297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4011,
+    -2.0927,
+    30.4011,
+    -2.0927
+],
+  "geometry": {"coordinates":[30.4011,-2.0927],"type":"Point"}
+}

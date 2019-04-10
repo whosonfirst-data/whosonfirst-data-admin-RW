@@ -1,0 +1,70 @@
+{
+  "id": 1242857955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3453,-1.6264,29.3453,-1.6264",
+    "geom:latitude":-1.6264,
+    "geom:longitude":29.3453,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"33.0",
+    "gn:admin3_code":"3303.0",
+    "gn:admin4_code":"330307.0",
+    "gn:asciiname":"Rwanzekuma",
+    "gn:country_code":"RW",
+    "gn:dem":2092,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7605511,
+    "gn:latitude":-1.6264,
+    "gn:longitude":29.3453,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rwanzekuma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421187899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7605511
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"2aa31d1d28cdf48e17a0d2cee246de2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421187899,
+            "locality_id":1242857955,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1242857955,
+    "wof:lastmodified":1536659911,
+    "wof:name":"Rwanzekuma",
+    "wof:parent_id":421187899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3453,
+    -1.6264,
+    29.3453,
+    -1.6264
+],
+  "geometry": {"coordinates":[29.3453,-1.6264],"type":"Point"}
+}

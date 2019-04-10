@@ -1,0 +1,64 @@
+{
+  "id": 1209087541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4021,-1.8286,30.4021,-1.8286",
+    "geom:latitude":-1.8286,
+    "geom:longitude":30.4021,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"53",
+    "gn:admin3_code":"5306.0",
+    "gn:admin4_code":"530604.0",
+    "gn:asciiname":"Gashya",
+    "gn:country_code":"RW",
+    "gn:dem":1508,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":202273,
+    "gn:latitude":-1.8286,
+    "gn:longitude":30.4021,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gashya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202273
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"7376c6e3fd1bda3ab6b8910514bc3a02",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209087541
+        }
+    ],
+    "wof:id":1209087541,
+    "wof:lastmodified":1536298138,
+    "wof:name":"Gashya",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4021,
+    -1.8286,
+    30.4021,
+    -1.8286
+],
+  "geometry": {"coordinates":[30.4021,-1.8286],"type":"Point"}
+}

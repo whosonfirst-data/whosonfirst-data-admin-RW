@@ -1,0 +1,67 @@
+{
+  "id": 1209594873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5179,-1.4641,29.5179,-1.4641",
+    "geom:latitude":-1.4641,
+    "geom:longitude":29.5179,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"4307.0",
+    "gn:admin4_code":"430701.0",
+    "gn:asciiname":"Nyarwayu",
+    "gn:country_code":"RW",
+    "gn:dem":2585,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7572195,
+    "gn:latitude":-1.4641,
+    "gn:longitude":29.5179,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nyarwayu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nyawayu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7572195
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"b66fbfb7f751a81e5ac453ae3cddd27b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209594873
+        }
+    ],
+    "wof:id":1209594873,
+    "wof:lastmodified":1537699157,
+    "wof:name":"Nyarwayu",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5179,
+    -1.4641,
+    29.5179,
+    -1.4641
+],
+  "geometry": {"coordinates":[29.5179,-1.4641],"type":"Point"}
+}

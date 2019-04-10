@@ -1,0 +1,80 @@
+{
+  "id": 1327411913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.8361,-2.2916,30.8361,-2.2916",
+    "geom:latitude":-2.2916,
+    "geom:longitude":30.8361,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"55.0",
+    "gn:admin3_code":"5506.0",
+    "gn:admin4_code":"550602.0",
+    "gn:asciiname":"Yeri",
+    "gn:country_code":"RW",
+    "gn:dem":1330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7663169,
+    "gn:latitude":-2.2916,
+    "gn:longitude":30.8361,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Yeri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421175701,
+        85632227,
+        85679665,
+        1108693095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7663169
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"10a0060899fc04fecc2c5e2219cee306",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421175701,
+            "locality_id":1327411913,
+            "region_id":85676795
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632227,
+            "county_id":1108693095,
+            "locality_id":1327411913,
+            "region_id":85679665
+        }
+    ],
+    "wof:id":1327411913,
+    "wof:lastmodified":1536710705,
+    "wof:name":"Yeri",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.8361,
+    -2.2916,
+    30.8361,
+    -2.2916
+],
+  "geometry": {"coordinates":[30.8361,-2.2916],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1243236863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5327,-2.3538,29.5327,-2.3538",
+    "geom:latitude":-2.3538,
+    "geom:longitude":29.5327,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"25",
+    "gn:admin3_code":"2505.0",
+    "gn:admin4_code":"250501.0",
+    "gn:asciiname":"Rubiha",
+    "gn:country_code":"RW",
+    "gn:dem":1762,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7062994,
+    "gn:latitude":-2.3538,
+    "gn:longitude":29.5327,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rubiha",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421192893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7062994
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"1418f7bbde15a61f54a16fb0b5d2d53d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192893,
+            "locality_id":1243236863,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1243236863,
+    "wof:lastmodified":1536607996,
+    "wof:name":"Rubiha",
+    "wof:parent_id":421192893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5327,
+    -2.3538,
+    29.5327,
+    -2.3538
+],
+  "geometry": {"coordinates":[29.5327,-2.3538],"type":"Point"}
+}

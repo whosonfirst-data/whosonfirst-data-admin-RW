@@ -1,0 +1,70 @@
+{
+  "id": 1343250151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3151,-1.6931,30.3151,-1.6931",
+    "geom:latitude":-1.6931,
+    "geom:longitude":30.3151,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"53.0",
+    "gn:admin3_code":"5312.0",
+    "gn:admin4_code":"531204.0",
+    "gn:asciiname":"Agakili",
+    "gn:country_code":"RW",
+    "gn:dem":1691,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7592358,
+    "gn:latitude":-1.6931,
+    "gn:longitude":30.3151,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Agakili",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421204013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7592358
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"6834f41e2d5af49c0635bda6a19180b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421204013,
+            "locality_id":1343250151,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1343250151,
+    "wof:lastmodified":1537047799,
+    "wof:name":"Agakili",
+    "wof:parent_id":421204013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3151,
+    -1.6931,
+    30.3151,
+    -1.6931
+],
+  "geometry": {"coordinates":[30.3151,-1.6931],"type":"Point"}
+}

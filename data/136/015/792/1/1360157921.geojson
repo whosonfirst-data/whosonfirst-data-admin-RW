@@ -1,0 +1,70 @@
+{
+  "id": 1360157921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.72069,-2.13811,29.72069,-2.13811",
+    "geom:latitude":-2.13811,
+    "geom:longitude":29.72069,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"26",
+    "gn:admin3_code":"2602.0",
+    "gn:admin4_code":"260207.0",
+    "gn:asciiname":"Gasasa",
+    "gn:country_code":"RW",
+    "gn:dem":1843,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":202286,
+    "gn:latitude":-2.13811,
+    "gn:longitude":29.72069,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gasasa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202286
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"9038a8e55a6994fbba102b35b4b1e6ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561299,
+            "locality_id":1360157921,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1360157921,
+    "wof:lastmodified":1536839671,
+    "wof:name":"Gasasa",
+    "wof:parent_id":1108561299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.72069,
+    -2.13811,
+    29.72069,
+    -2.13811
+],
+  "geometry": {"coordinates":[29.72069,-2.13811],"type":"Point"}
+}

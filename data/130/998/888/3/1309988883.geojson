@@ -1,0 +1,70 @@
+{
+  "id": 1309988883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9183,-2.5027,29.9183,-2.5027",
+    "geom:latitude":-2.5027,
+    "geom:longitude":29.9183,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"22.0",
+    "gn:admin3_code":"2206.0",
+    "gn:admin4_code":"220604.0",
+    "gn:asciiname":"Kadogeri",
+    "gn:country_code":"RW",
+    "gn:dem":1369,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7663571,
+    "gn:latitude":-2.5027,
+    "gn:longitude":29.9183,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kadogeri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7663571
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"725b6bdc98c81fb5e9a19bc5f54a0be6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561301,
+            "locality_id":1309988883,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1309988883,
+    "wof:lastmodified":1536667305,
+    "wof:name":"Kadogeri",
+    "wof:parent_id":1108561301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9183,
+    -2.5027,
+    29.9183,
+    -2.5027
+],
+  "geometry": {"coordinates":[29.9183,-2.5027],"type":"Point"}
+}

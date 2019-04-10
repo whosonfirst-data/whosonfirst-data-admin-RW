@@ -1,0 +1,64 @@
+{
+  "id": 1209202629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.655,-2.3098,30.655,-2.3098",
+    "geom:latitude":-2.3098,
+    "geom:longitude":30.655,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"55.0",
+    "gn:admin3_code":"5508.0",
+    "gn:admin4_code":"550803.0",
+    "gn:asciiname":"Nkwandi",
+    "gn:country_code":"RW",
+    "gn:dem":1557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7686528,
+    "gn:latitude":-2.3098,
+    "gn:longitude":30.655,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nkwandi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7686528
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"a21b58d49cc68d481f45e1dfc69938bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209202629
+        }
+    ],
+    "wof:id":1209202629,
+    "wof:lastmodified":1536294557,
+    "wof:name":"Nkwandi",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.655,
+    -2.3098,
+    30.655,
+    -2.3098
+],
+  "geometry": {"coordinates":[30.655,-2.3098],"type":"Point"}
+}

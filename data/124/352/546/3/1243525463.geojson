@@ -1,0 +1,70 @@
+{
+  "id": 1243525463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3279,-2.2352,29.3279,-2.2352",
+    "geom:latitude":-2.2352,
+    "geom:longitude":29.3279,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"3113.0",
+    "gn:admin4_code":"311304.0",
+    "gn:asciiname":"Nyaruyaga",
+    "gn:country_code":"RW",
+    "gn:dem":1969,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7662802,
+    "gn:latitude":-2.2352,
+    "gn:longitude":29.3279,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nyaruyaga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421182175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7662802
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"3c4f7134ce4c1157b016c777fbea2485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421182175,
+            "locality_id":1243525463,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1243525463,
+    "wof:lastmodified":1536691891,
+    "wof:name":"Nyaruyaga",
+    "wof:parent_id":421182175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3279,
+    -2.2352,
+    29.3279,
+    -2.2352
+],
+  "geometry": {"coordinates":[29.3279,-2.2352],"type":"Point"}
+}

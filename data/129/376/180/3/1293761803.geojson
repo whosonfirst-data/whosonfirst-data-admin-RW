@@ -1,0 +1,70 @@
+{
+  "id": 1293761803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2439,-1.6704,30.2439,-1.6704",
+    "geom:latitude":-1.6704,
+    "geom:longitude":30.2439,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"53.0",
+    "gn:admin3_code":"5305.0",
+    "gn:admin4_code":"530502.0",
+    "gn:asciiname":"Bugarama",
+    "gn:country_code":"RW",
+    "gn:dem":1753,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7593133,
+    "gn:latitude":-1.6704,
+    "gn:longitude":30.2439,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Bugarama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421204013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7593133
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"1174c1ce3f48369717f037e31877cb4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421204013,
+            "locality_id":1293761803,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1293761803,
+    "wof:lastmodified":1536888299,
+    "wof:name":"Bugarama",
+    "wof:parent_id":421204013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2439,
+    -1.6704,
+    30.2439,
+    -1.6704
+],
+  "geometry": {"coordinates":[30.2439,-1.6704],"type":"Point"}
+}

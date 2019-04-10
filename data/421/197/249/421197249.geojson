@@ -1,0 +1,83 @@
+{
+  "id": 421197249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-15",
+    "edtf:inception":"uuuu",
+    "edtf:superseded":"2018-08-15",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5902,-1.4426,29.5902,-1.4426",
+    "geom:latitude":-1.4426,
+    "geom:longitude":29.5902,
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Colline Kinigi"
+    ],
+    "qs:gn_country":"RW",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":202039,
+    "qs:gn_pop":0,
+    "qs:name":"Kinigi",
+    "qs:name_adm0":"Rwanda",
+    "qs:name_adm1":"Province du Nord",
+    "qs:photos":296,
+    "qs:photos_1k":60,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":296,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":279505,
+    "qs:woe_adm0":23424937,
+    "qs:woe_id":1511267,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421187897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202039,
+        "gp:id":1511267,
+        "qs:id":279505
+    },
+    "wof:country":"RW",
+    "wof:created":1459009907,
+    "wof:geomhash":"e08e2a2e89c93d8e59bfd369666a3d41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421187897,
+            "locality_id":421197249,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":421197249,
+    "wof:lastmodified":1534379458,
+    "wof:name":"Kinigi",
+    "wof:parent_id":421187897,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[
+        421201509
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5902,
+    -1.4426,
+    29.5902,
+    -1.4426
+],
+  "geometry": {"coordinates":[29.5902,-1.4426],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1344227275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8494,-2.5079,29.8494,-2.5079",
+    "geom:latitude":-2.5079,
+    "geom:longitude":29.8494,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"22.0",
+    "gn:admin3_code":"2210.0",
+    "gn:admin4_code":"221002.0",
+    "gn:asciiname":"Kagunda",
+    "gn:country_code":"RW",
+    "gn:dem":1461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7663607,
+    "gn:latitude":-2.5079,
+    "gn:longitude":29.8494,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kagunda",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7663607
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"39ab3baf054e1b9f75be0811a4307bd7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561301,
+            "locality_id":1344227275,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1344227275,
+    "wof:lastmodified":1536633636,
+    "wof:name":"Kagunda",
+    "wof:parent_id":1108561301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8494,
+    -2.5079,
+    29.8494,
+    -2.5079
+],
+  "geometry": {"coordinates":[29.8494,-2.5079],"type":"Point"}
+}

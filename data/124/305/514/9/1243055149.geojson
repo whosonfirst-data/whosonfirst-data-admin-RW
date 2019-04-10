@@ -1,0 +1,70 @@
+{
+  "id": 1243055149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.099,-2.0432,30.099,-2.0432",
+    "geom:latitude":-2.0432,
+    "geom:longitude":30.099,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"1301.0",
+    "gn:admin4_code":"130104.0",
+    "gn:asciiname":"Nyabigugu",
+    "gn:country_code":"RW",
+    "gn:dem":1435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7656235,
+    "gn:latitude":-2.0432,
+    "gn:longitude":30.099,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nyabigugu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676807,
+        421182309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7656235
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"b4971006d5fbc8ef126b79bf33fa9994",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421182309,
+            "locality_id":1243055149,
+            "region_id":85676807
+        }
+    ],
+    "wof:id":1243055149,
+    "wof:lastmodified":1536871583,
+    "wof:name":"Nyabigugu",
+    "wof:parent_id":421182309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.099,
+    -2.0432,
+    30.099,
+    -2.0432
+],
+  "geometry": {"coordinates":[30.099,-2.0432],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1209197935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4862,-2.0953,29.4862,-2.0953",
+    "geom:latitude":-2.0953,
+    "geom:longitude":29.4862,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"3110.0",
+    "gn:admin4_code":"311001.0",
+    "gn:asciiname":"Karehe III",
+    "gn:country_code":"RW",
+    "gn:dem":1986,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7662434,
+    "gn:latitude":-2.0953,
+    "gn:longitude":29.4862,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Karehe III",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7662434
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"ee2aec608fbbb678411201910fcbb137",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209197935
+        }
+    ],
+    "wof:id":1209197935,
+    "wof:lastmodified":1536294708,
+    "wof:name":"Karehe III",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4862,
+    -2.0953,
+    29.4862,
+    -2.0953
+],
+  "geometry": {"coordinates":[29.4862,-2.0953],"type":"Point"}
+}

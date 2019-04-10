@@ -1,0 +1,70 @@
+{
+  "id": 1343539565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.2912,-1.8063,30.2912,-1.8063",
+    "geom:latitude":-1.8063,
+    "geom:longitude":30.2912,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"53.0",
+    "gn:admin3_code":"5301.0",
+    "gn:admin4_code":"530103.0",
+    "gn:asciiname":"Teme",
+    "gn:country_code":"RW",
+    "gn:dem":1620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7106648,
+    "gn:latitude":-1.8063,
+    "gn:longitude":30.2912,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Teme",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421204013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7106648
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"c24dabb783603cb1b1f4e448f6f32160",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421204013,
+            "locality_id":1343539565,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1343539565,
+    "wof:lastmodified":1536630529,
+    "wof:name":"Teme",
+    "wof:parent_id":421204013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.2912,
+    -1.8063,
+    30.2912,
+    -1.8063
+],
+  "geometry": {"coordinates":[30.2912,-1.8063],"type":"Point"}
+}

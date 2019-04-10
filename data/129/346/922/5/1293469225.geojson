@@ -1,0 +1,70 @@
+{
+  "id": 1293469225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8147,-1.6712,29.8147,-1.6712",
+    "geom:latitude":-1.6712,
+    "geom:longitude":29.8147,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"42",
+    "gn:admin3_code":"4204.0",
+    "gn:admin4_code":"420401.0",
+    "gn:asciiname":"Buheta",
+    "gn:country_code":"RW",
+    "gn:dem":1787,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":384434,
+    "gn:latitude":-1.6712,
+    "gn:longitude":29.8147,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Buheta",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421192889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":384434
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"72de568ad67d1f112eb1e7898e01b372",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192889,
+            "locality_id":1293469225,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1293469225,
+    "wof:lastmodified":1536812892,
+    "wof:name":"Buheta",
+    "wof:parent_id":421192889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8147,
+    -1.6712,
+    29.8147,
+    -1.6712
+],
+  "geometry": {"coordinates":[29.8147,-1.6712],"type":"Point"}
+}

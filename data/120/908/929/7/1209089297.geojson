@@ -1,0 +1,64 @@
+{
+  "id": 1209089297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5919,-2.2757,29.5919,-2.2757",
+    "geom:latitude":-2.2757,
+    "geom:longitude":29.5919,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"25",
+    "gn:admin3_code":"2512.0",
+    "gn:admin4_code":"251204.0",
+    "gn:asciiname":"Kibumba",
+    "gn:country_code":"RW",
+    "gn:dem":1606,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7062814,
+    "gn:latitude":-2.2757,
+    "gn:longitude":29.5919,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kibumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7062814
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"d5b8898a76ab802f095d62bdb0bfffc4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209089297
+        }
+    ],
+    "wof:id":1209089297,
+    "wof:lastmodified":1536298085,
+    "wof:name":"Kibumba",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5919,
+    -2.2757,
+    29.5919,
+    -2.2757
+],
+  "geometry": {"coordinates":[29.5919,-2.2757],"type":"Point"}
+}

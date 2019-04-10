@@ -1,0 +1,70 @@
+{
+  "id": 1225816395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0815,-2.5795,29.0815,-2.5795",
+    "geom:latitude":-2.5795,
+    "geom:longitude":29.0815,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"36",
+    "gn:admin3_code":"3602.0",
+    "gn:admin4_code":"360202.0",
+    "gn:asciiname":"Gatereli",
+    "gn:country_code":"RW",
+    "gn:dem":1500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7020203,
+    "gn:latitude":-2.5795,
+    "gn:longitude":29.0815,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gatereli",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421176723
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7020203
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"2386f22d5ebc2b72a9ae79bd4fc1af67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421176723,
+            "locality_id":1225816395,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1225816395,
+    "wof:lastmodified":1537053794,
+    "wof:name":"Gatereli",
+    "wof:parent_id":421176723,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0815,
+    -2.5795,
+    29.0815,
+    -2.5795
+],
+  "geometry": {"coordinates":[29.0815,-2.5795],"type":"Point"}
+}

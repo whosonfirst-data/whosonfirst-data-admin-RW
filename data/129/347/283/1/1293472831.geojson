@@ -1,0 +1,70 @@
+{
+  "id": 1293472831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9066,-2.2678,29.9066,-2.2678",
+    "geom:latitude":-2.2678,
+    "geom:longitude":29.9066,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"26.0",
+    "gn:admin3_code":"2608.0",
+    "gn:admin4_code":"260801.0",
+    "gn:asciiname":"Nyabuhuzu",
+    "gn:country_code":"RW",
+    "gn:dem":1437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7664601,
+    "gn:latitude":-2.2678,
+    "gn:longitude":29.9066,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nyabuhuzu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7664601
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"68f9a5c28240304fbba1abbeaa30d056",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561299,
+            "locality_id":1293472831,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1293472831,
+    "wof:lastmodified":1536807956,
+    "wof:name":"Nyabuhuzu",
+    "wof:parent_id":1108561299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9066,
+    -2.2678,
+    29.9066,
+    -2.2678
+],
+  "geometry": {"coordinates":[29.9066,-2.2678],"type":"Point"}
+}

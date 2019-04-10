@@ -1,0 +1,70 @@
+{
+  "id": 1276521397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.326,-2.1254,29.326,-2.1254",
+    "geom:latitude":-2.1254,
+    "geom:longitude":29.326,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"3105.0",
+    "gn:admin4_code":"310501.0",
+    "gn:asciiname":"Nyakagezi",
+    "gn:country_code":"RW",
+    "gn:dem":1638,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7662503,
+    "gn:latitude":-2.1254,
+    "gn:longitude":29.326,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nyakagezi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421182175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7662503
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"3ff40f214aca8fba3d0c9b43c6759864",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421182175,
+            "locality_id":1276521397,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1276521397,
+    "wof:lastmodified":1537023057,
+    "wof:name":"Nyakagezi",
+    "wof:parent_id":421182175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.326,
+    -2.1254,
+    29.326,
+    -2.1254
+],
+  "geometry": {"coordinates":[29.326,-2.1254],"type":"Point"}
+}

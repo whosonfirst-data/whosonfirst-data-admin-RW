@@ -1,0 +1,70 @@
+{
+  "id": 1276853983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7898,-2.2119,29.7898,-2.2119",
+    "geom:latitude":-2.2119,
+    "geom:longitude":29.7898,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"26",
+    "gn:admin3_code":"2609.0",
+    "gn:admin4_code":"260904.0",
+    "gn:asciiname":"Kanazi",
+    "gn:country_code":"RW",
+    "gn:dem":1732,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":202130,
+    "gn:latitude":-2.2119,
+    "gn:longitude":29.7898,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kanazi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202130
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"cacad192e6057ba5e96f2c21f54afb7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561299,
+            "locality_id":1276853983,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1276853983,
+    "wof:lastmodified":1537072723,
+    "wof:name":"Kanazi",
+    "wof:parent_id":1108561299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7898,
+    -2.2119,
+    29.7898,
+    -2.2119
+],
+  "geometry": {"coordinates":[29.7898,-2.2119],"type":"Point"}
+}

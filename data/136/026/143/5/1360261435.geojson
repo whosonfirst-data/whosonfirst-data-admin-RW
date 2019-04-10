@@ -1,0 +1,70 @@
+{
+  "id": 1360261435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9739,-1.6664,29.9739,-1.6664",
+    "geom:latitude":-1.6664,
+    "geom:longitude":29.9739,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"41.0",
+    "gn:admin3_code":"4107.0",
+    "gn:admin4_code":"410702.0",
+    "gn:asciiname":"Bwishya",
+    "gn:country_code":"RW",
+    "gn:dem":1790,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7321699,
+    "gn:latitude":-1.6664,
+    "gn:longitude":29.9739,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Bwishya",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421203217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7321699
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"7d20816cf82647e600cae6bfcfee4648",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421203217,
+            "locality_id":1360261435,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1360261435,
+    "wof:lastmodified":1536691455,
+    "wof:name":"Bwishya",
+    "wof:parent_id":421203217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9739,
+    -1.6664,
+    29.9739,
+    -1.6664
+],
+  "geometry": {"coordinates":[29.9739,-1.6664],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1310484437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7711,-2.5427,29.7711,-2.5427",
+    "geom:latitude":-2.5427,
+    "geom:longitude":29.7711,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"22",
+    "gn:admin3_code":"2213.0",
+    "gn:admin4_code":"221301.0",
+    "gn:asciiname":"Save",
+    "gn:country_code":"RW",
+    "gn:dem":1766,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":201425,
+    "gn:latitude":-2.5427,
+    "gn:longitude":29.7711,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Save",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Isavi",
+        "Save"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":201425
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"9f49989f57ddda98f8414f2749d6d19d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561301,
+            "locality_id":1310484437,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1310484437,
+    "wof:lastmodified":1537699077,
+    "wof:name":"Save",
+    "wof:parent_id":1108561301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7711,
+    -2.5427,
+    29.7711,
+    -2.5427
+],
+  "geometry": {"coordinates":[29.7711,-2.5427],"type":"Point"}
+}

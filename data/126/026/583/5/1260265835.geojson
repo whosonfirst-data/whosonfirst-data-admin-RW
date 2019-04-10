@@ -1,0 +1,74 @@
+{
+  "id": 1260265835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7002,-2.3347,29.7002,-2.3347",
+    "geom:latitude":-2.3347,
+    "geom:longitude":29.7002,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"2110.0",
+    "gn:admin4_code":"211002.0",
+    "gn:asciiname":"Rwabicuma",
+    "gn:country_code":"RW",
+    "gn:dem":1734,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":202380,
+    "gn:latitude":-2.3347,
+    "gn:longitude":29.7002,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rwabicuma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Rwabicuma",
+        "Rwabicuma"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421190841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202380
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"cc15279d448e92b61c215abb2e9da40d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421190841,
+            "locality_id":1260265835,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1260265835,
+    "wof:lastmodified":1537699094,
+    "wof:name":"Rwabicuma",
+    "wof:parent_id":421190841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7002,
+    -2.3347,
+    29.7002,
+    -2.3347
+],
+  "geometry": {"coordinates":[29.7002,-2.3347],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1343743247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4482,-2.0176,30.4482,-2.0176",
+    "geom:latitude":-2.0176,
+    "geom:longitude":30.4482,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"51",
+    "gn:admin3_code":"5107.0",
+    "gn:admin4_code":"510704.0",
+    "gn:asciiname":"Rweru",
+    "gn:country_code":"RW",
+    "gn:dem":1498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":384538,
+    "gn:latitude":-2.0176,
+    "gn:longitude":30.4482,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rweru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421187891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":384538
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"99c12c1665f8ad756a4b65990e98044b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421187891,
+            "locality_id":1343743247,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1343743247,
+    "wof:lastmodified":1536834716,
+    "wof:name":"Rweru",
+    "wof:parent_id":421187891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4482,
+    -2.0176,
+    30.4482,
+    -2.0176
+],
+  "geometry": {"coordinates":[30.4482,-2.0176],"type":"Point"}
+}

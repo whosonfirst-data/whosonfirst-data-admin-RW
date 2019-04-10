@@ -1,0 +1,70 @@
+{
+  "id": 1259667301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.2618,-1.6616,29.2618,-1.6616",
+    "geom:latitude":-1.6616,
+    "geom:longitude":29.2618,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"33.0",
+    "gn:admin3_code":"3311.0",
+    "gn:admin4_code":"331101.0",
+    "gn:asciiname":"Buhuru",
+    "gn:country_code":"RW",
+    "gn:dem":1603,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7605599,
+    "gn:latitude":-1.6616,
+    "gn:longitude":29.2618,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Buhuru",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421187899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7605599
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"9e513f6ee65409f222d5aed0a84df332",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421187899,
+            "locality_id":1259667301,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1259667301,
+    "wof:lastmodified":1537087142,
+    "wof:name":"Buhuru",
+    "wof:parent_id":421187899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.2618,
+    -1.6616,
+    29.2618,
+    -1.6616
+],
+  "geometry": {"coordinates":[29.2618,-1.6616],"type":"Point"}
+}

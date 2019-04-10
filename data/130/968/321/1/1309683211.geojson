@@ -1,0 +1,70 @@
+{
+  "id": 1309683211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3976,-2.0118,29.3976,-2.0118",
+    "geom:latitude":-2.0118,
+    "geom:longitude":29.3976,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"32.0",
+    "gn:admin3_code":"3210.0",
+    "gn:admin4_code":"321002.0",
+    "gn:asciiname":"Kunini",
+    "gn:country_code":"RW",
+    "gn:dem":1719,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7662255,
+    "gn:latitude":-2.0118,
+    "gn:longitude":29.3976,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kunini",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421190845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7662255
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"fc62ebd6204a64a43be039af8e2c45dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421190845,
+            "locality_id":1309683211,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1309683211,
+    "wof:lastmodified":1536608214,
+    "wof:name":"Kunini",
+    "wof:parent_id":421190845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3976,
+    -2.0118,
+    29.3976,
+    -2.0118
+],
+  "geometry": {"coordinates":[29.3976,-2.0118],"type":"Point"}
+}

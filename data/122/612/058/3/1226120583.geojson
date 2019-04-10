@@ -1,0 +1,70 @@
+{
+  "id": 1226120583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3967,-2.1253,30.3967,-2.1253",
+    "geom:latitude":-2.1253,
+    "geom:longitude":30.3967,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"56.0",
+    "gn:admin3_code":"5606.0",
+    "gn:admin4_code":"560604.0",
+    "gn:asciiname":"Nyamugali",
+    "gn:country_code":"RW",
+    "gn:dem":1418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7654394,
+    "gn:latitude":-2.1253,
+    "gn:longitude":30.3967,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nyamugali",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        1108561297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7654394
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"5c27426f1c6790e387af47574a5c60dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561297,
+            "locality_id":1226120583,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1226120583,
+    "wof:lastmodified":1536614803,
+    "wof:name":"Nyamugali",
+    "wof:parent_id":1108561297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3967,
+    -2.1253,
+    30.3967,
+    -2.1253
+],
+  "geometry": {"coordinates":[30.3967,-2.1253],"type":"Point"}
+}

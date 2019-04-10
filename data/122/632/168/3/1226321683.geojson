@@ -1,0 +1,74 @@
+{
+  "id": 1226321683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3191,-1.60814,29.3191,-1.60814",
+    "geom:latitude":-1.60814,
+    "geom:longitude":29.3191,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"33",
+    "gn:admin3_code":"3302.0",
+    "gn:admin4_code":"330204.0",
+    "gn:asciiname":"Mufumba",
+    "gn:country_code":"RW",
+    "gn:dem":1971,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":202696,
+    "gn:latitude":-1.60814,
+    "gn:longitude":29.3191,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Mufumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Mufumba",
+        "Mufumba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421187899
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202696
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"488205d84a1537e51712a627563f41c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421187899,
+            "locality_id":1226321683,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1226321683,
+    "wof:lastmodified":1537699117,
+    "wof:name":"Mufumba",
+    "wof:parent_id":421187899,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3191,
+    -1.60814,
+    29.3191,
+    -1.60814
+],
+  "geometry": {"coordinates":[29.3191,-1.60814],"type":"Point"}
+}

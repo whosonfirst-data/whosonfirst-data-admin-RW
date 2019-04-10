@@ -1,0 +1,64 @@
+{
+  "id": 1209402869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5765,-2.297,30.5765,-2.297",
+    "geom:latitude":-2.297,
+    "geom:longitude":30.5765,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"55.0",
+    "gn:admin3_code":"5502.0",
+    "gn:admin4_code":"550201.0",
+    "gn:asciiname":"Rurenge Il",
+    "gn:country_code":"RW",
+    "gn:dem":1409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":8535522,
+    "gn:latitude":-2.297,
+    "gn:longitude":30.5765,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rurenge Il",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8535522
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"b983e74398a5e23608757ef830418dc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209402869
+        }
+    ],
+    "wof:id":1209402869,
+    "wof:lastmodified":1536288088,
+    "wof:name":"Rurenge Il",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5765,
+    -2.297,
+    30.5765,
+    -2.297
+],
+  "geometry": {"coordinates":[30.5765,-2.297],"type":"Point"}
+}

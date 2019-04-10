@@ -1,0 +1,70 @@
+{
+  "id": 1293364037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.41842,-2.17597,29.41842,-2.17597",
+    "geom:latitude":-2.17597,
+    "geom:longitude":29.41842,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"3112.0",
+    "gn:admin4_code":"311208.0",
+    "gn:asciiname":"Rugaragara",
+    "gn:country_code":"RW",
+    "gn:dem":2120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7662650,
+    "gn:latitude":-2.17597,
+    "gn:longitude":29.41842,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rugaragara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421182175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7662650
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"e2f0cba0e4c75f48ece51ce842d65236",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421182175,
+            "locality_id":1293364037,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1293364037,
+    "wof:lastmodified":1536964887,
+    "wof:name":"Rugaragara",
+    "wof:parent_id":421182175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.41842,
+    -2.17597,
+    29.41842,
+    -2.17597
+],
+  "geometry": {"coordinates":[29.41842,-2.17597],"type":"Point"}
+}

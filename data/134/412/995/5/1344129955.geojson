@@ -1,0 +1,73 @@
+{
+  "id": 1344129955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8424,-2.4591,29.8424,-2.4591",
+    "geom:latitude":-2.4591,
+    "geom:longitude":29.8424,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"22.0",
+    "gn:admin3_code":"2201.0",
+    "gn:admin4_code":"220101.0",
+    "gn:asciiname":"Kinyana",
+    "gn:country_code":"RW",
+    "gn:dem":1419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7664813,
+    "gn:latitude":-2.4591,
+    "gn:longitude":29.8424,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kinyana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kiniyana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7664813
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"dd18a9f29d8074bf1095fdc703bc5261",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561301,
+            "locality_id":1344129955,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1344129955,
+    "wof:lastmodified":1537699160,
+    "wof:name":"Kinyana",
+    "wof:parent_id":1108561301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8424,
+    -2.4591,
+    29.8424,
+    -2.4591
+],
+  "geometry": {"coordinates":[29.8424,-2.4591],"type":"Point"}
+}

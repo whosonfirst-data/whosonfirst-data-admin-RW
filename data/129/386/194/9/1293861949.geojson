@@ -1,0 +1,70 @@
+{
+  "id": 1293861949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5508,-2.1068,30.5508,-2.1068",
+    "geom:latitude":-2.1068,
+    "geom:longitude":30.5508,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"56.0",
+    "gn:admin3_code":"5609.0",
+    "gn:admin4_code":"560904.0",
+    "gn:asciiname":"Nyamagana",
+    "gn:country_code":"RW",
+    "gn:dem":1656,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7652649,
+    "gn:latitude":-2.1068,
+    "gn:longitude":30.5508,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nyamagana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        1108561297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7652649
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"b739cef887a19b14fffe659c4b0fe4f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561297,
+            "locality_id":1293861949,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1293861949,
+    "wof:lastmodified":1536744128,
+    "wof:name":"Nyamagana",
+    "wof:parent_id":1108561297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5508,
+    -2.1068,
+    30.5508,
+    -2.1068
+],
+  "geometry": {"coordinates":[30.5508,-2.1068],"type":"Point"}
+}

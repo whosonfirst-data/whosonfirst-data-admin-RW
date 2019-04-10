@@ -1,0 +1,70 @@
+{
+  "id": 1259950853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.1628,-2.3614,29.1628,-2.3614",
+    "geom:latitude":-2.3614,
+    "geom:longitude":29.1628,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"37",
+    "gn:admin3_code":"3706.0",
+    "gn:admin4_code":"370604.0",
+    "gn:asciiname":"Kanjongo",
+    "gn:country_code":"RW",
+    "gn:dem":1620,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7021448,
+    "gn:latitude":-2.3614,
+    "gn:longitude":29.1628,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kanjongo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421192891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7021448
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"8fe60345e6a2f7f107ee64899670d3ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192891,
+            "locality_id":1259950853,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1259950853,
+    "wof:lastmodified":1536682150,
+    "wof:name":"Kanjongo",
+    "wof:parent_id":421192891,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.1628,
+    -2.3614,
+    29.1628,
+    -2.3614
+],
+  "geometry": {"coordinates":[29.1628,-2.3614],"type":"Point"}
+}

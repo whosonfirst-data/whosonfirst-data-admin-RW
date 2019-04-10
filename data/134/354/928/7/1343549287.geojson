@@ -1,0 +1,76 @@
+{
+  "id": 1343549287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3226,-1.2952,30.3226,-1.2952",
+    "geom:latitude":-1.2952,
+    "geom:longitude":30.3226,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"52",
+    "gn:admin3_code":"5210.0",
+    "gn:admin4_code":"521007.0",
+    "gn:asciiname":"Nyagatare",
+    "gn:country_code":"RW",
+    "gn:dem":1342,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":201650,
+    "gn:latitude":-1.2952,
+    "gn:longitude":30.3226,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nyagatare",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nyakatale",
+        "Nyakatare",
+        "Nyagatare"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421193621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":201650,
+        "wk:page":"Nyagatare"
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"9462aebcb39beb2ce8db6db3d5815c59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421193621,
+            "locality_id":1343549287,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1343549287,
+    "wof:lastmodified":1537699080,
+    "wof:name":"Nyagatare",
+    "wof:parent_id":421193621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3226,
+    -1.2952,
+    30.3226,
+    -1.2952
+],
+  "geometry": {"coordinates":[30.3226,-1.2952],"type":"Point"}
+}

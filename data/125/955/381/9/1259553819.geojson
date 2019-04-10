@@ -1,0 +1,70 @@
+{
+  "id": 1259553819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7084,-2.43,29.7084,-2.43",
+    "geom:latitude":-2.43,
+    "geom:longitude":29.7084,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"24",
+    "gn:admin3_code":"2412.0",
+    "gn:admin4_code":"241203.0",
+    "gn:asciiname":"Kibika",
+    "gn:country_code":"RW",
+    "gn:dem":1672,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":383947,
+    "gn:latitude":-2.43,
+    "gn:longitude":29.7084,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kibika",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421204219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":383947
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"aff913b34795f08025b4a88bc92b6f20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421204219,
+            "locality_id":1259553819,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1259553819,
+    "wof:lastmodified":1536757844,
+    "wof:name":"Kibika",
+    "wof:parent_id":421204219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7084,
+    -2.43,
+    29.7084,
+    -2.43
+],
+  "geometry": {"coordinates":[29.7084,-2.43],"type":"Point"}
+}

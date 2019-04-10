@@ -1,0 +1,74 @@
+{
+  "id": 1292977315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.93333,-1.66667,29.93333,-1.66667",
+    "geom:latitude":-1.66667,
+    "geom:longitude":29.93333,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"41",
+    "gn:admin3_code":"4107.0",
+    "gn:admin4_code":"410703.0",
+    "gn:asciiname":"Bushiga",
+    "gn:country_code":"RW",
+    "gn:dem":1853,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":203044,
+    "gn:latitude":-1.66667,
+    "gn:longitude":29.93333,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Bushiga",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Bushiga",
+        "Bushiga"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421203217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":203044
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"c88ce6d01b9c1a25b40739c31902a915",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421203217,
+            "locality_id":1292977315,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1292977315,
+    "wof:lastmodified":1537699143,
+    "wof:name":"Bushiga",
+    "wof:parent_id":421203217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.93333,
+    -1.66667,
+    29.93333,
+    -1.66667
+],
+  "geometry": {"coordinates":[29.93333,-1.66667],"type":"Point"}
+}

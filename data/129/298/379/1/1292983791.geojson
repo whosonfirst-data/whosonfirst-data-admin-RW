@@ -1,0 +1,70 @@
+{
+  "id": 1292983791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7786,-2.7045,29.7786,-2.7045",
+    "geom:latitude":-2.7045,
+    "geom:longitude":29.7786,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"22.0",
+    "gn:admin3_code":"2203.0",
+    "gn:admin4_code":"220301.0",
+    "gn:asciiname":"Mwanganshuro",
+    "gn:country_code":"RW",
+    "gn:dem":1699,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7663880,
+    "gn:latitude":-2.7045,
+    "gn:longitude":29.7786,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Mwanganshuro",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7663880
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"df1b0c428e666cb96f73b753418b0a20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561301,
+            "locality_id":1292983791,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1292983791,
+    "wof:lastmodified":1537015454,
+    "wof:name":"Mwanganshuro",
+    "wof:parent_id":1108561301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7786,
+    -2.7045,
+    29.7786,
+    -2.7045
+],
+  "geometry": {"coordinates":[29.7786,-2.7045],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1209986859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8973,-2.2669,29.8973,-2.2669",
+    "geom:latitude":-2.2669,
+    "geom:longitude":29.8973,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"26",
+    "gn:admin3_code":"2608.0",
+    "gn:admin4_code":"260801.0",
+    "gn:asciiname":"Nyarurama",
+    "gn:country_code":"RW",
+    "gn:dem":1565,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":202490,
+    "gn:latitude":-2.2669,
+    "gn:longitude":29.8973,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nyarurama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Nyarurama",
+        "Nyarurama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561299
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202490
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"d63decb38b99fb9fd1c3753c85d3b084",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561299,
+            "locality_id":1209986859,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1209986859,
+    "wof:lastmodified":1537699102,
+    "wof:name":"Nyarurama",
+    "wof:parent_id":1108561299,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8973,
+    -2.2669,
+    29.8973,
+    -2.2669
+],
+  "geometry": {"coordinates":[29.8973,-2.2669],"type":"Point"}
+}

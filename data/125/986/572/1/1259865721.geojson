@@ -1,0 +1,75 @@
+{
+  "id": 1259865721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.9542,-1.6989,29.9542,-1.6989",
+    "geom:latitude":-1.6989,
+    "geom:longitude":29.9542,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"41",
+    "gn:admin3_code":"4117.0",
+    "gn:admin4_code":"411703.0",
+    "gn:asciiname":"Tumba",
+    "gn:country_code":"RW",
+    "gn:dem":2051,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":202332,
+    "gn:latitude":-1.6989,
+    "gn:longitude":29.9542,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Tumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Tumba",
+        "Tumba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421203217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202332,
+        "wk:page":"Tumba,_Rwanda"
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"a47cabec3d9a57f87f1cc35b531764f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421203217,
+            "locality_id":1259865721,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1259865721,
+    "wof:lastmodified":1537699090,
+    "wof:name":"Tumba",
+    "wof:parent_id":421203217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.9542,
+    -1.6989,
+    29.9542,
+    -1.6989
+],
+  "geometry": {"coordinates":[29.9542,-1.6989],"type":"Point"}
+}

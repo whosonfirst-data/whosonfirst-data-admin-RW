@@ -1,0 +1,73 @@
+{
+  "id": 1310188519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.58,-1.6699,29.58,-1.6699",
+    "geom:latitude":-1.6699,
+    "geom:longitude":29.58,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"34.0",
+    "gn:admin3_code":"3411.0",
+    "gn:admin4_code":"341106.0",
+    "gn:asciiname":"Kazenzo",
+    "gn:country_code":"RW",
+    "gn:dem":2046,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7320470,
+    "gn:latitude":-1.6699,
+    "gn:longitude":29.58,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kazenzo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kazenze"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421169419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7320470
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"0022be1c731348347db1cdc57ddef679",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421169419,
+            "locality_id":1310188519,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1310188519,
+    "wof:lastmodified":1537699156,
+    "wof:name":"Kazenzo",
+    "wof:parent_id":421169419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.58,
+    -1.6699,
+    29.58,
+    -1.6699
+],
+  "geometry": {"coordinates":[29.58,-1.6699],"type":"Point"}
+}

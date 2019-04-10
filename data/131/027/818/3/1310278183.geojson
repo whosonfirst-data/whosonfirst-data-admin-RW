@@ -1,0 +1,70 @@
+{
+  "id": 1310278183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.705,-2.2638,29.705,-2.2638",
+    "geom:latitude":-2.2638,
+    "geom:longitude":29.705,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"21",
+    "gn:admin3_code":"2106.0",
+    "gn:admin4_code":"210606.0",
+    "gn:asciiname":"Gisuma",
+    "gn:country_code":"RW",
+    "gn:dem":1829,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7062789,
+    "gn:latitude":-2.2638,
+    "gn:longitude":29.705,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gisuma",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421190841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7062789
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"cff9e4aeb1bed3b9fda176077f94de6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421190841,
+            "locality_id":1310278183,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1310278183,
+    "wof:lastmodified":1536747176,
+    "wof:name":"Gisuma",
+    "wof:parent_id":421190841,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.705,
+    -2.2638,
+    29.705,
+    -2.2638
+],
+  "geometry": {"coordinates":[29.705,-2.2638],"type":"Point"}
+}

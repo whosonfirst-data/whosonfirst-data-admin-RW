@@ -1,0 +1,76 @@
+{
+  "id": 1310680515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.706,-1.5715,29.706,-1.5715",
+    "geom:latitude":-1.5715,
+    "geom:longitude":29.706,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"42",
+    "gn:admin3_code":"4203.0",
+    "gn:admin4_code":"420301.0",
+    "gn:asciiname":"Muhorore",
+    "gn:country_code":"RW",
+    "gn:dem":1829,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":202676,
+    "gn:latitude":-1.5715,
+    "gn:longitude":29.706,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Muhorore",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Muhororo",
+        "Muhorora",
+        "Muhorore",
+        "Muhororo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421192889
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202676
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"c523c0425975c6ed1e4a0e56b40b04af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192889,
+            "locality_id":1310680515,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1310680515,
+    "wof:lastmodified":1537699115,
+    "wof:name":"Muhorore",
+    "wof:parent_id":421192889,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.706,
+    -1.5715,
+    29.706,
+    -1.5715
+],
+  "geometry": {"coordinates":[29.706,-1.5715],"type":"Point"}
+}

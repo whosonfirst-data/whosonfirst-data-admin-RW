@@ -1,0 +1,74 @@
+{
+  "id": 1226520469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.048,-2.1115,30.048,-2.1115",
+    "geom:latitude":-2.1115,
+    "geom:longitude":30.048,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"57",
+    "gn:admin3_code":"5709.0",
+    "gn:admin4_code":"570901.0",
+    "gn:asciiname":"Ntarama",
+    "gn:country_code":"RW",
+    "gn:dem":1435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":202547,
+    "gn:latitude":-2.1115,
+    "gn:longitude":30.048,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ntarama",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Ntarama",
+        "Ntarama"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421199681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202547
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"bd1013d43636e5863c4283646cc4b51e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421199681,
+            "locality_id":1226520469,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1226520469,
+    "wof:lastmodified":1537699106,
+    "wof:name":"Ntarama",
+    "wof:parent_id":421199681,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.048,
+    -2.1115,
+    30.048,
+    -2.1115
+],
+  "geometry": {"coordinates":[30.048,-2.1115],"type":"Point"}
+}

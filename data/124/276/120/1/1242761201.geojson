@@ -1,0 +1,63 @@
+{
+  "id": 1242761201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.8847,-2.5068,28.8847,-2.5068",
+    "geom:latitude":-2.5068,
+    "geom:longitude":28.8847,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Buremera",
+    "gn:country_code":"RW",
+    "gn:dem":1466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7032804,
+    "gn:latitude":-2.5068,
+    "gn:longitude":28.8847,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Buremera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7032804
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"3c816ab341de31b5f5df041ad57bba00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1242761201,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1242761201,
+    "wof:lastmodified":1536799323,
+    "wof:name":"Buremera",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.8847,
+    -2.5068,
+    28.8847,
+    -2.5068
+],
+  "geometry": {"coordinates":[28.8847,-2.5068],"type":"Point"}
+}

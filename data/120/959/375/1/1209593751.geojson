@@ -1,0 +1,68 @@
+{
+  "id": 1209593751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1102,-2.3275,30.1102,-2.3275",
+    "geom:latitude":-2.3275,
+    "geom:longitude":30.1102,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"57",
+    "gn:admin3_code":"5708.0",
+    "gn:admin4_code":"570804.0",
+    "gn:asciiname":"Kibungo",
+    "gn:country_code":"RW",
+    "gn:dem":1491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":382977,
+    "gn:latitude":-2.3275,
+    "gn:longitude":30.1102,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kibungo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Kibungu",
+        "Kibungu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":382977
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"bd5feb6b27358461608f87de832fd851",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209593751
+        }
+    ],
+    "wof:id":1209593751,
+    "wof:lastmodified":1537699148,
+    "wof:name":"Kibungo",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1102,
+    -2.3275,
+    30.1102,
+    -2.3275
+],
+  "geometry": {"coordinates":[30.1102,-2.3275],"type":"Point"}
+}

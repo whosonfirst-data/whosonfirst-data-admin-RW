@@ -1,0 +1,74 @@
+{
+  "id": 1310086781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.149,-1.4188,30.149,-1.4188",
+    "geom:latitude":-1.4188,
+    "geom:longitude":30.149,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"52",
+    "gn:admin3_code":"5205.0",
+    "gn:admin4_code":"520502.0",
+    "gn:asciiname":"Gatsilima",
+    "gn:country_code":"RW",
+    "gn:dem":1588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":202962,
+    "gn:latitude":-1.4188,
+    "gn:longitude":30.149,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gatsilima",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Gatsilima",
+        "Gatsilima"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421193621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202962
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"10b37cdd0f8703681f39c6e07203f913",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421193621,
+            "locality_id":1310086781,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1310086781,
+    "wof:lastmodified":1537699137,
+    "wof:name":"Gatsilima",
+    "wof:parent_id":421193621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.149,
+    -1.4188,
+    30.149,
+    -1.4188
+],
+  "geometry": {"coordinates":[30.149,-1.4188],"type":"Point"}
+}

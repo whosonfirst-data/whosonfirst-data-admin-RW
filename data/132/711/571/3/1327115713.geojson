@@ -1,0 +1,70 @@
+{
+  "id": 1327115713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.5457,-2.3738,30.5457,-2.3738",
+    "geom:latitude":-2.3738,
+    "geom:longitude":30.5457,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"55",
+    "gn:admin3_code":"5501.0",
+    "gn:admin4_code":"550101.0",
+    "gn:asciiname":"Butezi",
+    "gn:country_code":"RW",
+    "gn:dem":1416,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":384553,
+    "gn:latitude":-2.3738,
+    "gn:longitude":30.5457,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Butezi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421175701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":384553
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"33bed55d4357442105493f19f2dc8bc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421175701,
+            "locality_id":1327115713,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1327115713,
+    "wof:lastmodified":1536639252,
+    "wof:name":"Butezi",
+    "wof:parent_id":421175701,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.5457,
+    -2.3738,
+    30.5457,
+    -2.3738
+],
+  "geometry": {"coordinates":[30.5457,-2.3738],"type":"Point"}
+}

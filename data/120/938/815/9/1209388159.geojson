@@ -1,0 +1,64 @@
+{
+  "id": 1209388159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4437,-2.6668,29.4437,-2.6668",
+    "geom:latitude":-2.6668,
+    "geom:longitude":29.4437,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"23",
+    "gn:admin3_code":"2306.0",
+    "gn:admin4_code":"230603.0",
+    "gn:asciiname":"Cyurukore",
+    "gn:country_code":"RW",
+    "gn:dem":2023,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7021965,
+    "gn:latitude":-2.6668,
+    "gn:longitude":29.4437,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Cyurukore",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7021965
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"b6219fa0c1661fc1c72054bed0a4b7aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209388159
+        }
+    ],
+    "wof:id":1209388159,
+    "wof:lastmodified":1536288553,
+    "wof:name":"Cyurukore",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4437,
+    -2.6668,
+    29.4437,
+    -2.6668
+],
+  "geometry": {"coordinates":[29.4437,-2.6668],"type":"Point"}
+}

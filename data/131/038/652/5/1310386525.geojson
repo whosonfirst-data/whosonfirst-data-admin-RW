@@ -1,0 +1,70 @@
+{
+  "id": 1310386525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3277,-1.1404,30.3277,-1.1404",
+    "geom:latitude":-1.1404,
+    "geom:longitude":30.3277,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"52",
+    "gn:admin3_code":"5212.0",
+    "gn:admin4_code":"521204.0",
+    "gn:asciiname":"Gakindo",
+    "gn:country_code":"RW",
+    "gn:dem":1352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":442087,
+    "gn:latitude":-1.1404,
+    "gn:longitude":30.3277,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gakindo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421193621
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":442087
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"a0d9050e0aa185cb42b9c87081ae4820",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421193621,
+            "locality_id":1310386525,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1310386525,
+    "wof:lastmodified":1537085455,
+    "wof:name":"Gakindo",
+    "wof:parent_id":421193621,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3277,
+    -1.1404,
+    30.3277,
+    -1.1404
+],
+  "geometry": {"coordinates":[30.3277,-1.1404],"type":"Point"}
+}

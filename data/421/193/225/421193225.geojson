@@ -1,0 +1,83 @@
+{
+  "id": 421193225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.5564,-2.479,29.5564,-2.479",
+    "geom:latitude":-2.479,
+    "geom:longitude":29.5564,
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:unk_x_variant":[
+        "Nseka"
+    ],
+    "qs:gn_country":"RW",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":201865,
+    "qs:gn_pop":33832,
+    "qs:name":"Nzega",
+    "qs:name_adm0":"Rwanda",
+    "qs:name_adm1":"Province du Sud",
+    "qs:photos":0,
+    "qs:photos_1k":0,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":6,
+    "qs:photos_sr":0,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":1295952,
+    "qs:woe_adm0":23424937,
+    "qs:woe_id":1410877,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wd:wordcount":68,
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421192893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":201865,
+        "gp:id":1410877,
+        "qs:id":1295952
+    },
+    "wof:country":"RW",
+    "wof:created":1459009764,
+    "wof:geomhash":"46cd28e4f5b3ffa133712d41da58c32c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192893,
+            "locality_id":421193225,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":421193225,
+    "wof:lastmodified":1527716149,
+    "wof:name":"Nzega",
+    "wof:parent_id":421192893,
+    "wof:placetype":"locality",
+    "wof:population":33832,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.5564,
+    -2.479,
+    29.5564,
+    -2.479
+],
+  "geometry": {"coordinates":[29.5564,-2.479],"type":"Point"}
+}

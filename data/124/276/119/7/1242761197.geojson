@@ -1,0 +1,80 @@
+{
+  "id": 1242761197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3624,-1.5148,29.3624,-1.5148",
+    "geom:latitude":-1.5148,
+    "geom:longitude":29.3624,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"33.0",
+    "gn:admin3_code":"3301.0",
+    "gn:admin4_code":"330103.0",
+    "gn:asciiname":"Hehu",
+    "gn:country_code":"RW",
+    "gn:dem":2341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7605331,
+    "gn:latitude":-1.5148,
+    "gn:longitude":29.3624,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Hehu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421187899,
+        85632643,
+        85670021,
+        1091679863
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7605331
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"3fdc12613d864f2aa2ca2e7a08e6c98f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421187899,
+            "locality_id":1242761197,
+            "region_id":85676791
+        },
+        {
+            "continent_id":102191573,
+            "country_id":85632643,
+            "county_id":1091679863,
+            "locality_id":1242761197,
+            "region_id":85670021
+        }
+    ],
+    "wof:id":1242761197,
+    "wof:lastmodified":1536799329,
+    "wof:name":"Hehu",
+    "wof:parent_id":-4,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3624,
+    -1.5148,
+    29.3624,
+    -1.5148
+],
+  "geometry": {"coordinates":[29.3624,-1.5148],"type":"Point"}
+}

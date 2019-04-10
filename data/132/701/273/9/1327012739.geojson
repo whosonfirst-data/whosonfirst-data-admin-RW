@@ -1,0 +1,70 @@
+{
+  "id": 1327012739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4581,-2.7224,29.4581,-2.7224",
+    "geom:latitude":-2.7224,
+    "geom:longitude":29.4581,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"23",
+    "gn:admin3_code":"2310.0",
+    "gn:admin4_code":"231003.0",
+    "gn:asciiname":"Muyira",
+    "gn:country_code":"RW",
+    "gn:dem":2005,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7022042,
+    "gn:latitude":-2.7224,
+    "gn:longitude":29.4581,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Muyira",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        1108561303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7022042
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"3f6c63894e4a5bb9aae9742c76f369aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":1108561303,
+            "locality_id":1327012739,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1327012739,
+    "wof:lastmodified":1536789316,
+    "wof:name":"Muyira",
+    "wof:parent_id":1108561303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4581,
+    -2.7224,
+    29.4581,
+    -2.7224
+],
+  "geometry": {"coordinates":[29.4581,-2.7224],"type":"Point"}
+}

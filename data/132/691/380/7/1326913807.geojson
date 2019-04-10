@@ -1,0 +1,70 @@
+{
+  "id": 1326913807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.627,-1.6288,29.627,-1.6288",
+    "geom:latitude":-1.6288,
+    "geom:longitude":29.627,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"34",
+    "gn:admin3_code":"3410.0",
+    "gn:admin4_code":"341001.0",
+    "gn:asciiname":"Nyamutera",
+    "gn:country_code":"RW",
+    "gn:dem":1552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":384317,
+    "gn:latitude":-1.6288,
+    "gn:longitude":29.627,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nyamutera",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421169419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":384317
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"4f93f3cc48916ccfe2e80da0a52aec22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421169419,
+            "locality_id":1326913807,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1326913807,
+    "wof:lastmodified":1536932102,
+    "wof:name":"Nyamutera",
+    "wof:parent_id":421169419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.627,
+    -1.6288,
+    29.627,
+    -1.6288
+],
+  "geometry": {"coordinates":[29.627,-1.6288],"type":"Point"}
+}

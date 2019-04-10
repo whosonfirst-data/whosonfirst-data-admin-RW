@@ -1,0 +1,64 @@
+{
+  "id": 1209202595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.4213,-1.9599,30.4213,-1.9599",
+    "geom:latitude":-1.9599,
+    "geom:longitude":30.4213,
+    "gn:admin1_code":"11",
+    "gn:admin2_code":"51.0",
+    "gn:admin3_code":"5105.0",
+    "gn:admin4_code":"510503.0",
+    "gn:asciiname":"Nyagasenyi",
+    "gn:country_code":"RW",
+    "gn:dem":1475,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7106923,
+    "gn:latitude":-1.9599,
+    "gn:longitude":30.4213,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Nyagasenyi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7106923
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"fb9db12d25868b10fb2b7cf158e507c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209202595
+        }
+    ],
+    "wof:id":1209202595,
+    "wof:lastmodified":1536294558,
+    "wof:name":"Nyagasenyi",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.4213,
+    -1.9599,
+    30.4213,
+    -1.9599
+],
+  "geometry": {"coordinates":[30.4213,-1.9599],"type":"Point"}
+}

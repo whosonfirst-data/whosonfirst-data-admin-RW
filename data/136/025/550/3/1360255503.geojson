@@ -1,0 +1,70 @@
+{
+  "id": 1360255503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7096,-2.486,29.7096,-2.486",
+    "geom:latitude":-2.486,
+    "geom:longitude":29.7096,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"24",
+    "gn:admin3_code":"2410.0",
+    "gn:admin4_code":"241001.0",
+    "gn:asciiname":"Busheshi Il",
+    "gn:country_code":"RW",
+    "gn:dem":1668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7063332,
+    "gn:latitude":-2.486,
+    "gn:longitude":29.7096,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Busheshi Il",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421204219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7063332
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"7a7a5ec39d55716d7f20ae3224a2389d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421204219,
+            "locality_id":1360255503,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1360255503,
+    "wof:lastmodified":1536700156,
+    "wof:name":"Busheshi Il",
+    "wof:parent_id":421204219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7096,
+    -2.486,
+    29.7096,
+    -2.486
+],
+  "geometry": {"coordinates":[29.7096,-2.486],"type":"Point"}
+}

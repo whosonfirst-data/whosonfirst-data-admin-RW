@@ -1,0 +1,74 @@
+{
+  "id": 1209889267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.4427,-2.438,29.4427,-2.438",
+    "geom:latitude":-2.438,
+    "geom:longitude":29.4427,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"25",
+    "gn:admin3_code":"2501.0",
+    "gn:admin4_code":"250101.0",
+    "gn:asciiname":"Giharayumbo",
+    "gn:country_code":"RW",
+    "gn:dem":2223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7049599,
+    "gn:latitude":-2.438,
+    "gn:longitude":29.4427,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Giharayumbo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Giharryumbo",
+        "Giharayumbo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421192893
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7049599
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"f348c9325274ec942c6bb03cc071bbe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421192893,
+            "locality_id":1209889267,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1209889267,
+    "wof:lastmodified":1537699153,
+    "wof:name":"Giharayumbo",
+    "wof:parent_id":421192893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.4427,
+    -2.438,
+    29.4427,
+    -2.438
+],
+  "geometry": {"coordinates":[29.4427,-2.438],"type":"Point"}
+}

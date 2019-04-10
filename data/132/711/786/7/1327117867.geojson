@@ -1,0 +1,70 @@
+{
+  "id": 1327117867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6026,-2.1275,29.6026,-2.1275",
+    "geom:latitude":-2.1275,
+    "geom:longitude":29.6026,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"3107.0",
+    "gn:admin4_code":"310702.0",
+    "gn:asciiname":"Burwi",
+    "gn:country_code":"RW",
+    "gn:dem":1631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7660047,
+    "gn:latitude":-2.1275,
+    "gn:longitude":29.6026,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Burwi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421182175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7660047
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"2806b3e048cf5cc53d08ab0c04a22d9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421182175,
+            "locality_id":1327117867,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1327117867,
+    "wof:lastmodified":1536635902,
+    "wof:name":"Burwi",
+    "wof:parent_id":421182175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6026,
+    -2.1275,
+    29.6026,
+    -2.1275
+],
+  "geometry": {"coordinates":[29.6026,-2.1275],"type":"Point"}
+}

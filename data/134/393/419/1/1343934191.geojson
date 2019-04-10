@@ -1,0 +1,70 @@
+{
+  "id": 1343934191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0158,-1.4355,30.0158,-1.4355",
+    "geom:latitude":-1.4355,
+    "geom:longitude":30.0158,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"45.0",
+    "gn:admin3_code":"4504.0",
+    "gn:admin4_code":"450406.0",
+    "gn:asciiname":"Rukizi",
+    "gn:country_code":"RW",
+    "gn:dem":1848,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7582500,
+    "gn:latitude":-1.4355,
+    "gn:longitude":30.0158,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rukizi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421175213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7582500
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"f9db207a12b94c591de7227335c071f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421175213,
+            "locality_id":1343934191,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1343934191,
+    "wof:lastmodified":1537055564,
+    "wof:name":"Rukizi",
+    "wof:parent_id":421175213,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0158,
+    -1.4355,
+    30.0158,
+    -1.4355
+],
+  "geometry": {"coordinates":[30.0158,-1.4355],"type":"Point"}
+}

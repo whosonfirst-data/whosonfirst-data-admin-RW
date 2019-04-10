@@ -1,0 +1,70 @@
+{
+  "id": 1259761427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.3678,-1.6401,30.3678,-1.6401",
+    "geom:latitude":-1.6401,
+    "geom:longitude":30.3678,
+    "gn:admin1_code":"11.0",
+    "gn:admin2_code":"53",
+    "gn:admin3_code":"5303.0",
+    "gn:admin4_code":"530305.0",
+    "gn:asciiname":"Gisaka",
+    "gn:country_code":"RW",
+    "gn:dem":1443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":442781,
+    "gn:latitude":-1.6401,
+    "gn:longitude":30.3678,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gisaka",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676795,
+        421204013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":442781
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"0f3778967f768b378addbc3df8b9b099",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421204013,
+            "locality_id":1259761427,
+            "region_id":85676795
+        }
+    ],
+    "wof:id":1259761427,
+    "wof:lastmodified":1536955019,
+    "wof:name":"Gisaka",
+    "wof:parent_id":421204013,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.3678,
+    -1.6401,
+    30.3678,
+    -1.6401
+],
+  "geometry": {"coordinates":[30.3678,-1.6401],"type":"Point"}
+}

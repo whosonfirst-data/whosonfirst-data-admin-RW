@@ -1,0 +1,70 @@
+{
+  "id": 1277045867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8999,-2.016,29.8999,-2.016",
+    "geom:latitude":-2.016,
+    "geom:longitude":29.8999,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"28",
+    "gn:admin3_code":"2801.0",
+    "gn:admin4_code":"280104.0",
+    "gn:asciiname":"Kigembe",
+    "gn:country_code":"RW",
+    "gn:dem":1631,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":202056,
+    "gn:latitude":-2.016,
+    "gn:longitude":29.8999,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kigembe",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421190843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202056
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"621a4aa528b380b984bf683d1872996f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421190843,
+            "locality_id":1277045867,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1277045867,
+    "wof:lastmodified":1536817833,
+    "wof:name":"Kigembe",
+    "wof:parent_id":421190843,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8999,
+    -2.016,
+    29.8999,
+    -2.016
+],
+  "geometry": {"coordinates":[29.8999,-2.016],"type":"Point"}
+}

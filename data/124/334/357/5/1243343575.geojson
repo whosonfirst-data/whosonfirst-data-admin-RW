@@ -1,0 +1,74 @@
+{
+  "id": 1243343575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0593,-1.8862,30.0593,-1.8862",
+    "geom:latitude":-1.8862,
+    "geom:longitude":30.0593,
+    "gn:admin1_code":"12.0",
+    "gn:admin2_code":"12",
+    "gn:admin3_code":"1205.0",
+    "gn:admin4_code":"120503.0",
+    "gn:asciiname":"Agatwa",
+    "gn:country_code":"RW",
+    "gn:dem":1570,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":442728,
+    "gn:latitude":-1.8862,
+    "gn:longitude":30.0593,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Agatwa",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Agatwi",
+        "Agatwa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676807,
+        421202327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":442728
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"7113c45f5495cdf5fbd57414fdee7c2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421202327,
+            "locality_id":1243343575,
+            "region_id":85676807
+        }
+    ],
+    "wof:id":1243343575,
+    "wof:lastmodified":1537699150,
+    "wof:name":"Agatwa",
+    "wof:parent_id":421202327,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0593,
+    -1.8862,
+    30.0593,
+    -1.8862
+],
+  "geometry": {"coordinates":[30.0593,-1.8862],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1293171703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3027,-1.8724,29.3027,-1.8724",
+    "geom:latitude":-1.8724,
+    "geom:longitude":29.3027,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"32",
+    "gn:admin3_code":"3209.0",
+    "gn:admin4_code":"320902.0",
+    "gn:asciiname":"Kiravumba",
+    "gn:country_code":"RW",
+    "gn:dem":1666,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":6997971,
+    "gn:latitude":-1.8724,
+    "gn:longitude":29.3027,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Kiravumba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421190845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6997971
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"f4aecf0af474a9333a09b15719aab83d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421190845,
+            "locality_id":1293171703,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1293171703,
+    "wof:lastmodified":1536745144,
+    "wof:name":"Kiravumba",
+    "wof:parent_id":421190845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3027,
+    -1.8724,
+    29.3027,
+    -1.8724
+],
+  "geometry": {"coordinates":[29.3027,-1.8724],"type":"Point"}
+}

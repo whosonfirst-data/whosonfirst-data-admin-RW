@@ -1,0 +1,70 @@
+{
+  "id": 1226116187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.48,-2.0212,29.48,-2.0212",
+    "geom:latitude":-2.0212,
+    "geom:longitude":29.48,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"32.0",
+    "gn:admin3_code":"3206.0",
+    "gn:admin4_code":"320603.0",
+    "gn:asciiname":"Gakeri",
+    "gn:country_code":"RW",
+    "gn:dem":2294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7662274,
+    "gn:latitude":-2.0212,
+    "gn:longitude":29.48,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gakeri",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421190845
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7662274
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"d2599b37c824d23d40ccf995af43e182",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421190845,
+            "locality_id":1226116187,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1226116187,
+    "wof:lastmodified":1536621453,
+    "wof:name":"Gakeri",
+    "wof:parent_id":421190845,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.48,
+    -2.0212,
+    29.48,
+    -2.0212
+],
+  "geometry": {"coordinates":[29.48,-2.0212],"type":"Point"}
+}

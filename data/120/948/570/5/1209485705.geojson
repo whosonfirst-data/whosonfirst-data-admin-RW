@@ -1,0 +1,64 @@
+{
+  "id": 1209485705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8165,-1.9151,29.8165,-1.9151",
+    "geom:latitude":-1.9151,
+    "geom:longitude":29.8165,
+    "gn:admin1_code":"15",
+    "gn:admin2_code":"28.0",
+    "gn:admin3_code":"2803.0",
+    "gn:admin4_code":"280303.0",
+    "gn:asciiname":"Muza",
+    "gn:country_code":"RW",
+    "gn:dem":1607,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7600266,
+    "gn:latitude":-1.9151,
+    "gn:longitude":29.8165,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Muza",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7600266
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"d0e25c089ffd34f3529d5e5a0ac87485",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209485705
+        }
+    ],
+    "wof:id":1209485705,
+    "wof:lastmodified":1536285643,
+    "wof:name":"Muza",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8165,
+    -1.9151,
+    29.8165,
+    -1.9151
+],
+  "geometry": {"coordinates":[29.8165,-1.9151],"type":"Point"}
+}

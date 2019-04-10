@@ -1,0 +1,70 @@
+{
+  "id": 1343640379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.3852,-2.0335,29.3852,-2.0335",
+    "geom:latitude":-2.0335,
+    "geom:longitude":29.3852,
+    "gn:admin1_code":"14",
+    "gn:admin2_code":"31.0",
+    "gn:admin3_code":"3109.0",
+    "gn:admin4_code":"310906.0",
+    "gn:asciiname":"Mutaba",
+    "gn:country_code":"RW",
+    "gn:dem":1572,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7662292,
+    "gn:latitude":-2.0335,
+    "gn:longitude":29.3852,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Mutaba",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676791,
+        421182175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7662292
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"fc8da93d5dc667e3bb200a207d47a273",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421182175,
+            "locality_id":1343640379,
+            "region_id":85676791
+        }
+    ],
+    "wof:id":1343640379,
+    "wof:lastmodified":1536983310,
+    "wof:name":"Mutaba",
+    "wof:parent_id":421182175,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.3852,
+    -2.0335,
+    29.3852,
+    -2.0335
+],
+  "geometry": {"coordinates":[29.3852,-2.0335],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1209801805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.92682,-1.76444,29.92682,-1.76444",
+    "geom:latitude":-1.76444,
+    "geom:longitude":29.92682,
+    "gn:admin1_code":"13.0",
+    "gn:admin2_code":"41",
+    "gn:admin3_code":"4115.0",
+    "gn:admin4_code":"411502.0",
+    "gn:asciiname":"Ntarabana",
+    "gn:country_code":"RW",
+    "gn:dem":1870,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":202549,
+    "gn:latitude":-1.76444,
+    "gn:longitude":29.92682,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Ntarabana",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Colline Ntarabana",
+        "Ntarabana"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676799,
+        421203217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":202549,
+        "wk:page":"Ntarabana"
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"164f90e3a3afd36a64bbefbd18c26e80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421203217,
+            "locality_id":1209801805,
+            "region_id":85676799
+        }
+    ],
+    "wof:id":1209801805,
+    "wof:lastmodified":1537699106,
+    "wof:name":"Ntarabana",
+    "wof:parent_id":421203217,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.92682000000001,
+    -1.76444,
+    29.92682000000001,
+    -1.76444
+],
+  "geometry": {"coordinates":[29.92682000000001,-1.76444],"type":"Point"}
+}

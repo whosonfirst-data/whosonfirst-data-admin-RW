@@ -1,0 +1,64 @@
+{
+  "id": 1209187983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.0402,-2.3532,29.0402,-2.3532",
+    "geom:latitude":-2.3532,
+    "geom:longitude":29.0402,
+    "gn:admin1_code":"14.0",
+    "gn:admin2_code":"37",
+    "gn:admin3_code":"3712.0",
+    "gn:admin4_code":"371204.0",
+    "gn:asciiname":"Rugabano",
+    "gn:country_code":"RW",
+    "gn:dem":1609,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7021427,
+    "gn:latitude":-2.3532,
+    "gn:longitude":29.0402,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rugabano",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7021427
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"2a7ebfff8592e1f1c6825c704c453c20",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209187983
+        }
+    ],
+    "wof:id":1209187983,
+    "wof:lastmodified":1536295034,
+    "wof:name":"Rugabano",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.0402,
+    -2.3532,
+    29.0402,
+    -2.3532
+],
+  "geometry": {"coordinates":[29.0402,-2.3532],"type":"Point"}
+}

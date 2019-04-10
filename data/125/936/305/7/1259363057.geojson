@@ -1,0 +1,70 @@
+{
+  "id": 1259363057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.1355,-1.9595,30.1355,-1.9595",
+    "geom:latitude":-1.9595,
+    "geom:longitude":30.1355,
+    "gn:admin1_code":"12",
+    "gn:admin2_code":"13.0",
+    "gn:admin3_code":"1310.0",
+    "gn:admin4_code":"131003.0",
+    "gn:asciiname":"Rwimbogo",
+    "gn:country_code":"RW",
+    "gn:dem":1464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7595643,
+    "gn:latitude":-1.9595,
+    "gn:longitude":30.1355,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Rwimbogo",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676807,
+        421182309
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7595643
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"00188d860be72eb5ffceee070943a724",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421182309,
+            "locality_id":1259363057,
+            "region_id":85676807
+        }
+    ],
+    "wof:id":1259363057,
+    "wof:lastmodified":1537030392,
+    "wof:name":"Rwimbogo",
+    "wof:parent_id":421182309,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.1355,
+    -1.9595,
+    30.1355,
+    -1.9595
+],
+  "geometry": {"coordinates":[30.1355,-1.9595],"type":"Point"}
+}

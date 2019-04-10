@@ -1,0 +1,70 @@
+{
+  "id": 1293472743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.6514,-2.4868,29.6514,-2.4868",
+    "geom:latitude":-2.4868,
+    "geom:longitude":29.6514,
+    "gn:admin1_code":"15.0",
+    "gn:admin2_code":"24",
+    "gn:admin3_code":"2404.0",
+    "gn:admin4_code":"240401.0",
+    "gn:asciiname":"Karambi",
+    "gn:country_code":"RW",
+    "gn:dem":1617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7063335,
+    "gn:latitude":-2.4868,
+    "gn:longitude":29.6514,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Karambi",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573,
+        85632303,
+        85676785,
+        421204219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7063335
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"2ef5787b3de0a5c2a845f9751eb0620e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632303,
+            "county_id":421204219,
+            "locality_id":1293472743,
+            "region_id":85676785
+        }
+    ],
+    "wof:id":1293472743,
+    "wof:lastmodified":1536808077,
+    "wof:name":"Karambi",
+    "wof:parent_id":421204219,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.6514,
+    -2.4868,
+    29.6514,
+    -2.4868
+],
+  "geometry": {"coordinates":[29.6514,-2.4868],"type":"Point"}
+}

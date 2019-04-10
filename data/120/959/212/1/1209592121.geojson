@@ -1,0 +1,64 @@
+{
+  "id": 1209592121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.7057,-1.672,29.7057,-1.672",
+    "geom:latitude":-1.672,
+    "geom:longitude":29.7057,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"42.0",
+    "gn:admin3_code":"4206.0",
+    "gn:admin4_code":"420602.0",
+    "gn:asciiname":"Gitovu",
+    "gn:country_code":"RW",
+    "gn:dem":1898,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7320480,
+    "gn:latitude":-1.672,
+    "gn:longitude":29.7057,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Gitovu",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7320480
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"e6fd311f82910dd0caa7ce4467fdf46a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632303,
+            "locality_id":1209592121
+        }
+    ],
+    "wof:id":1209592121,
+    "wof:lastmodified":1536282445,
+    "wof:name":"Gitovu",
+    "wof:parent_id":85632303,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.7057,
+    -1.672,
+    29.7057,
+    -1.672
+],
+  "geometry": {"coordinates":[29.7057,-1.672],"type":"Point"}
+}

@@ -1,0 +1,63 @@
+{
+  "id": 1327407665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"28.907,-2.3907,28.907,-2.3907",
+    "geom:latitude":-2.3907,
+    "geom:longitude":28.907,
+    "gn:admin1_code":"14.0",
+    "gn:asciiname":"Mirara",
+    "gn:country_code":"RW",
+    "gn:dem":1461,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":7032603,
+    "gn:latitude":-2.3907,
+    "gn:longitude":28.907,
+    "gn:modification_date":"2009-11-28",
+    "gn:name":"Mirara",
+    "gn:population":0,
+    "gn:timezone":"Africa/Kigali",
+    "iso:country":"RW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7032603
+    },
+    "wof:country":"RW",
+    "wof:geomhash":"7be2b2ea808ebac9af780ca1195f8fc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":-1,
+            "locality_id":1327407665,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1327407665,
+    "wof:lastmodified":1536716875,
+    "wof:name":"Mirara",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-rw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    28.907,
+    -2.3907,
+    28.907,
+    -2.3907
+],
+  "geometry": {"coordinates":[28.907,-2.3907],"type":"Point"}
+}

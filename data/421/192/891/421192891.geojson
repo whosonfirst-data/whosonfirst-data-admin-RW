@@ -10,6 +10,12 @@
     "geom:latitude":-2.373509,
     "geom:longitude":29.16623,
     "iso:country":"RW",
+    "label:eng_x_preferred_longname":[
+        "Nyamasheke District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-2.379251,
     "lbl:longitude":29.210752,
     "meso:admin_1":"Western Province",
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":421192891,
-    "wof:lastmodified":1536616102,
+    "wof:lastmodified":1553717521,
     "wof:name":"Nyamasheke",
     "wof:parent_id":85676791,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-2.182993,
     "geom:longitude":30.457188,
     "iso:country":"RW",
+    "label:eng_x_preferred_longname":[
+        "Ngoma District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-2.188607,
     "lbl:longitude":30.457169,
     "meso:admin_1":"Eastern Province",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108561297,
-    "wof:lastmodified":1536615171,
+    "wof:lastmodified":1553718120,
     "wof:name":"Ngoma",
     "wof:parent_id":85676795,
     "wof:placetype":"county",

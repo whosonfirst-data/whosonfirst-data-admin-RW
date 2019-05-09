@@ -10,6 +10,12 @@
     "geom:latitude":-2.009446,
     "geom:longitude":29.902403,
     "iso:country":"RW",
+    "label:eng_x_preferred_longname":[
+        "Kamonyi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-2.009504,
     "lbl:longitude":29.900185,
     "meso:admin_1":"Southern Province",
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":421190843,
-    "wof:lastmodified":1536616082,
+    "wof:lastmodified":1553717495,
     "wof:name":"Kamonyi",
     "wof:parent_id":85676785,
     "wof:placetype":"county",

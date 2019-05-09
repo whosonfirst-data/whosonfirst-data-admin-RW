@@ -10,6 +10,12 @@
     "geom:latitude":-1.992005,
     "geom:longitude":30.028865,
     "iso:country":"RW",
+    "label:eng_x_preferred_longname":[
+        "Nyarugenge District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-1.973409,
     "lbl:longitude":30.029684,
     "meso:admin_1":"Kigali City",
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":421204011,
-    "wof:lastmodified":1536616160,
+    "wof:lastmodified":1553717576,
     "wof:name":"Nyarugenge",
     "wof:parent_id":85676807,
     "wof:placetype":"county",

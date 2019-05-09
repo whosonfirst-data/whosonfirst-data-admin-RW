@@ -10,6 +10,12 @@
     "geom:latitude":-1.653969,
     "geom:longitude":29.342693,
     "iso:country":"RW",
+    "label:eng_x_preferred_longname":[
+        "Rubavu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-1.668114,
     "lbl:longitude":29.333151,
     "meso:admin_1":"Western Province",
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":421187899,
-    "wof:lastmodified":1536616042,
+    "wof:lastmodified":1553717456,
     "wof:name":"Rubavu",
     "wof:parent_id":85676791,
     "wof:placetype":"county",

@@ -10,6 +10,12 @@
     "geom:latitude":-1.877845,
     "geom:longitude":29.569465,
     "iso:country":"RW",
+    "label:eng_x_preferred_longname":[
+        "Ngororero District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-1.85417,
     "lbl:longitude":29.569454,
     "meso:admin_1":"Western Province",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108561295,
-    "wof:lastmodified":1536615170,
+    "wof:lastmodified":1553718120,
     "wof:name":"Ngororero",
     "wof:parent_id":85676791,
     "wof:placetype":"county",

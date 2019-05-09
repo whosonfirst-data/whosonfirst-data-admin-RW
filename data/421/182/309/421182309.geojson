@@ -10,6 +10,12 @@
     "geom:latitude":-2.008864,
     "geom:longitude":30.143725,
     "iso:country":"RW",
+    "label:eng_x_preferred_longname":[
+        "Kicukiro District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-1.998327,
     "lbl:longitude":30.137331,
     "meso:admin_1":"Kigali City",
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":421182309,
-    "wof:lastmodified":1536615984,
+    "wof:lastmodified":1553717385,
     "wof:name":"Kicukiro",
     "wof:parent_id":85676807,
     "wof:placetype":"county",

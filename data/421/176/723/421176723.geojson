@@ -10,6 +10,12 @@
     "geom:latitude":-2.565372,
     "geom:longitude":29.087431,
     "iso:country":"RW",
+    "label:eng_x_preferred_longname":[
+        "Rusizi District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-2.615741,
     "lbl:longitude":28.980344,
     "meso:admin_1":"Western Province",
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":421176723,
-    "wof:lastmodified":1536615956,
+    "wof:lastmodified":1553717367,
     "wof:name":"Rusizi",
     "wof:parent_id":85676791,
     "wof:placetype":"county",

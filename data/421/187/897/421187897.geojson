@@ -10,6 +10,12 @@
     "geom:latitude":-1.498535,
     "geom:longitude":29.606597,
     "iso:country":"RW",
+    "label:eng_x_preferred_longname":[
+        "Musanze District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-1.50505,
     "lbl:longitude":29.606593,
     "meso:admin_1":"Northern Province",
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":421187897,
-    "wof:lastmodified":1536616042,
+    "wof:lastmodified":1553717455,
     "wof:name":"Musanze",
     "wof:parent_id":85676799,
     "wof:placetype":"county",

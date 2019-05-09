@@ -10,6 +10,12 @@
     "geom:latitude":-2.239766,
     "geom:longitude":30.150166,
     "iso:country":"RW",
+    "label:eng_x_preferred_longname":[
+        "Bugesera District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-2.241919,
     "lbl:longitude":30.133337,
     "meso:admin_1":"Eastern Province",
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":421199681,
-    "wof:lastmodified":1536616131,
+    "wof:lastmodified":1553717547,
     "wof:name":"Bugesera",
     "wof:parent_id":85676795,
     "wof:placetype":"county",

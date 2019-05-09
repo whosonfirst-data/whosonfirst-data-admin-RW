@@ -10,6 +10,12 @@
     "geom:latitude":-1.338249,
     "geom:longitude":30.379925,
     "iso:country":"RW",
+    "label:eng_x_preferred_longname":[
+        "Nyagatare District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-1.333715,
     "lbl:longitude":30.379946,
     "meso:admin_1":"Eastern Province",
@@ -111,7 +117,7 @@
         }
     ],
     "wof:id":421193621,
-    "wof:lastmodified":1536616109,
+    "wof:lastmodified":1553717523,
     "wof:name":"Nyagatare",
     "wof:parent_id":85676795,
     "wof:placetype":"county",

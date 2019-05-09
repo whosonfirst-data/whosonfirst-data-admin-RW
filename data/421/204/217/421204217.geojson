@@ -10,6 +10,12 @@
     "geom:latitude":-1.845126,
     "geom:longitude":30.641979,
     "iso:country":"RW",
+    "label:eng_x_preferred_longname":[
+        "Kayonza District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-1.837139,
     "lbl:longitude":30.645979,
     "meso:admin_1":"Eastern Province",
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":421204217,
-    "wof:lastmodified":1536616163,
+    "wof:lastmodified":1553717579,
     "wof:name":"Kayonza",
     "wof:parent_id":85676795,
     "wof:placetype":"county",

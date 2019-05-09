@@ -10,6 +10,12 @@
     "geom:latitude":-1.466243,
     "geom:longitude":29.826545,
     "iso:country":"RW",
+    "label:eng_x_preferred_longname":[
+        "Burera District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-1.466407,
     "lbl:longitude":29.82398,
     "meso:admin_1":"Northern Province",
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":421180243,
-    "wof:lastmodified":1536615966,
+    "wof:lastmodified":1553717376,
     "wof:name":"Burera",
     "wof:parent_id":85676799,
     "wof:placetype":"county",

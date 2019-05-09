@@ -10,6 +10,12 @@
     "geom:latitude":-2.411356,
     "geom:longitude":29.469879,
     "iso:country":"RW",
+    "label:eng_x_preferred_longname":[
+        "Nyamagabe District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-2.411998,
     "lbl:longitude":29.466867,
     "meso:admin_1":"Southern Province",
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":421192893,
-    "wof:lastmodified":1536616103,
+    "wof:lastmodified":1553717517,
     "wof:name":"Nyamagabe",
     "wof:parent_id":85676785,
     "wof:placetype":"county",

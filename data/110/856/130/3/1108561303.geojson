@@ -10,6 +10,12 @@
     "geom:latitude":-2.694844,
     "geom:longitude":29.516876,
     "iso:country":"RW",
+    "label:eng_x_preferred_longname":[
+        "Nyaruguru District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-2.689947,
     "lbl:longitude":29.516864,
     "meso:admin_1":"Southern Province",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108561303,
-    "wof:lastmodified":1536615171,
+    "wof:lastmodified":1553718128,
     "wof:name":"Nyaruguru",
     "wof:parent_id":85676785,
     "wof:placetype":"county",

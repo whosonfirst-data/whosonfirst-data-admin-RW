@@ -10,6 +10,12 @@
     "geom:latitude":-1.647392,
     "geom:longitude":29.510515,
     "iso:country":"RW",
+    "label:eng_x_preferred_longname":[
+        "Nyabihu District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-1.654591,
     "lbl:longitude":29.51051,
     "meso:admin_1":"Western Province",
@@ -99,7 +105,7 @@
         }
     ],
     "wof:id":421169419,
-    "wof:lastmodified":1536615899,
+    "wof:lastmodified":1553717304,
     "wof:name":"Nyabihu",
     "wof:parent_id":85676791,
     "wof:placetype":"county",

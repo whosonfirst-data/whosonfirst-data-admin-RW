@@ -10,6 +10,12 @@
     "geom:latitude":-2.618112,
     "geom:longitude":29.843603,
     "iso:country":"RW",
+    "label:eng_x_preferred_longname":[
+        "Gisagara District"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "district"
+    ],
     "lbl:latitude":-2.611295,
     "lbl:longitude":29.852854,
     "meso:admin_1":"Southern Province",
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":1108561301,
-    "wof:lastmodified":1536615171,
+    "wof:lastmodified":1553718126,
     "wof:name":"Gisagara",
     "wof:parent_id":85676785,
     "wof:placetype":"county",

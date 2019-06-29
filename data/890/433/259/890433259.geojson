@@ -16,8 +16,11 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kibungo"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b9\u03bc\u03c0\u03bf\u03cd\u03bd\u03b3\u03ba\u03bf"
     ],
     "name:eng_x_preferred":[
         "Kibungo"
@@ -25,14 +28,8 @@
     "name:est_x_preferred":[
         "Kibungo"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Kibungo"
-    ],
-    "name:ger_x_preferred":[
-        "Kibungo"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b9\u03bc\u03c0\u03bf\u03cd\u03bd\u03b3\u03ba\u03bf"
     ],
     "name:heb_x_preferred":[
         "\u05e7\u05d9\u05d1\u05d5\u05e0\u05d2\u05d5"
@@ -55,13 +52,16 @@
     "name:mrj_x_preferred":[
         "\u041a\u0438\u0431\u0443\u043d\u0433\u043e"
     ],
+    "name:nld_x_preferred":[
+        "Kibungo"
+    ],
     "name:pol_x_preferred":[
         "Kibungo"
     ],
     "name:por_x_preferred":[
         "Kibungo"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kibungo"
     ],
     "name:rus_x_preferred":[
@@ -202,7 +202,7 @@
         }
     ],
     "wof:id":890433259,
-    "wof:lastmodified":1527792952,
+    "wof:lastmodified":1561837349,
     "wof:name":"Kibungo",
     "wof:parent_id":1108561297,
     "wof:placetype":"locality",

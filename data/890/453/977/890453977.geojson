@@ -22,16 +22,10 @@
     "name:ben_x_preferred":[
         "\u0997\u09bf\u09b8\u09c7\u09a8\u09bf"
     ],
-    "name:chi_x_preferred":[
-        "\u5409\u585e\u5c3c"
-    ],
     "name:dan_x_preferred":[
         "Gisenyi"
     ],
     "name:deu_x_preferred":[
-        "Gisenyi"
-    ],
-    "name:dut_x_preferred":[
         "Gisenyi"
     ],
     "name:ell_x_preferred":[
@@ -48,15 +42,6 @@
     ],
     "name:fra_x_preferred":[
         "Gisenyi"
-    ],
-    "name:fre_x_preferred":[
-        "Gisenyi"
-    ],
-    "name:ger_x_preferred":[
-        "Gisenyi"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03ba\u03b9\u03c3\u03ad\u03bd\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0abf\u0ab8\u0ac7\u0aa8\u0ac0"
@@ -97,14 +82,17 @@
     "name:mar_x_preferred":[
         "\u091c\u093f\u0938\u0947\u0928\u093f\u092f\u093f"
     ],
-    "name:may_x_preferred":[
-        "Gisenyi"
-    ],
     "name:mon_x_preferred":[
         "\u0413\u0438\u0441\u044d\u043d\u044c\u0438"
     ],
     "name:mrj_x_preferred":[
         "\u0413\u0438\u0441\u0435\u043d\u044c\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Gisenyi"
+    ],
+    "name:nld_x_preferred":[
+        "Gisenyi"
     ],
     "name:nob_x_preferred":[
         "Gisenyi"
@@ -115,7 +103,7 @@
     "name:por_x_preferred":[
         "Gisenyi"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Gisenyi"
     ],
     "name:rus_x_preferred":[
@@ -286,7 +274,7 @@
         }
     ],
     "wof:id":890453977,
-    "wof:lastmodified":1527736641,
+    "wof:lastmodified":1561837349,
     "wof:name":"Gisenyi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

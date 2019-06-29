@@ -19,26 +19,20 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0627\u0646\u062c\u0648\u062c\u0648"
     ],
-    "name:chi_x_preferred":[
-        "\u5c1a\u53e4\u53e4"
-    ],
     "name:dan_x_preferred":[
         "Cyangugu"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Cyangugu"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03c5\u03b1\u03bd\u03b3\u03ba\u03bf\u03c5\u03b3\u03ba\u03bf\u03cd"
     ],
     "name:eng_x_preferred":[
         "Cyangugu"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Cyangugu"
-    ],
-    "name:ger_x_preferred":[
-        "Cyangugu"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03c5\u03b1\u03bd\u03b3\u03ba\u03bf\u03c5\u03b3\u03ba\u03bf\u03cd"
     ],
     "name:hrv_x_preferred":[
         "Cyangugu"
@@ -54,6 +48,9 @@
     ],
     "name:mrj_x_preferred":[
         "\u0427\u044c\u044f\u043d\u0433\u0443\u0433\u0443"
+    ],
+    "name:nld_x_preferred":[
+        "Cyangugu"
     ],
     "name:pol_x_preferred":[
         "Cyangugu"
@@ -81,6 +78,9 @@
     ],
     "name:unk_x_variant":[
         "Shangugu"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c1a\u53e4\u53e4"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Rwanda",
@@ -213,7 +213,7 @@
         }
     ],
     "wof:id":890453975,
-    "wof:lastmodified":1527736644,
+    "wof:lastmodified":1561837349,
     "wof:name":"Cyangugu",
     "wof:parent_id":421176723,
     "wof:placetype":"locality",

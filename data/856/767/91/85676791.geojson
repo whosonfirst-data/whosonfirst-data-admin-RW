@@ -37,17 +37,17 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de l'Oest"
     ],
-    "name:chi_x_preferred":[
-        "\u897f\u90e8\u7701"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Z\u00e1padn\u00ed provincie"
     ],
     "name:dan_x_preferred":[
         "Western Province"
     ],
-    "name:dut_x_preferred":[
-        "Ouest"
+    "name:deu_x_preferred":[
+        "Westprovinz"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03c5\u03c4\u03b9\u03ba\u03ae \u03a1\u03bf\u03c5\u03ac\u03bd\u03c4\u03b1"
     ],
     "name:eng_x_preferred":[
         "Western"
@@ -59,6 +59,9 @@
     "name:est_x_preferred":[
         "L\u00e4\u00e4neprovints"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u062a\u0627\u0646 \u063a\u0631\u0628\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Western Province"
     ],
@@ -67,19 +70,8 @@
     ],
     "name:fra_x_variant":[
         "Province de l\u2019Ouest",
-        "Ouest"
-    ],
-    "name:fre_x_preferred":[
+        "Ouest",
         "province de l'Ouest"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10d0\u10e1\u10d0\u10d5\u10da\u10d4\u10d7\u10d8 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
-        "Westprovinz"
-    ],
-    "name:gre_x_preferred":[
-        "\u0394\u03c5\u03c4\u03b9\u03ba\u03ae \u03a1\u03bf\u03c5\u03ac\u03bd\u03c4\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0ab6\u0acd\u0a9a\u0abf\u0aae\u0ac0 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -99,6 +91,9 @@
     "name:kan_x_preferred":[
         "\u0caa\u0cb6\u0ccd\u0c9a\u0cbf\u0cae \u0caa\u0ccd\u0cb0\u0cbe\u0c82\u0ca4\u0ccd\u0caf"
     ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10d0\u10e1\u10d0\u10d5\u10da\u10d4\u10d7\u10d8 \u10de\u10e0\u10dd\u10d5\u10d8\u10dc\u10ea\u10d8\u10d0"
+    ],
     "name:kin_x_preferred":[
         "Intara y\u2019 Iburengerazuba"
     ],
@@ -114,23 +109,23 @@
     "name:lit_x_preferred":[
         "Vakar\u0173 provincija"
     ],
-    "name:mac_x_preferred":[
-        "\u0417\u0430\u043f\u0430\u0434\u043d\u0430 \u043f\u043e\u043a\u0440\u0430\u0438\u043d\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u092a\u0936\u094d\u091a\u093f\u092e \u092a\u094d\u0930\u093e\u0902\u0924"
     ],
-    "name:may_x_preferred":[
-        "Western Province"
+    "name:mkd_x_preferred":[
+        "\u0417\u0430\u043f\u0430\u0434\u043d\u0430 \u043f\u043e\u043a\u0440\u0430\u0438\u043d\u0430"
     ],
     "name:mrj_x_preferred":[
         "\u0412\u0430\u0434\u044b\u0432\u0435\u043b \u043f\u0440\u043e\u0432\u0438\u043d\u0446\u0438"
     ],
+    "name:msa_x_preferred":[
+        "Western Province"
+    ],
+    "name:nld_x_preferred":[
+        "Ouest"
+    ],
     "name:nob_x_preferred":[
         "Vestlig provins"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0633\u062a\u0627\u0646 \u063a\u0631\u0628\u06cc"
     ],
     "name:pol_x_preferred":[
         "Prowincja Zachodnia"
@@ -138,7 +133,7 @@
     "name:por_x_preferred":[
         "Oeste"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Provincia de Vest"
     ],
     "name:rus_x_preferred":[
@@ -147,7 +142,7 @@
     "name:sin_x_preferred":[
         "\u0db6\u0dc3\u0dca\u0db1\u0dcf\u0dc4\u0dd2\u0dbb \u0db4\u0dc5\u0dcf\u0dad"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Intara y\u2019Iburengerazuba"
     ],
     "name:spa_x_preferred":[
@@ -179,6 +174,9 @@
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Ph\u00eda T\u00e2y"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u90e8\u7701"
     ],
     "ne:abbrev":"West",
     "ne:adm0_a3":"RWA",
@@ -305,7 +303,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1553550666,
+    "wof:lastmodified":1561837329,
     "wof:name":"Western",
     "wof:parent_id":85632303,
     "wof:placetype":"region",

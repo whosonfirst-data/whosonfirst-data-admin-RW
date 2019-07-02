@@ -19,14 +19,14 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0628\u0648\u064a"
     ],
-    "name:chi_x_preferred":[
-        "\u57fa\u5e03\u8036"
-    ],
     "name:dan_x_preferred":[
         "Kibuye"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kibuye"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b9\u03bc\u03c0\u03bf\u03cd\u03b3\u03b9\u03b5"
     ],
     "name:eng_x_preferred":[
         "Kibuye"
@@ -36,15 +36,6 @@
     ],
     "name:fra_x_preferred":[
         "Kibuye"
-    ],
-    "name:fre_x_preferred":[
-        "Kibuye"
-    ],
-    "name:ger_x_preferred":[
-        "Kibuye"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03b9\u03bc\u03c0\u03bf\u03cd\u03b3\u03b9\u03b5"
     ],
     "name:hrv_x_preferred":[
         "Kibuye"
@@ -61,13 +52,16 @@
     "name:mrj_x_preferred":[
         "\u041a\u0438\u0431\u0443\u0439\u0435"
     ],
+    "name:nld_x_preferred":[
+        "Kibuye"
+    ],
     "name:pol_x_preferred":[
         "Kibuye"
     ],
     "name:por_x_preferred":[
         "Kibuye"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Kibuye"
     ],
     "name:rus_x_preferred":[
@@ -84,6 +78,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06a9\u06cc\u0628\u0648\u06cc\u06d2"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u5e03\u8036"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Rwanda",
@@ -214,7 +211,7 @@
         }
     ],
     "wof:id":890440343,
-    "wof:lastmodified":1527727111,
+    "wof:lastmodified":1561837348,
     "wof:name":"Kibuye",
     "wof:parent_id":421182175,
     "wof:placetype":"locality",

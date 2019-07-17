@@ -56,6 +56,9 @@
     "name:ast_x_variant":[
         "Ruanda"
     ],
+    "name:azb_x_preferred":[
+        "\u0631\u0648\u0627\u0646\u062f\u0627"
+    ],
     "name:aze_x_preferred":[
         "Ruanda"
     ],
@@ -77,11 +80,11 @@
     "name:bel_x_preferred":[
         "\u0420\u0443\u0430\u043d\u0434\u0430"
     ],
-    "name:bel_x_variant":[
-        "\u0420\u0443\u0430\u043d\u0434\u0430"
-    ],
     "name:ben_x_preferred":[
         "\u09b0\u09c1\u09af\u09bc\u09be\u09a8\u09cd\u09a1\u09be"
+    ],
+    "name:bho_x_preferred":[
+        "\u0930\u0935\u093e\u0902\u0921\u093e"
     ],
     "name:bjn_x_preferred":[
         "Rwanda"
@@ -146,6 +149,9 @@
     "name:deu_x_variant":[
         "Republik Ruanda"
     ],
+    "name:din_x_preferred":[
+        "Ruanda"
+    ],
     "name:diq_x_preferred":[
         "Rwanda"
     ],
@@ -154,6 +160,9 @@
     ],
     "name:dsb_x_preferred":[
         "Ruanda"
+    ],
+    "name:dty_x_preferred":[
+        "\u0930\u0941\u0935\u093e\u0928\u094d\u0921\u093e"
     ],
     "name:ell_x_preferred":[
         "\u03a1\u03bf\u03c5\u03ac\u03bd\u03c4\u03b1"
@@ -244,8 +253,17 @@
     "name:glv_x_preferred":[
         "Rooandey"
     ],
+    "name:grn_x_preferred":[
+        "Rru\u00e1nda"
+    ],
+    "name:gsw_x_preferred":[
+        "Ruanda"
+    ],
     "name:guj_x_preferred":[
         "\u0ab0\u0ab5\u0abe\u0a82\u0aa1\u0abe"
+    ],
+    "name:guj_x_variant":[
+        "\u0ab0\u0ab5\u0abe\u0aa8\u0acd\u0aa1\u0abe"
     ],
     "name:hak_x_preferred":[
         "Rwanda"
@@ -334,13 +352,17 @@
         "\u0cb0\u0cc1\u0cb5\u0cbe\u0c82\u0ca1"
     ],
     "name:kan_x_variant":[
-        "\u0cb0\u0cc1\u0cb5\u0cbe\u0c82\u0ca1\u0cbe"
+        "\u0cb0\u0cc1\u0cb5\u0cbe\u0c82\u0ca1\u0cbe",
+        "\u0cb0\u0ccd\u0cb5\u0cbe\u0c82\u0ca1"
     ],
     "name:kat_x_preferred":[
         "\u10e0\u10e3\u10d0\u10dc\u10d3\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u0420\u0443\u0430\u043d\u0434\u0430"
+    ],
+    "name:kbp_x_preferred":[
+        "Ruwandaa"
     ],
     "name:khm_x_preferred":[
         "\u179a\u179c\u17c9\u17b6\u1793\u17cb\u178a\u17b6"
@@ -372,6 +394,9 @@
     "name:kur_x_variant":[
         "\u0695\u0648\u0627\u0646\u062f\u0627"
     ],
+    "name:lad_x_preferred":[
+        "Ruanda"
+    ],
     "name:lao_x_preferred":[
         "\u0ea5\u0eb2\u0ea7\u0eb1\u0e99\u0e94\u0eb2"
     ],
@@ -379,6 +404,9 @@
         "Ruanda"
     ],
     "name:lav_x_preferred":[
+        "Ruanda"
+    ],
+    "name:lfn_x_preferred":[
         "Ruanda"
     ],
     "name:lij_x_preferred":[
@@ -398,6 +426,9 @@
     ],
     "name:lrc_x_preferred":[
         "\u0631\u0648\u0659\u0627\u0646\u062f\u0627"
+    ],
+    "name:lrc_x_variant":[
+        "\u0631\u0648\u0622\u0646\u062f\u0627"
     ],
     "name:ltz_x_preferred":[
         "Ruanda"
@@ -444,6 +475,12 @@
     "name:mzn_x_preferred":[
         "\u0631\u0648\u0622\u0646\u062f\u0627"
     ],
+    "name:nah_x_preferred":[
+        "Ruanda"
+    ],
+    "name:nan_x_preferred":[
+        "Rwanda"
+    ],
     "name:nav_x_preferred":[
         "W\u00e1nda Dine\u02bc\u00e9 Bik\u00e9yah"
     ],
@@ -480,11 +517,15 @@
     "name:oci_x_preferred":[
         "Rwanda"
     ],
+    "name:olo_x_preferred":[
+        "Ruanda"
+    ],
     "name:ori_x_preferred":[
         "\u0b30\u0b41\u0b06\u0b23\u0b4d\u0b21\u0b3e"
     ],
     "name:ori_x_variant":[
-        "\u0b30\u0b3e\u0b71\u0b3e\u0b23\u0b4d\u0b21\u0b3e"
+        "\u0b30\u0b3e\u0b71\u0b3e\u0b23\u0b4d\u0b21\u0b3e",
+        "\u0b30\u0b35\u0b3e\u0b23\u0b4d\u0b21\u0b3e"
     ],
     "name:orm_x_preferred":[
         "Ruwaandaa"
@@ -497,6 +538,9 @@
     ],
     "name:pan_x_preferred":[
         "\u0a30\u0a35\u0a3e\u0a02\u0a21\u0a3e"
+    ],
+    "name:pap_x_preferred":[
+        "Rwanda"
     ],
     "name:pih_x_preferred":[
         "R'wanda"
@@ -541,7 +585,8 @@
         "Urwanda"
     ],
     "name:run_x_variant":[
-        "u Rwanda"
+        "u Rwanda",
+        "Rwanda"
     ],
     "name:rus_x_preferred":[
         "\u0420\u0443\u0430\u043d\u0434\u0430"
@@ -561,8 +606,14 @@
     "name:sco_x_preferred":[
         "Rwanda"
     ],
+    "name:sgs_x_preferred":[
+        "Ruanda"
+    ],
     "name:sin_x_preferred":[
         "\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0da9\u0dcf\u0dc0"
+    ],
+    "name:sin_x_variant":[
+        "\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0da9\u0dcf \u0da2\u0db1\u0dbb\u0da2\u0dba"
     ],
     "name:slk_x_preferred":[
         "Rwanda"
@@ -700,11 +751,20 @@
     "name:vol_x_preferred":[
         "Ruand\u00e4n"
     ],
+    "name:vro_x_preferred":[
+        "Rwanda"
+    ],
     "name:war_x_preferred":[
+        "Rwanda"
+    ],
+    "name:wln_x_preferred":[
         "Rwanda"
     ],
     "name:wol_x_preferred":[
         "Ruwandaa"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5362\u65fa\u8fbe"
     ],
     "name:xal_x_preferred":[
         "\u0420\u0443\u04bb\u0430\u043d\u0434\u0438\u043d \u041e\u0440\u043d"
@@ -721,6 +781,9 @@
     "name:yor_x_variant":[
         "Or\u00edl\u1eb9\u0301\u00e8de Ruwanda"
     ],
+    "name:yue_x_preferred":[
+        "\u76e7\u65fa\u9054"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Rwanda"
     ],
@@ -728,7 +791,6 @@
         "\u5362\u65fa\u8fbe"
     ],
     "name:zho_x_variant":[
-        "\u5362\u65fa\u8fbe",
         "\u76e7\u5b89\u9054"
     ],
     "name:zho_yue_x_preferred":[
@@ -892,7 +954,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1544059128,
+    "wof:lastmodified":1563320462,
     "wof:name":"Rwanda",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

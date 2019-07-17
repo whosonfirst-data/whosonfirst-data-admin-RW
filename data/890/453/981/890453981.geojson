@@ -19,6 +19,15 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0648\u0645\u0628\u0627"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u06cc\u0648\u0645\u0628\u0627"
+    ],
+    "name:cat_x_preferred":[
+        "Byumba"
+    ],
+    "name:ceb_x_preferred":[
+        "Byumba"
+    ],
     "name:dan_x_preferred":[
         "Byumba"
     ],
@@ -33,6 +42,12 @@
     ],
     "name:est_x_preferred":[
         "Byumba"
+    ],
+    "name:eus_x_preferred":[
+        "Byumba"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u06cc\u0648\u0645\u0628\u0627"
     ],
     "name:fra_x_preferred":[
         "Byumba"
@@ -69,6 +84,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0411\u0438\u0443\u043c\u0431\u0430"
+    ],
+    "name:rus_x_variant":[
+        "\u0411\u044c\u044e\u043c\u0431\u0430"
     ],
     "name:spa_x_preferred":[
         "Byumba"
@@ -218,7 +236,7 @@
         }
     ],
     "wof:id":890453981,
-    "wof:lastmodified":1561837349,
+    "wof:lastmodified":1563321271,
     "wof:name":"Byumba",
     "wof:parent_id":421175213,
     "wof:placetype":"locality",

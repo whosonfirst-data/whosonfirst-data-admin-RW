@@ -37,6 +37,9 @@
     "name:cat_x_preferred":[
         "Prov\u00edncia de l'Oest"
     ],
+    "name:ceb_x_preferred":[
+        "Western Province"
+    ],
     "name:ces_x_preferred":[
         "Z\u00e1padn\u00ed provincie"
     ],
@@ -56,8 +59,14 @@
         "West Province",
         "Western Province"
     ],
+    "name:epo_x_preferred":[
+        "Okcidenta Provinco"
+    ],
     "name:est_x_preferred":[
         "L\u00e4\u00e4neprovints"
+    ],
+    "name:eus_x_preferred":[
+        "Mendebaldeko probintzia"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u063a\u0631\u0628\u06cc"
@@ -102,6 +111,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc11c\ubd80 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\uc11c\ubd80\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Rietumu province"
@@ -171,6 +183,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u063a\u0631\u0628\u06cc \u0635\u0648\u0628\u06c1\u060c \u0631\u0648\u0627\u0646\u0688\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0645\u063a\u0631\u0628\u06cc \u0635\u0648\u0628\u06c1"
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Ph\u00eda T\u00e2y"
@@ -303,7 +318,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1561837329,
+    "wof:lastmodified":1563320465,
     "wof:name":"Western",
     "wof:parent_id":85632303,
     "wof:placetype":"region",

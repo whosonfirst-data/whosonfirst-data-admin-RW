@@ -22,6 +22,9 @@
     "name:cat_x_preferred":[
         "Ruhengeri"
     ],
+    "name:ceb_x_preferred":[
+        "Musanze"
+    ],
     "name:dan_x_preferred":[
         "Ruhengeri"
     ],
@@ -185,7 +188,7 @@
         }
     ],
     "wof:id":421174099,
-    "wof:lastmodified":1561837348,
+    "wof:lastmodified":1563321257,
     "wof:name":"Ruhengeri",
     "wof:parent_id":421187899,
     "wof:placetype":"locality",

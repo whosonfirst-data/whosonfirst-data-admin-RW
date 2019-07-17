@@ -31,18 +31,47 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Rusizi District"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a1\u03bf\u03c5\u03c3\u03af\u03b6\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Rusizi"
     ],
     "name:eng_x_variant":[
-        "Rusizi",
         "Rusizi District"
     ],
     "name:fra_x_preferred":[
         "District de Rusizi"
     ],
+    "name:fra_x_variant":[
+        "Rusizi"
+    ],
     "name:kin_x_preferred":[
         "Akarere ka Rusizi"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0420\u0443\u0441\u0438\u0437\u0438"
+    ],
+    "name:nld_x_preferred":[
+        "Rusizi District"
+    ],
+    "name:pol_x_preferred":[
+        "Dystrykt Rusizi"
+    ],
+    "name:por_x_preferred":[
+        "Rusizi"
+    ],
+    "name:swe_x_preferred":[
+        "Rusizi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u0443\u0437\u0456\u0437\u0456"
+    ],
+    "name:zho_x_preferred":[
+        "\u9b6f\u897f\u6fdf\u7e23"
     ],
     "qs:gn_country":"RW",
     "qs:gn_fcode":"ADM2",
@@ -105,7 +134,7 @@
         }
     ],
     "wof:id":421176723,
-    "wof:lastmodified":1553717367,
+    "wof:lastmodified":1563321266,
     "wof:name":"Rusizi",
     "wof:parent_id":85676791,
     "wof:placetype":"county",

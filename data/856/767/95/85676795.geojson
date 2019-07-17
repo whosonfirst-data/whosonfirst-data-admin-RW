@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629\u060c \u0631\u0648\u0627\u0646\u062f\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0634\u0631\u0642\u064a\u0629"
+    ],
     "name:ben_x_preferred":[
         "\u0987\u09b8\u09cd\u099f\u09be\u09b0\u09cd\u09a8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:cat_x_preferred":[
         "Prov\u00edncia de l'Est"
+    ],
+    "name:ceb_x_preferred":[
+        "Eastern Province"
     ],
     "name:ces_x_preferred":[
         "V\u00fdchodn\u00ed provincie"
@@ -56,8 +62,14 @@
         "East Province",
         "Eastern Province"
     ],
+    "name:epo_x_preferred":[
+        "Orienta Provinco"
+    ],
     "name:est_x_preferred":[
         "Idaprovints"
+    ],
+    "name:eus_x_preferred":[
+        "Ekialdeko probintzia"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u0634\u0631\u0642\u06cc"
@@ -105,6 +117,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub3d9\ubd80 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub3d9\ubd80\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Austrumu province"
@@ -171,6 +186,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0645\u0634\u0631\u0642\u06cc \u0635\u0648\u0628\u06c1\u060c \u0631\u0648\u0627\u0646\u0688\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u0645\u0634\u0631\u0642\u06cc \u0635\u0648\u0628\u06c1"
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Mi\u1ec1n \u0110\u00f4ng"
@@ -303,7 +321,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1561837328,
+    "wof:lastmodified":1563320463,
     "wof:name":"Eastern",
     "wof:parent_id":85632303,
     "wof:placetype":"region",

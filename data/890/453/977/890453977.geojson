@@ -22,6 +22,12 @@
     "name:ben_x_preferred":[
         "\u0997\u09bf\u09b8\u09c7\u09a8\u09bf"
     ],
+    "name:cat_x_preferred":[
+        "Gisenyi"
+    ],
+    "name:ceb_x_preferred":[
+        "Gisenyi"
+    ],
     "name:dan_x_preferred":[
         "Gisenyi"
     ],
@@ -34,7 +40,13 @@
     "name:eng_x_preferred":[
         "Gisenyi"
     ],
+    "name:epo_x_preferred":[
+        "Gisenyi"
+    ],
     "name:est_x_preferred":[
+        "Gisenyi"
+    ],
+    "name:eus_x_preferred":[
         "Gisenyi"
     ],
     "name:fin_x_preferred":[
@@ -274,7 +286,7 @@
         }
     ],
     "wof:id":890453977,
-    "wof:lastmodified":1561837349,
+    "wof:lastmodified":1563321271,
     "wof:name":"Gisenyi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -19,6 +19,12 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0628\u0648\u064a"
     ],
+    "name:cat_x_preferred":[
+        "Kibuye"
+    ],
+    "name:ceb_x_preferred":[
+        "Kibuye"
+    ],
     "name:dan_x_preferred":[
         "Kibuye"
     ],
@@ -32,6 +38,9 @@
         "Kibuye"
     ],
     "name:est_x_preferred":[
+        "Kibuye"
+    ],
+    "name:eus_x_preferred":[
         "Kibuye"
     ],
     "name:fra_x_preferred":[
@@ -211,7 +220,7 @@
         }
     ],
     "wof:id":890440343,
-    "wof:lastmodified":1561837348,
+    "wof:lastmodified":1563321270,
     "wof:name":"Kibuye",
     "wof:parent_id":421182175,
     "wof:placetype":"locality",

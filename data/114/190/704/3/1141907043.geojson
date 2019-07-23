@@ -23,6 +23,9 @@
     "name:ara_x_preferred":[
         "\u0647\u0648\u064a\u064a"
     ],
+    "name:azb_x_preferred":[
+        "\u0628\u0648\u062a\u06cc\u0631"
+    ],
     "name:aze_x_preferred":[
         "Butare"
     ],
@@ -30,6 +33,9 @@
         "\u09ac\u09c1\u099f\u09be\u09be\u09b0\u09c7"
     ],
     "name:bos_x_preferred":[
+        "Butare"
+    ],
+    "name:cat_x_preferred":[
         "Butare"
     ],
     "name:ces_x_preferred":[
@@ -50,6 +56,9 @@
     "name:est_x_preferred":[
         "Butare"
     ],
+    "name:eus_x_preferred":[
+        "Butare"
+    ],
     "name:fas_x_preferred":[
         "\u0628\u0648\u062a\u06cc\u0631"
     ],
@@ -59,6 +68,9 @@
     "name:fra_x_preferred":[
         "Butare"
     ],
+    "name:grn_x_preferred":[
+        "Mbut\u00e1re"
+    ],
     "name:guj_x_preferred":[
         "\u0aac\u0ac1\u0a9f\u0abe\u0ab0\u0ac7"
     ],
@@ -67,6 +79,9 @@
     ],
     "name:hrv_x_preferred":[
         "Huye"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0578\u0582\u057f\u0561\u0580\u0565"
     ],
     "name:ile_x_preferred":[
         "Butare"
@@ -128,6 +143,9 @@
     "name:swe_x_preferred":[
         "Butare"
     ],
+    "name:szl_x_preferred":[
+        "Butare"
+    ],
     "name:tam_x_preferred":[
         "\u0baa\u0bc1\u0ba4\u0bb0\u0bcd"
     ],
@@ -147,6 +165,9 @@
         "\u0628\u0648\u062a\u0627\u0631\u06d2"
     ],
     "name:vie_x_preferred":[
+        "Butare"
+    ],
+    "name:vls_x_preferred":[
         "Butare"
     ],
     "name:zho_x_preferred":[
@@ -277,7 +298,7 @@
         }
     ],
     "wof:id":1141907043,
-    "wof:lastmodified":1561837357,
+    "wof:lastmodified":1563321712,
     "wof:name":"Butare",
     "wof:parent_id":421204219,
     "wof:placetype":"locality",

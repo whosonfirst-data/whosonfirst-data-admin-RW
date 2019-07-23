@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629\u060c \u0631\u0648\u0627\u0646\u062f\u0627"
     ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629"
+    ],
     "name:ben_x_preferred":[
         "\u09b8\u09be\u0989\u09a6\u09be\u09b0\u09cd\u09a8 \u09aa\u09cd\u09b0\u09a6\u09c7\u09b6"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:cat_x_preferred":[
         "Prov\u00edncia del Sud"
+    ],
+    "name:ceb_x_preferred":[
+        "Southern Province"
     ],
     "name:ces_x_preferred":[
         "Ji\u017en\u00ed provincie"
@@ -56,8 +62,14 @@
         "South Province",
         "Southern Province"
     ],
+    "name:epo_x_preferred":[
+        "Suda Provinco"
+    ],
     "name:est_x_preferred":[
         "L\u00f5unaprovints"
+    ],
+    "name:eus_x_preferred":[
+        "Hegoaldeko probintzia"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u062a\u0627\u0646 \u062c\u0646\u0648\u0628\u06cc"
@@ -74,6 +86,9 @@
     ],
     "name:guj_x_preferred":[
         "\u0aa6\u0a95\u0acd\u0ab7\u0abf\u0aa3\u0ac0 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d4\u05d3\u05e8\u05d5\u05dd"
     ],
     "name:hin_x_preferred":[
         "\u0926\u0915\u094d\u0937\u093f\u0923\u0940 \u092a\u094d\u0930\u093e\u0902\u0924"
@@ -101,6 +116,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub0a8\ubd80 \uc8fc"
+    ],
+    "name:kor_x_variant":[
+        "\ub0a8\ubd80\uc8fc"
     ],
     "name:lav_x_preferred":[
         "Dienvidu province"
@@ -167,6 +185,9 @@
     ],
     "name:urd_x_preferred":[
         "\u062c\u0646\u0648\u0628\u06cc \u0635\u0648\u0628\u06c1\u060c \u0631\u0648\u0627\u0646\u0688\u0627"
+    ],
+    "name:urd_x_variant":[
+        "\u062c\u0646\u0648\u0628\u06cc \u0635\u0648\u0628\u06c1"
     ],
     "name:vie_x_preferred":[
         "T\u1ec9nh Mi\u1ec1n Nam"
@@ -301,7 +322,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1561837332,
+    "wof:lastmodified":1563320470,
     "wof:name":"Southern",
     "wof:parent_id":85632303,
     "wof:placetype":"region",

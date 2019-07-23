@@ -25,6 +25,12 @@
     "name:bul_x_preferred":[
         "\u0413\u0438\u0442\u0430\u0440\u0430\u043c\u0430"
     ],
+    "name:cat_x_preferred":[
+        "Muhanga"
+    ],
+    "name:ceb_x_preferred":[
+        "Gitarama"
+    ],
     "name:dan_x_preferred":[
         "Gitarama"
     ],
@@ -37,14 +43,29 @@
     "name:eng_x_preferred":[
         "Gitarama"
     ],
+    "name:eng_x_variant":[
+        "Muhanga"
+    ],
     "name:est_x_preferred":[
+        "Gitarama"
+    ],
+    "name:eus_x_preferred":[
         "Gitarama"
     ],
     "name:fra_x_preferred":[
         "Gitarama"
     ],
+    "name:fra_x_variant":[
+        "Muhanga"
+    ],
+    "name:grn_x_preferred":[
+        "Muhanga"
+    ],
     "name:heb_x_preferred":[
         "\u05d2\u05d9\u05d8\u05d0\u05e8\u05d0\u05de\u05d4"
+    ],
+    "name:heb_x_variant":[
+        "\u05de\u05d5\u05d7\u05e0\u05d2\u05d4"
     ],
     "name:hrv_x_preferred":[
         "Gitarama"
@@ -103,6 +124,9 @@
     "name:tur_x_preferred":[
         "Gitarama"
     ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0456\u0442\u0430\u0440\u0430\u043c\u0430"
+    ],
     "name:urd_x_preferred":[
         "\u062c\u06cc\u0679\u0627\u0631\u0627\u0645\u0627"
     ],
@@ -148,7 +172,7 @@
         }
     ],
     "wof:id":1125861125,
-    "wof:lastmodified":1561837349,
+    "wof:lastmodified":1563321273,
     "wof:name":"Gitarama",
     "wof:parent_id":421192887,
     "wof:placetype":"locality",

@@ -31,18 +31,41 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ceb_x_preferred":[
+        "Rwamagana District"
+    ],
+    "name:ell_x_preferred":[
+        "\u0394\u03ae\u03bc\u03bf\u03c2 \u03a1\u03bf\u03c5\u03b1\u03bc\u03b1\u03b3\u03ba\u03ac\u03bd\u03b1"
+    ],
     "name:eng_x_preferred":[
         "Rwamagana"
     ],
     "name:eng_x_variant":[
-        "Rwamagana",
         "Rwamagana District"
     ],
     "name:fra_x_preferred":[
         "District de Rwamagana"
     ],
+    "name:fra_x_variant":[
+        "Rwamagana"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30eb\u30ef\u30de\u30ac\u30ca\u90e1"
+    ],
     "name:kin_x_preferred":[
         "Akarere ka Rwamagana"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0420\u0432\u0430\u043c\u0430\u0433\u0430\u043d\u0430"
+    ],
+    "name:nld_x_preferred":[
+        "Rwamagana District"
+    ],
+    "name:por_x_preferred":[
+        "Rwamagana"
+    ],
+    "name:zho_x_preferred":[
+        "\u9b6f\u74e6\u99ac\u52a0\u7d0d\u7e23"
     ],
     "qs:gn_country":"RW",
     "qs:gn_fcode":"ADM2",
@@ -105,7 +128,7 @@
         }
     ],
     "wof:id":421187891,
-    "wof:lastmodified":1553717455,
+    "wof:lastmodified":1563321258,
     "wof:name":"Rwamagana",
     "wof:parent_id":85676795,
     "wof:placetype":"county",

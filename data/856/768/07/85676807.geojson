@@ -28,6 +28,9 @@
     "name:ast_x_preferred":[
         "Distritu de Kigali"
     ],
+    "name:bel_x_preferred":[
+        "\u043f\u0440\u0430\u0432\u0456\u043d\u0446\u044b\u044f \u041a\u0456\u0433\u0430\u043b\u0456"
+    ],
     "name:bul_x_preferred":[
         "\u041a\u0438\u0433\u0430\u043b\u0438"
     ],
@@ -44,6 +47,9 @@
         "Kigali",
         "Kigali City",
         "Kigali district"
+    ],
+    "name:epo_x_preferred":[
+        "Distrikto Kigalio"
     ],
     "name:fra_x_preferred":[
         "Kigali"
@@ -69,6 +75,9 @@
     "name:kor_x_preferred":[
         "\ud0a4\uac08\ub9ac \uc8fc"
     ],
+    "name:lin_x_preferred":[
+        "Kigali"
+    ],
     "name:lit_x_preferred":[
         "Kigalio provincija"
     ],
@@ -86,6 +95,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041f\u0440\u043e\u0432\u0438\u043d\u0446\u0438\u044f \u041a\u0438\u0433\u0430\u043b\u0438"
+    ],
+    "name:swa_x_preferred":[
+        "Mkoa wa Kigali"
     ],
     "name:tur_x_preferred":[
         "Kigali Eyaleti"
@@ -214,7 +226,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1561837332,
+    "wof:lastmodified":1563320471,
     "wof:name":"Kigali City",
     "wof:parent_id":85632303,
     "wof:placetype":"region",

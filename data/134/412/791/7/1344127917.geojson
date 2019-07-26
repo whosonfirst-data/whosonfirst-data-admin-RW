@@ -28,6 +28,15 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Muzi"
+    ],
+    "name:deu_x_preferred":[
+        "Muzi"
+    ],
+    "name:swe_x_preferred":[
+        "Muzi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1344127917,
-    "wof:lastmodified":1536778850,
+    "wof:lastmodified":1564146795,
     "wof:name":"Muzi",
     "wof:parent_id":1108561295,
     "wof:placetype":"locality",

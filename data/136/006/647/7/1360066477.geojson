@@ -28,6 +28,12 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Kagitumba"
+    ],
+    "name:est_x_preferred":[
+        "Kagitumba"
+    ],
     "name:und_x_variant":[
         "Kanitumba",
         "Kakitumba",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1360066477,
-    "wof:lastmodified":1537699088,
+    "wof:lastmodified":1564147753,
     "wof:name":"Kagitumba",
     "wof:parent_id":421193621,
     "wof:placetype":"locality",

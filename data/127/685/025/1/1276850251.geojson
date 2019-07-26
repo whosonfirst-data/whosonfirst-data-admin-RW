@@ -28,6 +28,15 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gisozi"
+    ],
+    "name:ita_x_preferred":[
+        "Gisozi"
+    ],
+    "name:swe_x_preferred":[
+        "Gisozi"
+    ],
     "name:und_x_variant":[
         "Colline Gisozi",
         "Gisozi"
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1276850251,
-    "wof:lastmodified":1537699135,
+    "wof:lastmodified":1564147212,
     "wof:name":"Gisozi",
     "wof:parent_id":421192889,
     "wof:placetype":"locality",

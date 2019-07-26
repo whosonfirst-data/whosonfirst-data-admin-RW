@@ -28,6 +28,12 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mutara"
+    ],
+    "name:swe_x_preferred":[
+        "Mutara"
+    ],
     "name:und_x_variant":[
         "Colline Mutara",
         "Mutara"
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1277163771,
-    "wof:lastmodified":1537699110,
+    "wof:lastmodified":1564147288,
     "wof:name":"Mutara",
     "wof:parent_id":421203217,
     "wof:placetype":"locality",

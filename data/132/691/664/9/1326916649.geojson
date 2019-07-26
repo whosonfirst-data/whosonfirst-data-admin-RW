@@ -28,6 +28,12 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u30ab\u30d0\u30e4\u98df\u54c1"
+    ],
+    "name:kor_x_preferred":[
+        "\uac00\ubc14\uc57c \uc2dd\ud488"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1326916649,
-    "wof:lastmodified":1536928000,
+    "wof:lastmodified":1564146710,
     "wof:name":"Kabaya",
     "wof:parent_id":421180243,
     "wof:placetype":"locality",

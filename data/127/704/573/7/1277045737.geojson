@@ -28,6 +28,12 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0644\u06cc"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0634\u0644\u0647"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1277045737,
-    "wof:lastmodified":1536817999,
+    "wof:lastmodified":1564147208,
     "wof:name":"Sheli",
     "wof:parent_id":421190843,
     "wof:placetype":"locality",

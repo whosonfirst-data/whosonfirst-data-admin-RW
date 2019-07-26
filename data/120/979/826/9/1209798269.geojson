@@ -28,6 +28,21 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Ndora"
+    ],
+    "name:ceb_x_preferred":[
+        "Ndora"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03cc\u03c1\u03b1"
+    ],
+    "name:ita_x_preferred":[
+        "Ndora"
+    ],
+    "name:zho_x_preferred":[
+        "\u6069\u591a\u62c9"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -52,7 +67,7 @@
         }
     ],
     "wof:id":1209798269,
-    "wof:lastmodified":1537573238,
+    "wof:lastmodified":1564147353,
     "wof:name":"Ndora",
     "wof:parent_id":1108561301,
     "wof:placetype":"locality",

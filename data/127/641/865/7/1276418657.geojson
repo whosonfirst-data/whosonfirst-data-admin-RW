@@ -28,6 +28,12 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Gahini"
+    ],
+    "name:mrj_x_preferred":[
+        "\u0413\u0430\u0445\u0438\u043d\u0438"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1276418657,
-    "wof:lastmodified":1536664396,
+    "wof:lastmodified":1564147225,
     "wof:name":"Gahini",
     "wof:parent_id":421204217,
     "wof:placetype":"locality",

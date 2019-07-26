@@ -28,6 +28,9 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Buyoga"
+    ],
     "name:und_x_variant":[
         "Bugoya",
         "Colline Bugoya",
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1259361267,
-    "wof:lastmodified":1537699146,
+    "wof:lastmodified":1564148052,
     "wof:name":"Buyoga",
     "wof:parent_id":421204217,
     "wof:placetype":"locality",

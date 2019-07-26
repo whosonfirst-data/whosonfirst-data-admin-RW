@@ -28,6 +28,9 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Karekare"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1327220885,
-    "wof:lastmodified":1536985472,
+    "wof:lastmodified":1564146651,
     "wof:name":"Karekare",
     "wof:parent_id":421202327,
     "wof:placetype":"locality",

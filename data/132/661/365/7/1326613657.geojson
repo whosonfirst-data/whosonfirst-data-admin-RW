@@ -28,6 +28,12 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0445\u043e\u0440\u043e"
+    ],
+    "name:swa_x_preferred":[
+        "Buhoro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1326613657,
-    "wof:lastmodified":1536865341,
+    "wof:lastmodified":1564146627,
     "wof:name":"Buhoro",
     "wof:parent_id":421182175,
     "wof:placetype":"locality",

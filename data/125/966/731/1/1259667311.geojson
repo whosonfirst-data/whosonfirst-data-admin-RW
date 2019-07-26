@@ -28,6 +28,12 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Rubona"
+    ],
+    "name:swe_x_preferred":[
+        "Rubona"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1259667311,
-    "wof:lastmodified":1537087127,
+    "wof:lastmodified":1564148126,
     "wof:name":"Rubona",
     "wof:parent_id":421182175,
     "wof:placetype":"locality",

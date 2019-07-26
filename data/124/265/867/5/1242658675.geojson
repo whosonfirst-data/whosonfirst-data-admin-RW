@@ -28,6 +28,24 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Ruchama"
+    ],
+    "name:fra_x_preferred":[
+        "Rouhama"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d5\u05d7\u05de\u05d4"
+    ],
+    "name:nno_x_preferred":[
+        "Ruhama"
+    ],
+    "name:pol_x_preferred":[
+        "Ruchama"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0445\u0430\u043c\u0430"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +69,7 @@
         }
     ],
     "wof:id":1242658675,
-    "wof:lastmodified":1536947447,
+    "wof:lastmodified":1564148018,
     "wof:name":"Ruhama",
     "wof:parent_id":1108561297,
     "wof:placetype":"locality",

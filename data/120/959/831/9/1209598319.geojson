@@ -28,6 +28,12 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kinyinya"
+    ],
+    "name:run_x_preferred":[
+        "Kinyinya"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632303
@@ -45,7 +51,7 @@
         }
     ],
     "wof:id":1209598319,
-    "wof:lastmodified":1536282251,
+    "wof:lastmodified":1564147396,
     "wof:name":"Kinyinya",
     "wof:parent_id":85632303,
     "wof:placetype":"locality",

@@ -28,6 +28,15 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kirara"
+    ],
+    "name:jpn_x_preferred":[
+        "\u304d\u3089\u3089"
+    ],
+    "name:spa_x_preferred":[
+        "Kirara"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1293077449,
-    "wof:lastmodified":1536880570,
+    "wof:lastmodified":1564146943,
     "wof:name":"Kirara",
     "wof:parent_id":421175213,
     "wof:placetype":"locality",

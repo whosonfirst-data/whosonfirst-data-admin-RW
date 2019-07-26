@@ -28,6 +28,12 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fin_x_preferred":[
+        "Viro"
+    ],
+    "name:pol_x_preferred":[
+        "Viro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1242853339,
-    "wof:lastmodified":1536666553,
+    "wof:lastmodified":1564148009,
     "wof:name":"Viro",
     "wof:parent_id":421192891,
     "wof:placetype":"locality",

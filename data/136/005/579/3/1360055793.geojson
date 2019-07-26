@@ -28,6 +28,12 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Ngwes"
+    ],
+    "name:por_x_preferred":[
+        "Ngwa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1360055793,
-    "wof:lastmodified":1536987265,
+    "wof:lastmodified":1564147786,
     "wof:name":"Ngwa",
     "wof:parent_id":421190841,
     "wof:placetype":"locality",

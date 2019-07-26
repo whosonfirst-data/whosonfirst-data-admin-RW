@@ -28,6 +28,12 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:lug_x_preferred":[
+        "Kibingo"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u06cc\u0628\u06cc\u0646\u06af\u0648"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632303
@@ -45,7 +51,7 @@
         }
     ],
     "wof:id":1209491701,
-    "wof:lastmodified":1536285465,
+    "wof:lastmodified":1564147379,
     "wof:name":"Kibingo",
     "wof:parent_id":85632303,
     "wof:placetype":"locality",

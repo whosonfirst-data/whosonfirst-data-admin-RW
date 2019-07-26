@@ -28,6 +28,9 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Murambi"
+    ],
     "name:und_x_variant":[
         "Mont Murambi",
         "Murambi"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1226520429,
-    "wof:lastmodified":1537699083,
+    "wof:lastmodified":1564148337,
     "wof:name":"Murambi",
     "wof:parent_id":421193621,
     "wof:placetype":"locality",

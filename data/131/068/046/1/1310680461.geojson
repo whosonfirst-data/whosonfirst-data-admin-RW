@@ -28,6 +28,9 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Gatuna"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1310680461,
-    "wof:lastmodified":1537573246,
+    "wof:lastmodified":1564147701,
     "wof:name":"Gatuna",
     "wof:parent_id":421175213,
     "wof:placetype":"locality",

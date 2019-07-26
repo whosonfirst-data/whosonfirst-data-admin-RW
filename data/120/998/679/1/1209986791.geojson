@@ -28,6 +28,12 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Ngaru"
+    ],
+    "name:glg_x_preferred":[
+        "Ngaru"
+    ],
     "name:und_x_variant":[
         "Nguru",
         "Ngaru"
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1209986791,
-    "wof:lastmodified":1537699080,
+    "wof:lastmodified":1564147310,
     "wof:name":"Ngaru",
     "wof:parent_id":421192887,
     "wof:placetype":"locality",

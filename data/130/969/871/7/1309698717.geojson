@@ -28,6 +28,12 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Coko"
+    ],
+    "name:por_x_preferred":[
+        "Coko"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1309698717,
-    "wof:lastmodified":1537082376,
+    "wof:lastmodified":1564147841,
     "wof:name":"Coko",
     "wof:parent_id":421192889,
     "wof:placetype":"locality",

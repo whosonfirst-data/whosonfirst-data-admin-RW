@@ -28,6 +28,12 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mutara"
+    ],
+    "name:swe_x_preferred":[
+        "Mutara"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1225818583,
-    "wof:lastmodified":1537050810,
+    "wof:lastmodified":1564148277,
     "wof:name":"Mutara",
     "wof:parent_id":421192887,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swa_x_preferred":[
+        "Munyegera"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1260373297,
-    "wof:lastmodified":1537085401,
+    "wof:lastmodified":1564147553,
     "wof:name":"Munyegera",
     "wof:parent_id":1108561301,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Kabgayi"
+    ],
+    "name:fra_x_preferred":[
+        "Kabgayi"
+    ],
     "name:und_x_variant":[
         "Kabgaye",
         "Kabgaie",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1343232375,
-    "wof:lastmodified":1537699089,
+    "wof:lastmodified":1564146846,
     "wof:name":"Kabgayi",
     "wof:parent_id":421192887,
     "wof:placetype":"locality",

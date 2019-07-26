@@ -28,6 +28,9 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:run_x_preferred":[
+        "Gitabi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1326509491,
-    "wof:lastmodified":1537016141,
+    "wof:lastmodified":1564146640,
     "wof:name":"Gitabi",
     "wof:parent_id":421192889,
     "wof:placetype":"locality",

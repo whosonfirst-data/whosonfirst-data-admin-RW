@@ -28,6 +28,24 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kiruma"
+    ],
+    "name:est_x_preferred":[
+        "Kiruma"
+    ],
+    "name:hye_x_preferred":[
+        "\u053f\u056b\u057c\u0578\u0582\u0574\u0561"
+    ],
+    "name:pol_x_preferred":[
+        "Kiruma"
+    ],
+    "name:spa_x_preferred":[
+        "Kiruma"
+    ],
+    "name:vol_x_preferred":[
+        "Kiruma"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +69,7 @@
         }
     ],
     "wof:id":1327417271,
-    "wof:lastmodified":1536702914,
+    "wof:lastmodified":1564146674,
     "wof:name":"Kiruma",
     "wof:parent_id":421169419,
     "wof:placetype":"locality",

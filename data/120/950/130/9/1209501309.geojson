@@ -28,6 +28,12 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Cyuve"
+    ],
+    "name:ita_x_preferred":[
+        "Cyuve"
+    ],
     "name:und_x_variant":[
         "Colline Cyuve",
         "Cyuve"
@@ -50,7 +56,7 @@
         }
     ],
     "wof:id":1209501309,
-    "wof:lastmodified":1537699140,
+    "wof:lastmodified":1564147381,
     "wof:name":"Cyuve",
     "wof:parent_id":85632303,
     "wof:placetype":"locality",

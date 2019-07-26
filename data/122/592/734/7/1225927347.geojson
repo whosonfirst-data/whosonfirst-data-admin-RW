@@ -28,6 +28,66 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u0438\u043a\u043e"
+    ],
+    "name:cat_x_preferred":[
+        "Miko"
+    ],
+    "name:ces_x_preferred":[
+        "Miko"
+    ],
+    "name:dan_x_preferred":[
+        "Miko"
+    ],
+    "name:deu_x_preferred":[
+        "Miko"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u06cc\u06a9\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Miko"
+    ],
+    "name:fra_x_preferred":[
+        "Miko"
+    ],
+    "name:hun_x_preferred":[
+        "Mik\u00f3 papn\u0151"
+    ],
+    "name:ind_x_preferred":[
+        "Miko"
+    ],
+    "name:ita_x_preferred":[
+        "Miko"
+    ],
+    "name:pol_x_preferred":[
+        "Miko"
+    ],
+    "name:por_x_preferred":[
+        "Miko"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0438\u043a\u043e"
+    ],
+    "name:slk_x_preferred":[
+        "Miko"
+    ],
+    "name:spa_x_preferred":[
+        "Miko"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e21\u0e34\u0e42\u0e01\u0e30"
+    ],
+    "name:tur_x_preferred":[
+        "Miko"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0456\u043a\u043e"
+    ],
+    "name:vie_x_preferred":[
+        "Miko"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +111,7 @@
         }
     ],
     "wof:id":1225927347,
-    "wof:lastmodified":1536895857,
+    "wof:lastmodified":1564148180,
     "wof:name":"Miko",
     "wof:parent_id":421176723,
     "wof:placetype":"locality",

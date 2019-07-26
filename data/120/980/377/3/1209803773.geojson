@@ -28,6 +28,9 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Ruhanga"
+    ],
     "name:und_x_variant":[
         "Runanga"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1209803773,
-    "wof:lastmodified":1537699160,
+    "wof:lastmodified":1564147434,
     "wof:name":"Ruhanga",
     "wof:parent_id":421199681,
     "wof:placetype":"locality",

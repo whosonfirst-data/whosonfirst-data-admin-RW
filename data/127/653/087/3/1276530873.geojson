@@ -28,6 +28,36 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Shaki"
+    ],
+    "name:ceb_x_preferred":[
+        "Shaki"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05e7\u05d9"
+    ],
+    "name:ita_x_preferred":[
+        "Shaki"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e8\u10d0\u10e5\u10d8"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0634\u0627\u06a9\u06cc"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u043a\u0438"
+    ],
+    "name:sco_x_preferred":[
+        "Shaki"
+    ],
+    "name:swe_x_preferred":[
+        "Shaki"
+    ],
+    "name:vie_x_preferred":[
+        "Shaki"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +81,7 @@
         }
     ],
     "wof:id":1276530873,
-    "wof:lastmodified":1537010662,
+    "wof:lastmodified":1564147275,
     "wof:name":"Shaki",
     "wof:parent_id":421192887,
     "wof:placetype":"locality",

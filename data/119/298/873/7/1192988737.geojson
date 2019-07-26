@@ -28,6 +28,12 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kibuye"
+    ],
+    "name:swe_x_preferred":[
+        "Kibuye"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1192988737,
-    "wof:lastmodified":1536383226,
+    "wof:lastmodified":1564147495,
     "wof:name":"Kibuye",
     "wof:parent_id":421204219,
     "wof:placetype":"locality",

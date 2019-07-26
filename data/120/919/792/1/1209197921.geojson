@@ -29,6 +29,9 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Bulengera"
+    ],
     "name:und_x_variant":[
         "Colline Bulengera",
         "Bulengera"
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":1209197921,
-    "wof:lastmodified":1537699144,
+    "wof:lastmodified":1564147451,
     "wof:name":"Bulengera",
     "wof:parent_id":85632303,
     "wof:placetype":"locality",

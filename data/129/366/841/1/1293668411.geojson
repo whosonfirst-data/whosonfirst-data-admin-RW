@@ -28,6 +28,15 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Rungu"
+    ],
+    "name:fra_x_preferred":[
+        "Rungu"
+    ],
+    "name:swe_x_preferred":[
+        "Rungu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1293668411,
-    "wof:lastmodified":1537022499,
+    "wof:lastmodified":1564147019,
     "wof:name":"Rungu",
     "wof:parent_id":421192889,
     "wof:placetype":"locality",

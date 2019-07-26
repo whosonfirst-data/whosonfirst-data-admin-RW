@@ -28,6 +28,9 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ron_x_preferred":[
+        "Kibaya"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1327008079,
-    "wof:lastmodified":1536795864,
+    "wof:lastmodified":1564146592,
     "wof:name":"Kibaya",
     "wof:parent_id":1108561297,
     "wof:placetype":"locality",

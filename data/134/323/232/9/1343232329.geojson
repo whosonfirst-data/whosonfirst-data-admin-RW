@@ -28,6 +28,12 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Mbogo"
+    ],
+    "name:ron_x_preferred":[
+        "Mbogo"
+    ],
     "name:und_x_variant":[
         "Mont Mbogo",
         "Mbogo"
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1343232329,
-    "wof:lastmodified":1537699083,
+    "wof:lastmodified":1564146842,
     "wof:name":"Mbogo",
     "wof:parent_id":1108561301,
     "wof:placetype":"locality",

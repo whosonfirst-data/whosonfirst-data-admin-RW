@@ -28,6 +28,15 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Ndago"
+    ],
+    "name:ita_x_preferred":[
+        "Ndago"
+    ],
+    "name:swa_x_preferred":[
+        "Ndago"
+    ],
     "name:und_x_variant":[
         "Ndogo"
     ],
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1243342793,
-    "wof:lastmodified":1537699148,
+    "wof:lastmodified":1564147973,
     "wof:name":"Ndago",
     "wof:parent_id":421180243,
     "wof:placetype":"locality",

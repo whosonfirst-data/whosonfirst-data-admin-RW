@@ -28,8 +28,14 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Nyarugenge"
+    ],
     "name:und_x_variant":[
         "Nyarurange"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c3c\u4e9e\u9b6f\u5ca1\u71b1"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1360165911,
-    "wof:lastmodified":1537699159,
+    "wof:lastmodified":1564147764,
     "wof:name":"Nyarugenge",
     "wof:parent_id":421187891,
     "wof:placetype":"locality",

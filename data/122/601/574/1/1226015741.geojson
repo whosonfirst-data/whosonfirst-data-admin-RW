@@ -28,6 +28,15 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Shara"
+    ],
+    "name:ita_x_preferred":[
+        "Shara"
+    ],
+    "name:swe_x_preferred":[
+        "Shara"
+    ],
     "name:und_x_variant":[
         "Colline Shara",
         "Shara"
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1226015741,
-    "wof:lastmodified":1537699091,
+    "wof:lastmodified":1564148346,
     "wof:name":"Shara",
     "wof:parent_id":421176723,
     "wof:placetype":"locality",

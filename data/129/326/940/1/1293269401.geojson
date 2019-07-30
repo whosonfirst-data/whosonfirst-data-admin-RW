@@ -28,6 +28,12 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kinyinya"
+    ],
+    "name:run_x_preferred":[
+        "Kinyinya"
+    ],
     "name:und_x_variant":[
         "Colline Kinyinya",
         "Kininya",
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1293269401,
-    "wof:lastmodified":1537699123,
+    "wof:lastmodified":1564147102,
     "wof:name":"Kinyinya",
     "wof:parent_id":421202327,
     "wof:placetype":"locality",

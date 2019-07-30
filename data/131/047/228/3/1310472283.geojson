@@ -28,6 +28,15 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Kabuga"
+    ],
+    "name:fra_x_preferred":[
+        "Kabuga"
+    ],
+    "name:pol_x_preferred":[
+        "Kabuga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1310472283,
-    "wof:lastmodified":1536964711,
+    "wof:lastmodified":1564147608,
     "wof:name":"Kabuga",
     "wof:parent_id":421204219,
     "wof:placetype":"locality",

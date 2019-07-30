@@ -28,6 +28,9 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Rugabano"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1259361321,
-    "wof:lastmodified":1537032792,
+    "wof:lastmodified":1564148048,
     "wof:name":"Rugabano",
     "wof:parent_id":421187891,
     "wof:placetype":"locality",

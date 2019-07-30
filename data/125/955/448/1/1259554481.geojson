@@ -28,6 +28,15 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kanzu"
+    ],
+    "name:ita_x_preferred":[
+        "Kanzu"
+    ],
+    "name:spa_x_preferred":[
+        "Kanzu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1259554481,
-    "wof:lastmodified":1536756855,
+    "wof:lastmodified":1564148073,
     "wof:name":"Kanzu",
     "wof:parent_id":421192891,
     "wof:placetype":"locality",

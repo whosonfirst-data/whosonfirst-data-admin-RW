@@ -28,6 +28,21 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kintu"
+    ],
+    "name:ita_x_preferred":[
+        "Kintu"
+    ],
+    "name:pol_x_preferred":[
+        "Kintu"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0438\u043d\u0442\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "Kintu"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1310682371,
-    "wof:lastmodified":1536661806,
+    "wof:lastmodified":1564147708,
     "wof:name":"Kintu",
     "wof:parent_id":421204013,
     "wof:placetype":"locality",

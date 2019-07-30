@@ -28,6 +28,9 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Kinkanga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1344230213,
-    "wof:lastmodified":1536629020,
+    "wof:lastmodified":1564146809,
     "wof:name":"Kinkanga",
     "wof:parent_id":421204219,
     "wof:placetype":"locality",

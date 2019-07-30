@@ -28,6 +28,12 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Musya"
+    ],
+    "name:jpn_x_preferred":[
+        "\u8c6a\u69cd\u795e\u96f7\u4f1d\u8aac\u300c\u6b66\u8005\u300d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1293371155,
-    "wof:lastmodified":1536954855,
+    "wof:lastmodified":1564146967,
     "wof:name":"Musya",
     "wof:parent_id":1108561297,
     "wof:placetype":"locality",

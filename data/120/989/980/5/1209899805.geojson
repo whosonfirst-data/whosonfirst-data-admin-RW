@@ -28,6 +28,12 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u0411\u0438\u0441\u043e\u0440\u043e"
+    ],
+    "name:deu_x_preferred":[
+        "Bisoro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1209899805,
-    "wof:lastmodified":1536386956,
+    "wof:lastmodified":1564147445,
     "wof:name":"Bisoro",
     "wof:parent_id":421192891,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Nkana"
+    ],
+    "name:lit_x_preferred":[
+        "Nkana"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1360073159,
-    "wof:lastmodified":1536962751,
+    "wof:lastmodified":1564147746,
     "wof:name":"Nkana",
     "wof:parent_id":421193621,
     "wof:placetype":"locality",

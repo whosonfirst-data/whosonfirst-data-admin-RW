@@ -28,6 +28,21 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kazo"
+    ],
+    "name:ces_x_preferred":[
+        "Kazo"
+    ],
+    "name:lug_x_preferred":[
+        "Kazo"
+    ],
+    "name:mlg_x_preferred":[
+        "Kazo"
+    ],
+    "name:swe_x_preferred":[
+        "Kazo"
+    ],
     "name:und_x_variant":[
         "Colline Kazo",
         "Kazo"
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1276852043,
-    "wof:lastmodified":1537699127,
+    "wof:lastmodified":1564147213,
     "wof:name":"Kazo",
     "wof:parent_id":1108561297,
     "wof:placetype":"locality",

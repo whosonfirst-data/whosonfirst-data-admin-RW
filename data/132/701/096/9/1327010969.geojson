@@ -28,6 +28,12 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:msa_x_preferred":[
+        "Juru"
+    ],
+    "name:nld_x_preferred":[
+        "Juru"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1327010969,
-    "wof:lastmodified":1536791791,
+    "wof:lastmodified":1564146568,
     "wof:name":"Juru",
     "wof:parent_id":421199681,
     "wof:placetype":"locality",

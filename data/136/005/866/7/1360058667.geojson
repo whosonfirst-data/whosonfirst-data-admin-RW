@@ -28,6 +28,36 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Kibeho"
+    ],
+    "name:ceb_x_preferred":[
+        "Kibeho"
+    ],
+    "name:deu_x_preferred":[
+        "Kibeho"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b9\u03bc\u03c0\u03ad\u03c7\u03bf"
+    ],
+    "name:fra_x_preferred":[
+        "Kibeho"
+    ],
+    "name:ita_x_preferred":[
+        "Kibeho"
+    ],
+    "name:kin_x_preferred":[
+        "Kibeho"
+    ],
+    "name:pol_x_preferred":[
+        "Kibeho"
+    ],
+    "name:por_x_preferred":[
+        "Kibeho"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u8c9d\u970d"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -52,7 +82,7 @@
         }
     ],
     "wof:id":1360058667,
-    "wof:lastmodified":1537573239,
+    "wof:lastmodified":1564147779,
     "wof:name":"Kibeho",
     "wof:parent_id":1108561303,
     "wof:placetype":"locality",

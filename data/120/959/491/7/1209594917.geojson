@@ -28,6 +28,12 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Kago"
+    ],
+    "name:spa_x_preferred":[
+        "Kago"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632303
@@ -45,7 +51,7 @@
         }
     ],
     "wof:id":1209594917,
-    "wof:lastmodified":1536282356,
+    "wof:lastmodified":1564147391,
     "wof:name":"Kago",
     "wof:parent_id":85632303,
     "wof:placetype":"locality",

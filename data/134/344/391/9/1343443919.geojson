@@ -28,6 +28,21 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bel_x_preferred":[
+        "\u041c\u0443\u0441\u0443\u043c\u0431\u0430-\u041a\u0435\u043a\u0435\u0441\u044d"
+    ],
+    "name:deu_x_preferred":[
+        "Musumba"
+    ],
+    "name:fra_x_preferred":[
+        "Musumba"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0443\u0441\u0443\u043c\u0431\u0430"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u0443\u0441\u0443\u043c\u0431\u0430"
+    ],
     "name:und_x_variant":[
         "Colline Musumba",
         "Musumba"
@@ -55,7 +70,7 @@
         }
     ],
     "wof:id":1343443919,
-    "wof:lastmodified":1537699110,
+    "wof:lastmodified":1564146915,
     "wof:name":"Musumba",
     "wof:parent_id":421190843,
     "wof:placetype":"locality",

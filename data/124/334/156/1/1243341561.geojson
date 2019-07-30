@@ -28,6 +28,12 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Kirwa"
+    ],
+    "name:fin_x_preferred":[
+        "Kirwa"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1243341561,
-    "wof:lastmodified":1536956880,
+    "wof:lastmodified":1564147969,
     "wof:name":"Kirwa",
     "wof:parent_id":421204013,
     "wof:placetype":"locality",

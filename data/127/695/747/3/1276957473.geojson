@@ -28,6 +28,12 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0411\u0443\u0445\u043e\u0440\u043e"
+    ],
+    "name:swa_x_preferred":[
+        "Buhoro"
+    ],
     "name:und_x_variant":[
         "Colline Buhoro",
         "Buhoro"
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":1276957473,
-    "wof:lastmodified":1537699145,
+    "wof:lastmodified":1564147182,
     "wof:name":"Buhoro",
     "wof:parent_id":421190845,
     "wof:placetype":"locality",

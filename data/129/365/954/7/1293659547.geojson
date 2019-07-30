@@ -28,6 +28,15 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041a\u0435\u0431\u0435\u0440\u043e"
+    ],
+    "name:fra_x_preferred":[
+        "Kebero"
+    ],
+    "name:spa_x_preferred":[
+        "Kebero"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1293659547,
-    "wof:lastmodified":1537034791,
+    "wof:lastmodified":1564146958,
     "wof:name":"Kebero",
     "wof:parent_id":1108561299,
     "wof:placetype":"locality",

@@ -28,6 +28,18 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Genda"
+    ],
+    "name:deu_x_preferred":[
+        "Genda"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u044d\u043d\u0434\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Genda"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1343540679,
-    "wof:lastmodified":1536628807,
+    "wof:lastmodified":1564146752,
     "wof:name":"Genda",
     "wof:parent_id":421180243,
     "wof:placetype":"locality",

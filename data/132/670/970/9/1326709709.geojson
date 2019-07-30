@@ -28,6 +28,12 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u03a4\u03ac\u03c1\u03b5"
+    ],
+    "name:fra_x_preferred":[
+        "Tare"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1326709709,
-    "wof:lastmodified":1537573244,
+    "wof:lastmodified":1564146687,
     "wof:name":"Tare",
     "wof:parent_id":421203217,
     "wof:placetype":"locality",

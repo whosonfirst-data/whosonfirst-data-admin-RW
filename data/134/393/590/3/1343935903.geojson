@@ -28,6 +28,15 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Kimara"
+    ],
+    "name:por_x_preferred":[
+        "Kimara"
+    ],
+    "name:swa_x_preferred":[
+        "Kimara"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +60,7 @@
         }
     ],
     "wof:id":1343935903,
-    "wof:lastmodified":1537053213,
+    "wof:lastmodified":1564146859,
     "wof:name":"Kimara",
     "wof:parent_id":421187891,
     "wof:placetype":"locality",

@@ -28,6 +28,90 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:arg_x_preferred":[
+        "R\u00edo Jarama"
+    ],
+    "name:bel_x_preferred":[
+        "\u0425\u0430\u0440\u0430\u043c\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Jarama"
+    ],
+    "name:ces_x_preferred":[
+        "Jarama"
+    ],
+    "name:chv_x_preferred":[
+        "\u0425\u0430\u0440\u0430\u043c\u0430"
+    ],
+    "name:deu_x_preferred":[
+        "Jarama"
+    ],
+    "name:epo_x_preferred":[
+        "\u0124aramo"
+    ],
+    "name:eus_x_preferred":[
+        "Jarama"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0627\u0631\u0645\u0627"
+    ],
+    "name:fin_x_preferred":[
+        "Jarama"
+    ],
+    "name:fra_x_preferred":[
+        "Jarama"
+    ],
+    "name:glg_x_preferred":[
+        "R\u00edo Jarama"
+    ],
+    "name:hun_x_preferred":[
+        "Jarama"
+    ],
+    "name:ita_x_preferred":[
+        "Jarama"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30cf\u30e9\u30de\u5ddd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10ee\u10d0\u10e0\u10d0\u10db\u10d0"
+    ],
+    "name:lat_x_preferred":[
+        "Xarama"
+    ],
+    "name:lit_x_preferred":[
+        "Charama"
+    ],
+    "name:nld_x_preferred":[
+        "Jarama"
+    ],
+    "name:nno_x_preferred":[
+        "Jarama"
+    ],
+    "name:pol_x_preferred":[
+        "Jarama"
+    ],
+    "name:por_x_preferred":[
+        "Rio Jarama"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0430\u0440\u0430\u043c\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "R\u00edo Jarama"
+    ],
+    "name:swe_x_preferred":[
+        "Jarama"
+    ],
+    "name:tur_x_preferred":[
+        "Jarama Nehri"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0430\u0440\u0430\u043c\u0430"
+    ],
+    "name:zho_x_preferred":[
+        "\u54c8\u62c9\u99ac\u6cb3"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +135,7 @@
         }
     ],
     "wof:id":1293767171,
-    "wof:lastmodified":1536880222,
+    "wof:lastmodified":1564147008,
     "wof:name":"Jarama",
     "wof:parent_id":421192891,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Itaba"
+    ],
+    "name:swa_x_preferred":[
+        "Itaba"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1310589533,
-    "wof:lastmodified":1536796005,
+    "wof:lastmodified":1564147722,
     "wof:name":"Itaba",
     "wof:parent_id":421204217,
     "wof:placetype":"locality",

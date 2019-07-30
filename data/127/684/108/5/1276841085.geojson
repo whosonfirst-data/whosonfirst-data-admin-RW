@@ -28,6 +28,21 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Bugarama"
+    ],
+    "name:deu_x_preferred":[
+        "Bugarama"
+    ],
+    "name:est_x_preferred":[
+        "Bugarama"
+    ],
+    "name:ita_x_preferred":[
+        "Bugarama"
+    ],
+    "name:pol_x_preferred":[
+        "Bugarama"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1276841085,
-    "wof:lastmodified":1537089936,
+    "wof:lastmodified":1564147232,
     "wof:name":"Bugarama",
     "wof:parent_id":421176723,
     "wof:placetype":"locality",

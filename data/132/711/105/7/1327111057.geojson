@@ -28,6 +28,12 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Mbogo"
+    ],
+    "name:ron_x_preferred":[
+        "Mbogo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1327111057,
-    "wof:lastmodified":1537573244,
+    "wof:lastmodified":1564146729,
     "wof:name":"Mbogo",
     "wof:parent_id":421203217,
     "wof:placetype":"locality",

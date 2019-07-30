@@ -28,6 +28,12 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Ndera"
+    ],
+    "name:ita_x_preferred":[
+        "Ndera"
+    ],
     "name:und_x_variant":[
         "Colline Ndera",
         "Ndera"
@@ -56,7 +62,7 @@
         }
     ],
     "wof:id":1343742365,
-    "wof:lastmodified":1537699107,
+    "wof:lastmodified":1564146912,
     "wof:name":"Ndera",
     "wof:parent_id":421202327,
     "wof:placetype":"locality",

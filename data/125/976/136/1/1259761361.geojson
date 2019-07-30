@@ -28,6 +28,12 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kahi"
+    ],
+    "name:swe_x_preferred":[
+        "Kahi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1259761361,
-    "wof:lastmodified":1536955113,
+    "wof:lastmodified":1564148108,
     "wof:name":"Kahi",
     "wof:parent_id":421175701,
     "wof:placetype":"locality",

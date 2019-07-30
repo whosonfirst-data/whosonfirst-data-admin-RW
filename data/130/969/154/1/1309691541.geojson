@@ -28,6 +28,12 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Ndera"
+    ],
+    "name:ita_x_preferred":[
+        "Ndera"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1309691541,
-    "wof:lastmodified":1537092634,
+    "wof:lastmodified":1564147839,
     "wof:name":"Ndera",
     "wof:parent_id":421187897,
     "wof:placetype":"locality",

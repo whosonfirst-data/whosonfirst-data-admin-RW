@@ -28,6 +28,12 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Kigogo"
+    ],
+    "name:swa_x_preferred":[
+        "Kigogo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1292988899,
-    "wof:lastmodified":1537008101,
+    "wof:lastmodified":1564147045,
     "wof:name":"Kigogo",
     "wof:parent_id":421187891,
     "wof:placetype":"locality",

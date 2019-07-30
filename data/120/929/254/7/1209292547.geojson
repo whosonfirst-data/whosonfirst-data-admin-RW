@@ -28,6 +28,12 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Mbuga"
+    ],
+    "name:swa_x_preferred":[
+        "Mbuga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632303
@@ -45,7 +51,7 @@
         }
     ],
     "wof:id":1209292547,
-    "wof:lastmodified":1536291642,
+    "wof:lastmodified":1564147422,
     "wof:name":"Mbuga",
     "wof:parent_id":85632303,
     "wof:placetype":"locality",

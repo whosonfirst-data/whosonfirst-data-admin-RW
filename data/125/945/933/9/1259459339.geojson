@@ -28,6 +28,12 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Ranzi"
+    ],
+    "name:srp_x_preferred":[
+        "Ranzi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1259459339,
-    "wof:lastmodified":1536893250,
+    "wof:lastmodified":1564148158,
     "wof:name":"Ranzi",
     "wof:parent_id":421192889,
     "wof:placetype":"locality",

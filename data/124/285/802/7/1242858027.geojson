@@ -28,6 +28,9 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Buronga"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1242858027,
-    "wof:lastmodified":1536659815,
+    "wof:lastmodified":1564148005,
     "wof:name":"Buronga",
     "wof:parent_id":421176723,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kibara"
+    ],
+    "name:swe_x_preferred":[
+        "Kibara"
+    ],
     "name:und_x_variant":[
         "Kibare",
         "Kibara"
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":1209192483,
-    "wof:lastmodified":1537699087,
+    "wof:lastmodified":1564147452,
     "wof:name":"Kibara",
     "wof:parent_id":85632303,
     "wof:placetype":"locality",

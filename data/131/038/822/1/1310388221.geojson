@@ -28,6 +28,33 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bul_x_preferred":[
+        "\u041c\u0430\u0437\u043e\u043d"
+    ],
+    "name:ceb_x_preferred":[
+        "Maso"
+    ],
+    "name:deu_x_preferred":[
+        "Maso"
+    ],
+    "name:fra_x_preferred":[
+        "Maso"
+    ],
+    "name:ita_x_preferred":[
+        "Maso"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0441\u043e"
+    ],
+    "name:spa_x_preferred":[
+        "Maso"
+    ],
+    "name:srp_x_preferred":[
+        "Maso"
+    ],
+    "name:swe_x_preferred":[
+        "Maso"
+    ],
     "name:und_x_variant":[
         "Colline Maso",
         "Maso"
@@ -55,7 +82,7 @@
         }
     ],
     "wof:id":1310388221,
-    "wof:lastmodified":1537699119,
+    "wof:lastmodified":1564147621,
     "wof:name":"Maso",
     "wof:parent_id":421192893,
     "wof:placetype":"locality",

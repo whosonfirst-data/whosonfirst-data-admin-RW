@@ -28,6 +28,12 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Mbizi"
+    ],
+    "name:deu_x_preferred":[
+        "Mbizi"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1259862439,
-    "wof:lastmodified":1536809138,
+    "wof:lastmodified":1564148165,
     "wof:name":"Mbizi",
     "wof:parent_id":421190843,
     "wof:placetype":"locality",

@@ -28,6 +28,21 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Ngoro"
+    ],
+    "name:fra_x_preferred":[
+        "Ngoro"
+    ],
+    "name:ita_x_preferred":[
+        "Ngoro"
+    ],
+    "name:msa_x_preferred":[
+        "Ngoro"
+    ],
+    "name:spa_x_preferred":[
+        "Ngoro"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +66,7 @@
         }
     ],
     "wof:id":1276951943,
-    "wof:lastmodified":1536945250,
+    "wof:lastmodified":1564147179,
     "wof:name":"Ngoro",
     "wof:parent_id":421187899,
     "wof:placetype":"locality",

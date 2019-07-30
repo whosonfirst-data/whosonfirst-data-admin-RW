@@ -28,6 +28,15 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Kiganda"
+    ],
+    "name:fra_x_preferred":[
+        "Kiganda"
+    ],
+    "name:swe_x_preferred":[
+        "Kiganda"
+    ],
     "name:und_x_variant":[
         "Colline Kiganda",
         "Kiganda"
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1293187223,
-    "wof:lastmodified":1537699126,
+    "wof:lastmodified":1564147065,
     "wof:name":"Kiganda",
     "wof:parent_id":421187897,
     "wof:placetype":"locality",

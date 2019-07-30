@@ -28,6 +28,15 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Kabuga"
+    ],
+    "name:fra_x_preferred":[
+        "Kabuga"
+    ],
+    "name:pol_x_preferred":[
+        "Kabuga"
+    ],
     "name:und_x_variant":[
         "Colline Kabuga",
         "Kabuga"
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":1209194607,
-    "wof:lastmodified":1537699131,
+    "wof:lastmodified":1564147452,
     "wof:name":"Kabuga",
     "wof:parent_id":85632303,
     "wof:placetype":"locality",

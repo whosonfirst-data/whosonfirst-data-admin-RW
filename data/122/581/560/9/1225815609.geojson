@@ -28,6 +28,12 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Nkamba"
+    ],
+    "name:kat_x_preferred":[
+        "\u10dc\u10d9\u10d0\u10db\u10d1\u10d0"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1225815609,
-    "wof:lastmodified":1537054886,
+    "wof:lastmodified":1564148274,
     "wof:name":"Nkamba",
     "wof:parent_id":421192893,
     "wof:placetype":"locality",

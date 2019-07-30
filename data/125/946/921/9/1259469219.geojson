@@ -28,6 +28,12 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Cyungo"
+    ],
+    "name:ita_x_preferred":[
+        "Cyungo"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1259469219,
-    "wof:lastmodified":1536878474,
+    "wof:lastmodified":1564148092,
     "wof:name":"Cyungo",
     "wof:parent_id":421203217,
     "wof:placetype":"locality",

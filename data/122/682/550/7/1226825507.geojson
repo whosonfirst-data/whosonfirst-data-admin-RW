@@ -28,6 +28,9 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Ntarabana"
+    ],
     "name:und_x_variant":[
         "Colline Ntarabana",
         "Ntarabana"
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":1226825507,
-    "wof:lastmodified":1537699106,
+    "wof:lastmodified":1564148301,
     "wof:name":"Ntarabana",
     "wof:parent_id":421203217,
     "wof:placetype":"locality",

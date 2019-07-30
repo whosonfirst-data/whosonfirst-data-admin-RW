@@ -28,6 +28,9 @@
     "iso:country":"RW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Burega"
+    ],
     "name:und_x_variant":[
         "Colline Bulega",
         "Burega",
@@ -56,7 +59,7 @@
         }
     ],
     "wof:id":1343238473,
-    "wof:lastmodified":1537699144,
+    "wof:lastmodified":1564146844,
     "wof:name":"Burega",
     "wof:parent_id":421203217,
     "wof:placetype":"locality",

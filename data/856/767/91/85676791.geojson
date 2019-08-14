@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "OU"
+    ],
     "lbl:latitude":-1.810228,
     "lbl:longitude":29.47475,
     "mps:latitude":-2.029993,
@@ -305,9 +308,6 @@
         }
     ],
     "wof:id":85676791,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "kin",
         "fra",
@@ -318,7 +318,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1563320465,
+    "wof:lastmodified":1565736150,
     "wof:name":"Western",
     "wof:parent_id":85632303,
     "wof:placetype":"region",

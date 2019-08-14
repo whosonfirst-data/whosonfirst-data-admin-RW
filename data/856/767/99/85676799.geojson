@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NO"
+    ],
     "lbl:latitude":-1.66736,
     "lbl:longitude":29.910677,
     "mps:latitude":-1.668377,
@@ -303,9 +306,6 @@
         }
     ],
     "wof:id":85676799,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "kin",
         "fra",
@@ -316,7 +316,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1563320468,
+    "wof:lastmodified":1565736151,
     "wof:name":"Northern",
     "wof:parent_id":85632303,
     "wof:placetype":"region",

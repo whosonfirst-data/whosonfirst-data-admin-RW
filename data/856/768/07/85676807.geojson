@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KV"
+    ],
     "lbl:latitude":-1.93113,
     "lbl:longitude":30.124829,
     "mps:latitude":-1.928647,
@@ -213,9 +216,6 @@
         }
     ],
     "wof:id":85676807,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "kin",
         "fra",
@@ -226,7 +226,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1563320471,
+    "wof:lastmodified":1565736153,
     "wof:name":"Kigali City",
     "wof:parent_id":85632303,
     "wof:placetype":"region",

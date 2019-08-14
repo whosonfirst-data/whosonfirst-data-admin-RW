@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "province"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "ES"
+    ],
     "lbl:latitude":-1.855361,
     "lbl:longitude":30.544503,
     "mps:latitude":-1.828027,
@@ -308,9 +311,6 @@
         }
     ],
     "wof:id":85676795,
-    "wof:lang":[
-        "fre"
-    ],
     "wof:lang_x_official":[
         "kin",
         "fra",
@@ -321,7 +321,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1563320463,
+    "wof:lastmodified":1565736149,
     "wof:name":"Eastern",
     "wof:parent_id":85632303,
     "wof:placetype":"region",

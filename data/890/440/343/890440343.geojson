@@ -11,8 +11,11 @@
     "geom:longitude":29.3482,
     "gn:country":"RW",
     "gn:fcode":"PPLA",
-    "gn:pop":48024,
+    "gn:population":48024,
     "iso:country":"RW",
+    "lbl:bbox":"29.3282,-2.0797,29.3682,-2.0397",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
@@ -202,10 +205,12 @@
     "wof:concordances":{
         "gn:id":202065,
         "gp:id":1410554,
-        "qs:id":122745,
-        "qs_pg:id":1116362,
+        "qs_pg:id":122745,
         "wd:id":"Q617032",
         "wk:page":"Kibuye"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1116362
     },
     "wof:country":"RW",
     "wof:created":1469052271,
@@ -220,7 +225,7 @@
         }
     ],
     "wof:id":890440343,
-    "wof:lastmodified":1563321270,
+    "wof:lastmodified":1566637769,
     "wof:name":"Kibuye",
     "wof:parent_id":421182175,
     "wof:placetype":"locality",

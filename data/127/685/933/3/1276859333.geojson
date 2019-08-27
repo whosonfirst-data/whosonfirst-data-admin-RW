@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"30.3983,-2.1964,30.4383,-2.1564",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lin_x_preferred":[
         "Makoma"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1276859333,
-    "wof:lastmodified":1564147214,
+    "wof:lastmodified":1566637294,
     "wof:name":"Makoma",
     "wof:parent_id":1108561297,
     "wof:placetype":"locality",

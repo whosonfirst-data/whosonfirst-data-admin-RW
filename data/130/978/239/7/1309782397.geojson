@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.7158,-1.4935,29.7558,-1.4535",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0633\u0630\u0627\u0628"
     ],
@@ -156,7 +160,7 @@
         }
     ],
     "wof:id":1309782397,
-    "wof:lastmodified":1564147826,
+    "wof:lastmodified":1566637726,
     "wof:name":"Ruta",
     "wof:parent_id":421180243,
     "wof:placetype":"locality",

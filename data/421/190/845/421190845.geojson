@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-1.919078,
     "lbl:longitude":29.397705,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Western Province",
     "meso:gadm_admin":"Rutsiro",
     "meso:gadm_hasc2":"RW.OU.RT",
@@ -30,6 +32,7 @@
     "mps:longitude":29.397705,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Rutsiro District"
@@ -92,9 +95,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-08-16",
+    "src:population_date":"2012-08-16",
     "statoids:area_km":"",
     "statoids:as_of_date":"2012-08-16",
     "statoids:capital":"",
@@ -115,7 +118,7 @@
         "gn:id":7690210,
         "gp:id":55864745,
         "hasc:id":"RW.OU.RT",
-        "qs:id":56220,
+        "qs_pg:id":56220,
         "wd:id":"Q2724023",
         "wk:page":"Rutsiro District"
     },
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421190845,
-    "wof:lastmodified":1563321262,
+    "wof:lastmodified":1566637763,
     "wof:name":"Rutsiro",
     "wof:parent_id":85676791,
     "wof:placetype":"county",

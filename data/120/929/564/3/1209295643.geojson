@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"30.2107,-1.572,30.2507,-1.532",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632303
@@ -37,7 +41,7 @@
         "gn:id":7592920
     },
     "wof:country":"RW",
-    "wof:geomhash":"26b75fd5e44ed72f74b6e86be956b202",
+    "wof:geomhash":"09f6b2708e545312b055773ea8580f4d",
     "wof:hierarchy":[
         {
             "country_id":85632303,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209295643,
-    "wof:lastmodified":1536291537,
+    "wof:lastmodified":1566637444,
     "wof:name":"Cyanshoro",
     "wof:parent_id":85632303,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     30.2307,
-    -1.5519999999999998,
+    -1.552,
     30.2307,
-    -1.5519999999999998
+    -1.552
 ],
   "geometry": {"coordinates":[30.2307,-1.552],"type":"Point"}
 }

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.8827,-1.4919,29.9227,-1.4519",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1344243189,
-    "wof:lastmodified":1536609234,
+    "wof:lastmodified":1566636989,
     "wof:name":"Rushaki",
     "wof:parent_id":421180243,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.607,-1.6488,29.647,-1.6088",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326913807,
-    "wof:lastmodified":1536932102,
+    "wof:lastmodified":1566636925,
     "wof:name":"Nyamutera",
     "wof:parent_id":421169419,
     "wof:placetype":"locality",

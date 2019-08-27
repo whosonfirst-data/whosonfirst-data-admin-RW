@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.89263,-2.52692,29.93263,-2.48692",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Colline Cyibumba",
         "Cyibumba"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1276624937,
-    "wof:lastmodified":1537699141,
+    "wof:lastmodified":1566637332,
     "wof:name":"Cyibumba",
     "wof:parent_id":1108561301,
     "wof:placetype":"locality",

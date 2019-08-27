@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"30.3445,-1.102,30.3845,-1.062",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293771793,
-    "wof:lastmodified":1536873322,
+    "wof:lastmodified":1566637137,
     "wof:name":"Nyakatabire",
     "wof:parent_id":421193621,
     "wof:placetype":"locality",

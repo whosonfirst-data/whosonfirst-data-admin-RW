@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"30.5662,-2.172,30.6062,-2.132",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ron_x_preferred":[
         "Kibaya"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1327008079,
-    "wof:lastmodified":1564146592,
+    "wof:lastmodified":1566636831,
     "wof:name":"Kibaya",
     "wof:parent_id":1108561297,
     "wof:placetype":"locality",

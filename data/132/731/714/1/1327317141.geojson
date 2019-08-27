@@ -26,14 +26,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"28.9069,-2.5913,28.9469,-2.5513",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:run_x_preferred":[
         "Murehe"
     ],
     "name:und_x_variant":[
-        "Colline Murehe",
-        "Murehe"
+        "Colline Murehe"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1327317141,
-    "wof:lastmodified":1564146583,
+    "wof:lastmodified":1566636825,
     "wof:name":"Murehe",
     "wof:parent_id":421176723,
     "wof:placetype":"locality",

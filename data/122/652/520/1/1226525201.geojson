@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.9013,-2.6229,29.9413,-2.5829",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226525201,
-    "wof:lastmodified":1537026511,
+    "wof:lastmodified":1566638105,
     "wof:name":"Hemba",
     "wof:parent_id":1108561301,
     "wof:placetype":"locality",

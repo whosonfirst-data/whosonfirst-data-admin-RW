@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.591,-2.6815,29.631,-2.6415",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:swa_x_preferred":[
         "Nyamugali"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1193248841,
-    "wof:lastmodified":1564147481,
+    "wof:lastmodified":1566637484,
     "wof:name":"Nyamugali",
     "wof:parent_id":1108561303,
     "wof:placetype":"locality",

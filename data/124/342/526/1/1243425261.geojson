@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.4936,-2.1908,29.5336,-2.1508",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243425261,
-    "wof:lastmodified":1536835078,
+    "wof:lastmodified":1566637890,
     "wof:name":"Kanyonga",
     "wof:parent_id":421182175,
     "wof:placetype":"locality",

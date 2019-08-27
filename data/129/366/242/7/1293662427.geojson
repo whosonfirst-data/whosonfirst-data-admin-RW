@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.5881,-2.6918,29.6281,-2.6518",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u041c\u0438\u043a\u043e"
     ],
@@ -111,7 +115,7 @@
         }
     ],
     "wof:id":1293662427,
-    "wof:lastmodified":1564147017,
+    "wof:lastmodified":1566637155,
     "wof:name":"Miko",
     "wof:parent_id":1108561303,
     "wof:placetype":"locality",

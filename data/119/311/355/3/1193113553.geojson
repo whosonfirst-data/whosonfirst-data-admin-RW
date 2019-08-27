@@ -26,14 +26,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"30.0825,-1.7362,30.1225,-1.6962",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:run_x_preferred":[
         "Musenyi"
     ],
     "name:und_x_variant":[
-        "Colline Musenyi",
-        "Musenyi"
+        "Colline Musenyi"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1193113553,
-    "wof:lastmodified":1564147506,
+    "wof:lastmodified":1566637501,
     "wof:name":"Musenyi",
     "wof:parent_id":421175213,
     "wof:placetype":"locality",

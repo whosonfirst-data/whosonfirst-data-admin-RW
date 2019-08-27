@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"30.0478,-2.2651,30.0878,-2.2251",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326711487,
-    "wof:lastmodified":1536726067,
+    "wof:lastmodified":1566636902,
     "wof:name":"Rutaka",
     "wof:parent_id":421199681,
     "wof:placetype":"locality",

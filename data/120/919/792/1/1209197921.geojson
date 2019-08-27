@@ -27,14 +27,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.3,-1.615,29.34,-1.575",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Bulengera"
     ],
     "name:und_x_variant":[
-        "Colline Bulengera",
-        "Bulengera"
+        "Colline Bulengera"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1209197921,
-    "wof:lastmodified":1564147451,
+    "wof:lastmodified":1566637464,
     "wof:name":"Bulengera",
     "wof:parent_id":85632303,
     "wof:placetype":"locality",

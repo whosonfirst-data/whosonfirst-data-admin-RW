@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-2.611295,
     "lbl:longitude":29.852854,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Southern Province",
     "meso:gadm_admin":"Gisagara",
     "meso:gadm_hasc2":"RW.SU.GG",
@@ -30,6 +32,7 @@
     "mps:longitude":29.852854,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Gisagara"
     ],
@@ -37,9 +40,9 @@
         "Gisagara"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-08-16",
+    "src:population_date":"2012-08-16",
     "statoids:area_km":"",
     "statoids:as_of_date":"2012-08-16",
     "statoids:capital":"",
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1108561301,
-    "wof:lastmodified":1553718126,
+    "wof:lastmodified":1566637564,
     "wof:name":"Gisagara",
     "wof:parent_id":85676785,
     "wof:placetype":"county",

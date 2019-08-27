@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.51923,-2.16349,29.55923,-2.12349",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632303
@@ -37,7 +41,7 @@
         "gn:id":7660106
     },
     "wof:country":"RW",
-    "wof:geomhash":"0d9176eef797666a25184f3ecdf31f85",
+    "wof:geomhash":"4c9439b83fb6cf498d7828ac2359b19f",
     "wof:hierarchy":[
         {
             "country_id":85632303,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209187913,
-    "wof:lastmodified":1536295036,
+    "wof:lastmodified":1566637449,
     "wof:name":"Nyabinombe",
     "wof:parent_id":85632303,
     "wof:placetype":"locality",
@@ -56,9 +60,9 @@
 },
   "bbox": [
     29.53923,
-    -2.1434900000000003,
+    -2.14349,
     29.53923,
-    -2.1434900000000003
+    -2.14349
 ],
   "geometry": {"coordinates":[29.53923,-2.14349],"type":"Point"}
 }

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.8595,-2.7041,29.8995,-2.6641",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Saga"
     ],
@@ -185,8 +189,7 @@
         "\u0421\u0430\u0433\u0430"
     ],
     "name:und_x_variant":[
-        "Colline Saga",
-        "Saga"
+        "Colline Saga"
     ],
     "name:wuu_x_preferred":[
         "\u8428\u8fe6"
@@ -217,7 +220,7 @@
         }
     ],
     "wof:id":1293083873,
-    "wof:lastmodified":1564146974,
+    "wof:lastmodified":1566637124,
     "wof:name":"Saga",
     "wof:parent_id":1108561301,
     "wof:placetype":"locality",

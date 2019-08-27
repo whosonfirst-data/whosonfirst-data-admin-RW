@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.30967,-1.61244,29.34967,-1.57244",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Mascha"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1226629803,
-    "wof:lastmodified":1564148355,
+    "wof:lastmodified":1566638120,
     "wof:name":"Masha",
     "wof:parent_id":421187899,
     "wof:placetype":"locality",

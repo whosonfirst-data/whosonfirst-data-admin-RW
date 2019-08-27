@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.6546,-1.5799,29.6946,-1.5399",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226521807,
-    "wof:lastmodified":1537031254,
+    "wof:lastmodified":1566638104,
     "wof:name":"Kimpungu",
     "wof:parent_id":421187897,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.5964,-1.8295,29.6364,-1.7895",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Colline Hindiro",
         "Hindiro"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343335399,
-    "wof:lastmodified":1537699132,
+    "wof:lastmodified":1566637045,
     "wof:name":"Hindiro",
     "wof:parent_id":1108561295,
     "wof:placetype":"locality",

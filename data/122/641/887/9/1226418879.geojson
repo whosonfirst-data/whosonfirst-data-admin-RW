@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"30.23,-1.82,30.27,-1.78",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Colline Nyakabongo",
         "Nyakabongo"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226418879,
-    "wof:lastmodified":1537699104,
+    "wof:lastmodified":1566638094,
     "wof:name":"Nyakabongo",
     "wof:parent_id":421175213,
     "wof:placetype":"locality",

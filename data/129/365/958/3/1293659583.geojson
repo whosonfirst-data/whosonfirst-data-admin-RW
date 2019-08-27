@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.6869,-2.4198,29.7269,-2.3798",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:swa_x_preferred":[
         "Ntuntu"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293659583,
-    "wof:lastmodified":1564146959,
+    "wof:lastmodified":1566637113,
     "wof:name":"Ntuntu",
     "wof:parent_id":421190841,
     "wof:placetype":"locality",

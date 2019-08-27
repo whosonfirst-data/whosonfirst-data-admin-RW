@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.9319,-1.6558,29.9719,-1.6158",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293187245,
-    "wof:lastmodified":1536723334,
+    "wof:lastmodified":1566637189,
     "wof:name":"Kabera",
     "wof:parent_id":421203217,
     "wof:placetype":"locality",

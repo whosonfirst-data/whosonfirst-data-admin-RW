@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.7109,-2.0815,29.7509,-2.0415",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bel_x_preferred":[
         "\u041c\u0435\u0440\u0443"
     ],
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":1226224877,
-    "wof:lastmodified":1564148298,
+    "wof:lastmodified":1566638081,
     "wof:name":"Meru",
     "wof:parent_id":421192887,
     "wof:placetype":"locality",

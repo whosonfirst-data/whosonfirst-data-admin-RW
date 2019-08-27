@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.81322,-2.0718,29.85322,-2.0318",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mbari"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309779257,
-    "wof:lastmodified":1537699085,
+    "wof:lastmodified":1566637714,
     "wof:name":"Mbare",
     "wof:parent_id":421190843,
     "wof:placetype":"locality",

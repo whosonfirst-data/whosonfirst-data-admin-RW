@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-1.738872,
     "lbl:longitude":29.989256,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Northern Province",
     "meso:gadm_admin":"Rulindo",
     "meso:gadm_hasc2":"RW.NO.RL",
@@ -30,6 +32,7 @@
     "mps:longitude":29.989256,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Rulindo District"
@@ -89,9 +92,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-08-16",
+    "src:population_date":"2012-08-16",
     "statoids:area_km":"",
     "statoids:as_of_date":"2012-08-16",
     "statoids:capital":"",
@@ -112,7 +115,7 @@
         "gn:id":7688807,
         "gp:id":55864729,
         "hasc:id":"RW.NO.RL",
-        "qs:id":230258,
+        "qs_pg:id":230258,
         "wd:id":"Q2424625",
         "wk:page":"Rulindo District"
     },
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":421203217,
-    "wof:lastmodified":1563321255,
+    "wof:lastmodified":1566637757,
     "wof:name":"Rulindo",
     "wof:parent_id":85676799,
     "wof:placetype":"county",

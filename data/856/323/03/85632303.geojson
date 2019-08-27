@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":-1.89815,
     "lbl:longitude":30.095066,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":-1.89815,
     "mps:longitude":30.095066,
     "mz:hierarchy_label":1,
@@ -723,13 +725,9 @@
     "name:ukr_x_preferred":[
         "\u0420\u0443\u0430\u043d\u0434\u0430"
     ],
-    "name:und_x_preferred":[
-        "Rwandese Republic"
-    ],
     "name:und_x_variant":[
-        "Ruandska republika"
-    ],
-    "name:unk_x_variant":[
+        "Rwandese Republic",
+        "Ruandska republika",
         "R\u00e9publique Rwandaise"
     ],
     "name:urd_x_preferred":[
@@ -882,7 +880,7 @@
         "naturalearth",
         "meso"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"250",
     "statoids:ds":"RWA",
@@ -928,7 +926,7 @@
         "mzb:id":"rwanda",
         "ne:adm0_a3":"RWA",
         "nyt:id":"66238302130507857921",
-        "qs:id":367816,
+        "qs_pg:id":367816,
         "uncrt:id":"RWA",
         "wd:id":"Q1037",
         "wk:page":"Rwanda",
@@ -954,7 +952,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1565736148,
+    "wof:lastmodified":1566637086,
     "wof:name":"Rwanda",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

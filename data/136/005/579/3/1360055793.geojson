@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.7255,-2.3066,29.7655,-2.2666",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ngwes"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1360055793,
-    "wof:lastmodified":1564147786,
+    "wof:lastmodified":1566637699,
     "wof:name":"Ngwa",
     "wof:parent_id":421190841,
     "wof:placetype":"locality",

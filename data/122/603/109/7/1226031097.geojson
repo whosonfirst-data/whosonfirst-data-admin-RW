@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.856,-1.806,29.896,-1.766",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:run_x_preferred":[
         "Musenyi"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226031097,
-    "wof:lastmodified":1564148257,
+    "wof:lastmodified":1566638052,
     "wof:name":"Musenyi",
     "wof:parent_id":421192889,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.73012,-1.43866,29.77012,-1.39866",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1260377081,
-    "wof:lastmodified":1537080447,
+    "wof:lastmodified":1566637532,
     "wof:name":"Burera",
     "wof:parent_id":421180243,
     "wof:placetype":"locality",

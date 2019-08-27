@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.9868,-1.7184,30.0268,-1.6784",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276642237,
-    "wof:lastmodified":1536860584,
+    "wof:lastmodified":1566637316,
     "wof:name":"Tabyuka",
     "wof:parent_id":421203217,
     "wof:placetype":"locality",

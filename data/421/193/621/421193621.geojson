@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-1.333715,
     "lbl:longitude":30.379946,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Eastern Province",
     "meso:gadm_admin":"Nyagatare",
     "meso:gadm_hasc2":"RW.ES.NT",
@@ -30,6 +32,7 @@
     "mps:longitude":30.379946,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:cat_x_preferred":[
         "Nyagatare"
@@ -95,9 +98,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-08-16",
+    "src:population_date":"2012-08-16",
     "statoids:area_km":"",
     "statoids:as_of_date":"2012-08-16",
     "statoids:capital":"",
@@ -119,7 +122,7 @@
         "gn:id":7688799,
         "gp:id":55864728,
         "hasc:id":"RW.ES.NT",
-        "qs:id":12178,
+        "qs_pg:id":12178,
         "wd:id":"Q3562393"
     },
     "wof:country":"RW",
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":421193621,
-    "wof:lastmodified":1563321250,
+    "wof:lastmodified":1566637753,
     "wof:name":"Nyagatare",
     "wof:parent_id":85676795,
     "wof:placetype":"county",

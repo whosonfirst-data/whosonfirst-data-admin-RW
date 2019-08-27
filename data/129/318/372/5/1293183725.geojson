@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.59525,-2.78164,29.63525,-2.74164",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Colline Nyagisozi",
         "Nyakisosi",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1293183725,
-    "wof:lastmodified":1537699104,
+    "wof:lastmodified":1566637193,
     "wof:name":"Nyagisozi",
     "wof:parent_id":1108561303,
     "wof:placetype":"locality",

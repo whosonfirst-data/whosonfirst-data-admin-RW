@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.6114,-2.6804,29.6514,-2.6404",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1225815717,
-    "wof:lastmodified":1537054731,
+    "wof:lastmodified":1566638069,
     "wof:name":"Kabuye",
     "wof:parent_id":1108561303,
     "wof:placetype":"locality",

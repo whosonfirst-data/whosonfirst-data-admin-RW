@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.9399,-2.1956,29.9799,-2.1556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Ramba"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1242660387,
-    "wof:lastmodified":1564147899,
+    "wof:lastmodified":1566637795,
     "wof:name":"Ramba",
     "wof:parent_id":421190843,
     "wof:placetype":"locality",

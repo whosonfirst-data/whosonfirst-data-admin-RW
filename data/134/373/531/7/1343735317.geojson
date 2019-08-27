@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.474,-2.7955,29.514,-2.7555",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Colline Nkanda",
         "Nkanda"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343735317,
-    "wof:lastmodified":1537699106,
+    "wof:lastmodified":1566637063,
     "wof:name":"Nkanda",
     "wof:parent_id":1108561303,
     "wof:placetype":"locality",

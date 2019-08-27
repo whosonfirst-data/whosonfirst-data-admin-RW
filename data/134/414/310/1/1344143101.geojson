@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.7653,-1.7072,29.8053,-1.6672",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Colline Gako",
         "Gako"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1344143101,
-    "wof:lastmodified":1537699139,
+    "wof:lastmodified":1566636985,
     "wof:name":"Gako",
     "wof:parent_id":421192889,
     "wof:placetype":"locality",

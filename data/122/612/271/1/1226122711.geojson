@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"30.0964,-2.0214,30.1364,-1.9814",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226122711,
-    "wof:lastmodified":1536611580,
+    "wof:lastmodified":1566638093,
     "wof:name":"Nyakuguma",
     "wof:parent_id":421182309,
     "wof:placetype":"locality",

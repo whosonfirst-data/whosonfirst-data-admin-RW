@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.5549,-2.2682,29.5949,-2.2282",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1193248787,
-    "wof:lastmodified":1536370423,
+    "wof:lastmodified":1566637484,
     "wof:name":"Cyaruvunge",
     "wof:parent_id":421192893,
     "wof:placetype":"locality",

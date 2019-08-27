@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"28.9877,-2.7124,29.0277,-2.6724",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Bugarama"
     ],
@@ -45,8 +49,7 @@
     ],
     "name:und_x_variant":[
         "Bukarama",
-        "Bugarama-Cite",
-        "Bugarama"
+        "Bugarama-Cite"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1243247091,
-    "wof:lastmodified":1564147924,
+    "wof:lastmodified":1566637813,
     "wof:name":"Bugarama",
     "wof:parent_id":421176723,
     "wof:placetype":"locality",

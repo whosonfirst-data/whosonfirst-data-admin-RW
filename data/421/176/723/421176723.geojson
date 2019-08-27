@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-2.615741,
     "lbl:longitude":28.980344,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Western Province",
     "meso:gadm_admin":"Rusizi",
     "meso:gadm_hasc2":"RW.OU.RS",
@@ -30,6 +32,7 @@
     "mps:longitude":28.980344,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Rusizi District"
@@ -95,9 +98,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-08-16",
+    "src:population_date":"2012-08-16",
     "statoids:area_km":"",
     "statoids:as_of_date":"2012-08-16",
     "statoids:capital":"",
@@ -118,7 +121,7 @@
         "gn:id":7690213,
         "gp:id":55864725,
         "hasc:id":"RW.OU.RS",
-        "qs:id":484300,
+        "qs_pg:id":484300,
         "wd:id":"Q781590",
         "wk:page":"Rusizi District"
     },
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":421176723,
-    "wof:lastmodified":1563321266,
+    "wof:lastmodified":1566637767,
     "wof:name":"Rusizi",
     "wof:parent_id":85676791,
     "wof:placetype":"county",

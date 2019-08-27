@@ -11,12 +11,16 @@
     "geom:longitude":29.730009,
     "gn:country":"RW",
     "gn:fcode":"PPL",
-    "gn:pop":89600,
+    "gn:population":89600,
     "iso:country":"RW",
+    "lbl:bbox":"29.7100093167,-2.60962359732,29.7500093167,-2.56962359732",
     "lbl:latitude":-2.589624,
     "lbl:longitude":29.730009,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:afr_x_preferred":[
         "Butare"
     ],
@@ -280,10 +284,12 @@
     "wof:concordances":{
         "gn:id":203112,
         "gp:id":1511246,
-        "qs:id":546264,
-        "qs_pg:id":1117935,
+        "qs_pg:id":546264,
         "wd:id":"Q509739",
         "wk:page":"Butare"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1117935
     },
     "wof:country":"RW",
     "wof:created":1499130674,
@@ -298,7 +304,7 @@
         }
     ],
     "wof:id":1141907043,
-    "wof:lastmodified":1563321712,
+    "wof:lastmodified":1566638135,
     "wof:name":"Butare",
     "wof:parent_id":421204219,
     "wof:placetype":"locality",

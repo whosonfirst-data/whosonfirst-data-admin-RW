@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"30.7905,-2.2908,30.8305,-2.2508",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310383505,
-    "wof:lastmodified":1537089800,
+    "wof:lastmodified":1566637582,
     "wof:name":"Paysannat M",
     "wof:parent_id":421175701,
     "wof:placetype":"locality",

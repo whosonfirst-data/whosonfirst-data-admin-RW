@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.4841,-1.7499,29.5241,-1.7099",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Kiruma"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1327417271,
-    "wof:lastmodified":1564146674,
+    "wof:lastmodified":1566636894,
     "wof:name":"Kiruma",
     "wof:parent_id":421169419,
     "wof:placetype":"locality",

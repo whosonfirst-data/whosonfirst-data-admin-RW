@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.5636,-2.1319,29.6036,-2.0919",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293263219,
-    "wof:lastmodified":1536610834,
+    "wof:lastmodified":1566637215,
     "wof:name":"Murundi",
     "wof:parent_id":421182175,
     "wof:placetype":"locality",

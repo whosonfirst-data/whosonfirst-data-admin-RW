@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.69387,-1.43045,29.73387,-1.39045",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293080447,
-    "wof:lastmodified":1536876088,
+    "wof:lastmodified":1566637123,
     "wof:name":"Busura II",
     "wof:parent_id":421180243,
     "wof:placetype":"locality",

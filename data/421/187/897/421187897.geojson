@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-1.50505,
     "lbl:longitude":29.606593,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Northern Province",
     "meso:gadm_admin":"Musanze",
     "meso:gadm_hasc2":"RW.NO.MS",
@@ -30,6 +32,7 @@
     "mps:longitude":29.606593,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Musanze District"
@@ -89,9 +92,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-08-16",
+    "src:population_date":"2012-08-16",
     "statoids:area_km":"",
     "statoids:as_of_date":"2012-08-16",
     "statoids:capital":"",
@@ -112,7 +115,7 @@
         "gn:id":7688809,
         "gp:id":55864730,
         "hasc:id":"RW.NO.MS",
-        "qs:id":1086717,
+        "qs_pg:id":1086717,
         "wd:id":"Q2360921",
         "wk:page":"Musanze District"
     },
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":421187897,
-    "wof:lastmodified":1563321259,
+    "wof:lastmodified":1566637760,
     "wof:name":"Musanze",
     "wof:parent_id":85676799,
     "wof:placetype":"county",

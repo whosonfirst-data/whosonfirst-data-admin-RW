@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.8445,-1.5808,29.8845,-1.5408",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Colline Nemba",
         "Nemba"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1243440485,
-    "wof:lastmodified":1537699107,
+    "wof:lastmodified":1566637893,
     "wof:name":"Nemba",
     "wof:parent_id":421180243,
     "wof:placetype":"locality",

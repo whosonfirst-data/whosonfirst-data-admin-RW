@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"28.9056,-2.6045,28.9456,-2.5645",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Rango"
     ],
@@ -65,8 +69,7 @@
         "Rango"
     ],
     "name:und_x_variant":[
-        "Colline Rango",
-        "Rango"
+        "Colline Rango"
     ],
     "name:uzb_x_preferred":[
         "Rango"
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":1192989233,
-    "wof:lastmodified":1564147497,
+    "wof:lastmodified":1566637494,
     "wof:name":"Rango",
     "wof:parent_id":421176723,
     "wof:placetype":"locality",

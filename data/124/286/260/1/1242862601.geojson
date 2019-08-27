@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"30.3585,-2.2183,30.3985,-2.1783",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lukoma",
         "Rukoma"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1242862601,
-    "wof:lastmodified":1537699078,
+    "wof:lastmodified":1566637786,
     "wof:name":"Rukoma",
     "wof:parent_id":1108561297,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.96333,-1.82,30.00333,-1.78",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Colline Remera",
         "Remera"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1260369687,
-    "wof:lastmodified":1537699100,
+    "wof:lastmodified":1566637530,
     "wof:name":"Remera",
     "wof:parent_id":421203217,
     "wof:placetype":"locality",

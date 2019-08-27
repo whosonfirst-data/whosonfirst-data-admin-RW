@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"30.3938,-2.2467,30.4338,-2.2067",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Chrysichthys brachynema"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1243160315,
-    "wof:lastmodified":1564148029,
+    "wof:lastmodified":1566637888,
     "wof:name":"Kibonde",
     "wof:parent_id":1108561297,
     "wof:placetype":"locality",

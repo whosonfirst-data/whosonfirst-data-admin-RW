@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"30.399,-2.165,30.439,-2.125",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Bare"
     ],
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":1360266329,
-    "wof:lastmodified":1564147774,
+    "wof:lastmodified":1566637690,
     "wof:name":"Bare",
     "wof:parent_id":1108561297,
     "wof:placetype":"locality",

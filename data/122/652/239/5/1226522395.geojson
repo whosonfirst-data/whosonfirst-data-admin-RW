@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"30.19298,-1.89461,30.23298,-1.85461",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Colline Gikemero",
         "Kikomero",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1226522395,
-    "wof:lastmodified":1537699136,
+    "wof:lastmodified":1566638108,
     "wof:name":"Gikomero",
     "wof:parent_id":421202327,
     "wof:placetype":"locality",

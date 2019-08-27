@@ -10,13 +10,17 @@
     "geom:latitude":-2.479,
     "geom:longitude":29.5564,
     "iso:country":"RW",
+    "lbl:bbox":"29.5364,-2.499,29.5764,-2.459",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ell_x_preferred":[
         "\u039d\u03b6\u03ad\u03b3\u03ba\u03b1"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nseka"
     ],
     "qs:gn_country":"RW",
@@ -50,7 +54,7 @@
     "wof:concordances":{
         "gn:id":201865,
         "gp:id":1410877,
-        "qs:id":1295952
+        "qs_pg:id":1295952
     },
     "wof:country":"RW",
     "wof:created":1459009764,
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":421193225,
-    "wof:lastmodified":1564147860,
+    "wof:lastmodified":1566637754,
     "wof:name":"Nzega",
     "wof:parent_id":421192893,
     "wof:placetype":"locality",

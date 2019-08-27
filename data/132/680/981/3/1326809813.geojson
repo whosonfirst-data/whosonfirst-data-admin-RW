@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.9298,-1.5327,29.9698,-1.4927",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mont Gatete",
         "Gatebe",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1326809813,
-    "wof:lastmodified":1537699085,
+    "wof:lastmodified":1566636845,
     "wof:name":"Gatebe",
     "wof:parent_id":421180243,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.6423,-1.4561,29.6823,-1.4161",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Colline Gatete",
         "Gatete"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1259855909,
-    "wof:lastmodified":1537699137,
+    "wof:lastmodified":1566637938,
     "wof:name":"Gatete",
     "wof:parent_id":421180243,
     "wof:placetype":"locality",

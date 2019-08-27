@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.9952,-1.8701,30.0352,-1.8301",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hubingo",
         "Rubingo"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1310382631,
-    "wof:lastmodified":1537699150,
+    "wof:lastmodified":1566637585,
     "wof:name":"Rubingo",
     "wof:parent_id":421202327,
     "wof:placetype":"locality",

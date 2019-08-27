@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"30.4968,-1.9047,30.5368,-1.8647",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "\u039a\u03b1\u03b3\u03b9\u03cc\u03bd\u03b6\u03b1"
     ],
@@ -41,8 +45,7 @@
         "Kayonza"
     ],
     "name:und_x_variant":[
-        "Kayonzo",
-        "Kayonza"
+        "Kayonzo"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1242855641,
-    "wof:lastmodified":1564148007,
+    "wof:lastmodified":1566637874,
     "wof:name":"Kayonza",
     "wof:parent_id":421204217,
     "wof:placetype":"locality",

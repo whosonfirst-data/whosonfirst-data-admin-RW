@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.4627,-2.5924,29.5027,-2.5524",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Tit\u00ed"
     ],
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":1310375821,
-    "wof:lastmodified":1564147649,
+    "wof:lastmodified":1566637605,
     "wof:name":"Titi",
     "wof:parent_id":1108561303,
     "wof:placetype":"locality",

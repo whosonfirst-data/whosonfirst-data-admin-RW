@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.3745,-2.4264,29.4145,-2.3864",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243145433,
-    "wof:lastmodified":1536742420,
+    "wof:lastmodified":1566637832,
     "wof:name":"Gatovu",
     "wof:parent_id":421192893,
     "wof:placetype":"locality",

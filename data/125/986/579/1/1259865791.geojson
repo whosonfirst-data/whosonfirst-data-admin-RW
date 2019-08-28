@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.659,-1.5239,29.699,-1.4839",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Colline Gasanze",
         "Gasanze"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1259865791,
-    "wof:lastmodified":1537699138,
+    "wof:lastmodified":1566637990,
     "wof:name":"Gasanze",
     "wof:parent_id":421187897,
     "wof:placetype":"locality",

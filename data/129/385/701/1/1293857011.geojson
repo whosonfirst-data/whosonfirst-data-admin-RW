@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.6779,-1.9372,29.7179,-1.8972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Muheta",
         "Giheta"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1293857011,
-    "wof:lastmodified":1537699081,
+    "wof:lastmodified":1566637138,
     "wof:name":"Giheta",
     "wof:parent_id":421192887,
     "wof:placetype":"locality",

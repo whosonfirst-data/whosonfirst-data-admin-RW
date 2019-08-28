@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.97711,-1.61373,30.01711,-1.57373",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1242757297,
-    "wof:lastmodified":1536804749,
+    "wof:lastmodified":1566637793,
     "wof:name":"Rembero",
     "wof:parent_id":421175213,
     "wof:placetype":"locality",

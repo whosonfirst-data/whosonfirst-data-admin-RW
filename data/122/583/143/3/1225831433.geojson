@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.9805,-1.7604,30.0205,-1.7204",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mont Iremera"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1225831433,
-    "wof:lastmodified":1537699089,
+    "wof:lastmodified":1566638133,
     "wof:name":"Remera",
     "wof:parent_id":421203217,
     "wof:placetype":"locality",

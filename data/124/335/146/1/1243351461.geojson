@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"30.2581,-1.7288,30.2981,-1.6888",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1243351461,
-    "wof:lastmodified":1536943076,
+    "wof:lastmodified":1566637845,
     "wof:name":"Gisiza",
     "wof:parent_id":421204013,
     "wof:placetype":"locality",

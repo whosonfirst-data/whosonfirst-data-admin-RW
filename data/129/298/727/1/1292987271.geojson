@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.9935,-1.5781,30.0335,-1.5381",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:run_x_preferred":[
         "Rutovu"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1292987271,
-    "wof:lastmodified":1564147053,
+    "wof:lastmodified":1566637180,
     "wof:name":"Rutovu",
     "wof:parent_id":421175213,
     "wof:placetype":"locality",

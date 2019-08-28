@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.6497,-2.219,29.6897,-2.179",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Kabuga"
     ],
@@ -38,8 +42,7 @@
         "Kabuga"
     ],
     "name:und_x_variant":[
-        "Colline Kabuga",
-        "Kabuga"
+        "Colline Kabuga"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1243050835,
-    "wof:lastmodified":1564147983,
+    "wof:lastmodified":1566637856,
     "wof:name":"Kabuga",
     "wof:parent_id":1108561299,
     "wof:placetype":"locality",

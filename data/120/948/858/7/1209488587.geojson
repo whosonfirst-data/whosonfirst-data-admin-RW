@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.5097,-2.8118,29.5497,-2.7718",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632303
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1209488587,
-    "wof:lastmodified":1536285558,
+    "wof:lastmodified":1566637390,
     "wof:name":"Shwima",
     "wof:parent_id":85632303,
     "wof:placetype":"locality",

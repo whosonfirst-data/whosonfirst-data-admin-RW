@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.93,-1.72,29.97,-1.68",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mont Buzigi",
         "Buzigi"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1343340941,
-    "wof:lastmodified":1537699085,
+    "wof:lastmodified":1566637041,
     "wof:name":"Buzigi",
     "wof:parent_id":421203217,
     "wof:placetype":"locality",

@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.54667,-1.82,29.58667,-1.78",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Colline Rusingi",
         "Rusingi"
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1226416355,
-    "wof:lastmodified":1537699095,
+    "wof:lastmodified":1566638095,
     "wof:name":"Rusingi",
     "wof:parent_id":1108561295,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.7334,-2.5634,29.7734,-2.5234",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mwulira",
         "Mont Mwulire",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1360255429,
-    "wof:lastmodified":1537699083,
+    "wof:lastmodified":1566637668,
     "wof:name":"Mwulire",
     "wof:parent_id":421204219,
     "wof:placetype":"locality",

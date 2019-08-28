@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.8988,-1.6161,29.9388,-1.5761",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Cyungo"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1259469219,
-    "wof:lastmodified":1564148092,
+    "wof:lastmodified":1566637933,
     "wof:name":"Cyungo",
     "wof:parent_id":421203217,
     "wof:placetype":"locality",

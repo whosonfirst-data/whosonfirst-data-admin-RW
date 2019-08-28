@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.43114,-2.07177,29.47114,-2.03177",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1277160721,
-    "wof:lastmodified":1536655318,
+    "wof:lastmodified":1566637353,
     "wof:name":"Kambogo",
     "wof:parent_id":421182175,
     "wof:placetype":"locality",

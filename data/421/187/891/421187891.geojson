@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-1.974036,
     "lbl:longitude":30.3681,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Eastern Province",
     "meso:gadm_admin":"Rwamagana",
     "meso:gadm_hasc2":"RW.ES.RM",
@@ -30,6 +32,7 @@
     "mps:longitude":30.3681,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Rwamagana District"
@@ -89,9 +92,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-08-16",
+    "src:population_date":"2012-08-16",
     "statoids:area_km":"",
     "statoids:as_of_date":"2012-08-16",
     "statoids:capital":"",
@@ -112,7 +115,7 @@
         "gn:id":7688802,
         "gp:id":55864726,
         "hasc:id":"RW.ES.RM",
-        "qs:id":1086709,
+        "qs_pg:id":1086709,
         "wd:id":"Q921255",
         "wk:page":"Rwamagana District"
     },
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":421187891,
-    "wof:lastmodified":1563321258,
+    "wof:lastmodified":1566637760,
     "wof:name":"Rwamagana",
     "wof:parent_id":85676795,
     "wof:placetype":"county",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.4105,-2.1564,29.4505,-2.1164",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1326804205,
-    "wof:lastmodified":1537086066,
+    "wof:lastmodified":1566636843,
     "wof:name":"Gasharu",
     "wof:parent_id":421182175,
     "wof:placetype":"locality",

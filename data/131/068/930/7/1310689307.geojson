@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"30.5159,-2.1091,30.5559,-2.0691",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1310689307,
-    "wof:lastmodified":1536651608,
+    "wof:lastmodified":1566637639,
     "wof:name":"Gashinga",
     "wof:parent_id":1108561297,
     "wof:placetype":"locality",

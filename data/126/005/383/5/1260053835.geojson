@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.2689,-1.9127,29.3089,-1.8727",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1260053835,
-    "wof:lastmodified":1537029559,
+    "wof:lastmodified":1566637558,
     "wof:name":"Kabahima",
     "wof:parent_id":421190845,
     "wof:placetype":"locality",

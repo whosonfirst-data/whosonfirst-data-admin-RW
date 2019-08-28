@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"28.88,-2.57,28.92,-2.53",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Colline Gasambu",
         "Gasambu"
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1243247005,
-    "wof:lastmodified":1537699138,
+    "wof:lastmodified":1566637813,
     "wof:name":"Gasambu",
     "wof:parent_id":421176723,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"28.9823,-2.4239,29.0223,-2.3839",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:jpn_x_preferred":[
         "\u30ab\u30d0\u30e4\u98df\u54c1"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1327108349,
-    "wof:lastmodified":1564146721,
+    "wof:lastmodified":1566636932,
     "wof:name":"Kabaya",
     "wof:parent_id":421192891,
     "wof:placetype":"locality",

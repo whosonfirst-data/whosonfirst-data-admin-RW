@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.3528,-2.0839,29.3928,-2.0439",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226822797,
-    "wof:lastmodified":1536601467,
+    "wof:lastmodified":1566638087,
     "wof:name":"Ruyenzi",
     "wof:parent_id":421182175,
     "wof:placetype":"locality",

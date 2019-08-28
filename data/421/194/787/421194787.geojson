@@ -10,8 +10,12 @@
     "geom:latitude":-1.768517,
     "geom:longitude":29.30397,
     "iso:country":"RW",
+    "lbl:bbox":"29.28397,-1.788517,29.32397,-1.748517",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1410774,
-        "qs:id":921533
+        "qs_pg:id":921533
     },
     "wof:country":"RW",
     "wof:created":1459009819,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421194787,
-    "wof:lastmodified":1500024974,
+    "wof:lastmodified":1566637753,
     "wof:name":"Mwufe",
     "wof:parent_id":421190845,
     "wof:placetype":"locality",

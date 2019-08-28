@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.7169,-2.7235,29.7569,-2.6835",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Colline Kinteko",
         "Kinteko"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1259553841,
-    "wof:lastmodified":1537699124,
+    "wof:lastmodified":1566637920,
     "wof:name":"Kinteko",
     "wof:parent_id":1108561303,
     "wof:placetype":"locality",

@@ -11,8 +11,11 @@
     "geom:longitude":30.5427,
     "gn:country":"RW",
     "gn:fcode":"PPL",
-    "gn:pop":46240,
+    "gn:population":46240,
     "iso:country":"RW",
+    "lbl:bbox":"30.5227,-2.1797,30.5627,-2.1397",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":9.0,
@@ -82,7 +85,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0456\u0431\u0443\u043d\u0433\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kibungu"
     ],
     "name:zho_x_preferred":[
@@ -199,10 +202,12 @@
     "wof:concordances":{
         "gn:id":202068,
         "gp:id":1410551,
-        "qs:id":122746,
-        "qs_pg:id":1116359,
+        "qs_pg:id":122746,
         "wd:id":"Q992776",
         "wk:page":"Kibungo"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1116359
     },
     "wof:country":"RW",
     "wof:created":1469051973,
@@ -217,7 +222,7 @@
         }
     ],
     "wof:id":890433259,
-    "wof:lastmodified":1563321273,
+    "wof:lastmodified":1566637770,
     "wof:name":"Kibungo",
     "wof:parent_id":1108561297,
     "wof:placetype":"locality",

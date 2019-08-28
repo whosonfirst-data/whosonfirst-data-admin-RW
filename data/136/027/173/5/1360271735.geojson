@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.8306,-1.6544,29.8706,-1.6144",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Taba"
     ],
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1360271735,
-    "wof:lastmodified":1564147756,
+    "wof:lastmodified":1566637678,
     "wof:name":"Taba",
     "wof:parent_id":421192889,
     "wof:placetype":"locality",

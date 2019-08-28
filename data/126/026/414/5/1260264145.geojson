@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"30.4968,-2.0169,30.5368,-1.9769",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gisanga"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1260264145,
-    "wof:lastmodified":1537699158,
+    "wof:lastmodified":1566637549,
     "wof:name":"Gisenga",
     "wof:parent_id":421204217,
     "wof:placetype":"locality",

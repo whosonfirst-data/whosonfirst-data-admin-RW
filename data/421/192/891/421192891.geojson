@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-2.379251,
     "lbl:longitude":29.210752,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Western Province",
     "meso:gadm_admin":"Nyamasheke",
     "meso:gadm_hasc2":"RW.OU.NS",
@@ -30,6 +32,7 @@
     "mps:longitude":29.210752,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Nyamasheke District"
@@ -92,9 +95,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-08-16",
+    "src:population_date":"2012-08-16",
     "statoids:area_km":"",
     "statoids:as_of_date":"2012-08-16",
     "statoids:capital":"",
@@ -115,7 +118,7 @@
         "gn:id":7690212,
         "gp:id":55864744,
         "hasc:id":"RW.OU.NS",
-        "qs:id":1182627,
+        "qs_pg:id":1182627,
         "wd:id":"Q2005905",
         "wk:page":"Nyamasheke District"
     },
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421192891,
-    "wof:lastmodified":1563321249,
+    "wof:lastmodified":1566637751,
     "wof:name":"Nyamasheke",
     "wof:parent_id":85676791,
     "wof:placetype":"county",

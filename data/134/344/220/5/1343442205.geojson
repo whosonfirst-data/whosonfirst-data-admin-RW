@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"30.3173,-2.0436,30.3573,-2.0036",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bitshumbi"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1343442205,
-    "wof:lastmodified":1537699148,
+    "wof:lastmodified":1566637072,
     "wof:name":"Bicumbi",
     "wof:parent_id":421187891,
     "wof:placetype":"locality",

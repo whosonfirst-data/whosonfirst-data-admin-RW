@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.9964,-1.9412,30.0364,-1.9012",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Musanze"
     ],
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":1293760759,
-    "wof:lastmodified":1564147005,
+    "wof:lastmodified":1566637147,
     "wof:name":"Ruhengeri",
     "wof:parent_id":421204011,
     "wof:placetype":"locality",

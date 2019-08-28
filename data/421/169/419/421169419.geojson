@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-1.654591,
     "lbl:longitude":29.51051,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Western Province",
     "meso:gadm_admin":"Nyabihu",
     "meso:gadm_hasc2":"RW.OU.NB",
@@ -30,6 +32,7 @@
     "mps:longitude":29.51051,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Nyabihu District"
@@ -89,9 +92,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-08-16",
+    "src:population_date":"2012-08-16",
     "statoids:area_km":"",
     "statoids:as_of_date":"2012-08-16",
     "statoids:capital":"",
@@ -112,7 +115,7 @@
         "gn:id":7690207,
         "gp:id":55864742,
         "hasc:id":"RW.OU.NB",
-        "qs:id":1199165,
+        "qs_pg:id":1199165,
         "wd:id":"Q2424699",
         "wk:page":"Nyabihu District"
     },
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":421169419,
-    "wof:lastmodified":1563321252,
+    "wof:lastmodified":1566637755,
     "wof:name":"Nyabihu",
     "wof:parent_id":85676791,
     "wof:placetype":"county",

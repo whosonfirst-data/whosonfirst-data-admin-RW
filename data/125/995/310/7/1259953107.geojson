@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.7017,-2.6017,29.7417,-2.5617",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bre_x_preferred":[
         "Nyanza"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1259953107,
-    "wof:lastmodified":1564148124,
+    "wof:lastmodified":1566637955,
     "wof:name":"Nyanza",
     "wof:parent_id":421204219,
     "wof:placetype":"locality",

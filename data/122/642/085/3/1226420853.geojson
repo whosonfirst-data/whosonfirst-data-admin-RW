@@ -26,14 +26,17 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"30.2475,-2.0766,30.2875,-2.0366",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:run_x_preferred":[
         "Bihembe"
     ],
     "name:und_x_variant":[
         "Colline Bihembe",
-        "Bihembe",
         "Mont Bihembe"
     ],
     "src:geom":"geonames",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1226420853,
-    "wof:lastmodified":1564148211,
+    "wof:lastmodified":1566638019,
     "wof:name":"Bihembe",
     "wof:parent_id":421187891,
     "wof:placetype":"locality",

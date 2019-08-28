@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"30.1284,-1.567,30.1684,-1.527",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1327413081,
-    "wof:lastmodified":1536709015,
+    "wof:lastmodified":1566636888,
     "wof:name":"Muhero",
     "wof:parent_id":421175213,
     "wof:placetype":"locality",

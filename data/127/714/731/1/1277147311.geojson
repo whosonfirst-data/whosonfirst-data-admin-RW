@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.8707,-2.3669,29.9107,-2.3269",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1277147311,
-    "wof:lastmodified":1536674628,
+    "wof:lastmodified":1566637274,
     "wof:name":"Nzoga",
     "wof:parent_id":421190841,
     "wof:placetype":"locality",

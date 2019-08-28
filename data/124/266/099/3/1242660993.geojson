@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.541,-1.72,29.581,-1.68",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Giciye"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1242660993,
-    "wof:lastmodified":1537699149,
+    "wof:lastmodified":1566637796,
     "wof:name":"Gicye",
     "wof:parent_id":421169419,
     "wof:placetype":"locality",

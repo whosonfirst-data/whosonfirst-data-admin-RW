@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-2.188607,
     "lbl:longitude":30.457169,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Eastern Province",
     "meso:gadm_admin":"Ngoma",
     "meso:gadm_hasc2":"RW.ES.NM",
@@ -30,6 +32,7 @@
     "mps:longitude":30.457169,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bar_x_preferred":[
         "Ngoma"
     ],
@@ -64,9 +67,9 @@
         "Ngoma"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-08-16",
+    "src:population_date":"2012-08-16",
     "statoids:area_km":"",
     "statoids:as_of_date":"2012-08-16",
     "statoids:capital":"",
@@ -98,7 +101,7 @@
         }
     ],
     "wof:id":1108561297,
-    "wof:lastmodified":1564147593,
+    "wof:lastmodified":1566637563,
     "wof:name":"Ngoma",
     "wof:parent_id":85676795,
     "wof:placetype":"county",

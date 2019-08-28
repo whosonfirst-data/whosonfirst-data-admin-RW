@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-2.521157,
     "lbl:longitude":29.685004,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Southern Province",
     "meso:gadm_admin":"Huye",
     "meso:gadm_hasc2":"RW.SU.HU",
@@ -30,6 +32,7 @@
     "mps:longitude":29.685004,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Huye District"
@@ -98,9 +101,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-08-16",
+    "src:population_date":"2012-08-16",
     "statoids:area_km":"",
     "statoids:as_of_date":"2012-08-16",
     "statoids:capital":"",
@@ -121,7 +124,7 @@
         "gn:id":7690219,
         "gp:id":55864738,
         "hasc:id":"RW.SU.HU",
-        "qs:id":238705,
+        "qs_pg:id":238705,
         "wd:id":"Q2632827",
         "wk:page":"Huye District"
     },
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":421204219,
-    "wof:lastmodified":1563321253,
+    "wof:lastmodified":1566637756,
     "wof:name":"Huye",
     "wof:parent_id":85676785,
     "wof:placetype":"county",

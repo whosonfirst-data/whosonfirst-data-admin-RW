@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"30.6026,-2.0941,30.6426,-2.0541",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bos_x_preferred":[
         "Bara"
     ],
@@ -126,7 +130,7 @@
         }
     ],
     "wof:id":1293189069,
-    "wof:lastmodified":1564147062,
+    "wof:lastmodified":1566637186,
     "wof:name":"Bara",
     "wof:parent_id":421204217,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.6353,-1.6175,29.6753,-1.5775",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Tane"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1293366709,
-    "wof:lastmodified":1564146955,
+    "wof:lastmodified":1566637109,
     "wof:name":"Tane",
     "wof:parent_id":421192889,
     "wof:placetype":"locality",

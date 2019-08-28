@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.8539,-2.3161,29.8939,-2.2761",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:mal_x_preferred":[
         "\u0d2e\u0d41\u0d33\u0d3f\u0d1e\u0d4d\u0d1e"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209798265,
-    "wof:lastmodified":1564147353,
+    "wof:lastmodified":1566637397,
     "wof:name":"Mulinja",
     "wof:parent_id":421190841,
     "wof:placetype":"locality",

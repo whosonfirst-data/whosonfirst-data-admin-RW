@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.1875,-2.2407,29.2275,-2.2007",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:azb_x_preferred":[
         "\u0628\u0648\u062a\u0645\u0628\u0648"
     ],
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":1260063569,
-    "wof:lastmodified":1564147558,
+    "wof:lastmodified":1566637538,
     "wof:name":"Butembo",
     "wof:parent_id":421192891,
     "wof:placetype":"locality",

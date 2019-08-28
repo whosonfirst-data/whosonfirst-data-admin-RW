@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-1.85417,
     "lbl:longitude":29.569454,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Western Province",
     "meso:gadm_admin":"Ngororero",
     "meso:gadm_hasc2":"RW.OU.NR",
@@ -30,6 +32,7 @@
     "mps:longitude":29.569454,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:bul_x_preferred":[
         "\u041d\u0433\u043e\u0440\u043e\u0440\u0435\u0440\u043e"
     ],
@@ -52,9 +55,9 @@
         "\u6069\u6208\u7f85\u96f7\u7f85"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-08-16",
+    "src:population_date":"2012-08-16",
     "statoids:area_km":"",
     "statoids:as_of_date":"2012-08-16",
     "statoids:capital":"",
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":1108561295,
-    "wof:lastmodified":1564147594,
+    "wof:lastmodified":1566637563,
     "wof:name":"Ngororero",
     "wof:parent_id":85676791,
     "wof:placetype":"county",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.6999,-1.6655,29.7399,-1.6255",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ruhango"
     ],
@@ -54,7 +58,6 @@
     ],
     "name:und_x_variant":[
         "Colline Ruhanga",
-        "Ruhango",
         "Ruhanga"
     ],
     "name:zho_x_preferred":[
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1310580569,
-    "wof:lastmodified":1564147731,
+    "wof:lastmodified":1566637660,
     "wof:name":"Ruhango",
     "wof:parent_id":421192889,
     "wof:placetype":"locality",

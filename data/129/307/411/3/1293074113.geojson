@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.8901,-1.9591,29.9301,-1.9191",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293074113,
-    "wof:lastmodified":1536885655,
+    "wof:lastmodified":1566637100,
     "wof:name":"Nyarusange",
     "wof:parent_id":421190843,
     "wof:placetype":"locality",

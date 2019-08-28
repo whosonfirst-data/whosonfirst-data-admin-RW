@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.9345,-2.1041,29.9745,-2.0641",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276209365,
-    "wof:lastmodified":1536945650,
+    "wof:lastmodified":1566637256,
     "wof:name":"Kibumba",
     "wof:parent_id":421190843,
     "wof:placetype":"locality",

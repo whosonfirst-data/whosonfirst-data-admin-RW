@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.725,-2.5126,29.765,-2.4726",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:arg_x_preferred":[
         "Mara"
     ],
@@ -165,7 +169,7 @@
         }
     ],
     "wof:id":1293265335,
-    "wof:lastmodified":1564147099,
+    "wof:lastmodified":1566637211,
     "wof:name":"Mara",
     "wof:parent_id":421204219,
     "wof:placetype":"locality",

@@ -10,10 +10,14 @@
     "geom:latitude":-2.483298,
     "geom:longitude":29.566702,
     "iso:country":"RW",
+    "lbl:bbox":"29.546701602,-2.50329794474,29.586701602,-2.46329794474",
     "lbl:latitude":-2.483298,
     "lbl:longitude":29.566702,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Gikongoro"
     ],
@@ -178,7 +182,7 @@
         }
     ],
     "wof:id":1141906031,
-    "wof:lastmodified":1563321711,
+    "wof:lastmodified":1566638135,
     "wof:name":"Gikongoro",
     "wof:parent_id":421192893,
     "wof:placetype":"locality",

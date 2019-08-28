@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"30.1497,-1.9695,30.1897,-1.9295",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "Ndera"
     ],
@@ -35,8 +39,7 @@
         "Ndera"
     ],
     "name:und_x_variant":[
-        "Colline Ndera",
-        "Ndera"
+        "Colline Ndera"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1343742365,
-    "wof:lastmodified":1564146912,
+    "wof:lastmodified":1566637069,
     "wof:name":"Ndera",
     "wof:parent_id":421202327,
     "wof:placetype":"locality",

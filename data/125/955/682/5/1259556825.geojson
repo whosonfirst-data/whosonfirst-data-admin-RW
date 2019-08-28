@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.6571,-2.1822,29.6971,-2.1422",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:rus_x_preferred":[
         "\u0411\u0443\u0445\u043e\u0440\u043e"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1259556825,
-    "wof:lastmodified":1564148077,
+    "wof:lastmodified":1566637921,
     "wof:name":"Buhoro",
     "wof:parent_id":1108561299,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.9021,-2.068,29.9421,-2.028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1344040417,
-    "wof:lastmodified":1536904764,
+    "wof:lastmodified":1566637056,
     "wof:name":"Rugarama",
     "wof:parent_id":421190843,
     "wof:placetype":"locality",

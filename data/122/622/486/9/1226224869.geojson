@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.7467,-2.3004,29.7867,-2.2604",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Colline Mwanabili",
         "Mwanabili"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1226224869,
-    "wof:lastmodified":1537699109,
+    "wof:lastmodified":1566638080,
     "wof:name":"Mwanabili",
     "wof:parent_id":421190841,
     "wof:placetype":"locality",

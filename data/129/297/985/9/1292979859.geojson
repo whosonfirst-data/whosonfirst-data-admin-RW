@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.2726,-1.9251,29.3126,-1.8851",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Colline Kinunu",
         "Kinunu"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1292979859,
-    "wof:lastmodified":1537699124,
+    "wof:lastmodified":1566637183,
     "wof:name":"Kinunu",
     "wof:parent_id":421190845,
     "wof:placetype":"locality",

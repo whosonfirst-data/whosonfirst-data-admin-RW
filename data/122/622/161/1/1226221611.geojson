@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.5051,-1.4643,29.5451,-1.4243",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226221611,
-    "wof:lastmodified":1536968189,
+    "wof:lastmodified":1566638077,
     "wof:name":"Ruginga",
     "wof:parent_id":421187897,
     "wof:placetype":"locality",

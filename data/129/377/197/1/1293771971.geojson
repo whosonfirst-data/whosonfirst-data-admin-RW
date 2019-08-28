@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"30.4186,-2.0435,30.4586,-2.0035",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293771971,
-    "wof:lastmodified":1536873057,
+    "wof:lastmodified":1566637137,
     "wof:name":"Imanga",
     "wof:parent_id":421187891,
     "wof:placetype":"locality",

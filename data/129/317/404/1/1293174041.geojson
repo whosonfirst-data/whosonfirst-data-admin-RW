@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.889,-1.997,29.929,-1.957",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nyhagihinga"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293174041,
-    "wof:lastmodified":1537699158,
+    "wof:lastmodified":1566637208,
     "wof:name":"Nyagihinga",
     "wof:parent_id":421190843,
     "wof:placetype":"locality",

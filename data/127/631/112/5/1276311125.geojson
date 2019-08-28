@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"30.42579,-1.84216,30.46579,-1.80216",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1276311125,
-    "wof:lastmodified":1536808162,
+    "wof:lastmodified":1566637347,
     "wof:name":"Kawangire",
     "wof:parent_id":421204217,
     "wof:placetype":"locality",

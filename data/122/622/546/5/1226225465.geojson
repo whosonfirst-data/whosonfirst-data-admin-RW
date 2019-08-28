@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.3017,-1.8406,29.3417,-1.8006",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1226225465,
-    "wof:lastmodified":1536962746,
+    "wof:lastmodified":1566638082,
     "wof:name":"Rusebeya",
     "wof:parent_id":421190845,
     "wof:placetype":"locality",

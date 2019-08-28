@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.2155,-2.3012,29.2555,-2.2612",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1309876647,
-    "wof:lastmodified":1536828151,
+    "wof:lastmodified":1566637741,
     "wof:name":"Kanyamugira",
     "wof:parent_id":421192891,
     "wof:placetype":"locality",

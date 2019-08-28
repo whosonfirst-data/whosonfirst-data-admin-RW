@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.8561,-2.7327,29.8961,-2.6927",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Colline Runyinya",
         "Runyinya"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1259556861,
-    "wof:lastmodified":1537699096,
+    "wof:lastmodified":1566637918,
     "wof:name":"Runyinya",
     "wof:parent_id":1108561301,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.7214,-2.6198,29.7614,-2.5798",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Ngoma"
     ],
@@ -56,8 +60,7 @@
         "Ngoma"
     ],
     "name:und_x_variant":[
-        "Colline Ngoma",
-        "Ngoma"
+        "Colline Ngoma"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1276423743,
-    "wof:lastmodified":1564147146,
+    "wof:lastmodified":1566637243,
     "wof:name":"Ngoma",
     "wof:parent_id":421204219,
     "wof:placetype":"locality",

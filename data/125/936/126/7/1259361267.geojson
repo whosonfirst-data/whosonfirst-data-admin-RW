@@ -26,15 +26,18 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"30.48,-1.70333,30.52,-1.66333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Buyoga"
     ],
     "name:und_x_variant":[
         "Bugoya",
-        "Colline Bugoya",
-        "Buyoga"
+        "Colline Bugoya"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1259361267,
-    "wof:lastmodified":1564148052,
+    "wof:lastmodified":1566637904,
     "wof:name":"Buyoga",
     "wof:parent_id":421204217,
     "wof:placetype":"locality",

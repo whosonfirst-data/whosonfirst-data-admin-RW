@@ -11,8 +11,11 @@
     "geom:longitude":28.9075,
     "gn:country":"RW",
     "gn:fcode":"PPL",
-    "gn:pop":63883,
+    "gn:population":63883,
     "iso:country":"RW",
+    "lbl:bbox":"28.8875,-2.5046,28.9275,-2.4646",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.7,
@@ -88,7 +91,7 @@
     "name:tur_x_preferred":[
         "Cyangugu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Shangugu"
     ],
     "name:zho_x_preferred":[
@@ -207,10 +210,12 @@
     "wof:concordances":{
         "gn:id":202326,
         "gp:id":1410345,
-        "qs:id":122756,
-        "qs_pg:id":1225722,
+        "qs_pg:id":122756,
         "wd:id":"Q782857",
         "wk:page":"Cyangugu"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":1225722
     },
     "wof:country":"RW",
     "wof:created":1469052880,
@@ -225,7 +230,7 @@
         }
     ],
     "wof:id":890453975,
-    "wof:lastmodified":1563321272,
+    "wof:lastmodified":1566637770,
     "wof:name":"Cyangugu",
     "wof:parent_id":421176723,
     "wof:placetype":"locality",

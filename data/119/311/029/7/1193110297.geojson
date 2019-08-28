@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.7055,-2.62,29.7455,-2.58",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bar_x_preferred":[
         "Ngoma"
     ],
@@ -56,8 +60,7 @@
         "Ngoma"
     ],
     "name:und_x_variant":[
-        "Ngama",
-        "Ngoma"
+        "Ngama"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1193110297,
-    "wof:lastmodified":1564147512,
+    "wof:lastmodified":1566637506,
     "wof:name":"Ngoma",
     "wof:parent_id":421204219,
     "wof:placetype":"locality",

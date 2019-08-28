@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.0688,-2.5686,29.1088,-2.5286",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293361423,
-    "wof:lastmodified":1536968594,
+    "wof:lastmodified":1566637106,
     "wof:name":"Butanda",
     "wof:parent_id":421176723,
     "wof:placetype":"locality",

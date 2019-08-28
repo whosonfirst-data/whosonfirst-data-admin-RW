@@ -10,8 +10,12 @@
     "geom:latitude":-1.486935,
     "geom:longitude":29.753723,
     "iso:country":"RW",
+    "lbl:bbox":"29.733723,-1.506935,29.773723,-1.466935",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -41,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1410979,
-        "qs:id":1116422
+        "qs_pg:id":1116422
     },
     "wof:country":"RW",
     "wof:created":1459009634,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":421189741,
-    "wof:lastmodified":1500025169,
+    "wof:lastmodified":1566637761,
     "wof:name":"Ryandinzi",
     "wof:parent_id":421180243,
     "wof:placetype":"locality",

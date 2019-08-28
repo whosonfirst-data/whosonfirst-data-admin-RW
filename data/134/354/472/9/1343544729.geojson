@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.3632,-1.5374,29.4032,-1.4974",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1343544729,
-    "wof:lastmodified":1536622646,
+    "wof:lastmodified":1566636953,
     "wof:name":"Bulingo",
     "wof:parent_id":-4,
     "wof:placetype":"locality",

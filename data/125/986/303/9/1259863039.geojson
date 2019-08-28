@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"29.5054,-1.7058,29.5454,-1.6658",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Colline Bilembo",
         "Birembo",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1259863039,
-    "wof:lastmodified":1537699146,
+    "wof:lastmodified":1566637987,
     "wof:name":"Birembo",
     "wof:parent_id":421169419,
     "wof:placetype":"locality",

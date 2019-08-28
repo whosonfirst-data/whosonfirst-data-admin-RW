@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
+    "lbl:bbox":"30.0437,-1.5641,30.0837,-1.5241",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1293855299,
-    "wof:lastmodified":1536754041,
+    "wof:lastmodified":1566637140,
     "wof:name":"Murambo",
     "wof:parent_id":421175213,
     "wof:placetype":"locality",

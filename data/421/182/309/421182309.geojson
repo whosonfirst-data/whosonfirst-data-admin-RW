@@ -18,6 +18,8 @@
     ],
     "lbl:latitude":-1.998327,
     "lbl:longitude":30.137331,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:admin_1":"Kigali City",
     "meso:gadm_admin":"Kicukiro",
     "meso:gadm_hasc2":"RW.KV.KK",
@@ -30,6 +32,7 @@
     "mps:longitude":30.137331,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ceb_x_preferred":[
         "Kicukiro District"
@@ -86,9 +89,9 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2012-08-16",
+    "src:population_date":"2012-08-16",
     "statoids:area_km":"",
     "statoids:as_of_date":"2012-08-16",
     "statoids:capital":"",
@@ -109,7 +112,7 @@
         "gn:id":7690206,
         "gp:id":55864734,
         "hasc:id":"RW.KV.KK",
-        "qs:id":898988,
+        "qs_pg:id":898988,
         "wd:id":"Q2424726",
         "wk:page":"Kicukiro District"
     },
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":421182309,
-    "wof:lastmodified":1563321264,
+    "wof:lastmodified":1566637766,
     "wof:name":"Kicukiro",
     "wof:parent_id":85676807,
     "wof:placetype":"county",

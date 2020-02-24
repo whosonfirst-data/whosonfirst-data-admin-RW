@@ -183,6 +183,9 @@
     },
     "wof:country":"RW",
     "wof:created":1459009019,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"2e5aa2bf64a3b8f35c57c1b68123ea43",
     "wof:hierarchy":[
         {
@@ -194,7 +197,7 @@
         }
     ],
     "wof:id":421174099,
-    "wof:lastmodified":1566637759,
+    "wof:lastmodified":1582326391,
     "wof:name":"Ruhengeri",
     "wof:parent_id":421187899,
     "wof:placetype":"locality",

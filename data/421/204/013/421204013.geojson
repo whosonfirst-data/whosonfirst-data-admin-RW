@@ -118,6 +118,9 @@
     },
     "wof:country":"RW",
     "wof:created":1459010171,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"463536c01487fd9c6a18c668d7b1fd15",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":421204013,
-    "wof:lastmodified":1566637755,
+    "wof:lastmodified":1582326389,
     "wof:name":"Gatsibo",
     "wof:parent_id":85676795,
     "wof:placetype":"county",

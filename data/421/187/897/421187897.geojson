@@ -121,6 +121,9 @@
     },
     "wof:country":"RW",
     "wof:created":1459009527,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"8019958c6f181c1741af76185e13d0f6",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421187897,
-    "wof:lastmodified":1566637760,
+    "wof:lastmodified":1582326392,
     "wof:name":"Musanze",
     "wof:parent_id":85676799,
     "wof:placetype":"county",

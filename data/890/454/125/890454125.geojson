@@ -250,6 +250,7 @@
     "qs:photos_sr":0,
     "qs:pop_sr":"8",
     "src:geom_alt":[
+        "naturalearth",
         "quattroshapes_pg"
     ],
     "src:population":"geonames",
@@ -273,6 +274,10 @@
     },
     "wof:country":"RW",
     "wof:created":1469052887,
+    "wof:geom_alt":[
+        "naturalearth",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"e7e31418499afddc8500b158a4b4edb8",
     "wof:hierarchy":[
         {
@@ -284,7 +289,7 @@
         }
     ],
     "wof:id":890454125,
-    "wof:lastmodified":1561837348,
+    "wof:lastmodified":1582326397,
     "wof:name":"Butare",
     "wof:parent_id":421204219,
     "wof:placetype":"locality",

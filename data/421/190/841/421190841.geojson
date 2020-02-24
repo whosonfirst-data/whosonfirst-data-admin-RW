@@ -112,6 +112,9 @@
     },
     "wof:country":"RW",
     "wof:created":1459009670,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f53ead4d697d5e9f415f17ffb85fc59a",
     "wof:hierarchy":[
         {
@@ -122,7 +125,7 @@
         }
     ],
     "wof:id":421190841,
-    "wof:lastmodified":1566637764,
+    "wof:lastmodified":1582326394,
     "wof:name":"Nyanza",
     "wof:parent_id":85676785,
     "wof:placetype":"county",

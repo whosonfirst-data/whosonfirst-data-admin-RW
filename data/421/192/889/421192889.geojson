@@ -121,6 +121,9 @@
     },
     "wof:country":"RW",
     "wof:created":1459009752,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"07ac39985810be823bbe42b7d96e7d57",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421192889,
-    "wof:lastmodified":1566637749,
+    "wof:lastmodified":1582326385,
     "wof:name":"Gakenke",
     "wof:parent_id":85676799,
     "wof:placetype":"county",

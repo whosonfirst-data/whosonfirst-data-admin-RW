@@ -121,6 +121,9 @@
     },
     "wof:country":"RW",
     "wof:created":1459010144,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"02b61328e769051e0a65f8d137cfe94a",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421203217,
-    "wof:lastmodified":1566637757,
+    "wof:lastmodified":1582326390,
     "wof:name":"Rulindo",
     "wof:parent_id":85676799,
     "wof:placetype":"county",

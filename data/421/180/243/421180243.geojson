@@ -118,6 +118,9 @@
     },
     "wof:country":"RW",
     "wof:created":1459009249,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"82617090607ad8497f8cddec7da6805e",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":421180243,
-    "wof:lastmodified":1566637759,
+    "wof:lastmodified":1582326391,
     "wof:name":"Burera",
     "wof:parent_id":85676799,
     "wof:placetype":"county",

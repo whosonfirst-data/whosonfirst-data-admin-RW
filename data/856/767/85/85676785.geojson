@@ -304,6 +304,9 @@
         "wk:page":"Southern Province, Rwanda"
     },
     "wof:country":"RW",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"2d1b191842c53aca9c7efbfed712262d",
     "wof:hierarchy":[
         {
@@ -323,7 +326,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1566637093,
+    "wof:lastmodified":1582326375,
     "wof:name":"Southern",
     "wof:parent_id":85632303,
     "wof:placetype":"region",

@@ -281,6 +281,9 @@
     },
     "wof:country":"RW",
     "wof:created":1469052881,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cd3067875603df37306597f10e685627",
     "wof:hierarchy":[
         {
@@ -291,7 +294,7 @@
         }
     ],
     "wof:id":890453977,
-    "wof:lastmodified":1566637770,
+    "wof:lastmodified":1582326397,
     "wof:name":"Gisenyi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

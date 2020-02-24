@@ -468,6 +468,9 @@
     },
     "wof:country":"RW",
     "wof:created":1459008888,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"07e8abe775be92a5dc8807d2dfedc7bf",
     "wof:hierarchy":[
         {
@@ -479,7 +482,7 @@
         }
     ],
     "wof:id":421171291,
-    "wof:lastmodified":1566637768,
+    "wof:lastmodified":1582326397,
     "wof:name":"Kigali",
     "wof:parent_id":421204011,
     "wof:placetype":"locality",

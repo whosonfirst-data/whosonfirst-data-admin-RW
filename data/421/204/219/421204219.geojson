@@ -130,6 +130,9 @@
     },
     "wof:country":"RW",
     "wof:created":1459010177,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"030787ea92163c52fe139bf84fd3785d",
     "wof:hierarchy":[
         {
@@ -140,7 +143,7 @@
         }
     ],
     "wof:id":421204219,
-    "wof:lastmodified":1566637756,
+    "wof:lastmodified":1582326389,
     "wof:name":"Huye",
     "wof:parent_id":85676785,
     "wof:placetype":"county",

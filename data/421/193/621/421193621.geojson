@@ -127,6 +127,9 @@
     },
     "wof:country":"RW",
     "wof:created":1459009777,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"6a0019af81b02428db6398691224f24f",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":421193621,
-    "wof:lastmodified":1566637753,
+    "wof:lastmodified":1582326388,
     "wof:name":"Nyagatare",
     "wof:parent_id":85676795,
     "wof:placetype":"county",

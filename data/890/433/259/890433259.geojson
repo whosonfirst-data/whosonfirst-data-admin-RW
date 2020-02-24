@@ -211,6 +211,9 @@
     },
     "wof:country":"RW",
     "wof:created":1469051973,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"46ad468f3d4a22fccfa869bcc003fd3e",
     "wof:hierarchy":[
         {
@@ -222,7 +225,7 @@
         }
     ],
     "wof:id":890433259,
-    "wof:lastmodified":1566637770,
+    "wof:lastmodified":1582326397,
     "wof:name":"Kibungo",
     "wof:parent_id":1108561297,
     "wof:placetype":"locality",

@@ -118,6 +118,9 @@
     },
     "wof:country":"RW",
     "wof:created":1459010114,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"a58675f88f5df1d6d0c41d0a9058d8cb",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":421202327,
-    "wof:lastmodified":1566637758,
+    "wof:lastmodified":1582326390,
     "wof:name":"Gasabo",
     "wof:parent_id":85676807,
     "wof:placetype":"county",

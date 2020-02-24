@@ -127,6 +127,9 @@
     },
     "wof:country":"RW",
     "wof:created":1459009117,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"7e374f1f165f67b9df32ff971c4e5716",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":421176723,
-    "wof:lastmodified":1566637767,
+    "wof:lastmodified":1582326396,
     "wof:name":"Rusizi",
     "wof:parent_id":85676791,
     "wof:placetype":"county",

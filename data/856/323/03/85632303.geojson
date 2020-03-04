@@ -934,6 +934,11 @@
     },
     "wof:country":"RW",
     "wof:country_alpha3":"RWA",
+    "wof:geom_alt":[
+        "naturalearth-display-terrestrial-zoom6",
+        "meso",
+        "naturalearth"
+    ],
     "wof:geomhash":"7e0112deafa7015114b3beb7937ec5be",
     "wof:hierarchy":[
         {
@@ -952,7 +957,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1566637086,
+    "wof:lastmodified":1583210129,
     "wof:name":"Rwanda",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

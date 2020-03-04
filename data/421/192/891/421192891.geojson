@@ -124,6 +124,9 @@
     },
     "wof:country":"RW",
     "wof:created":1459009752,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"25182a44ac602944215c165485abf4b3",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":421192891,
-    "wof:lastmodified":1566637751,
+    "wof:lastmodified":1582326387,
     "wof:name":"Nyamasheke",
     "wof:parent_id":85676791,
     "wof:placetype":"county",

@@ -208,6 +208,9 @@
         "wd:id":"Q167196"
     },
     "wof:country":"RW",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"868fdc7a5c6da7da896741a240ba0b56",
     "wof:hierarchy":[
         {
@@ -227,7 +230,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1566637094,
+    "wof:lastmodified":1582326376,
     "wof:name":"Kigali City",
     "wof:parent_id":85632303,
     "wof:placetype":"region",

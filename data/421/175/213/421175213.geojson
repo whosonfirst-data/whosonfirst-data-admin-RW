@@ -121,6 +121,9 @@
     },
     "wof:country":"RW",
     "wof:created":1459009059,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"1d0f1e0c21e7d2994af92fdcb7a71491",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421175213,
-    "wof:lastmodified":1566637762,
+    "wof:lastmodified":1582326392,
     "wof:name":"Gicumbi",
     "wof:parent_id":85676799,
     "wof:placetype":"county",

@@ -121,6 +121,9 @@
     },
     "wof:country":"RW",
     "wof:created":1459009997,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"4b6c52ef449242b86fabc742c335b34b",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421199681,
-    "wof:lastmodified":1566637765,
+    "wof:lastmodified":1582326395,
     "wof:name":"Bugesera",
     "wof:parent_id":85676795,
     "wof:placetype":"county",

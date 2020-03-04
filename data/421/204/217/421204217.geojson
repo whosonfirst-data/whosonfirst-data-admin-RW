@@ -118,6 +118,9 @@
     },
     "wof:country":"RW",
     "wof:created":1459010177,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"fd1f9fa1e37accde48fa9200fcf98500",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":421204217,
-    "wof:lastmodified":1566637756,
+    "wof:lastmodified":1582326389,
     "wof:name":"Kayonza",
     "wof:parent_id":85676795,
     "wof:placetype":"county",

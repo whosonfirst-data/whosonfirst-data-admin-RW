@@ -118,6 +118,9 @@
     },
     "wof:country":"RW",
     "wof:created":1459009325,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"338e413b3b624e611a01cecab03013e1",
     "wof:hierarchy":[
         {
@@ -128,7 +131,7 @@
         }
     ],
     "wof:id":421182309,
-    "wof:lastmodified":1566637766,
+    "wof:lastmodified":1582326395,
     "wof:name":"Kicukiro",
     "wof:parent_id":85676807,
     "wof:placetype":"county",

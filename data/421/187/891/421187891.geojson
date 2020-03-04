@@ -121,6 +121,9 @@
     },
     "wof:country":"RW",
     "wof:created":1459009527,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"58583f80a0ab2fdd8dd4b76179e4f8d6",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421187891,
-    "wof:lastmodified":1566637760,
+    "wof:lastmodified":1582326391,
     "wof:name":"Rwamagana",
     "wof:parent_id":85676795,
     "wof:placetype":"county",

@@ -121,6 +121,9 @@
     },
     "wof:country":"RW",
     "wof:created":1459009670,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c24490e3761c858fbfcf248c3f46445b",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421190843,
-    "wof:lastmodified":1566637764,
+    "wof:lastmodified":1582326394,
     "wof:name":"Kamonyi",
     "wof:parent_id":85676785,
     "wof:placetype":"county",

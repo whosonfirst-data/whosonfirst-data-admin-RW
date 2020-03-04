@@ -121,6 +121,9 @@
     },
     "wof:country":"RW",
     "wof:created":1459010171,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"f98d7f7fa9394dd1983bafaefa5abb22",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421204011,
-    "wof:lastmodified":1566637757,
+    "wof:lastmodified":1582326390,
     "wof:name":"Nyarugenge",
     "wof:parent_id":85676807,
     "wof:placetype":"county",

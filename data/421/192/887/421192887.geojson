@@ -121,6 +121,9 @@
     },
     "wof:country":"RW",
     "wof:created":1459009752,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d9e231925d142e16e20d0a55571337a6",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421192887,
-    "wof:lastmodified":1566637750,
+    "wof:lastmodified":1582326386,
     "wof:name":"Muhanga",
     "wof:parent_id":85676785,
     "wof:placetype":"county",

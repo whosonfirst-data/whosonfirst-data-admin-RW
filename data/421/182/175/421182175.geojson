@@ -127,6 +127,9 @@
     },
     "wof:country":"RW",
     "wof:created":1459009321,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"c63c4622d71e2f52a5db90de75dcaa67",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":421182175,
-    "wof:lastmodified":1566637766,
+    "wof:lastmodified":1582326395,
     "wof:name":"Karongi",
     "wof:parent_id":85676791,
     "wof:placetype":"county",

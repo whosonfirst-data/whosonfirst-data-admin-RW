@@ -219,6 +219,9 @@
     },
     "wof:country":"RW",
     "wof:created":1469052880,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3ef669472635e9e7309eab02e8bbc708",
     "wof:hierarchy":[
         {
@@ -230,7 +233,7 @@
         }
     ],
     "wof:id":890453975,
-    "wof:lastmodified":1566637770,
+    "wof:lastmodified":1582326397,
     "wof:name":"Cyangugu",
     "wof:parent_id":421176723,
     "wof:placetype":"locality",

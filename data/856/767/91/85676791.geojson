@@ -300,6 +300,9 @@
         "wk:page":"Western Province, Rwanda"
     },
     "wof:country":"RW",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"d0019f9571aa02e54a8e2d8f767e8bf8",
     "wof:hierarchy":[
         {
@@ -319,7 +322,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1566637088,
+    "wof:lastmodified":1582326372,
     "wof:name":"Western",
     "wof:parent_id":85632303,
     "wof:placetype":"region",

@@ -124,6 +124,9 @@
     },
     "wof:country":"RW",
     "wof:created":1459009076,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"e98d0ab703fd61c307404931b6b9f1a2",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":421175701,
-    "wof:lastmodified":1566637761,
+    "wof:lastmodified":1582326392,
     "wof:name":"Kirehe",
     "wof:parent_id":85676795,
     "wof:placetype":"county",

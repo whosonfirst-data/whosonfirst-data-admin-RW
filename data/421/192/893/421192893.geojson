@@ -127,6 +127,9 @@
     },
     "wof:country":"RW",
     "wof:created":1459009752,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"24a1d85a08a658d30f838e37799224c7",
     "wof:hierarchy":[
         {
@@ -137,7 +140,7 @@
         }
     ],
     "wof:id":421192893,
-    "wof:lastmodified":1566637751,
+    "wof:lastmodified":1582326386,
     "wof:name":"Nyamagabe",
     "wof:parent_id":85676785,
     "wof:placetype":"county",

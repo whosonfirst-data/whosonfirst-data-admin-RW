@@ -121,6 +121,9 @@
     },
     "wof:country":"RW",
     "wof:created":1459008809,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3b1f4349c427982059fbbe90b3011edc",
     "wof:hierarchy":[
         {
@@ -131,7 +134,7 @@
         }
     ],
     "wof:id":421169419,
-    "wof:lastmodified":1566637755,
+    "wof:lastmodified":1582326388,
     "wof:name":"Nyabihu",
     "wof:parent_id":85676791,
     "wof:placetype":"county",

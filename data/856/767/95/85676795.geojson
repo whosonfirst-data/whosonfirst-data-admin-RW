@@ -303,6 +303,9 @@
         "wk:page":"Eastern Province, Rwanda"
     },
     "wof:country":"RW",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cfaf18a4715c2281f35e00ff75ea5eb3",
     "wof:hierarchy":[
         {
@@ -322,7 +325,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1566637087,
+    "wof:lastmodified":1582326371,
     "wof:name":"Eastern",
     "wof:parent_id":85632303,
     "wof:placetype":"region",

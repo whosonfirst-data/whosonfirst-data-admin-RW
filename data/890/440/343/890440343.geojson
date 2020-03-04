@@ -214,6 +214,9 @@
     },
     "wof:country":"RW",
     "wof:created":1469052271,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"dc4eaa02bb2abcb72538647baaf6519a",
     "wof:hierarchy":[
         {
@@ -225,7 +228,7 @@
         }
     ],
     "wof:id":890440343,
-    "wof:lastmodified":1566637769,
+    "wof:lastmodified":1582326397,
     "wof:name":"Kibuye",
     "wof:parent_id":421182175,
     "wof:placetype":"locality",

@@ -124,6 +124,9 @@
     },
     "wof:country":"RW",
     "wof:created":1459009527,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"b2eb868e0eb3b35ba6a0c5021996ad7d",
     "wof:hierarchy":[
         {
@@ -134,7 +137,7 @@
         }
     ],
     "wof:id":421187899,
-    "wof:lastmodified":1566637760,
+    "wof:lastmodified":1582326391,
     "wof:name":"Rubavu",
     "wof:parent_id":85676791,
     "wof:placetype":"county",

@@ -910,9 +910,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Rwanda",
-        "digitalenvoy:country_code":[
-            646
-        ],
+        "digitalenvoy:country_code":646,
         "fb:id":"en.rwanda",
         "fifa:id":"RWA",
         "fips:code":"RW",
@@ -960,7 +958,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1583529219,
+    "wof:lastmodified":1583797427,
     "wof:name":"Rwanda",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

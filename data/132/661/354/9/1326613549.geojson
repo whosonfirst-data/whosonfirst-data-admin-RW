@@ -38,7 +38,16 @@
     "name:deu_x_preferred":[
         "Kagera"
     ],
+    "name:ell_x_preferred":[
+        "\u039a\u03b1\u03b3\u03ba\u03ad\u03c1\u03b1"
+    ],
     "name:glg_x_preferred":[
+        "Kagera"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d0\u05d2\u05e8\u05d4"
+    ],
+    "name:hun_x_preferred":[
         "Kagera"
     ],
     "name:ind_x_preferred":[
@@ -46,6 +55,9 @@
     ],
     "name:ita_x_preferred":[
         "Kagera"
+    ],
+    "name:kor_x_preferred":[
+        "\uce74\uac8c\ub77c"
     ],
     "name:nld_x_preferred":[
         "Kagera"
@@ -58,6 +70,9 @@
     ],
     "name:swe_x_preferred":[
         "Kagera"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0627\u06af\u06cc\u0631\u0627"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -82,7 +97,7 @@
         }
     ],
     "wof:id":1326613549,
-    "wof:lastmodified":1566636857,
+    "wof:lastmodified":1636496666,
     "wof:name":"Kagera",
     "wof:parent_id":421190845,
     "wof:placetype":"locality",

@@ -57,7 +57,13 @@
         "Ruyigi"
     ],
     "name:heb_x_preferred":[
+        "\u05e8\u05d5\u05d0\u05d9\u05d2\u05d9"
+    ],
+    "name:heb_x_variant":[
         "\u05e8\u05d5\u05d9\u05d9\u05d2\u05d9"
+    ],
+    "name:hun_x_preferred":[
+        "Ruyigi"
     ],
     "name:ita_x_preferred":[
         "Ruyigi"
@@ -124,7 +130,7 @@
         }
     ],
     "wof:id":1310584003,
-    "wof:lastmodified":1566637656,
+    "wof:lastmodified":1636496686,
     "wof:name":"Ruyigi",
     "wof:parent_id":1108561299,
     "wof:placetype":"locality",

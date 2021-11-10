@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0627\u0646\u062c\u0648\u062c\u0648"
     ],
+    "name:ben_x_preferred":[
+        "\u0995\u09be\u09df\u09be\u0982\u0997\u09c1\u0997\u09c1"
+    ],
     "name:cat_x_preferred":[
         "Cyangugu"
     ],
@@ -43,10 +46,28 @@
     "name:eus_x_preferred":[
         "Cyangugu"
     ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0627\u0646\u06af\u0648\u06af\u0648"
+    ],
     "name:fra_x_preferred":[
         "Cyangugu"
     ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d9\u05d0\u05df \u05d2\u05d5\u05d2\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u094d\u092f\u093e\u0902\u0917\u0942\u0917\u0941"
+    ],
     "name:hrv_x_preferred":[
+        "Cyangugu"
+    ],
+    "name:hun_x_preferred":[
+        "Cyangugu"
+    ],
+    "name:ind_x_preferred":[
+        "Cyangugu"
+    ],
+    "name:ita_x_preferred":[
         "Cyangugu"
     ],
     "name:jpn_x_preferred":[
@@ -91,8 +112,17 @@
     "name:tur_x_preferred":[
         "Cyangugu"
     ],
+    "name:ukr_x_preferred":[
+        "\u0427\u044c\u044f\u043d\u0433\u0443\u0433\u0443"
+    ],
     "name:und_x_variant":[
         "Shangugu"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0627\u06cc\u0627\u0646\u06af\u0648\u06af\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Cyangugu"
     ],
     "name:zho_x_preferred":[
         "\u5c1a\u53e4\u53e4"
@@ -233,7 +263,7 @@
         }
     ],
     "wof:id":890453975,
-    "wof:lastmodified":1582326397,
+    "wof:lastmodified":1636496690,
     "wof:name":"Cyangugu",
     "wof:parent_id":421176723,
     "wof:placetype":"locality",

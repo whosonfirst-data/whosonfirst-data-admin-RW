@@ -32,16 +32,70 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0648\u0633\u064a\u0646\u062c\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09c1\u09b8\u09bf\u0982\u0997\u09be"
+    ],
     "name:ceb_x_preferred":[
         "Businga"
     ],
+    "name:deu_x_preferred":[
+        "Businga"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03bf\u03c5\u03c3\u03af\u03bd\u03b3\u03ba\u03b1"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0648\u0633\u06cc\u0646\u06af\u0627"
+    ],
     "name:fra_x_preferred":[
+        "Businga"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05e1\u05d9\u05e0\u05d2\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u0938\u093f\u0902\u0917\u093e"
+    ],
+    "name:hun_x_preferred":[
+        "Businga"
+    ],
+    "name:ind_x_preferred":[
+        "Businga"
+    ],
+    "name:ita_x_preferred":[
+        "Businga"
+    ],
+    "name:kor_x_preferred":[
+        "\ubd80\uc2f1\uac00"
+    ],
+    "name:por_x_preferred":[
         "Businga"
     ],
     "name:ron_x_preferred":[
         "Businga"
     ],
+    "name:rus_x_preferred":[
+        "\u0411\u044e\u0437\u0438\u043d\u0433\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Businga"
+    ],
     "name:swe_x_preferred":[
+        "Businga"
+    ],
+    "name:tur_x_preferred":[
+        "Businga"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0443\u0441\u0456\u043d\u0433\u0430"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0648\u0633\u0646\u06af\u0627"
+    ],
+    "name:vie_x_preferred":[
         "Businga"
     ],
     "src:geom":"geonames",
@@ -61,7 +115,7 @@
         }
     ],
     "wof:id":1209293357,
-    "wof:lastmodified":1566637444,
+    "wof:lastmodified":1636496681,
     "wof:name":"Businga",
     "wof:parent_id":85632303,
     "wof:placetype":"locality",

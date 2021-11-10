@@ -62,6 +62,9 @@
     "name:hrv_x_preferred":[
         "Meru"
     ],
+    "name:hun_x_preferred":[
+        "Meru"
+    ],
     "name:ind_x_preferred":[
         "Meru"
     ],
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":1226224877,
-    "wof:lastmodified":1566638081,
+    "wof:lastmodified":1636496697,
     "wof:name":"Meru",
     "wof:parent_id":421192887,
     "wof:placetype":"locality",

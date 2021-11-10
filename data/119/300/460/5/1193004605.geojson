@@ -35,6 +35,9 @@
     "name:azb_x_preferred":[
         "\u0628\u06cc\u0648\u0645\u0628\u0627"
     ],
+    "name:ben_x_preferred":[
+        "\u09ac\u09be\u0987\u09df\u09be\u09ae\u09cd\u09ac\u09be"
+    ],
     "name:cat_x_preferred":[
         "Byumba"
     ],
@@ -62,7 +65,19 @@
     "name:fra_x_preferred":[
         "Byumba"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05d5\u05de\u05d1\u05d4"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u094d\u092f\u0942\u092e\u094d\u092c\u093e"
+    ],
     "name:hrv_x_preferred":[
+        "Byumba"
+    ],
+    "name:hun_x_preferred":[
+        "Byumba"
+    ],
+    "name:ind_x_preferred":[
         "Byumba"
     ],
     "name:ita_x_preferred":[
@@ -98,6 +113,9 @@
     "name:spa_x_preferred":[
         "Byumba"
     ],
+    "name:swe_x_preferred":[
+        "Byumba"
+    ],
     "name:tur_x_preferred":[
         "Byumba"
     ],
@@ -106,6 +124,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0628\u06cc\u0648\u0645\u0628\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Byumba"
     ],
     "name:zho_x_preferred":[
         "\u6bd4\u6e29\u5df4"
@@ -133,7 +154,7 @@
         }
     ],
     "wof:id":1193004605,
-    "wof:lastmodified":1566637481,
+    "wof:lastmodified":1636496682,
     "wof:name":"Byumba",
     "wof:parent_id":421180243,
     "wof:placetype":"locality",

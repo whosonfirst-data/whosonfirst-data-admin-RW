@@ -56,6 +56,9 @@
     "name:fao_x_preferred":[
         "Rundu"
     ],
+    "name:fas_x_preferred":[
+        "\u0631\u0646\u062f\u0648"
+    ],
     "name:fin_x_preferred":[
         "Rundu"
     ],
@@ -65,7 +68,13 @@
     "name:frr_x_preferred":[
         "Rundu"
     ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d5\u05e0\u05d3\u05d5"
+    ],
     "name:hrv_x_preferred":[
+        "Rundu"
+    ],
+    "name:hun_x_preferred":[
         "Rundu"
     ],
     "name:ita_x_preferred":[
@@ -136,7 +145,7 @@
         }
     ],
     "wof:id":1293871773,
-    "wof:lastmodified":1566637202,
+    "wof:lastmodified":1636496676,
     "wof:name":"Rundu",
     "wof:parent_id":421204217,
     "wof:placetype":"locality",

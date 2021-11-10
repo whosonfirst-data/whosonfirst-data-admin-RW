@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"29.7400345446,-2.34958656933,29.7400345446,-2.34958656933",
+    "geom:bbox":"29.740035,-2.349587,29.740035,-2.349587",
     "geom:latitude":-2.349587,
     "geom:longitude":29.740035,
     "iso:country":"RW",
@@ -23,6 +23,9 @@
     ],
     "name:ara_x_variant":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0646\u064a\u0627\u0646\u0632\u0627"
+    ],
+    "name:ben_x_preferred":[
+        "\u098f\u09a8\u09bf\u09df\u09be\u099e\u09cd\u099c\u09be"
     ],
     "name:bos_x_preferred":[
         "Nyanza"
@@ -45,17 +48,32 @@
     "name:est_x_preferred":[
         "Nyanza"
     ],
+    "name:fas_x_preferred":[
+        "\u0646\u06cc\u0627\u0646\u0632\u0627"
+    ],
     "name:fra_x_preferred":[
         "Nyanza"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05d9\u05d0\u05e0\u05d6\u05d4"
     ],
+    "name:hin_x_preferred":[
+        "\u0928\u094d\u092f\u093e\u0902\u091c\u093c\u093e"
+    ],
     "name:hrv_x_preferred":[
+        "Nyanza"
+    ],
+    "name:hun_x_preferred":[
         "Nyanza"
     ],
     "name:hye_x_preferred":[
         "\u0546\u056b\u0561\u0576\u0566\u0561"
+    ],
+    "name:ind_x_preferred":[
+        "Nyanza"
+    ],
+    "name:ita_x_preferred":[
+        "Nyanza"
     ],
     "name:jpn_x_preferred":[
         "\u30cb\u30e3\u30f3\u30b6"
@@ -98,6 +116,9 @@
     ],
     "name:urd_x_variant":[
         "\u0646\u06cc\u0627\u0646\u0632\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Nyanza"
     ],
     "name:zho_x_preferred":[
         "\u6069\u5ef6\u624e"
@@ -210,7 +231,7 @@
     },
     "wof:country":"RW",
     "wof:created":1499130673,
-    "wof:geomhash":"29cce6019412059d561b9cc88467c83c",
+    "wof:geomhash":"c6e5b85f5f7084eac70f182cfae60515",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -221,7 +242,7 @@
         }
     ],
     "wof:id":1141907039,
-    "wof:lastmodified":1566638135,
+    "wof:lastmodified":1636496699,
     "wof:name":"Nyanza",
     "wof:parent_id":421190841,
     "wof:placetype":"locality",
@@ -231,10 +252,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.74003454460279,
-    -2.34958656932889,
-    29.74003454460279,
-    -2.34958656932889
+    29.740035,
+    -2.349587,
+    29.740035,
+    -2.349587
 ],
-  "geometry": {"coordinates":[29.74003454460279,-2.34958656932889],"type":"Point"}
+  "geometry": {"coordinates":[29.740035,-2.349587],"type":"Point"}
 }

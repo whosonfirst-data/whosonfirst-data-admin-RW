@@ -41,7 +41,16 @@
     "name:deu_x_preferred":[
         "Kadoma"
     ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0627\u062f\u0648\u0645\u0627"
+    ],
     "name:fra_x_preferred":[
+        "Kadoma"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d3\u05d5\u05de\u05d4"
+    ],
+    "name:hun_x_preferred":[
         "Kadoma"
     ],
     "name:ita_x_preferred":[
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":1243236885,
-    "wof:lastmodified":1566637820,
+    "wof:lastmodified":1636496692,
     "wof:name":"Kadoma",
     "wof:parent_id":421192893,
     "wof:placetype":"locality",

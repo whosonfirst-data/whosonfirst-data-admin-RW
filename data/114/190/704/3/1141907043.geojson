@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"29.7300093167,-2.58962359732,29.7300093167,-2.58962359732",
+    "geom:bbox":"29.730009,-2.589624,29.730009,-2.589624",
     "geom:latitude":-2.589624,
     "geom:longitude":29.730009,
     "gn:country":"RW",
@@ -78,11 +78,17 @@
     "name:guj_x_preferred":[
         "\u0aac\u0ac1\u0a9f\u0abe\u0ab0\u0ac7"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05d8\u05e8\u05d4"
+    ],
     "name:hin_x_preferred":[
         "\u0909\u092f\u0947"
     ],
     "name:hrv_x_preferred":[
         "Huye"
+    ],
+    "name:hun_x_preferred":[
+        "Butare"
     ],
     "name:hye_x_preferred":[
         "\u0532\u0578\u0582\u057f\u0561\u0580\u0565"
@@ -293,7 +299,7 @@
     },
     "wof:country":"RW",
     "wof:created":1499130674,
-    "wof:geomhash":"40cf4a8098e2a5b177a3a7044017dbee",
+    "wof:geomhash":"b64e57e6bb6f929888dd20c22b17ce58",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -304,7 +310,7 @@
         }
     ],
     "wof:id":1141907043,
-    "wof:lastmodified":1566638135,
+    "wof:lastmodified":1636496700,
     "wof:name":"Butare",
     "wof:parent_id":421204219,
     "wof:placetype":"locality",
@@ -318,10 +324,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    29.73000931673823,
-    -2.58962359732465,
-    29.73000931673823,
-    -2.58962359732465
+    29.730009,
+    -2.589624,
+    29.730009,
+    -2.589624
 ],
-  "geometry": {"coordinates":[29.73000931673823,-2.58962359732465],"type":"Point"}
+  "geometry": {"coordinates":[29.730009,-2.589624],"type":"Point"}
 }

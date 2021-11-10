@@ -56,6 +56,12 @@
     "name:frr_x_preferred":[
         "Kayanza"
     ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05d9\u05d9\u05d0\u05e0\u05d6\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Kayanza"
+    ],
     "name:ita_x_preferred":[
         "Kayanza"
     ],
@@ -118,7 +124,7 @@
         }
     ],
     "wof:id":1293866831,
-    "wof:lastmodified":1566637227,
+    "wof:lastmodified":1636496677,
     "wof:name":"Kayanza",
     "wof:parent_id":421190841,
     "wof:placetype":"locality",

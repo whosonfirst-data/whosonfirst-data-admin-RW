@@ -89,6 +89,9 @@
     "name:hrv_x_preferred":[
         "Gitega"
     ],
+    "name:hun_x_preferred":[
+        "Gitega"
+    ],
     "name:ile_x_preferred":[
         "Gitega"
     ],
@@ -193,7 +196,7 @@
         }
     ],
     "wof:id":1293671959,
-    "wof:lastmodified":1566637168,
+    "wof:lastmodified":1636496674,
     "wof:name":"Gitega",
     "wof:parent_id":1108561299,
     "wof:placetype":"locality",

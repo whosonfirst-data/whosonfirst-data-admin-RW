@@ -32,6 +32,84 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0633\u0648\u0646\u0632\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09be\u09a8\u099c\u09c1"
+    ],
+    "name:deu_x_preferred":[
+        "Mount Sunzu"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a3\u03bf\u03c5\u03bd\u03b6\u03bf\u03cd"
+    ],
+    "name:eng_x_preferred":[
+        "Mount Sunzu"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0648\u0646\u0632\u0648"
+    ],
+    "name:fra_x_preferred":[
+        "Sunzu"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d5\u05d6\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0941\u0928\u091c\u093c\u0941"
+    ],
+    "name:hun_x_preferred":[
+        "Sunzu"
+    ],
+    "name:ind_x_preferred":[
+        "Sunzu"
+    ],
+    "name:ita_x_preferred":[
+        "Sunzu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30f3\u30ba\u5c71"
+    ],
+    "name:kor_x_preferred":[
+        "\uc21c\uc8fc"
+    ],
+    "name:nld_x_preferred":[
+        "Sunzu"
+    ],
+    "name:pol_x_preferred":[
+        "Sunzu"
+    ],
+    "name:por_x_preferred":[
+        "Sunzu"
+    ],
+    "name:rus_x_preferred":[
+        "\u0433\u043e\u0440\u0430 \u0421\u0443\u043d\u0437\u0443"
+    ],
+    "name:spa_x_preferred":[
+        "Sunzu"
+    ],
+    "name:swe_x_preferred":[
+        "Sunzu"
+    ],
+    "name:tur_x_preferred":[
+        "Sunzu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0443\u043d\u0437\u0443"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u0646\u0632\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "N\u00fai Sunzu"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u6851\u7956\u5c71"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5b6b\u7956\u5c71"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -55,7 +133,7 @@
         }
     ],
     "wof:id":1242952583,
-    "wof:lastmodified":1566637800,
+    "wof:lastmodified":1636496691,
     "wof:name":"Sunzu",
     "wof:parent_id":421180243,
     "wof:placetype":"locality",

@@ -50,6 +50,9 @@
     "name:bel_x_preferred":[
         "\u0406\u0432\u0456\u0441\u0430"
     ],
+    "name:ben_x_preferred":[
+        "\u0987\u09ac\u09bf\u099c\u09be"
+    ],
     "name:bre_x_preferred":[
         "Eivissa"
     ],
@@ -239,6 +242,9 @@
     "name:ukr_x_preferred":[
         "\u0406\u0431\u0456\u0441\u0430"
     ],
+    "name:urd_x_preferred":[
+        "\u0622\u0626\u06cc\u0628\u06cc\u0632\u0627"
+    ],
     "name:vie_x_preferred":[
         "Ibiza"
     ],
@@ -277,7 +283,7 @@
         }
     ],
     "wof:id":1293179147,
-    "wof:lastmodified":1566637206,
+    "wof:lastmodified":1636496676,
     "wof:name":"Ibiza",
     "wof:parent_id":421204217,
     "wof:placetype":"locality",

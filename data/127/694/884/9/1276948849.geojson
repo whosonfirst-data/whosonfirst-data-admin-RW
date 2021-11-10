@@ -50,6 +50,12 @@
     "name:frr_x_preferred":[
         "Mwaro"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05d9 \u05de\u05d9\u05d9\u05d0\u05d9\u05e7"
+    ],
+    "name:hun_x_preferred":[
+        "Mwaro"
+    ],
     "name:ita_x_preferred":[
         "Mwaro"
     ],
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":1276948849,
-    "wof:lastmodified":1566637265,
+    "wof:lastmodified":1636496678,
     "wof:name":"Mwaro",
     "wof:parent_id":421176723,
     "wof:placetype":"locality",

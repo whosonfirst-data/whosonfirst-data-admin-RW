@@ -53,6 +53,9 @@
     "name:fra_x_preferred":[
         "Butembo"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05d8\u05de\u05d1\u05d5"
+    ],
     "name:hun_x_preferred":[
         "Butembo"
     ],
@@ -121,7 +124,7 @@
         }
     ],
     "wof:id":1260063569,
-    "wof:lastmodified":1566637538,
+    "wof:lastmodified":1636496684,
     "wof:name":"Butembo",
     "wof:parent_id":421192891,
     "wof:placetype":"locality",

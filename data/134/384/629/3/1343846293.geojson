@@ -38,6 +38,12 @@
     "name:fra_x_preferred":[
         "Bushenyi"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d5\u05e9\u05e0\u05d9\u05d9"
+    ],
+    "name:hun_x_preferred":[
+        "Bushenyi"
+    ],
     "name:ita_x_preferred":[
         "Bushenyi"
     ],
@@ -82,7 +88,7 @@
         }
     ],
     "wof:id":1343846293,
-    "wof:lastmodified":1566637006,
+    "wof:lastmodified":1636496670,
     "wof:name":"Bushenyi",
     "wof:parent_id":421199681,
     "wof:placetype":"locality",

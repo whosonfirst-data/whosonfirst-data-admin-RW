@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0633\u064a\u0627\u0646\u062c\u0648\u062c\u0648"
     ],
+    "name:arz_x_preferred":[
+        "\u0633\u064a\u0627\u0646\u062c\u0648\u062c\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Cyangugu"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u09df\u09be\u0982\u0997\u09c1\u0997\u09c1"
     ],
@@ -29,6 +35,9 @@
         "Cyangugu"
     ],
     "name:ceb_x_preferred":[
+        "Cyangugu"
+    ],
+    "name:ces_x_preferred":[
         "Cyangugu"
     ],
     "name:dan_x_preferred":[
@@ -48,6 +57,9 @@
     ],
     "name:fas_x_preferred":[
         "\u0633\u06cc\u0627\u0646\u06af\u0648\u06af\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Cyangugu"
     ],
     "name:fra_x_preferred":[
         "Cyangugu"
@@ -126,6 +138,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5c1a\u53e4\u53e4"
+    ],
+    "name:zul_x_preferred":[
+        "Cyangugu"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Rwanda",
@@ -263,7 +278,7 @@
         }
     ],
     "wof:id":890453975,
-    "wof:lastmodified":1636496690,
+    "wof:lastmodified":1690860254,
     "wof:name":"Cyangugu",
     "wof:parent_id":421176723,
     "wof:placetype":"locality",

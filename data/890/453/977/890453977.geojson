@@ -22,6 +22,15 @@
     "name:ara_x_preferred":[
         "\u062c\u064a\u0633\u0627\u064a\u0646\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u062c\u064a\u0633\u0627\u064a\u0646\u0649"
+    ],
+    "name:asm_x_preferred":[
+        "\u0997\u09bf\u099b\u09c7\u09a8\u09cd\u09af\u09bf"
+    ],
+    "name:ast_x_preferred":[
+        "Gisenyi"
+    ],
     "name:ben_x_preferred":[
         "\u0997\u09bf\u09b8\u09c7\u09a8\u09bf"
     ],
@@ -29,6 +38,9 @@
         "Gisenyi"
     ],
     "name:ceb_x_preferred":[
+        "Gisenyi"
+    ],
+    "name:ces_x_preferred":[
         "Gisenyi"
     ],
     "name:dan_x_preferred":[
@@ -130,7 +142,13 @@
     "name:sin_x_preferred":[
         "\u0d9c\u0dd2\u0dc3\u0dda\u0db1\u0dca\u0dba\u0dd2"
     ],
+    "name:slk_x_preferred":[
+        "Gisenyi"
+    ],
     "name:spa_x_preferred":[
+        "Gisenyi"
+    ],
+    "name:swa_x_preferred":[
         "Gisenyi"
     ],
     "name:swe_x_preferred":[
@@ -162,6 +180,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5409\u585e\u5c3c"
+    ],
+    "name:zul_x_preferred":[
+        "Gisenyi"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Rwanda",
@@ -297,7 +318,7 @@
         }
     ],
     "wof:id":890453977,
-    "wof:lastmodified":1636496690,
+    "wof:lastmodified":1690860253,
     "wof:name":"Gisenyi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

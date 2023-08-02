@@ -27,6 +27,12 @@
     "name:ara_x_preferred":[
         "\u0647\u0648\u064a\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0647\u0648\u064a\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Butare"
+    ],
     "name:azb_x_preferred":[
         "\u0628\u0648\u062a\u06cc\u0631"
     ],
@@ -51,6 +57,9 @@
     "name:deu_x_preferred":[
         "Butare"
     ],
+    "name:diq_x_preferred":[
+        "Butare"
+    ],
     "name:ell_x_preferred":[
         "\u039c\u03c0\u03bf\u03c5\u03c4\u03ac\u03c1\u03b5"
     ],
@@ -71,6 +80,9 @@
     ],
     "name:fra_x_preferred":[
         "Butare"
+    ],
+    "name:fra_x_variant":[
+        "Huye"
     ],
     "name:grn_x_preferred":[
         "Mbut\u00e1re"
@@ -107,6 +119,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cac\u0cc2\u0c9f\u0cbe\u0cb0\u0cc6"
+    ],
+    "name:kin_x_preferred":[
+        "Butare"
     ],
     "name:kor_x_preferred":[
         "\ubd80\ud0c0\ub808"
@@ -150,6 +165,9 @@
     "name:srp_x_preferred":[
         "\u0411\u0443\u0442\u0430\u0440\u0435"
     ],
+    "name:swa_x_preferred":[
+        "Butare"
+    ],
     "name:swe_x_preferred":[
         "Butare"
     ],
@@ -182,6 +200,12 @@
     ],
     "name:zho_x_preferred":[
         "\u5e03\u5854\u96f7\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u5e03\u5854\u96f7"
+    ],
+    "name:zul_x_preferred":[
+        "Butare"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Rwanda",
@@ -310,7 +334,7 @@
         }
     ],
     "wof:id":1141907043,
-    "wof:lastmodified":1636496700,
+    "wof:lastmodified":1690860257,
     "wof:name":"Butare",
     "wof:parent_id":421204219,
     "wof:placetype":"locality",

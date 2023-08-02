@@ -81,12 +81,18 @@
     "name:fin_x_preferred":[
         "Etel\u00e4inen provinssi"
     ],
+    "name:fin_x_variant":[
+        "Etel\u00e4-Ruanda"
+    ],
     "name:fra_x_preferred":[
         "Province du Sud"
     ],
     "name:fra_x_variant":[
         "Sud",
         "province du Sud"
+    ],
+    "name:frr_x_preferred":[
+        "S\u00fc\u00fcd"
     ],
     "name:guj_x_preferred":[
         "\u0aa6\u0a95\u0acd\u0ab7\u0abf\u0aa3\u0ac0 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -118,6 +124,9 @@
     "name:kin_x_preferred":[
         "Intara y\u2019 Amajyepfo"
     ],
+    "name:kin_x_variant":[
+        "Intara y'amajyepfo"
+    ],
     "name:kor_x_preferred":[
         "\ub0a8\ubd80 \uc8fc"
     ],
@@ -141,6 +150,9 @@
     ],
     "name:msa_x_preferred":[
         "Southern Province"
+    ],
+    "name:nan_x_preferred":[
+        "L\u00e2m-p\u014d\u0358 S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Sud"
@@ -199,6 +211,9 @@
     "name:vie_x_variant":[
         "T\u1ec9nh Mi\u1ec1n Nam"
     ],
+    "name:wuu_x_preferred":[
+        "\u5357\u90e8\u7701"
+    ],
     "name:zho_cn_x_preferred":[
         "\u5357\u533a"
     ],
@@ -207,6 +222,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5357\u90e8\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Southern Province"
     ],
     "ne:abbrev":"South",
     "ne:adm0_a3":"RWA",
@@ -335,7 +353,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1636496673,
+    "wof:lastmodified":1690860238,
     "wof:name":"Southern",
     "wof:parent_id":85632303,
     "wof:placetype":"region",

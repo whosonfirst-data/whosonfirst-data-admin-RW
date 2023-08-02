@@ -22,6 +22,12 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0628\u0648\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0643\u064a\u0628\u0648\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Kibuye"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09bf\u09ac\u09c1\u09df\u09c7"
     ],
@@ -103,6 +109,9 @@
     "name:spa_x_preferred":[
         "Kibuye"
     ],
+    "name:swa_x_preferred":[
+        "Kibuye"
+    ],
     "name:swe_x_preferred":[
         "Kibuye"
     ],
@@ -120,6 +129,9 @@
     ],
     "name:zho_x_preferred":[
         "\u57fa\u5e03\u8036"
+    ],
+    "name:zul_x_preferred":[
+        "Kibuye"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Rwanda",
@@ -255,7 +267,7 @@
         }
     ],
     "wof:id":890440343,
-    "wof:lastmodified":1636496690,
+    "wof:lastmodified":1690860253,
     "wof:name":"Kibuye",
     "wof:parent_id":421182175,
     "wof:placetype":"locality",

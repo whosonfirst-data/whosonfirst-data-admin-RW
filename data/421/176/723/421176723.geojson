@@ -34,8 +34,14 @@
     "mz:is_current":1,
     "mz:min_zoom":6.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:bel_x_preferred":[
+        "\u0420\u0443\u0441\u0456\u0437\u0456"
+    ],
     "name:ceb_x_preferred":[
         "Rusizi District"
+    ],
+    "name:deu_x_preferred":[
+        "Distrikt Rusizi"
     ],
     "name:ell_x_preferred":[
         "\u03a1\u03bf\u03c5\u03c3\u03af\u03b6\u03b9"
@@ -61,6 +67,9 @@
     "name:hin_x_preferred":[
         "\u0930\u0941\u0938\u093f\u091c\u093c\u093f"
     ],
+    "name:jpn_x_preferred":[
+        "\u30eb\u30b7\u30b8\u90e1"
+    ],
     "name:kin_x_preferred":[
         "Akarere ka Rusizi"
     ],
@@ -70,6 +79,9 @@
     "name:mrj_x_preferred":[
         "\u0420\u0443\u0441\u0438\u0437\u0438"
     ],
+    "name:nan_x_preferred":[
+        "Rusizi Ko\u0101n"
+    ],
     "name:nld_x_preferred":[
         "Rusizi District"
     ],
@@ -78,6 +90,9 @@
     ],
     "name:por_x_preferred":[
         "Rusizi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u0443\u0441\u0438\u0437\u0438"
     ],
     "name:swe_x_preferred":[
         "Rusizi"
@@ -96,6 +111,9 @@
     ],
     "name:zho_x_preferred":[
         "\u9b6f\u897f\u6fdf\u7e23"
+    ],
+    "name:zul_x_preferred":[
+        "Rusizi District"
     ],
     "qs:gn_country":"RW",
     "qs:gn_fcode":"ADM2",
@@ -161,7 +179,7 @@
         }
     ],
     "wof:id":421176723,
-    "wof:lastmodified":1636496689,
+    "wof:lastmodified":1690860252,
     "wof:name":"Rusizi",
     "wof:parent_id":85676791,
     "wof:placetype":"county",

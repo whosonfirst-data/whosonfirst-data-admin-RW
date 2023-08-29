@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0643\u064a\u0628\u0648\u0646\u063a\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Kibungo"
+    ],
     "name:ben_x_preferred":[
         "\u0995\u09bf\u09ac\u09c1\u0982\u0997\u09cb"
     ],
@@ -100,6 +103,12 @@
     "name:spa_x_preferred":[
         "Kibungo"
     ],
+    "name:swa_x_preferred":[
+        "Kibungo"
+    ],
+    "name:swe_x_preferred":[
+        "Kibungo"
+    ],
     "name:tur_x_preferred":[
         "Kibungo"
     ],
@@ -117,6 +126,9 @@
     ],
     "name:zho_x_preferred":[
         "\u57fa\u672c\u53e4"
+    ],
+    "name:zul_x_preferred":[
+        "Kibungo"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Rwanda",
@@ -252,7 +264,7 @@
         }
     ],
     "wof:id":890433259,
-    "wof:lastmodified":1636496690,
+    "wof:lastmodified":1690860254,
     "wof:name":"Kibungo",
     "wof:parent_id":1108561297,
     "wof:placetype":"locality",

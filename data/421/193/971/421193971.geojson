@@ -17,6 +17,9 @@
     "mz:is_current":1,
     "mz:min_zoom":9.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Rwamagana"
+    ],
     "name:cat_x_preferred":[
         "Rwamagana"
     ],
@@ -24,6 +27,9 @@
         "Rwamagana"
     ],
     "name:ces_x_preferred":[
+        "Rwamagana"
+    ],
+    "name:dan_x_preferred":[
         "Rwamagana"
     ],
     "name:deu_x_preferred":[
@@ -74,6 +80,15 @@
     "name:slk_x_preferred":[
         "Rwamagana"
     ],
+    "name:spa_x_preferred":[
+        "Rwamagana"
+    ],
+    "name:swa_x_preferred":[
+        "Rwamagana"
+    ],
+    "name:swe_x_preferred":[
+        "Rwamagana"
+    ],
     "name:tur_x_preferred":[
         "Rwamagana"
     ],
@@ -88,6 +103,9 @@
     ],
     "name:zho_x_preferred":[
         "\u76e7\u74e6\u99ac\u52a0\u7d0d"
+    ],
+    "name:zul_x_preferred":[
+        "Rwamagana"
     ],
     "qs:gn_country":"RW",
     "qs:gn_fcode":"PPLA",
@@ -139,7 +157,7 @@
         }
     ],
     "wof:id":421193971,
-    "wof:lastmodified":1566637754,
+    "wof:lastmodified":1690860244,
     "wof:name":"Rwamagana",
     "wof:parent_id":421187891,
     "wof:placetype":"locality",

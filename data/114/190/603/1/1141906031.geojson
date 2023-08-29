@@ -21,6 +21,9 @@
     "name:ara_x_preferred":[
         "\u062c\u064a\u0643\u0648\u0646\u062c\u0648\u0631\u0648"
     ],
+    "name:ast_x_preferred":[
+        "Gikongoro"
+    ],
     "name:ben_x_preferred":[
         "\u0997\u09bf\u0995\u09be\u0999\u09cd\u0997\u09cb\u09b0\u09cb"
     ],
@@ -90,6 +93,9 @@
     "name:spa_x_preferred":[
         "Gikongoro"
     ],
+    "name:swa_x_preferred":[
+        "Gikongoro"
+    ],
     "name:swe_x_preferred":[
         "Gikongoro"
     ],
@@ -107,6 +113,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5409\u5b54\u6208\u7f85"
+    ],
+    "name:zul_x_preferred":[
+        "Gikongoro"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Rwanda",
@@ -227,7 +236,7 @@
         }
     ],
     "wof:id":1141906031,
-    "wof:lastmodified":1636496699,
+    "wof:lastmodified":1690860256,
     "wof:name":"Gikongoro",
     "wof:parent_id":421192893,
     "wof:placetype":"locality",

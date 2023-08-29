@@ -78,6 +78,9 @@
     "name:fin_x_preferred":[
         "Western Province"
     ],
+    "name:fin_x_variant":[
+        "L\u00e4nsi-Ruanda"
+    ],
     "name:fra_x_preferred":[
         "Province de l'Ouest"
     ],
@@ -85,6 +88,9 @@
         "Province de l\u2019Ouest",
         "Ouest",
         "province de l'Ouest"
+    ],
+    "name:frr_x_preferred":[
+        "Waast"
     ],
     "name:guj_x_preferred":[
         "\u0aaa\u0ab6\u0acd\u0a9a\u0abf\u0aae\u0ac0 \u0aaa\u0acd\u0ab0\u0abe\u0a82\u0aa4"
@@ -111,7 +117,8 @@
         "Intara y\u2019 Iburengerazuba"
     ],
     "name:kin_x_variant":[
-        "Iburengerazuba"
+        "Iburengerazuba",
+        "Intara y'Uburengerazuba"
     ],
     "name:kor_x_preferred":[
         "\uc11c\ubd80 \uc8fc"
@@ -136,6 +143,9 @@
     ],
     "name:msa_x_preferred":[
         "Western Province"
+    ],
+    "name:nan_x_preferred":[
+        "Sai-p\u014d\u0358 S\u00e9ng"
     ],
     "name:nld_x_preferred":[
         "Ouest"
@@ -170,6 +180,9 @@
     "name:tam_x_preferred":[
         "\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1  \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
     ],
+    "name:tam_x_variant":[
+        "\u0bae\u0bc7\u0bb1\u0bcd\u0b95\u0bc1 \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd"
+    ],
     "name:tel_x_preferred":[
         "\u0c2a\u0c36\u0c4d\u0c1a\u0c3f\u0c2e \u0c2a\u0c4d\u0c30\u0c3e\u0c35\u0c3f\u0c28\u0c4d\u0c38\u0c4d"
     ],
@@ -197,6 +210,9 @@
     "name:vie_x_variant":[
         "T\u1ec9nh Ph\u00eda T\u00e2y"
     ],
+    "name:wuu_x_preferred":[
+        "\u897f\u90e8\u7701"
+    ],
     "name:zho_cn_x_preferred":[
         "\u897f\u90e8"
     ],
@@ -205,6 +221,9 @@
     ],
     "name:zho_x_preferred":[
         "\u897f\u90e8\u7701"
+    ],
+    "name:zul_x_preferred":[
+        "Western Province"
     ],
     "ne:abbrev":"West",
     "ne:adm0_a3":"RWA",
@@ -331,7 +350,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1636496672,
+    "wof:lastmodified":1690860236,
     "wof:name":"Western",
     "wof:parent_id":85632303,
     "wof:placetype":"region",

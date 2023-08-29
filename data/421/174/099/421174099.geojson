@@ -20,6 +20,12 @@
     "name:ara_x_preferred":[
         "\u0645\u0648\u0632\u0627\u0646\u0632\u064a"
     ],
+    "name:arz_x_preferred":[
+        "\u0645\u0648\u0632\u0627\u0646\u0632\u0649"
+    ],
+    "name:ast_x_preferred":[
+        "Ruhengeri"
+    ],
     "name:ben_x_preferred":[
         "\u09b0\u09c1\u09b9\u09c7\u0999\u09cd\u0997\u09c7\u09b0\u09bf"
     ],
@@ -69,6 +75,9 @@
         "Musanze"
     ],
     "name:hun_x_preferred":[
+        "Ruhengeri"
+    ],
+    "name:ido_x_preferred":[
         "Ruhengeri"
     ],
     "name:ind_x_preferred":[
@@ -122,6 +131,9 @@
     "name:spa_x_preferred":[
         "Ruhengeri"
     ],
+    "name:swa_x_preferred":[
+        "Ruhengeri"
+    ],
     "name:swe_x_preferred":[
         "Ruhengeri"
     ],
@@ -148,6 +160,9 @@
     ],
     "name:zho_x_preferred":[
         "\u9b6f\u4ea8\u84cb\u91cc"
+    ],
+    "name:zul_x_preferred":[
+        "Ruhengeri"
     ],
     "qs:gn_country":"RW",
     "qs:gn_fcode":"PPL",
@@ -206,7 +221,7 @@
         }
     ],
     "wof:id":421174099,
-    "wof:lastmodified":1636496689,
+    "wof:lastmodified":1690860247,
     "wof:name":"Ruhengeri",
     "wof:parent_id":421187899,
     "wof:placetype":"locality",

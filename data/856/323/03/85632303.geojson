@@ -1087,7 +1087,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"250",
     "statoids:ds":"RWA",
     "statoids:fifa":"RWA",
@@ -1165,7 +1165,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1694492064,
+    "wof:lastmodified":1694639518,
     "wof:name":"Rwanda",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

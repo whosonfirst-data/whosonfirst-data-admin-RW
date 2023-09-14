@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.056001,
-    "geom:area_square_m":25406780703.490582,
+    "geom:area_square_m":25406780703.48904,
     "geom:bbox":"28.861754,-2.83984,30.899118,-1.047572",
     "geom:latitude":-2.000401,
     "geom:longitude":29.925336,
@@ -14,6 +14,9 @@
     "iso:country":"RW",
     "itu:country_code":[
         "250"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "RW"
@@ -1083,7 +1086,8 @@
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"250",
     "statoids:ds":"RWA",
     "statoids:fifa":"RWA",
@@ -1143,7 +1147,7 @@
         "meso",
         "naturalearth"
     ],
-    "wof:geomhash":"075dc196555b214d21d4a4f61a5db314",
+    "wof:geomhash":"b9bd25713f56e67bd7c384890c5016a6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -1161,12 +1165,12 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690860234,
+    "wof:lastmodified":1694639518,
     "wof:name":"Rwanda",
     "wof:parent_id":102191573,
     "wof:placetype":"country",
-    "wof:population":11776522,
-    "wof:population_rank":14,
+    "wof:population":12626950,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-rw",
     "wof:shortcode":"RW",
     "wof:superseded_by":[],

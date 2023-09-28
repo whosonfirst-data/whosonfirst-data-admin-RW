@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.396038,
-    "geom:area_square_m":4893680007.351414,
+    "geom:area_square_m":4893679917.1371,
     "geom:bbox":"28.861731,-2.744671,29.675174,-1.506018",
     "geom:latitude":-2.111863,
     "geom:longitude":29.332142,
@@ -322,16 +322,18 @@
         "gn:id":6413340,
         "gp:id":55864753,
         "hasc:id":"RW.OU",
+        "iso:code":"RW-04",
         "iso:id":"RW-04",
         "qs_pg:id":224254,
         "wd:id":"Q737354",
         "wk:page":"Western Province, Rwanda"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"RW",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"14c45e65fc95348818941afa53804957",
+    "wof:geomhash":"125691213ce63354be0108bfdbecd4b9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -350,7 +352,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690860236,
+    "wof:lastmodified":1695884844,
     "wof:name":"Western",
     "wof:parent_id":85632303,
     "wof:placetype":"region",

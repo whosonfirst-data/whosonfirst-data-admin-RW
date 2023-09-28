@@ -1126,6 +1126,7 @@
         "hasc:id":"RW",
         "icao:code":"9XR",
         "ioc:id":"RWA",
+        "iso:code":"RW",
         "itu:id":"RRW",
         "loc:id":"n81025976",
         "m49:code":"646",
@@ -1140,6 +1141,7 @@
         "wk:page":"Rwanda",
         "wmo:id":"RW"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"RW",
     "wof:country_alpha3":"RWA",
     "wof:geom_alt":[
@@ -1165,7 +1167,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1694639518,
+    "wof:lastmodified":1695881174,
     "wof:name":"Rwanda",
     "wof:parent_id":102191573,
     "wof:placetype":"country",

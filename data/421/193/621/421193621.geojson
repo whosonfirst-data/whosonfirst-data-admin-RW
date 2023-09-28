@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.155871,
-    "geom:area_square_m":1926842214.902205,
+    "geom:area_square_m":1926842359.301935,
     "geom:bbox":"30.069891,-1.547976,30.741098,-1.047167",
     "geom:latitude":-1.338249,
     "geom:longitude":30.379925,
@@ -140,12 +140,13 @@
         "qs_pg:id":12178,
         "wd:id":"Q3562393"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"RW",
     "wof:created":1459009777,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"18a5c68740423c12e3aa52ec277a83d8",
+    "wof:geomhash":"48c141cda74fe875e39550509007932d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -155,7 +156,7 @@
         }
     ],
     "wof:id":421193621,
-    "wof:lastmodified":1690860244,
+    "wof:lastmodified":1695886703,
     "wof:name":"Nyagatare",
     "wof:parent_id":85676795,
     "wof:placetype":"county",

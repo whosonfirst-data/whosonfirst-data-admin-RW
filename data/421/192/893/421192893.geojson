@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.088713,
-    "geom:area_square_m":1095977181.198656,
+    "geom:area_square_m":1095977105.936804,
     "geom:bbox":"29.264653,-2.600329,29.666093,-2.199791",
     "geom:latitude":-2.411356,
     "geom:longitude":29.469879,
@@ -131,12 +131,13 @@
         "wd:id":"Q2632783",
         "wk:page":"Nyamagabe District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"RW",
     "wof:created":1459009752,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d5f4cb23a94e5e330c2ace460f9b4c3e",
+    "wof:geomhash":"1ef8c24ac7bc218c0e0751d29bbd5c52",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -146,7 +147,7 @@
         }
     ],
     "wof:id":421192893,
-    "wof:lastmodified":1690860242,
+    "wof:lastmodified":1695886701,
     "wof:name":"Nyamagabe",
     "wof:parent_id":85676785,
     "wof:placetype":"county",

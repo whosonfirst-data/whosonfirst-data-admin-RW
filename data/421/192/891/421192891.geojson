@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.077148,
-    "geom:area_square_m":953126639.043588,
+    "geom:area_square_m":953126429.239519,
     "geom:bbox":"28.964883,-2.569074,29.343969,-2.150156",
     "geom:latitude":-2.373509,
     "geom:longitude":29.16623,
@@ -131,12 +131,13 @@
         "wd:id":"Q2005905",
         "wk:page":"Nyamasheke District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"RW",
     "wof:created":1459009752,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"e8f6a0eefcb5356bc5adf40c57c89bce",
+    "wof:geomhash":"57027f73290e939576705a6c5582a5b2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -146,7 +147,7 @@
         }
     ],
     "wof:id":421192891,
-    "wof:lastmodified":1690860243,
+    "wof:lastmodified":1695886701,
     "wof:name":"Nyamasheke",
     "wof:parent_id":85676791,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.064122,
-    "geom:area_square_m":792316799.369581,
+    "geom:area_square_m":792316904.396295,
     "geom:bbox":"29.248994,-2.324429,29.624545,-2.023818",
     "geom:latitude":-2.156707,
     "geom:longitude":29.431321,
@@ -146,12 +146,13 @@
         "wd:id":"Q429825",
         "wk:page":"Karongi District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"RW",
     "wof:created":1459009321,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8cacf7bbe024f8b5784cece28b0f5119",
+    "wof:geomhash":"45a6b0780fdaf2f1318fbbcba1906b68",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -161,7 +162,7 @@
         }
     ],
     "wof:id":421182175,
-    "wof:lastmodified":1690860251,
+    "wof:lastmodified":1695886710,
     "wof:name":"Karongi",
     "wof:parent_id":85676791,
     "wof:placetype":"county",

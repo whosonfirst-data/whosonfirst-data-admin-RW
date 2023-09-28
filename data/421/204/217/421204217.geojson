@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.157031,
-    "geom:area_square_m":1940704915.52686,
+    "geom:area_square_m":1940703876.730184,
     "geom:bbox":"30.419767,-2.124998,30.839394,-1.599708",
     "geom:latitude":-1.845126,
     "geom:longitude":30.641979,
@@ -125,12 +125,13 @@
         "wd:id":"Q426211",
         "wk:page":"Kayonza District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"RW",
     "wof:created":1459010177,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"2c8d64cae7f1704efa6d880f71ba3488",
+    "wof:geomhash":"7555539efef2182655742a2f522c3fab",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -140,7 +141,7 @@
         }
     ],
     "wof:id":421204217,
-    "wof:lastmodified":1690860245,
+    "wof:lastmodified":1695886704,
     "wof:name":"Kayonza",
     "wof:parent_id":85676795,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.067341,
-    "geom:area_square_m":832348952.363895,
+    "geom:area_square_m":832348821.307718,
     "geom:bbox":"29.943952,-1.846311,30.275624,-1.3917",
     "geom:latitude":-1.621577,
     "geom:longitude":30.113871,
@@ -134,12 +134,13 @@
         "wd:id":"Q2424750",
         "wk:page":"Gicumbi District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"RW",
     "wof:created":1459009059,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"b0b8ecb8f4712ea0b8a0361a5bed9f3e",
+    "wof:geomhash":"68bca6a64cb7f0d52dfedae15b14a471",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -149,7 +150,7 @@
         }
     ],
     "wof:id":421175213,
-    "wof:lastmodified":1690860249,
+    "wof:lastmodified":1695886707,
     "wof:name":"Gicumbi",
     "wof:parent_id":85676799,
     "wof:placetype":"county",

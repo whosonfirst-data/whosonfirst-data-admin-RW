@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.042862,
-    "geom:area_square_m":529818704.119798,
+    "geom:area_square_m":529818586.336279,
     "geom:bbox":"29.450002,-1.598849,29.765273,-1.385807",
     "geom:latitude":-1.498535,
     "geom:longitude":29.606597,
@@ -134,12 +134,13 @@
         "wd:id":"Q2360921",
         "wk:page":"Musanze District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"RW",
     "wof:created":1459009527,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fef7d3c5768ca8fcfe8f0d7843513b55",
+    "wof:geomhash":"af4652f36b202f40194e6a1f5041d797",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -149,7 +150,7 @@
         }
     ],
     "wof:id":421187897,
-    "wof:lastmodified":1690860248,
+    "wof:lastmodified":1695886709,
     "wof:name":"Musanze",
     "wof:parent_id":85676799,
     "wof:placetype":"county",

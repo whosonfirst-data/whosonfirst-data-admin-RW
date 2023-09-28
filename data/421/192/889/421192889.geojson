@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.057213,
-    "geom:area_square_m":707135838.539974,
+    "geom:area_square_m":707135692.034398,
     "geom:bbox":"29.632457,-1.873297,29.932653,-1.549664",
     "geom:latitude":-1.698531,
     "geom:longitude":29.784237,
@@ -134,12 +134,13 @@
         "wd:id":"Q781985",
         "wk:page":"Gakenke District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"RW",
     "wof:created":1459009752,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"14657a33fa0b90bd2ed2d35a034df010",
+    "wof:geomhash":"5faa2f5d8ed3275bab51263d45bd24d4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -149,7 +150,7 @@
         }
     ],
     "wof:id":421192889,
-    "wof:lastmodified":1690860242,
+    "wof:lastmodified":1695886700,
     "wof:name":"Gakenke",
     "wof:parent_id":85676799,
     "wof:placetype":"county",

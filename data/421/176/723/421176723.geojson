@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.074761,
-    "geom:area_square_m":923507906.428605,
+    "geom:area_square_m":923507716.217188,
     "geom:bbox":"28.861731,-2.744671,29.367931,-2.373714",
     "geom:latitude":-2.565372,
     "geom:longitude":29.087431,
@@ -164,12 +164,13 @@
         "wd:id":"Q781590",
         "wk:page":"Rusizi District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"RW",
     "wof:created":1459009117,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"8b7a24f44b5b19f66159425948aa5138",
+    "wof:geomhash":"fae98deb246f54b9c7f4803ab5588228",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -179,7 +180,7 @@
         }
     ],
     "wof:id":421176723,
-    "wof:lastmodified":1690860252,
+    "wof:lastmodified":1695886727,
     "wof:name":"Rusizi",
     "wof:parent_id":85676791,
     "wof:placetype":"county",

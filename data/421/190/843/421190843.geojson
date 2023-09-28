@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053637,
-    "geom:area_square_m":662824780.943638,
+    "geom:area_square_m":662825045.688584,
     "geom:bbox":"29.784052,-2.202538,30.02081,-1.852911",
     "geom:latitude":-2.009446,
     "geom:longitude":29.902403,
@@ -134,12 +134,13 @@
         "wd:id":"Q2424592",
         "wk:page":"Kamonyi District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"RW",
     "wof:created":1459009670,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"14b332a8f5f8c89e1e3933236f1a18ad",
+    "wof:geomhash":"a9f9efe051c6a77303892ec0155a7c60",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -149,7 +150,7 @@
         }
     ],
     "wof:id":421190843,
-    "wof:lastmodified":1690860250,
+    "wof:lastmodified":1695886710,
     "wof:name":"Kamonyi",
     "wof:parent_id":85676785,
     "wof:placetype":"county",

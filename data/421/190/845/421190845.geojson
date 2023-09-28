@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.053796,
-    "geom:area_square_m":664832550.46698,
+    "geom:area_square_m":664832573.486627,
     "geom:bbox":"29.143275,-2.070191,29.565621,-1.729317",
     "geom:latitude":-1.903725,
     "geom:longitude":29.399042,
@@ -137,12 +137,13 @@
         "wd:id":"Q2724023",
         "wk:page":"Rutsiro District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"RW",
     "wof:created":1459009671,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"48ccdf4da89c001fc642325acd197a4f",
+    "wof:geomhash":"b7723167cd50eefc8333360b2e9875b9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -152,7 +153,7 @@
         }
     ],
     "wof:id":421190845,
-    "wof:lastmodified":1690860249,
+    "wof:lastmodified":1695886709,
     "wof:name":"Rutsiro",
     "wof:parent_id":85676791,
     "wof:placetype":"county",

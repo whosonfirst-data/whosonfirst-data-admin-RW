@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.043706,
-    "geom:area_square_m":540212607.35354,
+    "geom:area_square_m":540212733.045828,
     "geom:bbox":"29.380761,-1.776997,29.640003,-1.506018",
     "geom:latitude":-1.647392,
     "geom:longitude":29.510515,
@@ -140,12 +140,13 @@
         "wd:id":"Q2424699",
         "wk:page":"Nyabihu District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"RW",
     "wof:created":1459008809,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"fbd5c2b912031a51e2039df77153578d",
+    "wof:geomhash":"55792410db31afa37b59a86478a74862",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -155,7 +156,7 @@
         }
     ],
     "wof:id":421169419,
-    "wof:lastmodified":1690860244,
+    "wof:lastmodified":1695886703,
     "wof:name":"Nyabihu",
     "wof:parent_id":85676791,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.034892,
-    "geom:area_square_m":431210987.032227,
+    "geom:area_square_m":431210983.58532,
     "geom:bbox":"29.989085,-1.987697,30.27715,-1.779561",
     "geom:latitude":-1.891447,
     "geom:longitude":30.142212,
@@ -131,12 +131,13 @@
         "wd:id":"Q2424659",
         "wk:page":"Gasabo District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"RW",
     "wof:created":1459010114,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"293acdb6c13036a964750914768108b0",
+    "wof:geomhash":"446145b30d9a1d8eff5f8e9d029351de",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -146,7 +147,7 @@
         }
     ],
     "wof:id":421202327,
-    "wof:lastmodified":1690860247,
+    "wof:lastmodified":1695886705,
     "wof:name":"Gasabo",
     "wof:parent_id":85676807,
     "wof:placetype":"county",

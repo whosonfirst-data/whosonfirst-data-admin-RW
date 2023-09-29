@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054629,
-    "geom:area_square_m":674941644.52443,
+    "geom:area_square_m":674941740.008857,
     "geom:bbox":"29.581655,-2.455769,29.984798,-2.231623",
     "geom:latitude":-2.335861,
     "geom:longitude":29.793463,
@@ -134,12 +134,13 @@
         "hasc:id":"RW.SU.NZ",
         "qs_pg:id":56218
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"RW",
     "wof:created":1459009670,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"7d26d85150ad09ecacedcb4225ce12cf",
+    "wof:geomhash":"4fe8fe547c6bcab0d47dff51b868b9f6",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -149,7 +150,7 @@
         }
     ],
     "wof:id":421190841,
-    "wof:lastmodified":1636496689,
+    "wof:lastmodified":1695886728,
     "wof:name":"Nyanza",
     "wof:parent_id":85676785,
     "wof:placetype":"county",

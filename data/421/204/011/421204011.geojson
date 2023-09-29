@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.010768,
-    "geom:area_square_m":133064663.748635,
+    "geom:area_square_m":133064625.172082,
     "geom:bbox":"29.977519,-2.075769,30.086842,-1.866774",
     "geom:latitude":-1.992005,
     "geom:longitude":30.028865,
@@ -128,12 +128,13 @@
         "wd:id":"Q2424641",
         "wk:page":"Nyarugenge District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"RW",
     "wof:created":1459010171,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9a5eec47360492785534c99f5447f1b6",
+    "wof:geomhash":"6b78a3fc90bd9d009d61f08d81a2f9ef",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -143,7 +144,7 @@
         }
     ],
     "wof:id":421204011,
-    "wof:lastmodified":1690860246,
+    "wof:lastmodified":1695886706,
     "wof:name":"Nyarugenge",
     "wof:parent_id":85676807,
     "wof:placetype":"county",

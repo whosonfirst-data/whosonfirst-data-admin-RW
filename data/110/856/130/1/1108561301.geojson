@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055309,
-    "geom:area_square_m":683194552.609216,
+    "geom:area_square_m":683194669.253561,
     "geom:bbox":"29.697939,-2.820076,29.970904,-2.396862",
     "geom:latitude":-2.618112,
     "geom:longitude":29.843603,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"RW.SU.GG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"RW",
     "wof:created":1473983382,
-    "wof:geomhash":"8bb39396a1af8a95cbdfe0af94c60925",
+    "wof:geomhash":"14e3f2c07bbedaae85d28bf3d44ad06b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108561301,
-    "wof:lastmodified":1642551742,
+    "wof:lastmodified":1695886505,
     "wof:name":"Gisagara",
     "wof:parent_id":85676785,
     "wof:placetype":"county",

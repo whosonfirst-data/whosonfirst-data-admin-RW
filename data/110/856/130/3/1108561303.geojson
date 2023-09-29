@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.082237,
-    "geom:area_square_m":1015754949.088753,
+    "geom:area_square_m":1015754861.234706,
     "geom:bbox":"29.327891,-2.84023,29.746892,-2.532449",
     "geom:latitude":-2.694844,
     "geom:longitude":29.516876,
@@ -65,9 +65,10 @@
     "wof:concordances":{
         "hasc:id":"RW.SU.NU"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"RW",
     "wof:created":1473983385,
-    "wof:geomhash":"337602c48483e42dd19a559d0becd67d",
+    "wof:geomhash":"bff5b015926163a22ff1fce51b6ea09f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,7 +78,7 @@
         }
     ],
     "wof:id":1108561303,
-    "wof:lastmodified":1627522740,
+    "wof:lastmodified":1695886444,
     "wof:name":"Nyaruguru",
     "wof:parent_id":85676785,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050887,
-    "geom:area_square_m":628769005.774396,
+    "geom:area_square_m":628769005.774445,
     "geom:bbox":"29.56130456,-2.28645675412,29.9906773749,-2.10052559803",
     "geom:latitude":-2.193598,
     "geom:longitude":29.771761,
@@ -89,9 +89,10 @@
     "wof:concordances":{
         "hasc:id":"RW.SU.RH"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"RW",
     "wof:created":1473983378,
-    "wof:geomhash":"125d5fd9c9918b30c588d4e0b6c00369",
+    "wof:geomhash":"62b70e9340ccf2f90398080b9d8e14b9",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -101,7 +102,7 @@
         }
     ],
     "wof:id":1108561299,
-    "wof:lastmodified":1566637562,
+    "wof:lastmodified":1695886293,
     "wof:name":"Ruhango",
     "wof:parent_id":85676785,
     "wof:placetype":"county",

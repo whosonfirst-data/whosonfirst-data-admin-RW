@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.485225,
-    "geom:area_square_m":5994714289.424584,
+    "geom:area_square_m":5994714569.107028,
     "geom:bbox":"29.264653,-2.84023,30.02081,-1.731178",
     "geom:latitude":-2.368792,
     "geom:longitude":29.687,
@@ -324,17 +324,19 @@
         "gn:id":6413341,
         "gp:id":55864752,
         "hasc:id":"RW.SU",
+        "iso:code":"RW-05",
         "iso:id":"RW-05",
         "qs_pg:id":1104171,
         "unlc:id":"RW-05",
         "wd:id":"Q853162",
         "wk:page":"Southern Province, Rwanda"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"RW",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"120cde80371c391c88add9ce70649338",
+    "wof:geomhash":"4ceb5490414aee09a2e79e6035e28066",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -353,7 +355,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690860238,
+    "wof:lastmodified":1695884845,
     "wof:name":"Southern",
     "wof:parent_id":85632303,
     "wof:placetype":"region",

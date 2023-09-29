@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.04611,
-    "geom:area_square_m":569896203.540516,
+    "geom:area_square_m":569896182.661273,
     "geom:bbox":"29.864267,-1.913378,30.133111,-1.589634",
     "geom:latitude":-1.739284,
     "geom:longitude":29.987227,
@@ -131,12 +131,13 @@
         "wd:id":"Q2424625",
         "wk:page":"Rulindo District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"RW",
     "wof:created":1459010144,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c66a3a96b88066735f15e26cbf4dab21",
+    "wof:geomhash":"8c400d15d1b2a17141c1016722222d78",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -146,7 +147,7 @@
         }
     ],
     "wof:id":421203217,
-    "wof:lastmodified":1690860246,
+    "wof:lastmodified":1695886705,
     "wof:name":"Rulindo",
     "wof:parent_id":85676799,
     "wof:placetype":"county",

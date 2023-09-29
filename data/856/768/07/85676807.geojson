@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059237,
-    "geom:area_square_m":732053465.77128,
+    "geom:area_square_m":732053492.954649,
     "geom:bbox":"29.977519,-2.079803,30.27715,-1.779561",
     "geom:latitude":-1.936638,
     "geom:longitude":30.121955,
@@ -207,15 +207,17 @@
         "gn:id":6413338,
         "gp:id":55864750,
         "hasc:id":"RW.KV",
+        "iso:code":"RW-01",
         "iso:id":"RW-01",
         "qs_pg:id":900825,
         "wd:id":"Q167196"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"RW",
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"c2b4cd2a74e9820c1390c75e737bc851",
+    "wof:geomhash":"7ac91b3c9121e0452b658da558fcb92c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -234,7 +236,7 @@
         "fra",
         "eng"
     ],
-    "wof:lastmodified":1690860238,
+    "wof:lastmodified":1695884356,
     "wof:name":"Kigali City",
     "wof:parent_id":85632303,
     "wof:placetype":"region",

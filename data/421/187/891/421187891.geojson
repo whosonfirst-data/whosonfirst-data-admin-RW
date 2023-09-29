@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.055336,
-    "geom:area_square_m":683833555.207626,
+    "geom:area_square_m":683833502.448881,
     "geom:bbox":"30.220593,-2.13352,30.488901,-1.823647",
     "geom:latitude":-1.975497,
     "geom:longitude":30.354736,
@@ -135,12 +135,13 @@
         "wd:id":"Q921255",
         "wk:page":"Rwamagana District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"RW",
     "wof:created":1459009527,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"24a5ee28dec83b5517b8c28cf553d46f",
+    "wof:geomhash":"3f525dd30265e80f882f9af465e9d9d4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -150,7 +151,7 @@
         }
     ],
     "wof:id":421187891,
-    "wof:lastmodified":1690860248,
+    "wof:lastmodified":1695886707,
     "wof:name":"Rwamagana",
     "wof:parent_id":85676795,
     "wof:placetype":"county",

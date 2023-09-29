@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.096643,
-    "geom:area_square_m":1194099193.686715,
+    "geom:area_square_m":1194099485.799,
     "geom:bbox":"30.457762,-2.420319,30.899747,-1.971525",
     "geom:latitude":-2.234396,
     "geom:longitude":30.710345,
@@ -131,12 +131,13 @@
         "wd:id":"Q596210",
         "wk:page":"Kirehe District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"RW",
     "wof:created":1459009076,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"42c81ced64b38c3ecd4625f86733e821",
+    "wof:geomhash":"442665128c48d8cfdd9ba6ca25f5f1f3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -146,7 +147,7 @@
         }
     ],
     "wof:id":421175701,
-    "wof:lastmodified":1690860249,
+    "wof:lastmodified":1695886708,
     "wof:name":"Kirehe",
     "wof:parent_id":85676795,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.052561,
-    "geom:area_square_m":649549782.120979,
+    "geom:area_square_m":649549807.523745,
     "geom:bbox":"29.612422,-2.146022,29.817453,-1.731178",
     "geom:latitude":-1.954891,
     "geom:longitude":29.722725,
@@ -131,12 +131,13 @@
         "wd:id":"Q2632789",
         "wk:page":"Muhanga District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"RW",
     "wof:created":1459009752,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"999ffe0bad9315fa168b6d2b6c9f6986",
+    "wof:geomhash":"0219e07789ae61caacd4fe50ebdcc555",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -146,7 +147,7 @@
         }
     ],
     "wof:id":421192887,
-    "wof:lastmodified":1690860242,
+    "wof:lastmodified":1695886701,
     "wof:name":"Muhanga",
     "wof:parent_id":85676785,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.105157,
-    "geom:area_square_m":1299289376.539844,
+    "geom:area_square_m":1299289104.744192,
     "geom:bbox":"29.959209,-2.438184,30.374481,-2.028219",
     "geom:latitude":-2.239766,
     "geom:longitude":30.150166,
@@ -131,12 +131,13 @@
         "wd:id":"Q2724056",
         "wk:page":"Bugesera District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"RW",
     "wof:created":1459009997,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"9b379c0e1a0abf6fae9bc353430e76c1",
+    "wof:geomhash":"b63d21ec7091f3ecda863214b51052b4",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -146,7 +147,7 @@
         }
     ],
     "wof:id":421199681,
-    "wof:lastmodified":1690860250,
+    "wof:lastmodified":1695886711,
     "wof:name":"Bugesera",
     "wof:parent_id":85676795,
     "wof:placetype":"county",

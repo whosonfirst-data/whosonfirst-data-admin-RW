@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.027518,
-    "geom:area_square_m":340125888.712597,
+    "geom:area_square_m":340126039.472078,
     "geom:bbox":"29.242867,-1.772667,29.437181,-1.507892",
     "geom:latitude":-1.653969,
     "geom:longitude":29.342693,
@@ -143,12 +143,13 @@
         "wd:id":"Q2424738",
         "wk:page":"Rubavu District"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"RW",
     "wof:created":1459009527,
     "wof:geom_alt":[
         "quattroshapes"
     ],
-    "wof:geomhash":"d9754e3027292ef5d31cc11dd13c36b0",
+    "wof:geomhash":"233b28df0a827a9f5fd3d0735d470038",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -158,7 +159,7 @@
         }
     ],
     "wof:id":421187899,
-    "wof:lastmodified":1690860248,
+    "wof:lastmodified":1695886707,
     "wof:name":"Rubavu",
     "wof:parent_id":85676791,
     "wof:placetype":"county",

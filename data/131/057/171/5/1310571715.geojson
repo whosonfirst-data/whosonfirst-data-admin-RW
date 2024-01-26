@@ -47,6 +47,11 @@
     "wof:concordances":{
         "gn:id":202966
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7107043
+        ]
+    },
     "wof:country":"RW",
     "wof:geomhash":"4b37ace2df4ef1cc45cc8b0acb9edb17",
     "wof:hierarchy":[
@@ -59,13 +64,15 @@
         }
     ],
     "wof:id":1310571715,
-    "wof:lastmodified":1566637638,
+    "wof:lastmodified":1706240656,
     "wof:name":"Gatete",
     "wof:parent_id":1108561301,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-rw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326603165
+    ],
     "wof:tags":[]
 },
   "bbox": [

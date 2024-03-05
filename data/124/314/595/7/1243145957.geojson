@@ -43,6 +43,11 @@
     "wof:concordances":{
         "gn:id":6998085
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6998244
+        ]
+    },
     "wof:country":"RW",
     "wof:geomhash":"9816a1956dbb09b3f1c6f1100597db24",
     "wof:hierarchy":[
@@ -55,13 +60,15 @@
         }
     ],
     "wof:id":1243145957,
-    "wof:lastmodified":1566637832,
+    "wof:lastmodified":1706240656,
     "wof:name":"Syiki",
     "wof:parent_id":421190845,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-rw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293171891
+    ],
     "wof:tags":[]
 },
   "bbox": [

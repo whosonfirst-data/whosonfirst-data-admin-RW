@@ -9,9 +9,24 @@
     "geom:bbox":"29.63497,-1.49984,29.63497,-1.49984",
     "geom:latitude":-1.49984,
     "geom:longitude":29.63497,
+    "gn:admin1_code":"13",
+    "gn:admin2_code":"43.0",
+    "gn:admin3_code":"4302.0",
+    "gn:admin4_code":"430206.0",
+    "gn:asciiname":"Musanze",
     "gn:country":"RW",
+    "gn:country_code":"RW",
+    "gn:dem":1852,
     "gn:fcode":"PPL",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7319869,
+    "gn:latitude":-1.49998,
+    "gn:longitude":29.6333,
+    "gn:modification_date":"2016-07-06",
+    "gn:name":"Musanze",
     "gn:population":86685,
+    "gn:timezone":"Africa/Kigali",
     "iso:country":"RW",
     "lbl:bbox":"29.61497,-1.51984,29.65497,-1.47984",
     "lbl:max_zoom":14.0,
@@ -269,6 +284,11 @@
         "wd:id":"Q246145",
         "wk:page":"Musanze District"
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7319869
+        ]
+    },
     "wof:country":"RW",
     "wof:created":1469051880,
     "wof:geomhash":"8a0ea8d51358fba4963d498891b79668",
@@ -282,7 +302,7 @@
         }
     ],
     "wof:id":890431159,
-    "wof:lastmodified":1690860253,
+    "wof:lastmodified":1706240656,
     "wof:name":"Musanze",
     "wof:parent_id":421187897,
     "wof:placetype":"locality",
@@ -290,7 +310,9 @@
     "wof:population_rank":8,
     "wof:repo":"whosonfirst-data-admin-rw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293077531
+    ],
     "wof:tags":[]
 },
   "bbox": [
